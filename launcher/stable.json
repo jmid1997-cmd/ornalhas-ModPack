@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.4",
+  "notes": [
+    "Atualizações do modpack e do launcher com controlos separados."
+  ],
+  "installer": {
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.4/Fornanhas-Launcher-Setup-1.0.4.exe",
+    "sha256": "c98e48565e10ce790d1c548fd8fb824167fd344c6ae2ea43352c78df347282d3",
+    "size": 125910247
+  }
+}
