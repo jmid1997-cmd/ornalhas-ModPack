@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "notes": [
-    "Novo visual gaming escuro, com portal roxo e azul criado para o Fornanhas Launcher.",
-    "Início reorganizado, botão JOGAR em destaque e atualizações do modpack e do launcher em separado.",
-    "Novos ícones e estilo consistente na biblioteca, skins, atualizações e definições.",
-    "O modpack1.9.15, os mundos, as teclas e a progressão mantêm-se."
+    "Secção Skins retirada do launcher.",
+    "Publicação de modpacks reservada à conta GitHub do responsável, com nova verificação em cada ação.",
+    "Amigos recebem as atualizações sem opções de administração.",
+    "Perfis, mods e preferências pessoais preservados."
   ],
   "installer": {
-    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.6/Fornanhas-Launcher-Setup-1.0.6.exe",
-    "sha256": "d9393422f52d425d43b9c00c67854aa6d9cf38f3e6a342dfcd782023364a1b4d",
-    "size": 127835588
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.7/Fornanhas-Launcher-Setup-1.0.7.exe",
+    "sha256": "e815300714826f361e583407b5d9e380f4a6b90aa3a2c537b9aa062263ffeeed",
+    "size": 126218129
   }
 }
