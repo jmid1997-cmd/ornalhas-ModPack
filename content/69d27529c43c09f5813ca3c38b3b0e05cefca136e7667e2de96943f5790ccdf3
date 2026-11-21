@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elitemobs:berserker_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitemobs:champion_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitemobs:elite_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitemobs:lucifer_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitemobs:rough_dust"
+		}
+	]
+}

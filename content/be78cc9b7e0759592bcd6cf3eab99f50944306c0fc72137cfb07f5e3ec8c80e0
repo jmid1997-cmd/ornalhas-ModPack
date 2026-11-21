@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "naturalist:death_by_hogs"
+		},
+		{
+			"weight": 1.0,
+			"key": "naturalist:wild_ones"
+		}
+	]
+}

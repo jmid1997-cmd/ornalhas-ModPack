@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cursed_garden",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "eternal_starlight:cursed_garden"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_forge",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "eternal_starlight:golem_forge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:portal_ruins_cold",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "eternal_starlight:portal_ruins_cold"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:portal_ruins_common",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "eternal_starlight:portal_ruins_common"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:portal_ruins_desert",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "eternal_starlight:portal_ruins_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:portal_ruins_forest",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "eternal_starlight:portal_ruins_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:portal_ruins_jungle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "eternal_starlight:portal_ruins_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stranghoul_den",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "eternal_starlight:stranghoul_den"
+			}
+		}
+	]
+}

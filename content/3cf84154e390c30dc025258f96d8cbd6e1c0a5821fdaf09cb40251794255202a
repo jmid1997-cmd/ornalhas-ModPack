@@ -1,0 +1,588 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:ancestors_signet"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:archive_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:attuned_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:aurochs_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:black_iron_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:bone_lord_femur"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:bone_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:bulwark_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:cell_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:chained_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:chamber_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:chase_femur"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:citadel_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:citadel_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:citadel_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:court_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:crown_of_the_hollow_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:crown_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:crownbreaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:crypt_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:descent_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:drowned_braid"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:drowned_lady_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:everfrost_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:false_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:fluted_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:forge_overseer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_candelabra"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_candlestick"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_chandelier"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_icicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_vertebra"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frostbound_sentinel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frosted_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frostheart_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frostmaw_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frostmaw_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frostwalker_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frosty_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frosty_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frozen_bowstave"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frozen_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:gale_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:glacial_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:glacial_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:glacier_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_banner_ancestors"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_banner_depths"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_banner_frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_banner_mourning"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_banner_prisons"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_banner_royal"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_banner_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_banner_throne"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:great_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:guard_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:heart_of_the_silent_winter"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:hearth_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:hollow_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:hollow_kings_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:ice_aurochs_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:icebound_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:icicle_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:kingsrime_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:lamplighter_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:lamplighter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:lantern_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:last_watch_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:monstrosity_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:monstrosity_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_disc_silent_winter"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:nest_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:overseer_hammerhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:priestess_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:prison_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rime_priestess_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rimebound_focus"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rimeweaver_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rimeweaver_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rune_court"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rune_crypts"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rune_depths"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rune_prisons"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:rune_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:seal_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_cracked_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_deepslate_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_fluted_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_frosted_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_polished_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_smooth_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sealed_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sentinel_rivet"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:shackle_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:shade_shepherd_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:shade_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:shepherd_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:snowy_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sovereign_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sovereigns_lament"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:sovereigns_signet"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:stillbow_fletching"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:stillbow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:storm_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:stormcrown_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:throne_bane"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:throne_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:turnkey_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:turnkey_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:turnkey_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:unmelting_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:vault_warden_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:velkhar_smith_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:velkhar_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:vigil_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:wand_fitting"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:warden_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:warden_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:wardens_lodestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:warmth_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:winters_horn"
+		}
+	]
+}

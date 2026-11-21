@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:engine_creative"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:engine_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:fragile_fluid_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:gears/gear_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:gears/gear_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:gears/gear_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:gears/gear_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:gears/gear_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:list"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:map_location"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:marker_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:marker_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:marker_volume"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/clean"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:paintbrush/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:spring_oil"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:spring_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:volume_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:wrench"
+		}
+	]
+}

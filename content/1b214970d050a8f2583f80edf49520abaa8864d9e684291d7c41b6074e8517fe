@@ -1,0 +1,10 @@
+#Remove Boss Checklist entries whose entity does not exist in the registry (e.g. outdated default entries).
+hideMissingEntities = true
+#Replace the health and armor shown in the boss info screen with the real values of the modpack (solo).
+replaceStats = true
+#Show the Pack Info bookmark in the boss info screen. The replaced values in the tooltip stay.
+showPackInfoTab = true
+#Replace the drops shown in the boss info screen with the real drops of its loot table (solo, no Looting), with their chance.
+replaceDrops = true
+#Show the tier of a boss (Pack Info tab, stats tooltip, boss list tooltip) if its pack file sets one.
+showTier = true

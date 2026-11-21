@@ -1,0 +1,34 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "contracts:contract_board",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "contracts:tall_contract_board",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "contracts:wide_contract_board",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		}
+	]
+}

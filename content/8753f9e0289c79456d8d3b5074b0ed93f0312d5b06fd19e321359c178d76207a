@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.berserker_rage"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.blink"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.celestial_repulsion_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.celestial_repulsion_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.disarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.dodge"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.fire_nova_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.fire_nova_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.flash_pulse_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.flash_pulse_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.frost_nova_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.frost_nova_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.healing_aura_pulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.judgment_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.legion_call_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.legion_call_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.magnetic_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.magnetic_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.meteor_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.meteor_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.meteor_shower_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.pack_rage_howl"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.reflect_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.seismic_strike_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.shielding_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.soul_anchor_bind"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.soul_burst_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.spectral_arsenal_launch"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.spectral_arsenal_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.tornado_form"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.vampiric_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ability.web_snare"
+		}
+	]
+}

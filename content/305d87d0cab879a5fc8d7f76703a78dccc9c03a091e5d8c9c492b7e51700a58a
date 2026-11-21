@@ -1,0 +1,1008 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom:arachnotron_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:arachnotroneternal_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:arch_maykr_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:archvile_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_bolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_lamp_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:argent_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:armoredbaron_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:astro_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:astro_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:astro_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:astro_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:axe_marauder_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:axe_marauder_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:ballista"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:baron2016_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:baron_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:bfg9000"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:bfg_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:bfg_eternal"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blood_maykr_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:bronze_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:bronze_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:bronze_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:bronze_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:bullets"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cacodemon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:carcass_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chaingun"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chaingunbullets"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chaingunner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chainsaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chainsaw64"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chainsaweternal"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_black_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_black_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_bronze_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_bronze_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_red_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:classic_red_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:crimson_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:crimson_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:crimson_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:crimson_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cruciblesword"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cruciblesword_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cueball_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cultist_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cultist_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cultist_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cultist_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:cyberdemon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:darklord_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:darklord_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:darklord_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:darklord_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:darklordcrucible"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:demoncide_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:demoncide_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:demoncide_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:demoncide_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:demonic_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:demonic_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:demonic_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:demonic_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doom_hunter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doom_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doomed_gauss"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doomed_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doomed_plasma_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doomed_shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doomicorn_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doomicorn_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doomicorn_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:doomicorn_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:dreadknight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block1"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block10"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block11"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block12"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block13"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block14"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block15"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block16"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block17"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block18"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block19"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block2"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block20"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block21"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block22"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block23"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block24"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block25"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block26"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block3"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block4"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block5"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block6"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block7"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block8"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:e1m1_block9"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:ember_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:ember_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:ember_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:ember_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:energy_cells"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:firebronebaron_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gargoyle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gas_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gladiator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gold_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gold_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gold_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gold_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gorenest_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gun_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:heavycannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:hell_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:hellknight2016_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:hellknight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:hotrod_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:hotrod_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:hotrod_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:hotrod_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_of_sin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall1"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall10"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall11"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall12"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall13"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall14"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall15"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall16"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall2"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall3"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall4"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall5"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall6"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall7"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall8"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_wall9"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:imp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:inmortalsphere"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:invisiblesphere"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:jump_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:lost_soul_eternal_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:lost_soul_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:mancubus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:marauder_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:maykr_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:maykr_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:maykr_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:maykr_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:maykr_drone_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:mechazombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:megasphere"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:midnight_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:midnight_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:midnight_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:midnight_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:motherdemon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:nightmare_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:nightmare_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:nightmare_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:nightmare_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:pain_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:painter_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:painter_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:phobos_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:phobos_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:phobos_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:phobos_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:pinky_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:plasmagun"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:possessed_scientist_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:possessed_soldier_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:possessed_worker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:powersphere"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:praetor_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:praetor_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:praetor_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:praetor_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:prowler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:purplepony_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:purplepony_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:purplepony_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:purplepony_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:redneck_doom1_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:redneck_doom1_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:redneck_doom1_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:redneck_doom1_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:redneck_doom2_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:redneck_doom3_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:revenant2016_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:revenant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:rocketlauncher"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:santa_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:sentinel_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:sentinel_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:sentinel_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:sentinel_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:sentinelhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:shotgun_shells"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:shotgunguy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:soulcube"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:spectre_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:spidermastermind2016_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:spidermastermind_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:stoneimp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:summoner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:supershotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:tentacle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:turret_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:twenty_five_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:twenty_five_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:twenty_five_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:twenty_five_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:unmaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:unmaykr"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:unmaykr_bolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:unwilling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:whiplash_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:zombie_doom_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:zombie_doom_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:zombie_doom_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:zombie_doom_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:zombieman_spawn_egg"
+		}
+	]
+}

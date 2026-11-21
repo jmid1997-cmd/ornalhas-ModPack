@@ -1,0 +1,1166 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_gravel_desert_pyramid",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_gravel_dig_site",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_gravel_mining",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_gravel_snifferhenge",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_gravel_surface",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_gravel_train_ruins",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_sand_desert_pyramid",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_sand_dig_site",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:archeology/suspicious_sand_labyrinth",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/abandonedhouse/abandonedhouse",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/abandonedhouse/abandonedhouse_create",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/abandonedhouse/abandonedhouse_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_mines/minesbasic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_mines/minescreate",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_mines/mineshall",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_portal/ancient_portal_nether",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_portal/ancient_portal_overworld",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_statue/ancient_statue_jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_statue/ancient_statue_treasure_desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_statue/ancient_statue_treasure_jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ancient_statue/ancient_statue_treasure_plains",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/apothecary_abode/apothecary_abode",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/apothecary_abode/apothecary_abode_books",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/bazaar/bazaar",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/bazaar/bazaar_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/bazaar/bazaar_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/bearclaw_inn/bearclaw_inn_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/bearclaw_inn/bearclaw_inn_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/beekeepers_house/beekeepers_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/beekeepers_house/beekeepers_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/beekeepers_house/beekeepers_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/botanist/botanist",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/botanist/botanist_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/botanist/botanist_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/brickhouse/brickhouse",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/brickhouse/brickhouse_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/brickhouse/brickhouse_windmill",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/castle/castle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/castle/castle_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/castle/castle_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/castle/castle_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/castle/castle_throne",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/collectors_museum/museum_basic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/collectors_museum/museum_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/collectors_museum/museum_farm",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/collectors_museum/museum_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/collectors_museum/museum_jail",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/collectors_museum/museum_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/collectors_museum/museum_space",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/collectors_museum/museum_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/cottage/cottage",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/desert_pyramid/desert_pyramid",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/desert_pyramid/desert_pyramid_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/desert_pyramid/desert_pyramid_surface",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/desert_pyramid/desert_pyramid_tomb",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/desert_pyramid/desert_pyramid_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/desert_pyramid/desert_pyramid_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/dig_site/dig_site",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/dig_site/dig_site_desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/dig_site/dig_site_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/dig_site/dig_site_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/dread_citadel/dread_citadel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/dread_citadel/dread_citadel_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/dread_citadel/dread_citadel_throne",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/enchantingtower/enchantingtower_basic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/enchantingtower/enchantingtower_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/enchantingtower/enchantingtower_top",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/farmhouse/farmhouse",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/farmhouse/farmhouse_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/farmhouse/farmhouse_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/farmhouse/farmhouse_mill",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/fishermans_lodge/fishermans_lodge",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/fishermans_lodge/fishermans_lodge_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/frozen_crypt/frozen_crypt",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/haunted_manor/haunted_manor",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/haunted_manor/haunted_manor_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/haunted_manor/haunted_manor_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/haunted_manor/haunted_manor_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/haunted_manor/if_haunted_manor",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/hermits_hollow/hollow_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/hermits_hollow/hollow_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/hunters_cabin/hunters_cabin",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/hunters_cabin/hunters_cabin_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/hunters_cabin/hunters_cabin_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/labyrinth/if_labyrinth_tomb",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/labyrinth/labyrinth",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/labyrinth/labyrinth_croc",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/labyrinth/labyrinth_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/labyrinth/labyrinth_tomb",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/labyrinth/labyrinth_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/mason_house/mason_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/mason_house/mason_house_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/mason_house/mason_house_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/necromancers_spire/necromancers_spire",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/nexus/nexus",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pillager_camp/pillager_camp",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pillager_fortress/pillager_basic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pillager_fortress/pillager_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pillager_fortress/pillager_jail",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pillager_fortress/pillager_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pumpkin_cafe/pumpkin_cafe",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pumpkin_cafe/pumpkin_cafe_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pumpkin_cafe/pumpkin_cafe_kitchen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pumpkin_cafe/pumpkin_cafe_storage",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/pumpkin_cafe/pumpkin_cafe_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/redhorn_guild/redhorn_guild",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/redhorn_guild/redhorn_guild_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/redhorn_guild/redhorn_guild_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruined_church/ruined_church",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruined_fort/ruined_fort",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruins_of_the_deep/ruins_basic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruins_of_the_deep/ruins_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruins_of_the_deep/ruins_create",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruins_of_the_deep/ruins_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruins_of_the_deep/ruins_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruins_of_the_deep/ruins_ocean",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruins_of_the_deep/ruins_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/ruins_of_the_deep/ruins_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/sirens_cove/sirens_cove",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/sunken_ship/sunken_ship_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/sunken_ship/sunken_ship_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/the_log/the_log",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/the_log/the_log_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_citadel/tinkers_citadel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_citadel/tinkers_citadel_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_citadel/tinkers_citadel_create",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_citadel/tinkers_citadel_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_citadel/tinkers_citadel_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_citadel/tinkers_citadel_vault",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_workshop/tinkers_workshop",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_workshop/tinkers_workshop_basic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_workshop/tinkers_workshop_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_workshop/tinkers_workshop_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tinkers_workshop/tinkers_workshop_vault",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/train_ruins/train_ruins",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/train_ruins/train_ruins_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/train_ruins/train_ruins_create",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tree_of_wisdom/tree_of_wisdom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/treetop_tavern/treetop_tavern",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/treetop_tavern/treetop_tavern_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/treetop_tavern/treetop_tavern_food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/treetop_tavern/treetop_tavern_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tudor_pub/tudor_pub_barrel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tudor_pub/tudor_pub_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tudor_pub/tudor_pub_kitchen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tudor_pub/tudor_pub_storage",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/tudor_pub/tudor_pub_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_animals",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_create_machines",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_crystals",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_farming",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_fishing",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_furniture",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_gardening",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_kitchen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_mining",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_misc",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_storage",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wacky_wares/wacky_wares_store",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/windswept_shrine/windswept_shrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/winter_wagon/winter_wagon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/winter_wagon/winter_wagon_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/witches_treestump/witches_treestump",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wizardtower/wizardtower_basic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wizardtower/wizardtower_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:chests/wizardtower/wizardtower_top",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

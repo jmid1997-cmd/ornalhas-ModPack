@@ -1,0 +1,14 @@
+{
+  "general": {
+    "enhanced_boss_bars_enabled": true,
+    "horizontal_alignment": "Center",
+    "vertical_direction": "Down",
+    "position_x": 50,
+    "position_y": 23,
+    "scale": 3,
+    "bar_preview": false,
+    "max_boss_bars": 3,
+    "max_boss_bars_preview": false
+  },
+  "boss_bars": {}
+}

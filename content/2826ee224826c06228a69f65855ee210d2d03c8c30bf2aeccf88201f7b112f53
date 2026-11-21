@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yungsextras:desert/chillzone",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "yungsextras:desert/extra_archeology",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "yungsextras:desert/ruins",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

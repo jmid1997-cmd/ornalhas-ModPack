@@ -1,0 +1,827 @@
+{
+	autofocus_id: "3AB88F0EA10D374A"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_horizonte_forjas"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:diamond_sword"
+	}
+	id: "4C99AA26C40F43C5"
+	images: [ ]
+	order_index: 52
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3AB88F0EA10D374A"
+			rewards: [{
+				count: 4
+				id: "29C265C683F69B54"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "big_swords:root/first_big_sword"
+				criterion: ""
+				id: "4E09C84BF7B8768E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "09B15C7699B095EF"
+			rewards: [{
+				count: 4
+				id: "4E7F73F08CA255DF"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "big_swords:root/first_glaive"
+				criterion: ""
+				id: "7A5340CD54ED0D8E"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7EFB2EC016D1DBB0"
+			rewards: [{
+				count: 4
+				id: "3C31064B852A5035"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "big_swords:root/first_scythe"
+				criterion: ""
+				id: "77FC011E5A8EE745"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3645BA927BD11449"
+			rewards: [{
+				count: 4
+				id: "2D5E2D42D6535F44"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "big_swords:root/first_shield"
+				criterion: ""
+				id: "0156CD06B5A2E67D"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3AB88F0EA10D374A"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "74086567D8B34D73"
+			rewards: [{
+				count: 4
+				id: "37E891F18FA27F49"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "big_swords:root/get_netherite_big_sword"
+				criterion: ""
+				id: "17628A151F1331CA"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3645BA927BD11449"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "391691CE32F673E7"
+			rewards: [{
+				count: 4
+				id: "43046605474B2E78"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "big_swords:root/get_netherite_shield"
+				criterion: ""
+				id: "5DA705DC5AA333C8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3AB88F0EA10D374A"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1A5823D1DE39A898"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "4445B2A49D35887D"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "big_swords:root/get_ender_big_sword"
+				criterion: ""
+				id: "0A2F023AE0B186EB"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4E9717EBFB002CD5"
+			rewards: [{
+				count: 4
+				id: "64878AB6FB8AB882"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "690BE65B4D2B2841"
+				item: { count: 1, id: "lunar_swords:metalblade" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E9717EBFB002CD5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "752394475C6D1FA9"
+			rewards: [{
+				count: 4
+				id: "4AA0DB94C9AA5593"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5E9A327D89CDCD19"
+				item: { count: 1, id: "lunar_swords:flame_sword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E9717EBFB002CD5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "016940C8F9C2D8D4"
+			rewards: [{
+				count: 4
+				id: "484D590B18956258"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "7981B328A0BAB43D"
+				item: { count: 1, id: "lunar_swords:ice_sword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 16.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E9717EBFB002CD5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7CF74D244AEDCFA9"
+			rewards: [{
+				count: 4
+				id: "287ADFFF35BE7CCB"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "7B252FF9ADB472AA"
+				item: { count: 1, id: "lunar_swords:heal_sword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E9717EBFB002CD5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "51A8FB5B741C5431"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "231C75623B17E393"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5956C2D472335C2B"
+				item: { count: 1, id: "lunar_swords:carbon_blade" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E9717EBFB002CD5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "06C7FE9F74005491"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "58201A74C423B82F"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "4BEB7129BD1B7B24"
+				item: { count: 1, id: "lunar_swords:lunar_blade" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E9717EBFB002CD5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4C8AA98199689507"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "4B3C8A1ED3E37E4F"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "63C3A35DEF088125"
+				item: { count: 1, id: "lunar_swords:solar_blade" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5A451122A4CAC876"
+			rewards: [{
+				count: 4
+				id: "1FEF7B1AAFC73AAB"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5DFD170DE36BEBDB"
+				item: { count: 1, id: "simplycataclysm:ancient_metal_longsword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 16.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1ACB52D8C4B1DCD1"
+			rewards: [{
+				count: 4
+				id: "2FD66D3D21469A58"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "1B469326F9474483"
+				item: { count: 1, id: "simplycataclysm:black_steel_longsword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "49A0C932A7C270C9"
+			rewards: [{
+				count: 4
+				id: "03EE0A8A48B5F7D7"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "26B1FB22A2FC6F0A"
+				item: { count: 1, id: "simplycataclysm:witherite_longsword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7496822E816AD0B6"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "6F547A146F539593"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "751148ABC63D1868"
+				item: { count: 1, id: "simplycataclysm:cursium_longsword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1A073BE534DFA8C5"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "34D0248D33182EBA"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "3C6E7377A07B093D"
+				item: { count: 1, id: "simplycataclysm:ignitium_longsword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 12.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "507AA2BB94030A70"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "0EF3DADD634C1394"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "4981C98DBC8607F7"
+				item: { count: 1, id: "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/claymore" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 16.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "786BE713D5BAD069"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "738A66CA9250919E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "12E2E4DF7D820085"
+				item: { count: 1, id: "integrated_simply_swords:knavesneeds/twilight_forest/fiery/claymore" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "54BE15CF240CAC39"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "0201B8F163C61C50"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "61B187C2718C3187"
+				item: { count: 1, id: "integrated_simply_swords:knavesneeds/undergarden/cloggrum/claymore" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "18025DE6212C5E71"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "493D352981E707B0"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "49C8628E0C394ED7"
+				item: { count: 1, id: "integrated_simply_swords:knavesneeds/deeperdarker/warden/claymore" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 8.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6E3EDAEC10BA4FEE"
+			rewards: [{
+				count: 4
+				id: "791DBDFC704A71D7"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "16697B40A8948C2A"
+				item: { count: 1, id: "primordial_weaponry:raw_primordium" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6E3EDAEC10BA4FEE"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "39C7500CC10FD2DF"
+			rewards: [{
+				count: 4
+				id: "3BEEF79AB7A5668C"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5DB3F7855F67B8C3"
+				item: { count: 1, id: "primordial_weaponry:primordium_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3D93E5FD10C7086D"
+			rewards: [{
+				count: 4
+				id: "2F9D8F2582274286"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "070536202E0D5E3D"
+				item: { count: 1, id: "primordial_weaponry:nether_star_fragment" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 8.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"39C7500CC10FD2DF"
+				"3D93E5FD10C7086D"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "742A0A8029383B9F"
+			rewards: [{
+				count: 4
+				id: "3AE4E79FB38A2595"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "72B312167DFDAA02"
+				item: { count: 1, id: "primordial_weaponry:leviathan_axe" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 12.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"39C7500CC10FD2DF"
+				"3D93E5FD10C7086D"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "097CC809762A4F74"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "05D466238E979EB5"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "256DF04E19BF5C42"
+				item: { count: 1, id: "primordial_weaponry:hylian_shield" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 16.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"39C7500CC10FD2DF"
+				"3D93E5FD10C7086D"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "34D059F152B165C5"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "213F11E528D28532"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5D68EA16129EA716"
+				item: { count: 1, id: "primordial_weaponry:thanos_sword_double_edged" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:blocks/advanced_crafting_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:blocks/assembly_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:blocks/charging_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:blocks/integration_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:blocks/laser",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:blocks/programming_table",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:acid_sizzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:aiming_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ball_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:blizzard_flake"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:blood_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:comet_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:earth_rubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:electric_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:electric_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ember"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:energy_ribbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:flame_wisp"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:frost_sparkle"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:gravity_pulse"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:gravity_warp"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:ice_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:impact_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:light_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:magma_ember"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:plasma_surge"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:poison_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:sonic_cone"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:spectral_wisp"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:speed_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:spore_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:swirling_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:through_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:water_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:water_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:wind_gust"
+		}
+	]
+}

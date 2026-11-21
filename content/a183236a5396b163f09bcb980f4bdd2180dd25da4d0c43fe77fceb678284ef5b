@@ -1,0 +1,1194 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/amethyst_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/ballista_golem_statue",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/ballista_golem_statue_part",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/book_pile",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/bordered_stone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/chiseled_coiling_stone_pillar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/chorus_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/coal_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/cobblestone_pebbles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/coiling_stone_pillar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/coiling_stone_pillar_capital",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/coiling_stone_pillar_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/coiling_stone_pillar_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/coiling_stone_pillar_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/copper_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/cracked_stone_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/diamond_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dueling_stone_emblem",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_chaos_spawner",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_experience_bottle",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_garhold_upsidedown",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_hollow",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_skull_of_chaos",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_spawner_black",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_spawner_blue",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_spawner_carrier",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_spawner_green",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_spawner_magenta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_spawner_purple",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_banner_whimper_lantern",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/dungeon_wall_torch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/durite_cluster",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/durite_queller",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/echo_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/emerald_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/explosive_barrel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/fairkeeper_chest",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/fierce_fairkeeper_chest",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/glowstone_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/gold_ingot_pile",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/gold_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/iron_ingot_pile",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/iron_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/labyrinth_trophy",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/lapis_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/large_durite_bud",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/medium_durite_bud",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/mending_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/moss",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/mossy_cobblestone_pebbles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/netherite_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/overcharged_redstone_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/player_statue",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/polished_stone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/prismarine_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/puzzling_stone_emblem",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/quartz_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/redstone_idol",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/redstone_lane_i",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/redstone_lane_l",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/redstone_lane_t",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/redstone_stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/rotator_pressure_plate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/scuttle_statue",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/signal_gate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/signaling_stone_emblem",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/small_durite_bud",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/stone_notch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/stone_tile_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/stone_tile_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/stone_tile_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/stone_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/temple_of_duality_trophy",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/wise_fairkeeper_chest",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/wooden_wall_platform",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:blocks/wooden_wall_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/arrows",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/enchantments/gigantism",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/enchantments/overworked",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/enchantments/pack_blessing",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/enchantments/random",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/enchantments/reckless",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/enchantments/sacrifice",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/flame_bow",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/foods",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/horse_gears",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/potion_bow",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/reward",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/rewards/enchantment_books",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/rewards/gears",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/rewards/materials",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/rewards/music_discs",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/rewards/potions",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/suspicious_stew",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/labyrinth/woods",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/armor/easy_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/armor/easy_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/armor/hard_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/armor/hard_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/armor/normal_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/armor/normal_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/arrow/easy_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/arrow/easy_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/arrow/hard_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/arrow/hard_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/arrow/normal_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/arrow/normal_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/book/easy_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/book/easy_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/book/hard_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/book/hard_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/book/normal_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/book/normal_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/equipment/easy_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/equipment/easy_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/equipment/hard_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/equipment/hard_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/equipment/normal_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/equipment/normal_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/fairkeeper_chest/easy_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/fairkeeper_chest/easy_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/fairkeeper_chest/hard_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/fairkeeper_chest/hard_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/fairkeeper_chest/normal_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/fairkeeper_chest/normal_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/food/easy_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/food/easy_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/food/hard_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/food/hard_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/food/normal_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/food/normal_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/garbage/easy_combat",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/garbage/easy_puzzle",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/garbage/hard_combat",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/garbage/hard_puzzle",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/garbage/normal_combat",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/garbage/normal_puzzle",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/material/easy_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/material/easy_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/material/hard_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/material/hard_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/material/normal_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/material/normal_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/potion/easy_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/potion/easy_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/potion/hard_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/potion/hard_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/potion/normal_combat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/potion/normal_puzzle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests/temple_of_duality/wood/common",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:empty",
+			"data": {
+				"Type": "empty"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/ballista_golem",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/chaos_spawner",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/fairkeeper_serpent_caller/boros",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/fairkeeper_serpent_caller/common",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/fairkeeper_serpent_caller/ouros",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/garhold",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/hollow",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/hollow_tipped_arrow_kill",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/modified/diamond_skeleton",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/modified/diamond_zombie",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/modified/iron_skeleton",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/modified/iron_zombie",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/scuttle",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:entities/spawner_carrier",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vanilla/blocks/deepslate_diamond_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vanilla/blocks/diamond_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vanilla/blocks/spawner",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vanilla/chests/jungle_temple",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vanilla/chests/simple_dungeon",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

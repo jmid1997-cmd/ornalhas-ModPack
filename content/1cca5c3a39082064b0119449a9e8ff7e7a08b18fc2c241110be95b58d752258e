@@ -1,0 +1,221 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_dense",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_dense"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_dense_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_dense_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_dense_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_dense_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_gaseous",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_gaseous"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_gaseous_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_gaseous_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_gaseous_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_gaseous_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_light",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_light"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_light_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_light_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_light_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_light_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_heavy",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_mixed_heavy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_heavy_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_mixed_heavy_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_heavy_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_mixed_heavy_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_light",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_mixed_light"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_light_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_mixed_light_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_light_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:fuel_mixed_light_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil",
+			"data": {
+				"fluidName": "buildcraftenergy:oil"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_dense",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_dense"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_dense_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_dense_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_dense_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_dense_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_distilled",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_distilled"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_distilled_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_distilled_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_distilled_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_distilled_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_heavy",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_heavy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_heavy_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_heavy_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_heavy_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_heavy_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_residue",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_residue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_residue_heat_1",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_residue_heat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_residue_heat_2",
+			"data": {
+				"fluidName": "buildcraftenergy:oil_residue_heat_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:spout_oil",
+			"data": {
+				"fluidName": "buildcraftenergy:spout_oil"
+			}
+		}
+	]
+}

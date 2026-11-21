@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "customnetherportals:blocks/horizontal_nether_portal",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

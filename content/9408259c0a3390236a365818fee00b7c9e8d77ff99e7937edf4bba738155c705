@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:nightlord",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

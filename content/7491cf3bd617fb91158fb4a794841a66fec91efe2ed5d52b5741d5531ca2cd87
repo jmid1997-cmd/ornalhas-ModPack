@@ -1,0 +1,767 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/argent_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/argent_lamp_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/barrel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/doom_sand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block10",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block11",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block12",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block13",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block14",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block15",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block16",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block17",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block18",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block19",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block20",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block21",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block22",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block23",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block24",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block25",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block26",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block4",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block5",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block6",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block7",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block8",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/e1m1_block9",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/gun_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall10",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall11",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall12",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall13",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall14",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall15",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall16",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall4",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall5",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall6",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall7",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall8",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/icon_wall9",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/jump_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:blocks/totem",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/bastion_bridge",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/bastion_hoglin_stable",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/bastion_other",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/bastion_treasure",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/doom_end_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/doom_icon_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/nether_bridge",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/ruined_portal",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:chests/spawn_bonus_chest",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/arachnotron",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/arachnotroneternal",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/arch_maykr",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/archvile",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/archvileeternal",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/armoredbaron",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/baron",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/baron2016",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/blood_maykr",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/cacodemon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/chaingunner",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/cyberdemon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/cyberdemon2016",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/doom_hunter",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/dreadknight",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/firebronebaron",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/gargoyle",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/gladiator",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/gore_nest",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/hellknight",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/hellknight2016",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/iconofsin",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/imp",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/imp2016",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/lost_soul",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/mancubus",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/marauder",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/maykr_drone",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/mechazombie",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/motherdemon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/nightmare_imp",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/painelemental",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/pinky",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/pinky2016",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/possessed_scientist",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/possessed_soldier",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/possessed_worker",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/prowler",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/revenant",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/revenant2016",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/shotgunguy",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/spidermastermind",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/spidermastermind2016",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/stone_imp",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/summoner",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/tentacle",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/turret",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/tyrant",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/unwilling",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/whiplash",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:entities/zombieman",
+			"data": {
+				"Type": "entity"
+			}
+		}
+	]
+}

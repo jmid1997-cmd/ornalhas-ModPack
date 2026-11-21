@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "visualworkbench:enderio/painted_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "visualworkbench:minecraft/crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "visualworkbench:minecraft/fletching_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "visualworkbench:minecraft/smithing_table"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "medieval_nether:castle",
+			"data": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "medieval_nether:castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medieval_nether:dome",
+			"data": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "medieval_nether:dome"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medieval_nether:house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "medieval_nether:house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medieval_nether:ship",
+			"data": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "medieval_nether:ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medieval_nether:shrine",
+			"data": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "medieval_nether:shrine"
+			}
+		}
+	]
+}

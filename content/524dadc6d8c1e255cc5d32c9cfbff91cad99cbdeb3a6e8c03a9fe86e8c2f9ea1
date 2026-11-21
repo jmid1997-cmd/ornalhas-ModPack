@@ -1,0 +1,688 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:amethyst_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:copper_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:diamond_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:emerald_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:golden_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:iron_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:netherite_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:stone_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "better_weaponry:wooden_spear"
+		}
+	]
+}

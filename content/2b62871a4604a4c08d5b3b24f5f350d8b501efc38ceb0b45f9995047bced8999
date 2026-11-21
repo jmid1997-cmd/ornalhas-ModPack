@@ -1,0 +1,10 @@
+#What the mod shows on your screen. These settings change nothing in the game itself.
+[visuals]
+	#Shows the colored particles that float around champions, in the color of their tier.
+	showAuraParticles = true
+	#Shows the health bar and the stars of the champion you look at, at the top of the screen.
+	showHealthBar = true
+	#How far away, in blocks, a champion can be for its health bar to show when you look at it. 32 blocks at most.
+	# Default: 32.0
+	# Range: 4.0 ~ 32.0
+	healthBarRange = 32.0

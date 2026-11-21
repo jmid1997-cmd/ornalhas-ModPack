@@ -1,0 +1,587 @@
+{
+	autofocus_id: "580BCB5F5542156C"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fendas_vigilia_ascendant"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "ascendant:rift_compass"
+	}
+	id: "5C1980BCC552BD23"
+	images: [ ]
+	order_index: 4
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["26CB61F4D0FF3093"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "580BCB5F5542156C"
+			rewards: [{
+				count: 3
+				id: "45646E4C910853D9"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_level_2"
+				criterion: ""
+				id: "0723C7098AFF5C3B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["580BCB5F5542156C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "425388B51A818ABB"
+			rewards: [{
+				count: 12
+				id: "5FB30ECDE3CE20B3"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "211E07B26A9316A6"
+				structure: "ascendant:wayshrine"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["425388B51A818ABB"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2985879845745C89"
+			rewards: [{
+				count: 6
+				id: "13C554603D981C33"
+				item: {
+					count: 1
+					id: "minecraft:baked_potato"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "4C6B7A9DBFCAF885"
+				item: { count: 1, id: "ascendant:rift_shard" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2985879845745C89"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "23A0D83F2168C167"
+			rewards: [{
+				count: 16
+				id: "37548F0C819F115E"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "79C55901042091CB"
+				item: { count: 1, id: "ascendant:rift_compass" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["23A0D83F2168C167"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "17ED165EA62A0308"
+			rewards: [{
+				count: 4
+				id: "3A1A4B2EBC1F49FF"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_level_31"
+				criterion: ""
+				id: "6CFBCA0DC20EA50C"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["17ED165EA62A0308"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "07A607DED342E400"
+			rewards: [{
+				count: 12
+				id: "38D65591DD22DB2D"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "3C533ABBACA371FD"
+				structure: "ascendant:ruined_watchtower"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["07A607DED342E400"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "75A187AD93B62D92"
+			rewards: [{
+				count: 5
+				id: "2F4CA596D0CBE1E8"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_boss_ashen_captain"
+				criterion: ""
+				id: "18E71B66A2CC9273"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["75A187AD93B62D92"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1CD2BF0F858D58AD"
+			rewards: [{
+				count: 6
+				id: "00ACE59A172A2808"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "070C12666E470F59"
+				item: { count: 1, id: "ascendant:rift_steel_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1CD2BF0F858D58AD"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7D753F3554C22175"
+			rewards: [{
+				count: 8
+				id: "6E5C66A8DEAF6891"
+				item: {
+					count: 1
+					id: "minecraft:baked_potato"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_level_61"
+				criterion: ""
+				id: "5E3FC32EDC7DACD7"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7D753F3554C22175"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "62EB911284764FF9"
+			rewards: [{
+				count: 16
+				id: "4C5880365369DBF4"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "4557B890CA52381B"
+				structure: "ascendant:sunken_crypt"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["62EB911284764FF9"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4A530F3263C35E58"
+			rewards: [{
+				count: 6
+				id: "10D9E7E0F271C045"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_boss_gravewarden"
+				criterion: ""
+				id: "298D450AEBA104B8"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4A530F3263C35E58"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4D84FDBFD02A3740"
+			rewards: [{
+				count: 6
+				id: "1C73A0BDC2CF28BD"
+				item: {
+					count: 1
+					id: "minecraft:baked_potato"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0A7FE8AD7D18FDB5"
+				item: { count: 1, id: "ascendant:rebirth_scroll" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4D84FDBFD02A3740"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "37B66D8A179BB492"
+			rewards: [{
+				count: 6
+				id: "245E9E2144DFF35C"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_level_106"
+				criterion: ""
+				id: "794F7D204B89C030"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["37B66D8A179BB492"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2EC68A348D415AE7"
+			rewards: [{
+				count: 8
+				id: "0AB79C54C3D39F1D"
+				item: {
+					count: 1
+					id: "minecraft:baked_potato"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "602DC46CA227A459"
+				structure: "ascendant:cinder_bastion"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2EC68A348D415AE7"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "46EB9915307441F7"
+			rewards: [{
+				count: 4
+				id: "6E080120C8E8D3E9"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_boss_ember_tyrant"
+				criterion: ""
+				id: "6561744F8EC17D81"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["46EB9915307441F7"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6F723D48828E92D1"
+			rewards: [{
+				count: 24
+				id: "42FFD69A79B3F661"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "23357E9F6AEB438E"
+				item: { count: 1, id: "ascendant:void_essence" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6F723D48828E92D1"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "387813721F05F2E6"
+			rewards: [{
+				count: 4
+				id: "505F6C7F2FD7D7F5"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "340D968CDE1FC24A"
+				structure: "ascendant:shattered_spire"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["387813721F05F2E6"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "63BE58EF338E1A75"
+			rewards: [{
+				id: "758BCEDD4E209868"
+				item: {
+					count: 1
+					id: "minecraft:golden_apple"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_boss_hollow_sovereign"
+				criterion: ""
+				id: "0AA18413D37F3797"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["63BE58EF338E1A75"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2DB4FEBC1DE0C2E1"
+			rewards: [{
+				count: 6
+				id: "4F2FDFBD52D242B7"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_level_225"
+				criterion: ""
+				id: "704C142A6C786B9E"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2DB4FEBC1DE0C2E1"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4F705D825FC248B9"
+			rewards: [{
+				count: 8
+				id: "3AFDE75C2786B8E5"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "31D2787D1B47FEDF"
+				item: { count: 1, id: "ascendant:void_steel_sword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4F705D825FC248B9"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "580C6083A5145ED9"
+			rewards: [{
+				count: 2
+				id: "443DF26FF4F5564D"
+				item: {
+					count: 1
+					id: "minecraft:golden_apple"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "fornanhas_fendas:ascendant_level_300"
+				criterion: ""
+				id: "7B09D3A0E2034543"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+	]
+}

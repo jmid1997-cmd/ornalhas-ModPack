@@ -1,0 +1,314 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:amethyst_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:amethyst_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:cobblestone_generator",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:copper_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:copper_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:diamond_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:diamond_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:extreme_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:extreme_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:fuel_verifier",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:gold_conductor_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:gold_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:gold_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:iron_conductor_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:iron_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:iron_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:netherhot_conductor_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:netherhot_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:netherhot_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:platinum_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:platinum_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:steel_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:steel_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:ultimate_forge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:ultimate_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:blocks/awakening_altarnator",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:blocks/crafter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:blocks/enchanternator",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:blocks/farmer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:blocks/fertilizer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:blocks/infuser",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:blocks/infusion_altarnator",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

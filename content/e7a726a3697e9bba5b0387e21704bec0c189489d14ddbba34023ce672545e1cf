@@ -1,0 +1,408 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_juju"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:amethyst_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:bow_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:copper_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:diamond_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:diamond_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:diamond_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:diamond_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_juju"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:emerald_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:gold_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:gold_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:gold_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:gold_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:iron_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:iron_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:iron_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:iron_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:netherite_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:netherite_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:netherite_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:netherite_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:obsidian_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_juju"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:ruby_treeaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:sword_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:tool_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:wooden_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:wooden_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:wooden_paxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_emerald:wooden_treeaxe"
+		}
+	]
+}

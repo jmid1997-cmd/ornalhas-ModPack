@@ -1,0 +1,268 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:clay_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:clay_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:cobblestone_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:cobblestone_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:cobblestone_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:cobblestone_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:daizuli_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:diamond_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:diamond_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:diamond_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:diamond_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:diamond_wood_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:diamond_wood_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:diamond_wood_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:diamond_wood_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:emzuli_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:filtered_buffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:gold_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:gold_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:gold_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:gold_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:iron_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:iron_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:iron_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:iron_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:lapis_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:obsidian_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:plug_blocker"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:plug_power_adaptor"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:quartz_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:quartz_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:quartz_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:quartz_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:sandstone_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:sandstone_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:sandstone_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:sandstone_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:stone_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:stone_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:stone_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:stone_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:stripes_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:structure"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:void_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:void_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:waterproof"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wire/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wood_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wood_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wood_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:wood_power"
+		}
+	]
+}

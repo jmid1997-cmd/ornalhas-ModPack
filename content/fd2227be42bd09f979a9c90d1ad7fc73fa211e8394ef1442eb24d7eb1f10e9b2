@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:furnace_like"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/extreme"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/netherhot"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:tier/ultimate"
+		}
+	]
+}

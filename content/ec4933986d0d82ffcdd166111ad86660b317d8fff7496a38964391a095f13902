@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "quarryplus:adv_pump"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:adv_quarry"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:chunk_marker"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:creative_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:debug_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:exp_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:filter_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:flexible_marker"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:marker"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:mover"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:placer_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:pump_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:quarry"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:remote_placer"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:remove_bedrock_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:repeat_tick_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:soft_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:status_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "quarryplus:y_setter"
+		}
+	]
+}

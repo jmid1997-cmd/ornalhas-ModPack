@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mending_pop_and_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mending_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mending_rune_short"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scorcher_flame"
+		}
+	]
+}

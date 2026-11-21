@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "darkutils:damage_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:flat_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:mob_filters"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:vector_plates"
+		}
+	]
+}

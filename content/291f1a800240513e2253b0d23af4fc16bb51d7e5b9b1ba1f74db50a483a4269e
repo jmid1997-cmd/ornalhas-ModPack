@@ -1,0 +1,102 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ballista_golem",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:broken_garhold",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_part",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_part",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hollow",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:sealed_chaos",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:whimper",
+			"data": {
+				"Category": "creature"
+			}
+		}
+	]
+}

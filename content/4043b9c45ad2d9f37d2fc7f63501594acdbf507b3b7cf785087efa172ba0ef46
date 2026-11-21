@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:accursed_rage_max"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:mecha_pulse_shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_hit"
+		}
+	]
+}

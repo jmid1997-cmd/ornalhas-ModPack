@@ -1,0 +1,348 @@
+{
+	autofocus_id: "2234DE3ACC3C55CB"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_05"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:blaze_powder"
+	}
+	id: "54680C16255FD2F3"
+	images: [ ]
+	order_index: 32
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["137654F807B228F7"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2234DE3ACC3C55CB"
+			rewards: [{
+				id: "2E85A8B298288BCB"
+				team_reward: false
+				type: "xp"
+				xp: 115
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "2177CE8877F952D3"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2234DE3ACC3C55CB"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1DE5F88A3AD71C49"
+			rewards: [{
+				id: "2A467C72335471CF"
+				team_reward: false
+				type: "xp"
+				xp: 115
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/obtain_crying_obsidian"
+				criterion: ""
+				id: "0E56D40A7ECF64E3"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1DE5F88A3AD71C49"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "328B8B5B5B62801A"
+			rewards: [
+				{
+					id: "477F3A9823446F96"
+					team_reward: false
+					type: "xp"
+					xp: 115
+				}
+				{
+					count: 4
+					id: "158CB282FA943938"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/distract_piglin"
+				criterion: ""
+				id: "2F59031768C9EB0F"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1DE5F88A3AD71C49"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6B206DE74E0C609E"
+			rewards: [{
+				id: "19368848207EE6CD"
+				team_reward: false
+				type: "xp"
+				xp: 115
+			}]
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "08643A617A080DFE"
+				item: { count: 1, id: "minecraft:nether_wart" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"328B8B5B5B62801A"
+				"6B206DE74E0C609E"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6B8991BAC5A4FAC5"
+			rewards: [{
+				id: "5D9DF34E1B5913EC"
+				team_reward: false
+				type: "xp"
+				xp: 115
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/find_fortress"
+				criterion: ""
+				id: "196A4B0824964D39"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6B8991BAC5A4FAC5"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3DB83BE56C85E96B"
+			rewards: [
+				{
+					id: "19672C844BBDE100"
+					team_reward: false
+					type: "xp"
+					xp: 115
+				}
+				{
+					count: 4
+					id: "517196737F3BA040"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				count: 6L
+				id: "5D09056590C82BBA"
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6B8991BAC5A4FAC5"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "73CD71171FFD736A"
+			rewards: [{
+				id: "00876940A4B05151"
+				team_reward: false
+				type: "xp"
+				xp: 115
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/find_bastion"
+				criterion: ""
+				id: "637437DD0687EEAE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"3DB83BE56C85E96B"
+				"73CD71171FFD736A"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "074B06249DE73793"
+			rewards: [{
+				id: "0A36D3D9248F8166"
+				team_reward: false
+				type: "xp"
+				xp: 115
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/loot_bastion"
+				criterion: ""
+				id: "7E345104A9861C1A"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["074B06249DE73793"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "747EC1C2B8138246"
+			rewards: [
+				{
+					id: "6B619E4FFF7EE67C"
+					team_reward: false
+					type: "xp"
+					xp: 115
+				}
+				{
+					count: 4
+					id: "55EAEDBDA0682C10"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/explore_nether"
+				criterion: ""
+				id: "70DADD1F5F597424"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["747EC1C2B8138246"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0DF2F13C20AE6B25"
+			rewards: [{
+				id: "1A24C316291B76B1"
+				team_reward: false
+				type: "xp"
+				xp: 172
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "0574AD002F2F8C4F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["747EC1C2B8138246"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6AA1CD7229841CBF"
+			rewards: [{
+				id: "642C1E3E2AFE84A0"
+				team_reward: false
+				type: "xp"
+				xp: 115
+			}]
+			tasks: [{
+				consume_items: false
+				count: 2L
+				id: "79ED8284AF73D055"
+				item: { count: 1, id: "minecraft:ancient_debris" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"747EC1C2B8138246"
+				"6AA1CD7229841CBF"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7A113DF848FC7E81"
+			rewards: [
+				{
+					id: "28E2A6311474D575"
+					team_reward: false
+					type: "xp"
+					xp: 230
+				}
+				{
+					count: 2
+					id: "1D8E99C69D1316F9"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				advancement: "minecraft:nether/fast_travel"
+				criterion: ""
+				id: "28D1070F5BC0961E"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

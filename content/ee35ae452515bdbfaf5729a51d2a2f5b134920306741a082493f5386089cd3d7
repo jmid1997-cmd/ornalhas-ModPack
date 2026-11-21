@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:tree_of_light",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "souls_like_bosses:tree_of_light"
+			}
+		}
+	]
+}

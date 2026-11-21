@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vertex_transmission",
+			"data": {
+				"Instant": false,
+				"Color": 15073280,
+				"Category": "harmful"
+			}
+		}
+	]
+}

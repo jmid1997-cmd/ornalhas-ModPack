@@ -1,0 +1,23 @@
+# Folios server settings.
+
+
+# Quests from data packs (data/<namespace>/folios/quests), which the server follows and rewards.
+[quests]
+# Rewarded quests may not ask for entries to be read: reading happens on the player's screen, so it is the one
+# thing the server can't see for itself. Such quests are skipped, with a warning in the log.
+# Default: false
+strict = false
+
+# How long an entry must be open before the server counts it read, in seconds.
+# Range: 0.0 ~ 60.0
+# Default: 2.0
+readSeconds = 2.0
+
+# The most entries a player can be counted reading in a minute; more are ignored and logged.
+# Range: 1 ~ 600
+# Default: 20
+readsPerMinute = 20
+
+# Reading counts only in a book the player has with them, or one the server opened for them.
+# Default: true
+needsBook = true

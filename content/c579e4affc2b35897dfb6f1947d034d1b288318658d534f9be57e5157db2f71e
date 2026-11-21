@@ -1,0 +1,17 @@
+[hud]
+	#Show the level widget.
+	showHud = true
+	#Level widget position from the left edge.
+	# Default: 4
+	# Range: 0 ~ 4000
+	hudX = 8
+	#Level widget position from the top edge.
+	# Default: 4
+	# Range: 0 ~ 4000
+	hudY = 8
+
+[nameplates]
+	#Show level and rank above mobs.
+	showNameplates = true
+	#Also show them on vanilla mobs.
+	showVanillaLevels = true

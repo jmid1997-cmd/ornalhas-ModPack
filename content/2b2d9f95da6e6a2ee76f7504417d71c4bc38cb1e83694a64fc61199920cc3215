@@ -1,0 +1,144 @@
+{
+	autofocus_id: "55A043CB2EE9E3D4"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_doom"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:magma_cream"
+	}
+	id: "6772D9A826192C47"
+	images: [ ]
+	order_index: 34
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "55A043CB2EE9E3D4"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "doom:doom_hell"
+				id: "7C7C4519323401BC"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["55A043CB2EE9E3D4"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "31DF2CA964A987BA"
+			rewards: [{
+				id: "074D4773D58B3A0F"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/doom/gladiator"
+				criterion: ""
+				id: "33AD74F9FE053626"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["55A043CB2EE9E3D4"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "61A935B50DEC5FAB"
+			rewards: [{
+				id: "24CA07BE6550107F"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "doom:kill_archmaykr"
+				criterion: ""
+				id: "25048440C0E929F0"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["55A043CB2EE9E3D4"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "758AD4ABACD515DB"
+			rewards: [{
+				id: "709ABAFD8CB2763B"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "doom:kill_motherdemon"
+				criterion: ""
+				id: "2672D071376442F9"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["55A043CB2EE9E3D4"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1C170A31E14E052D"
+			rewards: [{
+				id: "7401223F190CE527"
+				team_reward: false
+				type: "xp"
+				xp: 600
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "doom:kill_icon"
+				criterion: ""
+				id: "15F502AED66D56B7"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"31DF2CA964A987BA"
+				"61A935B50DEC5FAB"
+				"758AD4ABACD515DB"
+				"1C170A31E14E052D"
+			]
+			id: "7D64EB0361181E16"
+			rewards: [{
+				id: "31795CCE54147DF7"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "1EEB9E3A42FF2125"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

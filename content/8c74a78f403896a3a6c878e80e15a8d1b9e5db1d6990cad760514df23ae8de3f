@@ -1,0 +1,53 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "structures:butcher_house",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:council_book",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:council_no_book",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:house2",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:medium_house",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:mega_loot",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:tower",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

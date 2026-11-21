@@ -1,0 +1,242 @@
+{
+	autofocus_id: "5D099279CE3F3B1E"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_06"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:diamond_sword"
+	}
+	id: "10B69A89467E6AFF"
+	images: [ ]
+	order_index: 36
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"5BE0288810B48E87"
+				"7A113DF848FC7E81"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5D099279CE3F3B1E"
+			rewards: [{
+				id: "284BA7A3D37227DB"
+				team_reward: false
+				type: "xp"
+				xp: 130
+			}]
+			tasks: [{
+				advancement: "twilightforest:magic_map_focus"
+				criterion: ""
+				id: "7D0D333E15913290"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5D099279CE3F3B1E"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4F01103E23B59981"
+			rewards: [
+				{
+					id: "78DB41F8CD6D24BE"
+					team_reward: false
+					type: "xp"
+					xp: 130
+				}
+				{
+					count: 4
+					id: "1ABB24CFA7E76029"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "twilightforest:magic_map"
+				criterion: ""
+				id: "6FF9ABCFC2647D07"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5D099279CE3F3B1E"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5013031C71A06D4D"
+			rewards: [{
+				id: "704B9A705682B6EF"
+				team_reward: false
+				type: "xp"
+				xp: 130
+			}]
+			tasks: [{
+				advancement: "twilightforest:hill1"
+				criterion: ""
+				id: "19F601465A73C453"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"380E20CDDBF0A14E"
+				"4F01103E23B59981"
+				"5013031C71A06D4D"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3573BA1E293B1437"
+			rewards: [{
+				id: "4BE2550AE6A194B3"
+				team_reward: false
+				type: "xp"
+				xp: 130
+			}]
+			tasks: [{
+				advancement: "twilightforest:naga_armors"
+				criterion: ""
+				id: "72A6B857E78E0BE4"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"1B4148126CD29B37"
+				"380E20CDDBF0A14E"
+				"4F01103E23B59981"
+				"5013031C71A06D4D"
+				"3573BA1E293B1437"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3F7AD293D13315DC"
+			rewards: [{
+				id: "6AC03AD4964272B0"
+				team_reward: false
+				type: "xp"
+				xp: 130
+			}]
+			tasks: [{
+				advancement: "twilightforest:progress_labyrinth"
+				criterion: ""
+				id: "437123350DFE378D"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"493F6EE18D6834D5"
+				"3F7AD293D13315DC"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5181E35470BBC798"
+			rewards: [{
+				id: "623A89BD1DE13341"
+				team_reward: false
+				type: "xp"
+				xp: 195
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "4BC8A962819E0F2E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"493F6EE18D6834D5"
+				"3F7AD293D13315DC"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "181E43A3B3A3A2E3"
+			rewards: [{
+				id: "6FA21E4CEA70FB39"
+				team_reward: false
+				type: "xp"
+				xp: 130
+			}]
+			tasks: [{
+				advancement: "twilightforest:maze_map"
+				criterion: ""
+				id: "1DCD3A3EBA7450DE"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"493F6EE18D6834D5"
+				"3F7AD293D13315DC"
+				"181E43A3B3A3A2E3"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "40E6D2840B52E7FD"
+			rewards: [
+				{
+					id: "1E8F5D73EAD5FF45"
+					team_reward: false
+					type: "xp"
+					xp: 260
+				}
+				{
+					count: 2
+					id: "64742F4C4FA57E21"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				advancement: "twilightforest:fiery_set"
+				criterion: ""
+				id: "1615A53D47827CA2"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

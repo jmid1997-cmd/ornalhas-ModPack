@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:chests/awesome_dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

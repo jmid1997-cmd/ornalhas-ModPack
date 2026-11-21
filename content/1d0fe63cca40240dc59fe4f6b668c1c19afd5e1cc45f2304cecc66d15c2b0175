@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:ancient_fruit_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:ancient_fruit_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:blueberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:blueberry_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:cauliflower_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:cauliflower_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:corn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:corn_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:cranberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:cranberry_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:garlic_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:garlic_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:hot_pepper_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:hot_pepper_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:parsnip_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:parsnip_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:starfruit_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:starfruit_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:strawberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:strawberry_seed_unripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:tomato_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfmsbestofallworlds:tomato_seed_unripe"
+		}
+	]
+}

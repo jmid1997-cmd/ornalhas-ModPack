@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:advanced_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:basic_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:elite_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:jetpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:strap"
+		},
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:thruster"
+		},
+		{
+			"weight": 1.0,
+			"key": "ironjetpacks:ultimate_coil"
+		}
+	]
+}

@@ -1,0 +1,168 @@
+{
+	autofocus_id: "42F12EE8D8985F73"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_estrelas"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:amethyst_shard"
+	}
+	id: "7CC38F5B75E65422"
+	images: [ ]
+	order_index: 49
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "42F12EE8D8985F73"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "eternal_starlight:starlight"
+				id: "79C4E3DA91591040"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42F12EE8D8985F73"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "78ABAB87B90C9145"
+			rewards: [{
+				id: "1E126607BF9D9D3C"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "eternal_starlight:challenge_gatekeeper"
+				criterion: ""
+				id: "47A42069BCE6CC45"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42F12EE8D8985F73"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "39CA6981713F47C9"
+			rewards: [{
+				id: "4B68DA4812B33E57"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "eternal_starlight:kill_golem"
+				criterion: ""
+				id: "2A630418A89B9A3B"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42F12EE8D8985F73"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5660D7ABFDD1966B"
+			rewards: [{
+				id: "2A75C7A77055A50D"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "eternal_starlight:kill_permafrost"
+				criterion: ""
+				id: "29BA7A042B39ACDC"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42F12EE8D8985F73"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "306E27FE7FE53E4B"
+			rewards: [{
+				id: "09FDA9C0C38C0345"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "eternal_starlight:kill_lunar_monstrosity"
+				criterion: ""
+				id: "699FCFC23730B79F"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42F12EE8D8985F73"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "15709E480A14A313"
+			rewards: [{
+				id: "71EACCD3323255D3"
+				team_reward: false
+				type: "xp"
+				xp: 250
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "eternal_starlight:kill_creteor"
+				criterion: ""
+				id: "3A323EC76D9C6378"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"78ABAB87B90C9145"
+				"39CA6981713F47C9"
+				"5660D7ABFDD1966B"
+				"306E27FE7FE53E4B"
+				"15709E480A14A313"
+			]
+			id: "175AFC8DC19271CD"
+			rewards: [{
+				id: "5F2D89D56DB2C694"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "6FD55F4A1877AA71"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+	]
+}

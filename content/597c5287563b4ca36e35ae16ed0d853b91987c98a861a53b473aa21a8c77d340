@@ -1,0 +1,304 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_brigandine"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_heaume"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_scyphoid_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_tiara"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:angler_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:anglerfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:captain_cornelia_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:cooked_spinefish"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:cracked_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:dagger_of_greed"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:dead_sea_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:dreadwake"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:echo_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:eel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:esca"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:esca_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:frozen_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:frozen_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:golden_moth_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:golden_moth_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:jawbreaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:jellyfish_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:logbook"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:luminescent_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:luminescent_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:maelstrom_vestige"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:maw_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:maze_mother_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:maze_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:music_disc_forsaken_drownage"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:music_disc_horizon"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:oxyhelium"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:painting_anglerfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:painting_aurora"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:painting_oxyhelium"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:painting_tortured_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:pirate_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:poseidon_breakfast"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:remnant_saber"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:rune_of_the_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:salvager_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:salvager_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:salvager_suit"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:salvager_waders"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:scuttler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:sea_casserole"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:sea_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:sharp_bones"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:shatterblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:shatterspike"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:shell_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:shellback_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:ship_graveyard_echo"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:spinefish"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:spinefish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:tempest_trident"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_cleaver"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:terrible_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:tidepiercer"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:tortured_soul_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:treasure_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:void_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:wisteria_niveis"
+		}
+	]
+}

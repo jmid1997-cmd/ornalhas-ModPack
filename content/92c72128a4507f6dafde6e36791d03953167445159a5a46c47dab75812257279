@@ -1,0 +1,7987 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_fire",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_geyser",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_kelp",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_kelp_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_magma_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:acacia_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:accumulator",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:algaleaves",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:alloy_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_candle",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_candle_cake",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_fire",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_grass_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_lantern",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amethysia_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ashen_snow",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aureate_flower",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bamboo_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_button",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_door",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_pressure_plate",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_roots",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:berries_vines",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:berries_vines_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:birch_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:black_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:black_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blazebank_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blazing_starcore_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blooming_blue_starlight_crystal_cluster",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blooming_red_starlight_crystal_cluster",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blooming_shadegrieve",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystal_moss_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystal_moss_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystal_roots",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystalfleur",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystalfleur_vine",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_crystallized_lunar_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_starlight_crystal_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_starlight_crystal_cluster",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_starlight_crystal_lantern",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:blue_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom_roots",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom_roots_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:bouldershroom_stem",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:brown_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:brown_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:budding_thioquartz",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:carved_lunaris_cactus_fruit",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cave_moss",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cave_moss_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cave_moss_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cave_moss_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cave_moss_vein",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:charged_chiseled_polished_doomeden_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cherry_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_flare_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_golem_steel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_grimstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_nebulaite_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_polished_abysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_polished_cryobysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_polished_doomeden_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_polished_thermabysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_radianite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_springstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_tooth_of_hunger_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_toxite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_twilight_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:chiseled_voidstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:circulush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_grimstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_grimstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_grimstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_grimstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_radianite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_radianite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_radianite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_radianite_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_voidstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_voidstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_voidstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cobbled_voidstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:conebloom",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cracked_grimstone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cracked_grimstone_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cracked_voidstone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cracked_voidstone_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_button",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_door",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_pressure_plate",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crescent_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crescentleaf",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crimson_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crinoa",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crinoa_bale",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cryobyssal_geyser",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cryobyssal_magma_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cryobysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystalborn_catalyst",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallized_lunar_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallized_sand",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallum_coral",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallum_coral_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallum_coral_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallum_coral_wall_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_flare_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_flare_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_flare_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_flare_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_flare_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_flare_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_flare_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_flare_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_twilight_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_twilight_sandstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_twilight_sandstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cut_twilight_sandstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cyan_lunar_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cyan_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cyan_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dark_oak_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_crystallum_coral",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_crystallum_coral_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_crystallum_coral_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_crystallum_coral_wall_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_golden_coral",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_golden_coral_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_golden_coral_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_golden_coral_wall_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_lunar_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_lunar_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_tentacles_coral",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_tentacles_coral_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_tentacles_coral_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dead_tentacles_coral_wall_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:deepsilver_bars",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:deepsilver_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:deepsilver_grate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:desert_amethysia",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dimslag",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomed_redstone_torch",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomed_torch",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_keyhole",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_light",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:drying_rack",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_emitter",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_glass",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_light",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_lockbox",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusted_gravel",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eclipse_core",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:energy_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:energy_transmitter",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_deepsilver_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_lantern",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_redstone_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_saltpeter_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_starcore_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:eternal_ice_starlit_diamond_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantabud",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantafern",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantagrass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantasy_grass_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fantasy_grass_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fire_orchid",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_spawner",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flare_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flowglaze",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flowglaze_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flowglaze_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flowglaze_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flowglaze_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flowglaze_pane",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glacite_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gladespike",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glimmerfly_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glintgrass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gloomcandle_root",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gloreed",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_crescent_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_grimstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_lunar_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_lunar_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_mossy_dusted_gravel",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_mushroom",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_mushroom_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_mushroom_stem",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_night_sprouts",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_nightfall_mud",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_parasol_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowing_voidstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glowlis",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_coral",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_coral_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_coral_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_coral_wall_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golden_grass_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_bars",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_crate",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_grate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_jet",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gray_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gray_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_fantabud",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_fantafern",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_fantagrass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:green_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_deepsilver_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_malarite_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_redstone_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_saltpeter_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_starcore_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_starlit_diamond_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:hanging_algaleaves",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:hanging_algaleaves_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:hanging_fantagrass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:hanging_fantagrass_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:hanging_sacred_lanternvine",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:hanging_sacred_lanternvine_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_deepsilver_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_lantern",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_redstone_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_saltpeter_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_starcore_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:haze_ice_starlit_diamond_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:icicle",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_button",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_door",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_pressure_plate",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jingling_pickle",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jungle_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_blue_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_blue_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_gray_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:light_gray_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lime_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lime_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:loot_chest",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lumenstem",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lumenstem_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminis",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_button",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_door",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mat",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_monstrosity_spawner",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_mosaic_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_pressure_plate",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_reed",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_vine",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunaris_cactus",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunaris_cactus_fruit_lantern",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunaris_cactus_gel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:magenta_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:magenta_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:malarite_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mangrove_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:marimold",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:marimold_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:marimold_stem",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mauve_fern",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mechanical_spawner",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:molten_stellagmite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:molten_stellagmite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:molten_stellagmite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:molten_stellagmite_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonlight_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonlight_duckweed",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonlight_lily_pad",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mossy_dusted_gravel",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:muddy_banyin_roots",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nebulaite_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:night_sprouts",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_dirt",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_dirt_path",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_farmland",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_grass_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_deepsilver_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_mud_malarite_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_podzol",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfan_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nocturnal_millet_panicle",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nocturnal_millet_stalk",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_button",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_door",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_pressure_plate",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oak_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orange_scarlet_bud",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orange_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orange_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orbflora",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orbflora_light",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orbflora_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_alloy_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_chiseled_golem_steel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_bars",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_grate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_jet",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oxidized_golem_steel_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:packed_nightfall_mud",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:packed_nightfall_mud_deepsilver_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:packed_nightfall_mud_malarite_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:parasol_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:permafrost_spawner",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pink_rose",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pink_rose_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pink_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pink_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_abysslate_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_cryobysslate_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_doomeden_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_doomeden_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_doomeden_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_doomeden_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_grimstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_radianite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_radianite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_radianite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_radianite_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_springstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_springstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_springstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_springstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_stellagmite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_stellagmite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_stellagmite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_stellagmite_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_thermabysslate_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_toxite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_toxite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_toxite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_toxite_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_voidstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_voidstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_voidstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:polished_voidstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_amaramber_grass",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_aureate_flower",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_banyin_sapling",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_blue_crystalfleur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_bouldershroom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_conebloom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_cradlewood_sapling",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_crescent_grass",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_dead_lunar_bush",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_desert_amethysia",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_fantafern",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_fire_orchid",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_gladespike",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_glowing_crescent_grass",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_glowing_mushroom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_glowing_parasol_grass",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_green_fantafern",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_jinglestem_sapling",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_lunar_sapling",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_nightfan",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_northland_sapling",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_parasol_grass",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_pink_rose",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_red_crystalfleur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_red_velvetumoss_flower",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_sacred_starlight_flower",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_scarlet_sapling",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_shining_mushroom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_starlight_flower",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_starlight_torchflower",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_sunset_thornbloom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_swamp_rose",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_torreya_sapling",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_vividstalk",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_whisperbloom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_withered_desert_amethysia",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:potted_withered_starlight_flower",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pungency_fruit_vines",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:purple_lunar_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:purple_scarlet_bud",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:purple_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:purple_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:radianite_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:raw_aethersent_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:raw_amaramber_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:raw_deepsilver_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:raw_flowglaze",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystal_moss_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystal_moss_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystal_roots",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystalfleur",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystalfleur_vine",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_crystallized_lunar_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_scarlet_bud",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_starlight_crystal_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_starlight_crystal_cluster",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_starlight_crystal_lantern",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_velvetumoss",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_velvetumoss_flower",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_velvetumoss_villi",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:red_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:redstone_doomeden_keyhole",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:reinforced_dusk_light",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:reinforced_ice",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:reinforced_ice_pane",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sacred_lanternvine",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sacred_lanternvine_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sacred_starlight_flower",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:saltpeter_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_button",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_door",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_leaves_pile",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_pressure_plate",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sea_rosa",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shadegrieve",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shining_mushroom",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shining_mushroom_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shining_mushroom_stem",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:small_glowing_night_sprouts",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:small_night_sprouts",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:solar_egg",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:spiral_kelp",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:spiral_kelp_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:springstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:spruce_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starcore_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starcore_light",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starfire_bird_nest",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_flower",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_golem_spawner",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_portal",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_seagrass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_torchflower",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlit_diamond_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlit_lily_pad",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellafly_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellagmite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellagmite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellagmite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stellagmite_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stonett",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_banyin_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_banyin_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_cradlewood_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_cradlewood_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_jinglestem_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_jinglestem_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_lunar_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_lunar_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_northland_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_northland_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_scarlet_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_scarlet_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_torreya_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stripped_torreya_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sunset_thornbloom",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:suspicious_dimslag",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:suspicious_dusted_gravel",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:swamp_rose",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tall_crescent_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tall_gladespike",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tall_glowing_crescent_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tall_golden_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled_skull",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled_wall_skull",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tear_bomb",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tenacious_nightfall_grass_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tentacles_coral",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tentacles_coral_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tentacles_coral_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tentacles_coral_wall_fan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:the_gatekeeper_spawner",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermabyssal_geyser",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermabyssal_magma_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermabysslate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thermal_springstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thin_eternal_ice",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thioquartz_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thioquartz_cluster",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_button",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_campfire",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_door",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_pressure_plate",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_vines",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_vines_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:toxite_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sand",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sandstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sandstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_sandstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilvewyrm_herb",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:unrealium_bars",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:unrealium_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:velvetumoss",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:velvetumoss_villi",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:vividstalk",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_deepsilver_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_malarite_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_redstone_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_saltpeter_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_spike",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_starcore_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_starlit_diamond_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:voidstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wall_doomed_redstone_torch",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wall_doomed_torch",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:warped_starfire_bird_aviary",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_alloy_furnace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_chiseled_golem_steel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_bars",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_grate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_jet",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:waxed_golem_steel_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:whisperbloom",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:white_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:white_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wick_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:withered_desert_amethysia",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:withered_starlight_flower",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:yellow_yeti_fur",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:yellow_yeti_fur_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

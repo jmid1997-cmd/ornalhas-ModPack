@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftrobotics:redstone_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftrobotics:requester"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftrobotics:robot"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftrobotics:robot_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftrobotics:zone_planner"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "itemcollectors:advanced_collector"
+		},
+		{
+			"weight": 1.0,
+			"key": "itemcollectors:basic_collector"
+		}
+	]
+}

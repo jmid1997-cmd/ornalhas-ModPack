@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:berserker",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:mole",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:preserved",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:sparkle",
+			"data": {
+				"Category": "underground_water_creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:specterpillar",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:spectre",
+			"data": {
+				"Category": "ambient"
+			}
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hopo:portal/nether/piglin_ruin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "hopo:portal/nether/piglin_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "hopo:portal/overworld/portal_deepslate",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "hopo:portal/overworld/portal_deepslate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "hopo:portal/overworld/portal_dripstone",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "hopo:portal/overworld/portal_dripstone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "hopo:portal/overworld/portal_lush",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "hopo:portal/overworld/portal_lush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "hopo:portal/overworld/portal_ruined",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "hopo:portal/overworld/portal_ruined"
+			}
+		}
+	]
+}

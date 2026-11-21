@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pladailyboss:spinning_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pladailyboss:unbreakable_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pladailyboss:unbreakable_glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "pladailyboss:unbreakable_polished_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pladailyboss:unbreakable_stone"
+		}
+	]
+}

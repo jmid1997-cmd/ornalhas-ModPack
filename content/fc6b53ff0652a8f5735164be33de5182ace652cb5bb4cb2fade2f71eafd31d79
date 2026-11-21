@@ -1,0 +1,192 @@
+{
+	autofocus_id: "26646EEC34C53741"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_bumblezone"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:honeycomb"
+	}
+	id: "2CE553135616C2CE"
+	images: [ ]
+	order_index: 46
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "26646EEC34C53741"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				id: "67DB6AB2E769AE49"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["26646EEC34C53741"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6CCA47C280287FAB"
+			rewards: [{
+				id: "28134D67E7EEB0D9"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "the_bumblezone:essence/essence_raging"
+				criterion: ""
+				id: "04F15B25CEC95C2A"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["26646EEC34C53741"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7E206A1924DE4D1A"
+			rewards: [{
+				id: "432DCF79930E9460"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "the_bumblezone:essence/essence_knowing"
+				criterion: ""
+				id: "77ADF2B328ABA338"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["26646EEC34C53741"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "22F6A2C6C2F45EB9"
+			rewards: [{
+				id: "2E99919A77104971"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "the_bumblezone:essence/essence_calming"
+				criterion: ""
+				id: "6703C4C866EBAE42"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["26646EEC34C53741"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2895B224ECBBCDFB"
+			rewards: [{
+				id: "44A4F3ADB5F3F19B"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "the_bumblezone:essence/essence_life"
+				criterion: ""
+				id: "2D4E56C50CE769E6"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["26646EEC34C53741"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1F49EE69EB1741A2"
+			rewards: [{
+				id: "71A0684A15C028B2"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "the_bumblezone:essence/essence_radiance"
+				criterion: ""
+				id: "6137137FC3AF3E8F"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["26646EEC34C53741"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2708D1116FFEE8B6"
+			rewards: [{
+				id: "5DE96481C5391C51"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "the_bumblezone:essence/essence_continuity"
+				criterion: ""
+				id: "064BB05BC75A800D"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"6CCA47C280287FAB"
+				"7E206A1924DE4D1A"
+				"22F6A2C6C2F45EB9"
+				"2895B224ECBBCDFB"
+				"1F49EE69EB1741A2"
+				"2708D1116FFEE8B6"
+			]
+			id: "6CBD0227C2395D21"
+			rewards: [{
+				id: "2DD64B33BE08C0E6"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "3C1B724D18D9E4C2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+	]
+}

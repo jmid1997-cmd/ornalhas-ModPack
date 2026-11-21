@@ -1,0 +1,98 @@
+{
+	autofocus_id: "24CF763CE9742E71"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fendas_vigilia_fortins"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:crossbow"
+	}
+	id: "162F342CFE01B42D"
+	images: [ ]
+	order_index: 13
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["26CB61F4D0FF3093"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "24CF763CE9742E71"
+			rewards: [{
+				count: 4
+				id: "43FE4C519144F576"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0C1F69219A2EEEF4"
+				structure: "minecraft:pillager_outpost"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["24CF763CE9742E71"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1FA240DB7247BDEA"
+			rewards: [{
+				count: 4
+				id: "0CBE354FFEF073AB"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:kill_pillagers_8"
+				criterion: ""
+				id: "67DC79C6BA7F5149"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1FA240DB7247BDEA"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "303252F7A998FA9D"
+			rewards: [{
+				count: 16
+				id: "386E2444BEFA40BF"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "49BCBA5DA96E92D3"
+				item: { count: 1, id: "minecraft:crossbow" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

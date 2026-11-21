@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "das:deep_fortress",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "das:deep_fortress"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "das:deep_spawner_1",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "das:deep_spawner_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "das:deep_spawner_2",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "das:deep_spawner_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "das:deep_spawner_3",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "das:deep_spawner_3"
+			}
+		}
+	]
+}

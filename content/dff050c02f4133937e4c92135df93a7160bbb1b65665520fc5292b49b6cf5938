@@ -1,0 +1,760 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ancient_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ancient_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ancient_seed_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ancient_seed_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ancient_seed_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ancient_seed_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ancient_seed_stage_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ancient_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:anduril"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ball_of_yarn"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:bananarang"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ben_kenobi_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blade_of_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blood_butcherer"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blueberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blueberry_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blueberry_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blueberry_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blueberry_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blueberry_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:broken_hero_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:broomstick"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cauliflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cauliflower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cauliflower_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cauliflower_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cauliflower_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cauliflower_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:celestial_steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cheese_cauliflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:complete_breakfast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cooked_peeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:copper_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:corn"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:corn_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:corn_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:corn_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:corn_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:corn_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cranberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cranberry_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cranberry_sauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cranberry_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cranberry_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cranberry_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:cranberry_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:crimtane"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:crimtane_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:darth_vader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:deerclops_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:demon_eye_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:demonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:demonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:dormant_kyber_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:dragon_heartstring"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:dragon_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:dwarvish_mithril_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:elf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:elvish_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:enchanted_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:energized_kyber_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:excalibur"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:eye_of_cthulhu_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:fallen_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:fiery_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:flaming_jack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:freddy_fazbear_mask_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:fried_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:galaxy_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:galaxy_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:garlic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:garlic_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:garlic_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:garlic_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:garlic_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:green_lightsaber_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:green_lightsaber_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:hallowed_bar"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:ham_bat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:hashbrowns"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:hot_pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:hot_pepper_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:hot_pepper_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:hot_pepper_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:imperial_stormtrooper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:infinity_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:iridium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:iridium_bar"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:iridium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:iridium_ore_raw"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:iridium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:jungle_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:kyber_crystal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lights_bane"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lightsaber_hilt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lightsaber_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lightsaber_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:longbeard_dwarf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:meowmere"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:meowmere_cat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:minishark"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:mithril_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:mithril_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:mithril_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:mithril_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:moss_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:muramasa"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:musket_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:nights_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:oil_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:orange_lightsaber_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:orange_lightsaber_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:pancakes"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:parsnip"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:parsnip_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:parsnip_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:parsnip_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:parsnip_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:parsnip_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:peeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:pepper_poppers"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:pepper_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:phoenix_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:phoenix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:phoenix_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:prismatic_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:pumpkin_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:purple_lightsaber_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:purple_lightsaber_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:raw_peeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:red_lightsaber_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:red_lightsaber_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:repair_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:shards_of_narsil"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:shield_of_cthulhu"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:sith_artifact"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:six_raincoat_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:six_raincoat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:spaghetti"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:star_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:star_wrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:stardew_valley_dance_of_the_moonlight_jellies"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:stardew_valley_the_wind_can_be_still"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:stardrop"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:starfruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:starfruit_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:starfruit_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:starfruit_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:starfruit_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:starfruit_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:starfruit_stage_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:starfury"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:sting"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:stinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:strawberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:strawberry_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:strawberry_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:strawberry_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:strawberry_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:strawberry_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:suspicious_looking_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:tentacle_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terra_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_boss_music_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:the_horsemans_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:tomato_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:tomato_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:tomato_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:tomato_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:tomato_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:true_excalibur"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:true_nights_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:unicorn_hair"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:unicorn_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:unicorn_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:vegetable_medley"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:wand_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:wheat_flour"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:wood_stain_and_polish"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:wooden_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:yellow_lightsaber_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:yellow_lightsaber_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:zombie_arm"
+		}
+	]
+}

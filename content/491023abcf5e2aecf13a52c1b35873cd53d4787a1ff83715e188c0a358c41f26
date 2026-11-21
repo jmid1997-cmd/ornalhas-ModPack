@@ -1,0 +1,114 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom:archmakyr",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "doom:arch_maykr",
+								"weight": 5,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "doom:archmakyr"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:gladiator_fight",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "doom:gladiator",
+								"weight": 5,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "doom:gladiator_fight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:hell_church",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "doom:turret",
+								"weight": 100,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "doom:hell_church"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:icon_fight",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "doom:iconofsin",
+								"weight": 5,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "doom:icon_fight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:motherdemon1a",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "doom:motherdemon",
+								"weight": 5,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "doom:motherdemon1a"
+			}
+		}
+	]
+}

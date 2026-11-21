@@ -1,0 +1,200 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apotheosis:arcane_sands"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:ascent_spawner_upgrade_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:augmenting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:boss_summoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:burning_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:diamond_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:echoing_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:ender_gem_case"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:frontier_spawner_upgrade_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem_case"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem_cutting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem_fused_slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:god_fused_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:godforged_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gold_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:ignore_conditions_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:ignore_light_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:ignore_players_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:infused_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:initial_health_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:iron_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:luminous_crystal_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:music_disc_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:music_disc_glimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:music_disc_shimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:mysterious_scrap_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:no_ai_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:pinnacle_spawner_upgrade_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:potion_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:redstone_control_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:reforging_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:salvaging_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_enhancement"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_malice"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_rebirth"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_socketing"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_supremacy"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_unnaming"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_withdrawal"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:silent_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:simple_reforging_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:spawn_range_spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:spawner_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:spawner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:summit_spawner_upgrade_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:timeworn_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:youthful_spawner_rune"
+		}
+	]
+}

@@ -1,0 +1,393 @@
+{
+	autofocus_id: "020835BF0626EE5C"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fendas_contratos"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:writable_book"
+	}
+	id: "697083060024D58A"
+	images: [ ]
+	order_index: 15
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["26CB61F4D0FF3093"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "020835BF0626EE5C"
+			rewards: [{
+				count: 3
+				id: "0C3F1A560AAF673A"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "277DB8EDD1DC9D9C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7AA363FCE94D7524"
+			rewards: [{
+				count: 3
+				id: "0D8CAE25242A72E4"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_sealed_letter"
+				criterion: ""
+				id: "1463529D541CB433"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5314F9A778E6B2BC"
+			rewards: [{
+				count: 3
+				id: "1E91D490CC41DB9E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_route_letter"
+				criterion: ""
+				id: "7756198B87ED971B"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2E648E33FCEC77AB"
+			rewards: [{
+				count: 3
+				id: "16EECA5E3143A974"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_essence_run"
+				criterion: ""
+				id: "60A35E42F9BB5FCE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5B6A1539885335F9"
+			rewards: [{
+				count: 3
+				id: "480421C8168F8263"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_shrine_offering"
+				criterion: ""
+				id: "3E9784562AA1CEFF"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "145C3022CB39A4D3"
+			rewards: [{
+				count: 3
+				id: "01829CD41A7A4A03"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_map_fragments"
+				criterion: ""
+				id: "3AB4BFACD6CCF2D4"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3BA8250BF9950967"
+			rewards: [{
+				count: 3
+				id: "5A84FA705EF653B7"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_red_moon_harvest"
+				criterion: ""
+				id: "7B8F863A22C09E1D"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "75C91A0C7046E4E9"
+			rewards: [{
+				count: 3
+				id: "2792F1548424922C"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_ledger"
+				criterion: ""
+				id: "0A0F86A5D470823B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4C76B8648ECB8CF1"
+			rewards: [{
+				count: 3
+				id: "6344A8E3FC91C187"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_quartermaster_stock"
+				criterion: ""
+				id: "05046C1E3CD1A06D"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "195B02327BD0E769"
+			rewards: [{
+				count: 3
+				id: "76DA7D2EBF4C75F8"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_famous_favour"
+				criterion: ""
+				id: "0857B45E6A2A2C6E"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6E0FC94F28DA6490"
+			rewards: [{
+				count: 3
+				id: "4EFB854E8DB01FDC"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_not_a_scratch"
+				criterion: ""
+				id: "3DC01381AE2D3629"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7F0D1FCD70B3AF22"
+			rewards: [{
+				count: 3
+				id: "7DF1A5E717114F50"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_examiner"
+				criterion: ""
+				id: "3E7808395D8AE031"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "610DCC26C0B9E5F3"
+			rewards: [{
+				count: 3
+				id: "4920459669CB55BD"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_invasion_front"
+				criterion: ""
+				id: "17F98AD95304B7C9"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["020835BF0626EE5C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "755349659BB9C643"
+			rewards: [{
+				count: 3
+				id: "1BB061FC3972DFAA"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:contract_wq_alone_at_the_top"
+				criterion: ""
+				id: "2977CAAB202B4C59"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 18.0d
+		}
+	]
+}

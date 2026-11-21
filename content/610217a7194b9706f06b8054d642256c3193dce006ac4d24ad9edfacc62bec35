@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "royalvariations:end_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_enderman_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:timer_ticking"
+		}
+	]
+}

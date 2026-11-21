@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "structuresplus:acacia_house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structuresplus:acacia_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structuresplus:baby_villager_statue",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structuresplus:baby_villager_statue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structuresplus:camp",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structuresplus:camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structuresplus:council_of_the_trapped_ruins",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structuresplus:council_of_the_trapped_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structuresplus:iron_golem_statue",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structuresplus:iron_golem_statue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structuresplus:random_blocks",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structuresplus:random_blocks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structuresplus:ruin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structuresplus:ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structuresplus:villager_statue",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structuresplus:villager_statue"
+			}
+		}
+	]
+}

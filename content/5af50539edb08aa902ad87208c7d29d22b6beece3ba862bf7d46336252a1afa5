@@ -1,0 +1,1159 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/argillite_lamp",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_brick",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_brick_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_brick_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_brick_slab_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_brick_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_brick_stairs_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_brick_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_brick_wall_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_column",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_column_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_column_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_column_slab_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_slab_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_stairs_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillite_wall_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/black_argillitepressureplate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/bundle_of_bones",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/c_black_argillite_brick_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/carved_black_argillite",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/carved_black_argillite_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/chipped_black_argillite_brick",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/closed_hound_trap",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/cobweb_cover",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/creepy_nutcracker",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/cultivated_pumpkin",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/cursed_scarlet_ornate_glass_pane",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/dark_grid",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/dark_ice",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/dark_metal_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/dark_metal_deposit",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/dark_stained_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/dark_stained_glass_panel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/evil_carved_pumpkin",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/fel_soil",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/fel_soil_destructible",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/fired_black_argillite",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/fired_black_argillite_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/flaming_evil_pumpkin",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/fragile_scorched_boards",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/gnawed_bones",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/green_stained_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/green_stained_glass_panel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/hound_trap",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/infected_deepslate_diamond_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/infected_diamond_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/infernal_evil_pumpkin",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/infernal_evil_pumpkin_s",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/lifestealer_skull",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/marigolds",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/mesh_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/mossy_black_argillite_brick",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/mossy_black_argillite_brick_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/mrspumpkin_d",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/nightmare_stalker_skull",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/orange_stained_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/orange_stained_glass_panel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/pile_of_skulls",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/puddleof_stimulation",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/puddleofintoxication",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/purple_stained_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/purple_stained_glass_panel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/river_mint",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/rotten_infernal_pumpkin",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/rotten_soil",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scarlet_stained_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scarlet_stained_glass_panel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks_fence",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks_fence_gate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks_pressure_plates",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_planks_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/scorched_wood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/smoldering_scorched_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/smoldering_scorched_wood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/spiny_shell_trap",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/spooky_snowman_head",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/stained_black_argillite_brick",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/stained_black_argillite_brick_n",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/stripped_scorched_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/stripped_scorched_wood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_2003wise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_2_dling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_carrion",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_d_4rkdevilx",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_dark_titan_066",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_derivas",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_euthymia",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_feral",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_fubuki_banzai",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_memesus",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_mike_rory",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_nino_4416",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_orion",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_petasi",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_plug",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_rotborne",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_somfunambulist",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_tem_187",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/tombstone_the_gentleman_frog",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:blocks/webbed_cobblestone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/baby_spider",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/barrel_zombie",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/bloody_gadfly",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/bone_imp",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/bone_imp_2",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/bonescaller",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/bonescaller_not_despawn",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/corpse_fish",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/corpse_fly",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/dark_vortex",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/decrepit_skeleton",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/diamond_termite",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/dire_hound_leader",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/door_knight",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/door_knight_not_despawn",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/dread_hound",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/dread_hound_not_despawn",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/fallen_chaos_knight",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/firelight",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/glutton_fish",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/infernal_spirit",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/krampus",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/krampus_henchman",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/lifestealer_true_form",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/lord_pumpkinhead_head",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/maggot",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/missionary_raider",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/missioner",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/mother_spider",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/mr_pumpkin",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/nightmare_stalker",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/phantom_creeper_copy",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/pumpkin_bruiser",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/pumpkin_dunce",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/pumpkin_spirit",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/pumpkinhead",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/restless_spirit",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/seared_spirit",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/seared_spirit_not_despawn",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/senor_pumpkin",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/skeleton_demoman",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/skeleton_thrasher",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/skeleton_thrasher_not_despawn",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/spirit_guide",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/spiritof_chaos",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/supreme_bonescaller_stage_2",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/swarmer",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/thornshell_crab",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/zombie_bruiser",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/zombie_clown",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/zombie_clown_not_despawn",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/zombie_fisherman",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:entities/zombie_lumberjack",
+			"data": {
+				"Type": "entity"
+			}
+		}
+	]
+}

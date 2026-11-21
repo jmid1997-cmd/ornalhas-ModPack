@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pv:dungeon/gloom_dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pv:dungeon/hard_dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pv:dungeon/sculk_dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

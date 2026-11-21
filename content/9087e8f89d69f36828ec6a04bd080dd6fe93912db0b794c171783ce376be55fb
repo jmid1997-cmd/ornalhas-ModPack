@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cataclysm_of_chaos:chests/cataclysm_cache_farm",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_of_chaos:chests/cataclysm_cache_firewell",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_of_chaos:chests/cataclysm_cache_lower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_of_chaos:chests/cataclysm_cache_upper",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_of_chaos:chests/chaos_cache",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

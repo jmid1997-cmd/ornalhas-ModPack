@@ -1,0 +1,332 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_amphora"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_balm"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_carving"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_hyeroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_parchment"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_parchment_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_rock_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_rock_stair"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_rock_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ancient_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ankh_cross"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:beetle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:bointful_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:boulders_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:bountiful_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:carved_acacia"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:cat_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:curse_of_the_pharaoh"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:cursed_pharaoh_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:dark_shaman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:death_caller"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:dream_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:druid_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:drum"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:energy_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ent_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:eye_of_protection"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:feather_of_ligthness"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:flabellum"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:forest_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:fragmented_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:gargoyle"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:gargoyle_entity_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:guard_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:guard_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:hardshell_nut"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:head_harvester"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:healing_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ice_bound_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ice_bound_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:lotus_of_purification"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:mandrake"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:mask_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:mummy_cat"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:mummy_cat_entity_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:murmurs_of_ashes_and_fetishes"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:pestilence_bomb_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:poisonous_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:projection_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:rage_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:reanimated_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:resurrected_guard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:resurrection_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:root_pain"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:rooting_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:runed_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:sarcophagus"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:savage_druid_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:scaranb_of_rebirth"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:screaming_mandrake_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:sculpted_acacia"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:seeds_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:silkroute_trader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:silver_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:tomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:trunk_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:voodo_doll"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:warlock_arm"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:warlock_clone_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:warlock_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:warlock_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:warlock_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:warlock_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:warlock_sword"
+		}
+	]
+}

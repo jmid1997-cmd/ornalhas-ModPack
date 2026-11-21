@@ -1,0 +1,1470 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cataclysm:abyssal_egg",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:altar_of_abyss",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:altar_of_amethyst",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:altar_of_fire",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:altar_of_void",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:ancient_metal_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:aptrgangr_head",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:aptrgangr_wall_head",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_cindaria",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_clawdian",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_empty",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_harvest",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_hippocamtus",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_sea",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_smithing",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_thunder",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_underworld",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_urchinkin",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_mural_wisdom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_pillar_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:azure_seastone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:black_steel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:black_steel_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:black_steel_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:blackstone_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:boss_respawner",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chiseled_azure_seastone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chiseled_azure_seastone_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chiseled_azure_seastone_pillar_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chiseled_end_stone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chiseled_obsidian_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chiseled_purpur_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chiseled_stone_brick_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chorus_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chorus_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chorus_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chorus_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chorus_stem",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:chorus_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:cursed_tombstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:cursium_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_cindaria_1",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_cindaria_2",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_cindaria_3",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_cindaria_4",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_clawdian_1",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_clawdian_2",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_clawdian_3",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_clawdian_4",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_hippocamtus_1",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_hippocamtus_2",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_hippocamtus_3",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_hippocamtus_4",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_1",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_2",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_3",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_4",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_5",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_6",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_7",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_8",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_scylla_9",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:curved_azure_seastone_urchinkin",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:door_of_seal",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:draugr_head",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:draugr_wall_head",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:dungeon_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:emp",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:end_stone_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:end_stone_teleport_trap_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:enderite_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:frosted_stone_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:frosted_stone_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:frosted_stone_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:frosted_stone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:goddess_statue",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:ignitium_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:kobolediator_skull",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:kobolediator_wall_skull",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:mechanical_fusion_anvil",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:obsidian_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:obsidian_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:obsidian_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:obsidian_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:obsidian_explosion_trap_bricks",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:obsidian_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:obsidian_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:pointed_icicle",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_azure_seastone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_azure_seastone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_azure_seastone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_azure_seastone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_end_stone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_end_stone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_end_stone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_obsidian",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_obsidian_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_obsidian_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_obsidian_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:polished_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:prismarine_brick_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:prismarine_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:purpur_tile_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:purpur_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:purpur_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:purpur_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:purpur_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:purpur_void_rune_trap_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:purpur_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:quartz_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:sandstone_falling_trap",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:sandstone_ignite_trap",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:sandstone_poison_dart_trap",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:stone_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:stone_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:stone_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:stone_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:stone_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:void_crystal",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:void_infused_end_stone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:void_lantern_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:void_purpur_tiles",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:void_stone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm:witherite_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

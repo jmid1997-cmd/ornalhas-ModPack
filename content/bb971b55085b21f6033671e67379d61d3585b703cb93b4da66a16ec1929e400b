@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom:icon_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:paxel_blocks"
+		}
+	]
+}

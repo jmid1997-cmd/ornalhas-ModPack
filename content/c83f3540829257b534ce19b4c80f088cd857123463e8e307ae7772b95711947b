@@ -1,0 +1,8 @@
+{
+  // Quest menu layout for all players. Allowed values: "list" or "graph".
+  "quest_view": "list",
+  // Quest source. Allowed values: "DATAPACK_BASED" or "CONFIG_BASED". Modpacks should run /vuequests export, then use "CONFIG_BASED" to distribute quests in config/vuequests/.
+  "quest_loader": "DATAPACK_BASED",
+  // Keep shared quest and objective progress when leaving a team. Personal progress and already claimed rewards are always preserved.
+  "keep_team_progress_on_leave": true
+}

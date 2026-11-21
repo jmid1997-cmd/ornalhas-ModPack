@@ -1,0 +1,14 @@
+{
+  "hudDisplayEnabled": true,
+  "disableCodexBook": false,
+  "disableInventoryCodexBook": false,
+  "disableSkillsAndAbilities": false,
+  "blockAbilitySwitching": false,
+  "blockUpgradeDowngrade": false,
+  "blockOpenSkillsAbilitiesPanel": false,
+  "disabledSkills": [],
+  "disabledSkillMasteries": [],
+  "disabledAbilities": [],
+  "disabledAbilityMasteries": [],
+  "hudPosition": "bottom-right"
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "irons_lib:player_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_lib:transmog_table"
+		}
+	]
+}

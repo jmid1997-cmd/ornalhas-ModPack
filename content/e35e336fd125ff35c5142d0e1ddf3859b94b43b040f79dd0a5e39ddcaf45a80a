@@ -1,0 +1,254 @@
+{
+	autofocus_id: "212D2C95386CE88D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_08"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:feather"
+	}
+	id: "6188E1AB0F95E53A"
+	images: [ ]
+	order_index: 40
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["7A113DF848FC7E81"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "212D2C95386CE88D"
+			rewards: [{
+				id: "7870AE84E1BBF32A"
+				team_reward: false
+				type: "xp"
+				xp: 160
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "aether:enter_aether"
+				criterion: ""
+				id: "34977A8B6B65D965"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["212D2C95386CE88D"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "501AC43B89E42F80"
+			rewards: [{
+				id: "330B455BA0B192BE"
+				team_reward: false
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				advancement: "aether:read_lore"
+				criterion: ""
+				id: "28D9A667EC099CD8"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["501AC43B89E42F80"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1F14D8645E8FE14F"
+			rewards: [
+				{
+					id: "32A467737A6D1692"
+					team_reward: false
+					type: "xp"
+					xp: 160
+				}
+				{
+					count: 4
+					id: "10A5A7AAF607A00C"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "aether:zanite"
+				criterion: ""
+				id: "6AA8EA30B8E3CED6"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["501AC43B89E42F80"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "50ED9B846BA03CA1"
+			rewards: [{
+				id: "6ADB77A77C118F5F"
+				team_reward: false
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				advancement: "aether:craft_altar"
+				criterion: ""
+				id: "1CEE2033A83D2D74"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"1F14D8645E8FE14F"
+				"50ED9B846BA03CA1"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "048D610C84F9FCC0"
+			rewards: [{
+				id: "775F2903B5DE4E69"
+				team_reward: false
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				advancement: "aether:enchanted_gravitite"
+				criterion: ""
+				id: "32C5DDC2FD6291C6"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["048D610C84F9FCC0"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1D2CB3643FDB2790"
+			rewards: [
+				{
+					id: "16EEF0607540B240"
+					team_reward: false
+					type: "xp"
+					xp: 160
+				}
+				{
+					count: 4
+					id: "59AB95E4125B74F5"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "aether:obtain_egg"
+				criterion: ""
+				id: "5BBDD8332F532431"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["048D610C84F9FCC0"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4395917EE69E04D5"
+			rewards: [{
+				id: "2C8605278D4F5EDB"
+				team_reward: false
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				advancement: "aether:incubate_moa"
+				criterion: ""
+				id: "205FC01E77479A40"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"48170FE45C771431"
+				"5C795D64013C76AB"
+				"1D2CB3643FDB2790"
+				"4395917EE69E04D5"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0AEB4D4BF59C69F2"
+			rewards: [{
+				id: "057141E74EC8249B"
+				team_reward: false
+				type: "xp"
+				xp: 240
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "149393C0551CBE6C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"48170FE45C771431"
+				"5C795D64013C76AB"
+				"1D2CB3643FDB2790"
+				"4395917EE69E04D5"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3A495FA18F01416B"
+			rewards: [{
+				id: "69F0A57D9DE41EB1"
+				team_reward: false
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				advancement: "aether:gravitite_armor"
+				criterion: ""
+				id: "41F1A5CEBB9051D3"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+	]
+}

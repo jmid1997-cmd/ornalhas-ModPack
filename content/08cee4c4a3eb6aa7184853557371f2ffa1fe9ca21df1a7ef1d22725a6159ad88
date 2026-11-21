@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "chickenchunks:blocks/chunk_loader",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "chickenchunks:blocks/spot_loader",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

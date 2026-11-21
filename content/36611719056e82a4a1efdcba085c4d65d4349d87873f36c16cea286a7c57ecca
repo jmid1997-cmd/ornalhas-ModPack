@@ -1,0 +1,395 @@
+[general]
+	#Multiplier applied to every perk's XP-level cost, on top of the per-perk
+	#costs below (1.0 = per-perk cost as-is)
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	costMultiplier = 1.0
+	#Fraction of the XP levels spent on perks that a respec (/perks reset)
+	#refunds - 0.8 = 80%, 0.0 = nothing
+	# Default: 0.8
+	# Range: 0.0 ~ 1.0
+	respecRefundFraction = 0.8
+	#Allow non-op players to run /perks reset on themselves
+	allowSelfRespec = true
+
+[costs]
+	#Base XP-level cost of each perk, before costMultiplier.
+	#Also settable in-game with /perks cost <perk> <levels>.
+	# Default: 20
+	# Range: 0 ~ 100000
+	magma_ward = 20
+	# Default: 20
+	# Range: 0 ~ 100000
+	safety_net = 20
+	# Default: 35
+	# Range: 0 ~ 100000
+	soulbound_idol = 35
+	# Default: 25
+	# Range: 0 ~ 100000
+	blessed_idol = 25
+	# Default: 30
+	# Range: 0 ~ 100000
+	reflect = 30
+	# Default: 25
+	# Range: 0 ~ 100000
+	shield_reflect = 25
+	# Default: 15
+	# Range: 0 ~ 100000
+	toughness = 15
+	# Default: 20
+	# Range: 0 ~ 100000
+	hard_won = 20
+	# Default: 30
+	# Range: 0 ~ 100000
+	second_wind = 30
+	# Default: 20
+	# Range: 0 ~ 100000
+	bulwark = 20
+	# Default: 50
+	# Range: 0 ~ 100000
+	executioner = 50
+	# Default: 15
+	# Range: 0 ~ 100000
+	sure_footed = 15
+	# Default: 20
+	# Range: 0 ~ 100000
+	swift = 20
+	# Default: 30
+	# Range: 0 ~ 100000
+	water_walking = 30
+	# Default: 30
+	# Range: 0 ~ 100000
+	double_jump = 30
+	# Default: 35
+	# Range: 0 ~ 100000
+	lava_walking = 35
+	# Default: 25
+	# Range: 0 ~ 100000
+	sprint_walking = 25
+	# Default: 20
+	# Range: 0 ~ 100000
+	animal_tamer = 20
+	# Default: 25
+	# Range: 0 ~ 100000
+	night_runner = 25
+	# Default: 30
+	# Range: 0 ~ 100000
+	pack_master = 30
+	# Default: 25
+	# Range: 0 ~ 100000
+	mount_speed = 25
+	# Default: 30
+	# Range: 0 ~ 100000
+	pack_blessing = 30
+	# Default: 25
+	# Range: 0 ~ 100000
+	water_strider = 25
+	# Default: 30
+	# Range: 0 ~ 100000
+	pack_mending = 30
+	# Default: 20
+	# Range: 0 ~ 100000
+	angler = 20
+	# Default: 20
+	# Range: 0 ~ 100000
+	excavator = 20
+	# Default: 20
+	# Range: 0 ~ 100000
+	green_thumb = 20
+	# Default: 20
+	# Range: 0 ~ 100000
+	iron_lungs = 20
+	# Default: 30
+	# Range: 0 ~ 100000
+	lumberjack = 30
+	# Default: 20
+	# Range: 0 ~ 100000
+	rancher = 20
+	# Default: 20
+	# Range: 0 ~ 100000
+	emergency_rations = 20
+	# Default: 25
+	# Range: 0 ~ 100000
+	captain = 25
+	# Default: 20
+	# Range: 0 ~ 100000
+	clean_teleport = 20
+	# Default: 20
+	# Range: 0 ~ 100000
+	impact_guard = 20
+	# Default: 20
+	# Range: 0 ~ 100000
+	reach = 20
+	# Default: 20
+	# Range: 0 ~ 100000
+	railrider = 20
+	# Default: 25
+	# Range: 0 ~ 100000
+	blacksmith = 25
+
+[magma_ward]
+	#Cooldown, in seconds, between Magma Ward activations
+	#(also settable in-game with /perks cooldown magma_ward <minutes>)
+	# Default: 600
+	# Range: 0 ~ 100000
+	cooldownSeconds = 600
+	#Fire Resistance granted when Magma Ward triggers, in seconds
+	# Default: 5
+	# Range: 0 ~ 600
+	fireResSeconds = 5
+	#Horizontal radius (in blocks) of lava converted to obsidian around your feet
+	# Default: 1
+	# Range: 0 ~ 4
+	radius = 1
+	#Chance Reflect turns an incoming ranged hit into damage on the attacker
+	#instead of you - Shield Reflect makes this 100% while you're actively
+	#blocking with a shield, regardless of this value
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	reflectChance = 0.15
+
+[safety_net]
+	#Cooldown, in seconds, between Safety Net void rescues
+	#(also settable in-game with /perks cooldown safety_net <minutes>)
+	# Default: 600
+	# Range: 0 ~ 100000
+	cooldownSeconds = 600
+
+[idol]
+	#Consume one Warding Idol when it saves you from death
+	consumedOnUse = true
+	#Base idol Regeneration duration, seconds
+	# Default: 45
+	# Range: 0 ~ 600
+	regenSeconds = 45
+	#Base idol Regeneration amplifier (0 = level I)
+	# Default: 1
+	# Range: 0 ~ 10
+	regenAmplifier = 1
+	#Base idol Fire Resistance duration, seconds
+	# Default: 40
+	# Range: 0 ~ 600
+	fireResSeconds = 40
+	#Base idol Absorption amplifier (0 = level I)
+	# Default: 1
+	# Range: 0 ~ 10
+	absorptionAmplifier = 1
+	#Blessed Idol Regeneration duration, seconds
+	# Default: 25
+	# Range: 0 ~ 600
+	blessedRegenSeconds = 25
+	#Blessed Idol Regeneration amplifier (2 = level III)
+	# Default: 2
+	# Range: 0 ~ 10
+	blessedRegenAmplifier = 2
+	#Blessed Idol Resistance duration, seconds
+	# Default: 20
+	# Range: 0 ~ 600
+	blessedResistanceSeconds = 20
+	#Blessed Idol Resistance amplifier (1 = level II)
+	# Default: 1
+	# Range: 0 ~ 10
+	blessedResistanceAmplifier = 1
+	#Blessed Idol Absorption amplifier (3 = level IV)
+	# Default: 3
+	# Range: 0 ~ 10
+	blessedAbsorptionAmplifier = 3
+
+[vitality]
+	#Extra max health added per rank of Toughness (4.0 = 2 hearts)
+	# Default: 4.0
+	# Range: 0.0 ~ 100.0
+	healthPerRank = 4.0
+	#Cooldown, in seconds, between Second Wind activations
+	#(also settable in-game with /perks cooldown second_wind <minutes>)
+	# Default: 600
+	# Range: 0 ~ 100000
+	secondWindCooldownSeconds = 600
+	#Second Wind triggers when a hit leaves you at or below this much health (6.0 = 3 hearts)
+	# Default: 6.0
+	# Range: 1.0 ~ 40.0
+	secondWindThresholdHealth = 6.0
+	# Default: 5
+	# Range: 0 ~ 600
+	secondWindRegenSeconds = 5
+	# Default: 1
+	# Range: 0 ~ 10
+	secondWindRegenAmplifier = 1
+	# Default: 1
+	# Range: 0 ~ 10
+	secondWindAbsorptionAmplifier = 1
+	#Per-hit chance Bulwark completely negates an incoming hit (0.02 = 2%) -
+	#does not apply to damage that bypasses invulnerability (/kill, void, etc.)
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	bulwarkNegateChance = 0.02
+	#Per-hit chance Executioner instantly kills whatever you're attacking
+	#(0.01 = 1%) - applies to any damage you personally deal
+	# Default: 0.01
+	# Range: 0.0 ~ 1.0
+	executionerChance = 0.01
+	#Extra block and entity interaction range added per rank of Reach, in blocks
+	# Default: 1.0
+	# Range: 0.0 ~ 20.0
+	reachPerRank = 1.0
+
+[agility]
+	#Movement speed increase per rank of Swift (0.05 = +5%)
+	# Default: 0.05
+	# Range: 0.0 ~ 2.0
+	speedFractionPerRank = 0.05
+	#Fraction of fall damage removed by Sure-Footed
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	fallDamageReduction = 0.5
+	#Duration of the Night Vision granted by Night Runner on a kill in a spot dark enough for monsters to spawn, seconds
+	# Default: 300
+	# Range: 0 ~ 6000
+	nightRunnerDurationSeconds = 300
+	#Double Jump's mid-air jump impulse, as a fraction of your current jump strength
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	doubleJumpPowerFraction = 1.0
+	#How long you must be airborne before Double Jump can trigger, in ticks
+	#(20 ticks = 1 second) - keeps a normal ground jump from being misread as the
+	#mid-air jump on its very first instant, and gives a brief unstable window
+	#right after liftoff (where the jump-key state can blip) time to settle before
+	#it's ever checked
+	# Default: 6
+	# Range: 0 ~ 100
+	doubleJumpDelayTicks = 6
+	#How many consecutive ticks the jump key must read as released before a fresh
+	#press is allowed to count as the Double Jump trigger, in ticks (20 ticks = 1
+	#second) - without this, a single-tick blip in the reported key state (which
+	#happens on real connections) can look like a release-then-press and fire an
+	#accidental Double Jump off of one continuous hold
+	# Default: 4
+	# Range: 0 ~ 40
+	doubleJumpMinReleaseTicks = 4
+	#Minecart speed increase from Railrider while riding one (0.3 = up to +30% top speed)
+	# Default: 0.3
+	# Range: 0.0 ~ 5.0
+	railriderSpeedBonus = 0.3
+
+[beastmastery]
+	#Extra flat chance Animal Tamer adds to taming a wolf/cat/parrot, on top of the
+	#normal vanilla odds (this is rolled as a separate bonus attempt first)
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	animalTamerBonusChance = 0.35
+	#Chance, each animalTamerSpawnIntervalSeconds, that Animal Tamer spawns a wild
+	#tameable animal near you
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	animalTamerSpawnChance = 0.5
+	#How often Animal Tamer rolls its spawn-a-friend chance, in seconds
+	# Default: 45
+	# Range: 1 ~ 100000
+	animalTamerSpawnIntervalSeconds = 45
+	#Max horizontal distance from you Animal Tamer will spawn an animal, in blocks
+	# Default: 12
+	# Range: 3 ~ 64
+	animalTamerSpawnRadius = 12
+	#Movement speed increase from Pack Master (0.20 = +20%)
+	# Default: 0.2
+	# Range: 0.0 ~ 2.0
+	packMasterSpeedBonus = 0.2
+	#Minimum nearby tamed pets (owned by you, not sitting) for Pack Master to have
+	#them focus your target together
+	# Default: 5
+	# Range: 1 ~ 50
+	packMasterMinPets = 5
+	#Radius, in blocks, Pack Master searches for your pets and nearby hostiles
+	# Default: 24.0
+	# Range: 4.0 ~ 128.0
+	packMasterRadius = 24.0
+	#Mount movement speed increase per rank of Mount Speed (0.08 = +8% per rank,
+	#so +40% at rank 5) - applies to whatever living mount you're currently riding
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	mountSpeedFractionPerRank = 0.08
+	#Health healed per rank of Pack Mending, each packMendingIntervalTicks, to
+	#every tamed pet following you nearby (same radius as Pack Master)
+	# Default: 0.5
+	# Range: 0.0 ~ 20.0
+	packMendingHealPerRank = 0.5
+	#How often Pack Mending heals nearby pets, in ticks (20 = 1 second)
+	# Default: 40
+	# Range: 1 ~ 2000
+	packMendingIntervalTicks = 40
+
+[homestead]
+	#How much faster fish bite with Angler (0.3 = bites take 30% less time)
+	# Default: 0.3
+	# Range: 0.0 ~ 0.95
+	anglerBiteSpeedFraction = 0.3
+	#Luck attribute bonus from Angler - vanilla fishing loot already reads Luck,
+	#so this alone improves your treasure/junk odds with no extra loot-table code
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	anglerLuckBonus = 2.0
+	#Added to the player.block_break_speed attribute by Excavator (base 1.0, so
+	#0.5 here means blocks break 50% faster)
+	# Default: 0.5
+	# Range: 0.0 ~ 20.0
+	excavatorBreakSpeedBonus = 0.5
+	#Added to the generic.oxygen_bonus attribute by Iron Lungs - each point gives a
+	#1/(bonus+1) chance to not lose a point of air on a given underwater tick (same
+	#mechanic Respiration uses), so higher values give diminishing but real returns
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	ironLungsOxygenBonus = 3.0
+	#Minimum time between Emergency Rations triggers, seconds - it can fire again
+	#if your hunger is still empty once this expires
+	#(also settable in-game with /perks cooldown emergency_rations <minutes>)
+	# Default: 600
+	# Range: 0 ~ 100000
+	emergencyRationsCooldownSeconds = 600
+	#How many cooked beef Emergency Rations gives you per trigger
+	# Default: 1
+	# Range: 1 ~ 64
+	emergencyRationsAmount = 1
+	#Boat speed increase from Captain while riding one (0.3 = up to +30% top speed)
+	# Default: 0.3
+	# Range: 0.0 ~ 5.0
+	captainSpeedBonus = 0.3
+	#Safety cap on how many connected log blocks Lumberjack will chain-break at once
+	# Default: 96
+	# Range: 1 ~ 1024
+	lumberjackMaxBlocks = 96
+	#Lumberjack also breaks the leaves attached to a felled tree, not just the logs
+	lumberjackBreakLeaves = true
+	#Per-tile chance, each greenThumbIntervalTicks, that Green Thumb bonemeals a
+	#valid nearby crop
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	greenThumbChance = 0.15
+	#Horizontal radius, in blocks, Green Thumb scans around you for crops
+	# Default: 8
+	# Range: 1 ~ 32
+	greenThumbRadius = 8
+	#How often Green Thumb re-scans for crops to grow, in ticks (20 = 1 second)
+	# Default: 40
+	# Range: 1 ~ 2000
+	greenThumbIntervalTicks = 40
+	#How many seconds of growth Rancher grants a nearby baby animal each
+	#rancherIntervalTicks (baby animals mature over 20 real minutes by default, so
+	#this is a meaningful chunk of that per tick of the timer)
+	# Default: 5
+	# Range: 0 ~ 6000
+	rancherAgeUpSeconds = 5
+	#Radius, in blocks, Rancher searches around you for baby animals
+	# Default: 12.0
+	# Range: 1.0 ~ 64.0
+	rancherRadius = 12.0
+	#How often Rancher ages up nearby babies, in ticks (20 = 1 second)
+	# Default: 60
+	# Range: 1 ~ 2000
+	rancherIntervalTicks = 60
+	#Fraction of the XP levels actually taken by an anvil repair/combine/rename that
+	#Blacksmith refunds (0.3 = pay 30% less) - note this only discounts what's
+	#actually charged once you take the result out, not the displayed cost or
+	#whether you can afford to click it out in the first place
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	anvilCostReductionFraction = 0.3

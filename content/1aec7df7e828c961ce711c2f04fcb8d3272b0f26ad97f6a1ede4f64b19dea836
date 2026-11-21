@@ -1,0 +1,165 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallized_desert",
+			"data": {
+				"Color": 8349826
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dark_swamp",
+			"data": {
+				"Color": 7890120
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ether_river",
+			"data": {
+				"Color": 14417883
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:glimmer_scrubland",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grim_shore",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:icy_sea",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lucent_mycelium_isle",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lush_shallow_sea",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:permafrost_peaks",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_forest",
+			"data": {
+				"Color": 10313569
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shimmer_river",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:solaris_isles",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:spiral_kelp_forest",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_dense_forest",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_forest",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_permafrost_forest",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_taiga",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlit_sea",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlit_sky",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:the_abyss",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_forest",
+			"data": {
+				"Color": 7229604
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:umbral_plains",
+			"data": {
+				"Color": 5195923
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:warm_shore",
+			"data": {
+				"Color": 5195923
+			}
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/acacia_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/bamboo_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/birch_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/cherry_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/controller",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/controller_io",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/crimson_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/dark_oak_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/framing_table",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/jungle_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/mangrove_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/oak_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/spruce_trim",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "storagedrawers:blocks/warped_trim",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

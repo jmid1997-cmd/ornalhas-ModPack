@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "packs": {
+    "FORNANHAS": {
+      "manifest": "packs/fornanhas/1.9.15.json",
+      "sha256": "988f06fb0bfe6ba9048b0e53a9ce77ad04c781313c4157b04eb70235d9f148a9"
+    }
+  }
+}

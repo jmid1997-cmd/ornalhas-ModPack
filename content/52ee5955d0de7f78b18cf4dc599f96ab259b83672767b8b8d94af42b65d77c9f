@@ -1,0 +1,288 @@
+{
+	autofocus_id: "5FC58BA276B88648"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_antarchy"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:ender_pearl"
+	}
+	id: "0DC9D36DE0667152"
+	images: [ ]
+	order_index: 58
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5FC58BA276B88648"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "antarchy:elythia"
+				id: "380505B120CF12FA"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "55EFE826A8C7B4D8"
+			rewards: [{
+				id: "745ED75AD383B931"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:stone_cold"
+				criterion: ""
+				id: "2D446BADFA48520A"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "586BADDD7EF0F55F"
+			rewards: [{
+				id: "55968B8AAC66DB70"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:kill_toreterror"
+				criterion: ""
+				id: "2A88DAD3884D4F4E"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "60577EE9F8E2E0BF"
+			rewards: [{
+				id: "1A7C39F9E3B82F4B"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/antarchy/brutalfly"
+				criterion: ""
+				id: "622873F5B2463139"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0B47AC4D9A79DBAF"
+			rewards: [{
+				id: "2317366E0BF62045"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:bugged_out"
+				criterion: ""
+				id: "0189BBDD7D05996F"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2BC47458AA49F81E"
+			rewards: [{
+				id: "6321AE79FBD37E1F"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:davy_jones_locker"
+				criterion: ""
+				id: "1C6F18CA92F20E2E"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "45CCD722AF290C87"
+			rewards: [{
+				id: "6814E662691B0687"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:herculean_task"
+				criterion: ""
+				id: "6BF665743B463880"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4191F6F99BFE7B78"
+			rewards: [{
+				id: "720559783228A05A"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:sting_operation"
+				criterion: ""
+				id: "12B76FED1C8F06CD"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7342B824C0131FD4"
+			rewards: [{
+				id: "71AB2AEA89593812"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:sweater_dreams"
+				criterion: ""
+				id: "43176FB59130E426"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7215D9F7B16698D0"
+			rewards: [{
+				id: "58240B03ECFAEE35"
+				team_reward: false
+				type: "xp"
+				xp: 600
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:down_with_the_king"
+				criterion: ""
+				id: "0B40E957AD46A910"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FC58BA276B88648"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6FC495DC5254D045"
+			rewards: [{
+				id: "4BEBF6B8D8BE522A"
+				team_reward: false
+				type: "xp"
+				xp: 600
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "antarchy:down_with_the_queen"
+				criterion: ""
+				id: "604D9D5D7F19EAC9"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"55EFE826A8C7B4D8"
+				"586BADDD7EF0F55F"
+				"60577EE9F8E2E0BF"
+				"0B47AC4D9A79DBAF"
+				"2BC47458AA49F81E"
+				"45CCD722AF290C87"
+				"4191F6F99BFE7B78"
+				"7342B824C0131FD4"
+				"7215D9F7B16698D0"
+				"6FC495DC5254D045"
+			]
+			id: "32475928DC34CC5C"
+			rewards: [{
+				id: "07754DA9A8DFD8F0"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "3C756A0A8FA0CAFA"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+	]
+}

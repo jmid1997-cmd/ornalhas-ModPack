@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_huge",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_cyan",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_cyan_huge",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_cyan_huge_starfire_birds",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_cyan_small",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_huge",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_huge_starfire_birds",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_purple",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_purple_huge",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_purple_huge_starfire_birds",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_purple_small",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_small",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_tall",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_thin",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_starfire_birds",
+			"data": {
+				"Type": "tree"
+			}
+		}
+	]
+}

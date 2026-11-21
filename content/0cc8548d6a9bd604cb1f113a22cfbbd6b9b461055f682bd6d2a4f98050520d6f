@@ -1,0 +1,220 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ascendant:abyssal_watcher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:ashen_captain_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:ashen_insignia"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:ashen_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:boss_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:bramble_imp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:captains_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:cave_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:cinder_hound_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:dune_wraith_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:ember_bolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:ember_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:ember_tyrant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:experience_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:frost_revenant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:grave_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:gravewarden_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:hollow_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:hollow_sovereign_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:hollow_wisp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:ice_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:mire_lurker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rebirth_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_sentinel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:rift_steel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:skill_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:soul_bolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:soul_reaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:sovereigns_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:stonehide_boar_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:thorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:tyrants_cleaver"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:void_steel_sword"
+		}
+	]
+}

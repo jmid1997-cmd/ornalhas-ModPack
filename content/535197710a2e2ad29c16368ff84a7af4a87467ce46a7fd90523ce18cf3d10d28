@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:blocks/netherite_diamond_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:blocks/netherite_emerald_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:blocks/netherite_gold_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:blocks/netherite_iron_block",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:bleeding",
+			"data": {
+				"Instant": false,
+				"Color": -2271915,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:bleeding_immunity",
+			"data": {
+				"Instant": false,
+				"Color": -6750208,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:glass_regeneration",
+			"data": {
+				"Instant": false,
+				"Color": -3318613,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

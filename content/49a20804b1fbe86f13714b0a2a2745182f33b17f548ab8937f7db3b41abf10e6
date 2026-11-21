@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_aurochs_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_bone_lord_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_citadel_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_disc_silent_winter"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_drowned_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_frosty_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_lamplighter_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_monstrosity_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_overseer_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_priestess_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_shepherd_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_turnkey_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_velkhar_outro"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_velkhar_phase1"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_velkhar_phase2"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:music_velkhar_phase3"
+		}
+	]
+}

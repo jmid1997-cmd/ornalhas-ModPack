@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomper_anthem"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomper_secret"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:limax_maximus"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:mammoth"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:relict"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:astral",
+			"data": {
+				"Instant": false,
+				"Color": 12891319,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:halite_curse",
+			"data": {
+				"Instant": false,
+				"Color": 7612935,
+				"Category": "harmful"
+			}
+		}
+	]
+}

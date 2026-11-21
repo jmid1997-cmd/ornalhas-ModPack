@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "justhammers:destructor_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:diamond_destructor_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:diamond_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:diamond_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:diamond_reinforced_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:diamond_reinforced_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:gold_destructor_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:gold_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:gold_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:gold_reinforced_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:gold_reinforced_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:impact_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:iron_destructor_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:iron_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:iron_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:iron_reinforced_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:iron_reinforced_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:netherite_destructor_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:netherite_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:netherite_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:netherite_reinforced_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:netherite_reinforced_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:reinforced_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:reinforced_impact_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:stone_destructor_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:stone_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:stone_impact_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:stone_reinforced_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "justhammers:stone_reinforced_impact_hammer"
+		}
+	]
+}

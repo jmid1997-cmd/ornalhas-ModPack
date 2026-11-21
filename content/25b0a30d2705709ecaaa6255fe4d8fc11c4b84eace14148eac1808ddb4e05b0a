@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "slashblade:rewards/first",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:rewards/wood",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

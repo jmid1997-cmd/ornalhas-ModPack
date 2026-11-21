@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:autoworkbench_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:chute"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:distiller"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:flood_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:heat_exchange"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:mining_well"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:pump"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftfactory:water_gel"
+		}
+	]
+}

@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:aerondight"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:bladeof_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:bladeof_olympus"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:demon_blood_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:draupnir_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:excalibur"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:greek_wrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:hylian_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:leviathan_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:master_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:nether_star_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_hoe_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_ore_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primordium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primoridum_axe_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primoridum_pickaxe_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primoridum_shovel_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primoridum_sword_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:primoridum_universal_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:pw_icon_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:raw_pirmordium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:raw_primordium"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:scarlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:skap_slag"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:thanos_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:thanos_sword_double_edged"
+		}
+	]
+}

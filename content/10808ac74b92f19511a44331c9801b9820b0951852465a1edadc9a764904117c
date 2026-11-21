@@ -1,0 +1,77 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:forgotten_ruins",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:spider",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "galosphere:forgotten_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_shrine",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "galosphere:pink_salt_shrine"
+			}
+		}
+	]
+}

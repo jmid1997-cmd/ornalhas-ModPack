@@ -1,0 +1,311 @@
+{
+	autofocus_id: "146C0F3ED256D292"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_17"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:ender_eye"
+	}
+	id: "6FF7655A83FD17AE"
+	images: [ ]
+	order_index: 62
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["6A4AF05D71B60CEB"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "146C0F3ED256D292"
+			rewards: [{
+				id: "68FC5B2BD9B18F4B"
+				team_reward: false
+				type: "xp"
+				xp: 295
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "minecraft:story/follow_ender_eye"
+				criterion: ""
+				id: "15976E705B9D49AA"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["146C0F3ED256D292"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2122B0C48212F55A"
+			rewards: [{
+				id: "20424624837920BF"
+				team_reward: false
+				type: "xp"
+				xp: 295
+			}]
+			tasks: [{
+				advancement: "minecraft:end/root"
+				criterion: ""
+				id: "2B21A00AC4F1C743"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2122B0C48212F55A"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "13B4B15E94503C6F"
+			rewards: [
+				{
+					id: "3F620A7522163A78"
+					team_reward: false
+					type: "xp"
+					xp: 295
+				}
+				{
+					count: 4
+					id: "5069D8BFE24C9017"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "6A6DE040381FEDAB"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["13B4B15E94503C6F"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5E4713A30DD885D9"
+			rewards: [{
+				id: "4370C9C112B24F86"
+				team_reward: false
+				type: "xp"
+				xp: 295
+			}]
+			tasks: [{
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+				id: "3580AB8BA29200FC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5E4713A30DD885D9"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "059E01E69C8A8000"
+			rewards: [{
+				id: "10FDA9AB7A5FC4FD"
+				team_reward: false
+				type: "xp"
+				xp: 295
+			}]
+			tasks: [{
+				advancement: "minecraft:end/find_end_city"
+				criterion: ""
+				id: "3CBA063CD524137B"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["059E01E69C8A8000"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "355A5E384F78E77F"
+			rewards: [
+				{
+					id: "46FEB972282AE38A"
+					team_reward: false
+					type: "xp"
+					xp: 295
+				}
+				{
+					count: 4
+					id: "78718E351418575A"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:end/elytra"
+				criterion: ""
+				id: "775B75D78AC9F5C5"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["355A5E384F78E77F"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "76A748D1D1C06C22"
+			rewards: [{
+				id: "7B7064D7F9ADAC7A"
+				team_reward: false
+				type: "xp"
+				xp: 295
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_ruined_citadel"
+				criterion: ""
+				id: "7984E8A7880FE504"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["76A748D1D1C06C22"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4AE45B6D9645CA94"
+			rewards: [{
+				id: "2475A8B353FB8D98"
+				team_reward: false
+				type: "xp"
+				xp: 295
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_ender_golem"
+				criterion: ""
+				id: "5252881E8894D1BA"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"386AA52AE7A4FA18"
+				"4AE45B6D9645CA94"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "31142FA04A750C6D"
+			rewards: [{
+				id: "56333E8B19F2ECC1"
+				team_reward: false
+				type: "xp"
+				xp: 442
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "minecraft:end/respawn_dragon"
+				criterion: ""
+				id: "08951EF3D4CB7A6E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["13B4B15E94503C6F"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "275F9090CB4D6E42"
+			rewards: [{
+				id: "2CD0BB9793AAD1A5"
+				team_reward: false
+				type: "xp"
+				xp: 295
+			}]
+			tasks: [{
+				advancement: "minecraft:end/dragon_breath"
+				criterion: ""
+				id: "25DCEBC33B837D99"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"355A5E384F78E77F"
+				"386AA52AE7A4FA18"
+				"4AE45B6D9645CA94"
+				"275F9090CB4D6E42"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7DACCD6F1E4082BD"
+			rewards: [
+				{
+					id: "41469102E90DAA76"
+					team_reward: false
+					type: "xp"
+					xp: 590
+				}
+				{
+					count: 2
+					id: "757D357DACC7FC36"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				consume_items: false
+				count: 2L
+				id: "6E5F549E09C66C0D"
+				item: { count: 1, id: "minecraft:shulker_box" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

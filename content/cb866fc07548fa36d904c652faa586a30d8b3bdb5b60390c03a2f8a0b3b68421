@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:stardew_valley_dance_of_the_moonlight_jellies"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:stardew_valley_the_wind_can_be_still"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_boss_music_1"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom:doom_hell",
+			"data": {
+				"Color": -13421773
+			}
+		}
+	]
+}

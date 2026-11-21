@@ -1,0 +1,28 @@
+# CoolCatLib client settings
+
+# Whether config screens use their dark or light colors (the sun/moon button in their top bar).
+# Allowed values: DARK, LIGHT
+# Default: DARK
+themeMode = "DARK"
+
+# The config screens' background, for every mod
+[background]
+# Scales how strongly each mod's backdrop color covers the background, in percent: 0 removes it, 200 doubles it.
+# Range: 0 ~ 200
+# Default: 100
+backgroundOpacity = 100
+
+# Scales the opacity of each mod's background texture, in percent; below 100 the panorama or world shows through it.
+# Range: 0 ~ 100
+# Default: 100
+textureOpacity = 100
+
+# Animations in the config screens, for every mod (always off on the Fast graphics preset)
+[effects]
+# Each mod's animated effects: by default soft glows and small falling stars behind the panels, shifting with the mouse.
+# Default: true
+themeEffects = true
+
+# Pages gliding into place when you open a config or go back.
+# Default: true
+transitions = true

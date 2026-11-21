@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_amphora",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_brick",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_carving",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_hyeroglyph",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_jar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_pillar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_rock_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_rock_stair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_rock_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_tile",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/ancient_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/carved_acacia",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/gargoyle",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/mummy_cat",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/runed_stone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/sarcophagus",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/sculpted_acacia",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/seeds_jar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blocks/tomb",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

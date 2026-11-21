@@ -1,0 +1,326 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/ancient_seed_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/ancient_seed_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/ancient_seed_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/ancient_seed_stage_3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/ancient_seed_stage_4",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/blueberry_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/blueberry_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/blueberry_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/blueberry_stage_3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/cauliflower_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/cauliflower_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/cauliflower_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/cauliflower_stage_3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/corn_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/corn_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/corn_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/corn_stage_3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/cranberry_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/cranberry_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/cranberry_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/garlic_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/garlic_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/garlic_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/hot_pepper_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/hot_pepper_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/hot_pepper_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/iridium_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/kyber_crystal_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/parsnip_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/parsnip_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/parsnip_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/starfruit_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/starfruit_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/starfruit_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/starfruit_stage_3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/starfruit_stage_4",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/strawberry_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/strawberry_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/strawberry_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/strawberry_stage_3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/tomato_stage_0",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/tomato_stage_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/tomato_stage_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blocks/tomato_stage_3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:entities/elf",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:entities/longbeard_dwarf",
+			"data": {
+				"Type": "entity"
+			}
+		}
+	]
+}

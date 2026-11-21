@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trashcans:energy_trash_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "trashcans:item_trash_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "trashcans:liquid_trash_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "trashcans:ultimate_trash_can"
+		}
+	]
+}

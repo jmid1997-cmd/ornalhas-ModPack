@@ -1,0 +1,120 @@
+{
+	autofocus_id: "307DEEF13F17ED0E"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_profundezas"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:iron_pickaxe"
+	}
+	id: "11D0D88AEF7CB2D8"
+	images: [ ]
+	order_index: 44
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["38055FB114F8CD4C"]
+			id: "307DEEF13F17ED0E"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				id: "40D9A6828B437C51"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["307DEEF13F17ED0E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "42F4D2AE4CAA6AAF"
+			rewards: [{
+				id: "11825255736F7476"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "undergarden:undergarden/kill_forgotten_guardian"
+				criterion: ""
+				id: "2B1C3988841D14B1"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["307DEEF13F17ED0E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7F55A3636930B226"
+			rewards: [{
+				id: "59189D060C233DD5"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "deeperdarker:main/kill_warden"
+				criterion: ""
+				id: "13645EA471FE9FFA"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["307DEEF13F17ED0E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6382925609E16F85"
+			rewards: [{
+				id: "2E8A7EE97C225C49"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/profundezas/stalker"
+				criterion: ""
+				id: "1C541057504389C7"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"42F4D2AE4CAA6AAF"
+				"7F55A3636930B226"
+				"6382925609E16F85"
+			]
+			id: "258CB335E692D8E0"
+			rewards: [{
+				id: "635CE739D35B00EE"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "2ACA9EF2C9050965"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

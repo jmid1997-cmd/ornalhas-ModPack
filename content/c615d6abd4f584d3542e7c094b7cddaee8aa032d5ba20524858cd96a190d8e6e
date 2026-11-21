@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:dark_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fel_soil_destructible"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:puddleof_stimulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:puddleofintoxication"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "modern_industrialization:barrels"
+		},
+		{
+			"weight": 1.0,
+			"key": "modern_industrialization:tanks"
+		},
+		{
+			"weight": 1.0,
+			"key": "modern_industrialization:transparent_pipe_camouflage"
+		}
+	]
+}

@@ -1,0 +1,347 @@
+{
+	autofocus_id: "19399B8A5DDBAFAB"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_02"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:filled_map"
+	}
+	id: "5F71F180FCD27BD2"
+	images: [ ]
+	order_index: 7
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["0CB4389D89065FEC"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "19399B8A5DDBAFAB"
+			rewards: [{
+				id: "0C839412DEF2FE48"
+				team_reward: false
+				type: "xp"
+				xp: 70
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "748734CA9F9C7EDD"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["19399B8A5DDBAFAB"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "51BE2C5A0BACD61F"
+			rewards: [{
+				id: "0E9C55D9345C04E8"
+				team_reward: false
+				type: "xp"
+				xp: 70
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "3A495C6D2CDE901F"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["51BE2C5A0BACD61F"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "172081A60F221C88"
+			rewards: [
+				{
+					id: "0172559CE506A3C1"
+					team_reward: false
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 4
+					id: "1D8DCDEB9F79DCA1"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				id: "56F6C50C985031DC"
+				item: { count: 1, id: "minecraft:map" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["51BE2C5A0BACD61F"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "05005D5A04197B1A"
+			rewards: [{
+				id: "248357BBC56B12EA"
+				team_reward: false
+				type: "xp"
+				xp: 70
+			}]
+			tasks: [{
+				consume_items: false
+				id: "0CDE31712C2CDFCB"
+				item: { count: 1, id: "minecraft:spyglass" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"172081A60F221C88"
+				"05005D5A04197B1A"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "688F3B09C415F64E"
+			rewards: [{
+				id: "19E2B7A179312623"
+				team_reward: false
+				type: "xp"
+				xp: 70
+			}]
+			tasks: [{
+				consume_items: false
+				id: "16E2CD680FCBD7AC"
+				item: { count: 1, id: "minecraft:oak_boat" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["688F3B09C415F64E"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "703E84CB577CC4C6"
+			rewards: [
+				{
+					id: "02AB1A9274AF028C"
+					team_reward: false
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 4
+					id: "50C09AED0BE5BA8D"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_seed"
+				criterion: ""
+				id: "20BFF7490420AB72"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["688F3B09C415F64E"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5CF7F8B0FE97B773"
+			rewards: [{
+				id: "613C5708FF68F92C"
+				team_reward: false
+				type: "xp"
+				xp: 70
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/fishy_business"
+				criterion: ""
+				id: "0BEAF8EF7AD37BB7"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"703E84CB577CC4C6"
+				"5CF7F8B0FE97B773"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3ECF0A39A69F76A7"
+			rewards: [{
+				id: "1D194ABCE32FA835"
+				team_reward: false
+				type: "xp"
+				xp: 70
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/salvage_sherd"
+				criterion: ""
+				id: "16B0CE75239020C9"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3ECF0A39A69F76A7"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7BF81F95F865BA0B"
+			rewards: [
+				{
+					id: "0A0A1A455589B3B1"
+					team_reward: false
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 4
+					id: "2B04D5D4C69130DC"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:husbandry/tame_an_animal"
+				criterion: ""
+				id: "3BAE47572C51B343"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7BF81F95F865BA0B"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7B7C499DBE78DE3B"
+			rewards: [{
+				id: "65BA57F6B5DBC857"
+				team_reward: false
+				type: "xp"
+				xp: 105
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "08DA31C461A4F320"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7BF81F95F865BA0B"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "311E78366E932837"
+			rewards: [{
+				id: "3D46B6E03BFACE7A"
+				team_reward: false
+				type: "xp"
+				xp: 70
+			}]
+			tasks: [{
+				consume_items: false
+				id: "79ACA06FBD905D4A"
+				item: { count: 1, id: "minecraft:name_tag" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"7BF81F95F865BA0B"
+				"311E78366E932837"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7ABBB75FEE162C53"
+			rewards: [
+				{
+					id: "0012E1F48D1C7A1D"
+					team_reward: false
+					type: "xp"
+					xp: 140
+				}
+				{
+					count: 2
+					id: "4193A68F99AFB564"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				consume_items: false
+				id: "7EEC863C3EDEBA37"
+				item: { count: 1, id: "minecraft:saddle" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

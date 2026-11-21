@@ -1,0 +1,74 @@
+{
+	"biomes": [
+		"minecraft:default"
+	],
+	"rule": {
+		"type": "minecraft:sequence",
+		"sequence": [
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "minecraft:blackstone"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "minecraft:blackstone"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "minecraft:blackstone"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "minecraft:blackstone"
+					}
+				},
+				"type": "minecraft:condition"
+			}
+		]
+	}
+}

@@ -1,0 +1,164 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:clavar"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:clavar2"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:clon"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:curasion"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:curse"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:deat-parao2"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:deat-parao3"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:deat_faprap"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ents"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:epada_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:hur_druid"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:hurt3-parao"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:hurt_paraog"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:idle-"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:idle2-parao"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:idle2druid"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:idle3-parao"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:idledruid"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:idleent"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:ildedruid"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:mandrake"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:metalic_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:omomm"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:raices"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:respirasio"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:risa"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:rokas"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:root"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:swosh_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:tronko"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:uhrt2-prao"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:vmit1-parao"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:vomit2-parao"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:vomit3_pharao"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:woosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:wosh2"
+		}
+	]
+}

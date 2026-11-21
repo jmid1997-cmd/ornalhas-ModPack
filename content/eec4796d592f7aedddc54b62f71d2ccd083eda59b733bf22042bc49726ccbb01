@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "goblintraders:goblin_trader",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "goblintraders:vein_goblin_trader",
+			"data": {
+				"Category": "creature"
+			}
+		}
+	]
+}

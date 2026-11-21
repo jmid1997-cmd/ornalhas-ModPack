@@ -1,0 +1,202 @@
+{
+	autofocus_id: "7B8F7C80449444DC"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fendas_gates_d"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:amethyst_shard"
+	}
+	id: "14A410E93E281DD2"
+	images: [ ]
+	order_index: 17
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7B8F7C80449444DC"
+			rewards: [{
+				count: 3
+				id: "500D51A6C867464E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_frozen_valley"
+				criterion: ""
+				id: "393681E79E24FCDE"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "53AEC62161091145"
+			rewards: [{
+				count: 3
+				id: "0B3F727E66066DD8"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_harpy_nest"
+				criterion: ""
+				id: "17F6A1F4832C79F2"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3A6E1BA7EF74B168"
+			rewards: [{
+				count: 3
+				id: "099284B3366B7BEE"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_kobold_fortress"
+				criterion: ""
+				id: "6C26C0A0170C50D9"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6F8B7D19A2C34675"
+			rewards: [{
+				count: 3
+				id: "02D3DE80393E72AD"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_lost_jungle"
+				criterion: ""
+				id: "506973099B22FE08"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0D9DFC9E30C82D13"
+			rewards: [{
+				count: 3
+				id: "2019FC9789709A62"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_serpent_temple"
+				criterion: ""
+				id: "7FA75B2478B00680"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"4F25A4EA9C15DAA3"
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+				"7B8F7C80449444DC"
+				"53AEC62161091145"
+				"3A6E1BA7EF74B168"
+				"6F8B7D19A2C34675"
+				"0D9DFC9E30C82D13"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "626161A9416F9AF5"
+			rewards: [{
+				count: 8
+				id: "31EF4AC4D9B7F131"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.4d
+			tasks: [{
+				id: "7A4BC273B096BCF9"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+	]
+}

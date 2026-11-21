@@ -1,0 +1,368 @@
+{
+	autofocus_id: "54ADFA75A0463A3B"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_industria_enderio"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "enderio:alloy_smelter"
+	}
+	id: "49B4076B33D10804"
+	images: [ ]
+	order_index: 24
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "54ADFA75A0463A3B"
+			rewards: [{
+				count: 8
+				id: "6DA57F5435D69655"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "654817DD67868982"
+				item: { count: 1, id: "enderio:basic_capacitor" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["54ADFA75A0463A3B"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "738DC7432DE56223"
+			rewards: [{
+				count: 2
+				id: "6CB60264E2601AC0"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "1597420FCDB1EC37"
+				item: { count: 1, id: "enderio:stirling_generator" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"54ADFA75A0463A3B"
+				"738DC7432DE56223"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1EC207D0203749B3"
+			rewards: [{
+				count: 8
+				id: "748AD3DDF94B54FA"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5475EE655FF0F8AB"
+				item: { count: 1, id: "enderio:alloy_smelter" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1EC207D0203749B3"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6C09BC1038A6F834"
+			rewards: [{
+				count: 8
+				id: "09C1FB7216FDC629"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "28893220CC49FF2F"
+				item: { count: 1, id: "enderio:energetic_alloy_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1EC207D0203749B3"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "61230A1D2117F501"
+			rewards: [{
+				count: 2
+				id: "768A2CDC3D0BF374"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "6BC677F6C173CC75"
+				item: { count: 1, id: "enderio:pulsating_alloy_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1EC207D0203749B3"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "64ED6111668B6CD3"
+			rewards: [{
+				count: 8
+				id: "5E1A545175D599F4"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "4D1DE34A8D1F463B"
+				item: { count: 1, id: "enderio:dark_steel_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"6C09BC1038A6F834"
+				"64ED6111668B6CD3"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5EAF09DF82579117"
+			rewards: [{
+				count: 8
+				id: "13F0CA5092415CF7"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "61870AE5CA45FCD7"
+				item: { count: 1, id: "enderio:sag_mill" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1EC207D0203749B3"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "037D38444B9E50F7"
+			rewards: [{
+				count: 2
+				id: "64712A6F451B9023"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "122294022AB46725"
+				item: { count: 1, id: "enderio:conduit_binder" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["037D38444B9E50F7"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5C9705561A7A4379"
+			rewards: [{
+				count: 8
+				id: "5C601BBF70878C36"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "6D9448EEBB18B323"
+				item: { count: 1, id: "enderio:conduit_probe" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"6C09BC1038A6F834"
+				"5EAF09DF82579117"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6D9C60E1115F414F"
+			rewards: [{
+				count: 8
+				id: "5DEDBC8D7028BE84"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "1CEC30145E2DC509"
+				item: { count: 1, id: "enderio:double_layer_capacitor" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6D9C60E1115F414F"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "318B9CA7F7221D09"
+			rewards: [{
+				count: 2
+				id: "11B5AC32EF84B341"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "2E0BF6C067374E69"
+				item: { count: 1, id: "enderio:octadic_capacitor" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"61230A1D2117F501"
+				"5C9705561A7A4379"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "38E79F8C39A179E6"
+			rewards: [{
+				count: 4
+				id: "10E31A8261368071"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: false
+				id: "7098F0319828E823"
+				item: { count: 1, id: "enderio:vacuum_chest" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+	]
+}

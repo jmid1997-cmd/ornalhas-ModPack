@@ -1,0 +1,59 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonend:end_castle_evoker",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonend:end_castle_evoker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonend:end_hardcastle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonend:end_hardcastle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonend:end_palace",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonend:end_palace"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonend:end_pill",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonend:end_pill"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonend:end_pyramid",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonend:end_pyramid"
+			}
+		}
+	]
+}

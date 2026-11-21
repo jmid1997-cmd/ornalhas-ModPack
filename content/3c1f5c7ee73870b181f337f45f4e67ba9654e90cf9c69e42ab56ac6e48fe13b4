@@ -1,0 +1,1460 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:ambient_fortress_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:block_boss_gate_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_bone_lord_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_bone_lord_thrown_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_grasp"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_grasp_tell"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_hands_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_ice_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_ice_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_ice_groan"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_lash"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_lash_tell"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_tide"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_tide_tell"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_drowned_lady_wail"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_awaken"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_frost_fade"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_grab"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_plate_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_plate_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_quench"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_slag_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_slag_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_forge_overseer_tongs"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frost_skeleton_collapse"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frost_skeleton_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frost_skeleton_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frost_skeleton_reform"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frost_skeleton_rise"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frost_skeleton_shatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frost_skeleton_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frost_skeleton_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frostmaw_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frostmaw_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frostmaw_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frostmaw_growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frostmaw_howl"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frostmaw_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frostmaw_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_frostmaw_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_bellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_crash"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_dizzy"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_douse"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_gallop"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_kick"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_rear"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_scrape"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_snort"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_aurochs_toss"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_avalanche"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_body_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_bomb_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_bomb_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_creak"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_emerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_heavy_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_quake"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_roar_scene"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_split"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_statue_wake"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_ice_monstrosity_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_lamplighter_freeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_lamplighter_kindle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_lamplighter_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_lamplighter_staff_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_lamplighter_whoosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_rime_priestess_book_shut"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_rime_priestess_page"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_rimeweaver_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_rimeweaver_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_rimeweaver_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_rimeweaver_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_rimeweaver_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_rimeweaver_ward"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_sentinel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_sentinel_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_sentinel_guard_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_sentinel_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_sentinel_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_sentinel_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_sentinel_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_lunge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_rise"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_deafen"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_exhale"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_gust_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_hook_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_hook_tell"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_inhale"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_snuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_split"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_wake"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_shepherd_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_shade_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_stillbow_blink"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_stillbow_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_stillbow_draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_stillbow_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_stillbow_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_stillbow_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_stillbow_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_anchor_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_anchor_rise"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_ascent"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_freeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_gale"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_melt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_orb_burst"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_shock"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_thunder"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_storm_eye_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_turnkey_keys"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_turnkey_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_vault_warden_awaken"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_vault_warden_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_vault_warden_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_vault_warden_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_vault_warden_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_vault_warden_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_vault_warden_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_vault_warden_swipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_aircut"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_armour_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_beam_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_blade_on_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_blade_shatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_blade_whirl"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_cleave"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_crown_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_cut_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_cut_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_cut_phase2"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_cut_phase3"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_cut_split"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_cut_throne"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_finale"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_forge_gather"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_forge_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_grab"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_groan"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_guard_tap"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_always"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_awaken"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_behind"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_claims"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_cold"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_confused"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_corpse"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_depths"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_disappoint"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_embrace"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_enough"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_fades"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_finished"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_forgotten"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_fortress"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_freeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_freeze_now"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_frozen"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_glacier"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_glory"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_is_that_all"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_journey"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_judge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_last"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_phase2"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_phase3"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_predictable"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_preserve"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_rest_forever"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_ruled"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_serve"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_silent"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_sowarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_too_slow"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_line_witness"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_pathetic"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_phase2"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_phase3"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_shield_bash"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_shield_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_shield_clang"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_shield_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_shield_set"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_shield_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_sword_pull"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_taunt"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_weapon_set"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_velkhar_whisper"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_whiteout_ghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_whiteout_rush"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_whiteout_shatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_whiteout_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_whiteout_stumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:entity_whiteout_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_blade_backhand"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_blade_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_blade_thrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_bone_wand_command"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_bone_wand_crumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_bone_wand_fizzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_bone_wand_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_bone_wand_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_great_backhand"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_great_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_great_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_great_thrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_bell_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_bell_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_bell_toll"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_chant"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_fizzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_mark"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_requiem"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_requiem_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_rune_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_rune_form"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_rune_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_shade_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_shade_fade"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_shade_rise"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_tide"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_hollow_staff_tide_pull"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_blades_burst"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_coronation"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_crescent"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_crescent_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_crown_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_crown_rise"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_crown_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_wrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_kingsrime_wrath_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_backstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_chains"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_chains_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_mark"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_sentinel_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_sentinel_rise"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_sentinel_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_split"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_last_watch_vigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_awaken"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_charge_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_combo"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_crescent"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_denied"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_leap"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_plunge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_stun"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:item_throne_bane_windup"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_blizzard_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_cold_heartbeat"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_crystal_chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_cutscene_title"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_cutscene_whoosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_frost_bolt_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_frost_bolt_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_frost_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_frost_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_ice_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_ice_grind"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_ice_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_ice_prison"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_ice_shatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_ice_spike_emerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_assemble"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_columns"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_current"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_doom"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_lance"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_orbs"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_uproot"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:misc_spell_wards"
+		}
+	]
+}

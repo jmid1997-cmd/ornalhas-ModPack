@@ -1,0 +1,220 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "darkutils:alert_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:anchor_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:bane_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:blank_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:charm_gluttony"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:charm_pride"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:charm_sloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:damage_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:damage_plate_maim"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:damage_plate_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:darkness_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:fatigue_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_animal"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_arthropod"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_child"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_equipment"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_fire_immune"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_freeze_immune"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_hostile"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_illager"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_named"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_passenger"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_pet"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_raider"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_undead"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_villager"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:filter_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:flame_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:frost_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:hunger_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:levitation_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:misfortune_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:omen_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:poison_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:redstone_randomizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:rune_builder"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:rune_galactic"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:rune_illager"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:rune_nyctography"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:rune_pigpen"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:rune_runelic"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:shielded_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:slowfall_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:slowness_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:smite_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:vector_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:vector_plate_extreme"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:vector_plate_fast"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:vector_plate_ultra"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:weakness_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkutils:wither_plate"
+		}
+	]
+}

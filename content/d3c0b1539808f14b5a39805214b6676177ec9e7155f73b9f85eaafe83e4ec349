@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "libraryferret:diamond_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:emerald_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:gold_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:iron_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:netherite_coins_jtl"
+		}
+	]
+}

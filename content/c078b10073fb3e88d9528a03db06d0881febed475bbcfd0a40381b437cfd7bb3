@@ -1,0 +1,87 @@
+# Default: 10
+# Range: 0 ~ 100000000
+sailboat_step_1 = 10
+# Default: 64
+# Range: 0 ~ 100000000
+sailboat_step_2 = 64
+# Default: 64
+# Range: 0 ~ 100000000
+sailboat_step_3 = 64
+# Default: 20
+# Range: 0 ~ 100000000
+sailboat_step_4 = 20
+# Default: 25
+# Range: 0 ~ 100000000
+sailboat_step_5 = 25
+# Default: 64
+# Range: 0 ~ 100000000
+cog_step_1 = 64
+# Default: 300
+# Range: 0 ~ 100000000
+cog_step_2 = 300
+# Default: 200
+# Range: 0 ~ 100000000
+cog_step_3 = 200
+# Default: 60
+# Range: 0 ~ 100000000
+cog_step_4 = 60
+# Default: 70
+# Range: 0 ~ 100000000
+cog_step_5 = 70
+# Default: 160
+# Range: 0 ~ 100000000
+caravel_step_1 = 160
+# Default: 900
+# Range: 0 ~ 100000000
+caravel_step_2 = 900
+# Default: 450
+# Range: 0 ~ 100000000
+caravel_step_3 = 450
+# Default: 150
+# Range: 0 ~ 100000000
+caravel_step_4 = 150
+# Default: 140
+# Range: 0 ~ 100000000
+caravel_step_5 = 140
+# Default: 500
+# Range: 0 ~ 100000000
+galleon_step_1 = 500
+# Default: 3000
+# Range: 0 ~ 100000000
+galleon_step_2 = 3000
+# Default: 150
+# Range: 0 ~ 100000000
+galleon_step_3 = 150
+# Default: 500
+# Range: 0 ~ 100000000
+galleon_step_4 = 500
+# Default: 450
+# Range: 0 ~ 100000000
+galleon_step_5 = 450
+enable_block_collisions = false
+enable_simplified_ship_management = false
+creative_oneshot = false
+storm_boats = false
+# Default: 1
+# Range: 0 ~ 1000
+storm_severity = 1
+# Default: 100
+# Range: 0 ~ 100
+ship_sound = 100
+enable_walkable_deck = true
+enable_lod = true
+# Default: 84
+# Range: 1 ~ 10000
+lod_module = 84
+# Default: 8
+# Range: 0 ~ 100000000
+sailboat_base_ram_dmg_hp = 8
+# Default: 30
+# Range: 0 ~ 100000000
+cog_base_ram_dmg_hp = 30
+# Default: 60
+# Range: 0 ~ 100000000
+caravel_base_ram_dmg_hp = 60
+# Default: 120
+# Range: 0 ~ 100000000
+galleon_base_ram_dmg_hp = 120

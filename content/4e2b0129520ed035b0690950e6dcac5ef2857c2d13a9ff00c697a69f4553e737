@@ -1,0 +1,81 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:abyssal_scyphoid",
+			"data": {
+				"Category": "water_ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:anglerfish",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:captain_cornelia",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:eel",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:golden_moth",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:maw",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:maze_mother",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:scuttler",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:shellback",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:spinefish",
+			"data": {
+				"Category": "water_ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:tortured_soul",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

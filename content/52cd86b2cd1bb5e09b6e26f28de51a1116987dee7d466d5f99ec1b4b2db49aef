@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_lockbox"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:golem_steel_crate"
+		}
+	]
+}

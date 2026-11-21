@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army.approaching"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army.wave_started"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "disenchanting_table:blocks/disenchanting_table",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

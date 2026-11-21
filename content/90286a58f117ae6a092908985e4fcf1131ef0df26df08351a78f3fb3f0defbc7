@@ -1,0 +1,411 @@
+#PATHS - Ascension progression and stat effects; saved progress is kept when a path is disabled.
+#COMMON file: config/ascensionpaths-common.toml on this installation, not world/serverconfig.
+#Gameplay uses the server's values (the integrated server in singleplayer). Restart after editing.
+#Units: 1 heart = 2 HP; 20 game ticks = 1 second at normal server speed.
+[paths]
+	#Enable PHYSICAL XP gains, point investment and stat effects. true = on; false = off.
+	#Turning this off keeps saved levels, XP, points and unlocked caps.
+	physical_enabled = true
+	#Enable LIFE XP gains, point investment and stat effects. true = on; false = off.
+	#Turning this off keeps saved levels, XP, points and unlocked caps.
+	life_enabled = true
+	#Enable MAGIC XP gains, point investment and stat effects. true = on; false = off.
+	#Turning this off keeps saved levels, XP, points and unlocked caps.
+	magic_enabled = true
+
+#RANK ACCESS - A personal permission ceiling, separate from unlocked path caps and upgrade requirements.
+#Active cap = lower of the path's unlocked cap and the player's access ceiling.
+#Changing access does not complete core, level or boss requirements.
+[rank_access]
+	#OPEN = use open_maximum_rank for everyone; CLOSED = E is everyone's access ceiling.
+	#ADMIN = use /ascension access set <player> <rank>; an unassigned player starts at E.
+	#RANDOM = assign a saved weighted maximum; an admin grant is a floor, so the higher result wins.
+	#Changing weights does not reroll saved players; use a reroll coin or admin reroll in RANDOM mode.
+	#Access permits upgrades; it does not grant levels or bypass the existing requirements.
+	#Allowed Values: OPEN, CLOSED, ADMIN, RANDOM
+	mode = "OPEN"
+	#Access ceiling for everyone in OPEN mode only; the default is DIVINE.
+	#DIVINE access does not enable rank_caps.divine_enabled or unlock a Divine path.
+	#Use E through DIVINE. UNRANKED is accepted by the enum but treated as E for access.
+	#Allowed Values: UNRANKED, E, D, C, B, A, S, CELESTIAL, DIVINE
+	open_maximum_rank = "DIVINE"
+	#Highest random result in RANDOM mode; higher-rank tickets return E instead.
+	#This limits the random result, not a higher admin-granted floor; saved results are not rerolled.
+	#Use E through DIVINE. UNRANKED is treated as E for access.
+	#Allowed Values: UNRANKED, E, D, C, B, A, S, CELESTIAL, DIVINE
+	random_maximum_rank = "DIVINE"
+	#Ticket count, not a percentage. Allowed: 1 to 1,000,000,000,000.
+	#Draw size = max(this count, sum of all eight weights). Chance = weight / draw size.
+	#Example: 100 tickets out of 10,000 = 1%; 1 ticket out of 10,000 = 0.01%.
+	#Unused tickets and tickets above random_maximum_rank return E. If all weights are zero, result is E.
+	#When weights exceed the pool, their relative proportions are used. Saved results do not change.
+	# Default: 10000
+	# Range: 1 ~ 1000000000000
+	maximum_ticket_count = 10000
+
+	#Tickets for future RANDOM draws, in E to DIVINE order. These are counts, not percentages.
+	[rank_access.random_ticket_weights]
+		#Ticket weight for a E personal RANDOM maximum; allowed: 0 to 1,000,000,000,000.
+		#Chance uses max(maximum_ticket_count, sum of weights). 100 of 10,000 tickets = 1%; zero removes this ticket segment.
+		#Unused or above-ceiling tickets can still return E even if E's weight is zero. Existing saved rolls are unchanged.
+		# Default: 3389
+		# Range: 0 ~ 1000000000000
+		e = 3389
+		#Ticket weight for a D personal RANDOM maximum; allowed: 0 to 1,000,000,000,000.
+		#Chance uses max(maximum_ticket_count, sum of weights). 100 of 10,000 tickets = 1%; zero removes this ticket segment.
+		#Unused or above-ceiling tickets can still return E even if E's weight is zero. Existing saved rolls are unchanged.
+		# Default: 2500
+		# Range: 0 ~ 1000000000000
+		d = 2500
+		#Ticket weight for a C personal RANDOM maximum; allowed: 0 to 1,000,000,000,000.
+		#Chance uses max(maximum_ticket_count, sum of weights). 100 of 10,000 tickets = 1%; zero removes this ticket segment.
+		#Unused or above-ceiling tickets can still return E even if E's weight is zero. Existing saved rolls are unchanged.
+		# Default: 1800
+		# Range: 0 ~ 1000000000000
+		c = 1800
+		#Ticket weight for a B personal RANDOM maximum; allowed: 0 to 1,000,000,000,000.
+		#Chance uses max(maximum_ticket_count, sum of weights). 100 of 10,000 tickets = 1%; zero removes this ticket segment.
+		#Unused or above-ceiling tickets can still return E even if E's weight is zero. Existing saved rolls are unchanged.
+		# Default: 1200
+		# Range: 0 ~ 1000000000000
+		b = 1200
+		#Ticket weight for a A personal RANDOM maximum; allowed: 0 to 1,000,000,000,000.
+		#Chance uses max(maximum_ticket_count, sum of weights). 100 of 10,000 tickets = 1%; zero removes this ticket segment.
+		#Unused or above-ceiling tickets can still return E even if E's weight is zero. Existing saved rolls are unchanged.
+		# Default: 1000
+		# Range: 0 ~ 1000000000000
+		a = 1000
+		#Ticket weight for a S personal RANDOM maximum; allowed: 0 to 1,000,000,000,000.
+		#Chance uses max(maximum_ticket_count, sum of weights). 100 of 10,000 tickets = 1%; zero removes this ticket segment.
+		#Unused or above-ceiling tickets can still return E even if E's weight is zero. Existing saved rolls are unchanged.
+		# Default: 100
+		# Range: 0 ~ 1000000000000
+		s = 100
+		#Ticket weight for a CELESTIAL personal RANDOM maximum; allowed: 0 to 1,000,000,000,000.
+		#Chance uses max(maximum_ticket_count, sum of weights). 100 of 10,000 tickets = 1%; zero removes this ticket segment.
+		#Unused or above-ceiling tickets can still return E even if E's weight is zero. Existing saved rolls are unchanged.
+		# Default: 10
+		# Range: 0 ~ 1000000000000
+		celestial = 10
+		#Ticket weight for a DIVINE personal RANDOM maximum; allowed: 0 to 1,000,000,000,000.
+		#Chance uses max(maximum_ticket_count, sum of weights). 100 of 10,000 tickets = 1%; zero removes this ticket segment.
+		#Unused or above-ceiling tickets can still return E even if E's weight is zero. Existing saved rolls are unchanged.
+		# Default: 1
+		# Range: 0 ~ 1000000000000
+		divine = 1
+
+#RANK CAPS - Per-stat level boundaries and upgrade permissions; these are not total path levels.
+#Keep caps increasing: default E/D/C/B/A/S/Celestial/Divine = 15/35/60/90/125/165/210/300.
+#Life follows the rounded-down average of Physical and Magic unlocked ranks; it has no manual core upgrade.
+#C needs Iron's Spellbooks; A needs Block Factory's Bosses; Physical S needs Cataclysm; Magic S needs Iron's.
+#Enabling a rank does not add missing recipes or upgrade rules. Celestial/Divine upgrades are not implemented.
+#See CONFIG_GUIDE_EN.md for the existing level, core and boss requirements.
+[rank_caps]
+	#E is the starting cap. This flag is kept for existing rank-enabled checks; false does not remove starting E.
+	#true does not grant this rank or create missing upgrades. Disabling it does not erase saved progression.
+	e_enabled = true
+	#End level for one E stat, not the sum of all six stats; allowed: 0 to 1000.
+	#Example: E cap 15 means each E stat can reach 15. This also anchors stat-effect and XP-cost curves.
+	#Keep rank caps strictly increasing for a usable curve; the individual range validator does not enforce this.
+	# Default: 15
+	# Range: 0 ~ 1000
+	e_cap = 15
+	#Allow unlocking the D rank when access, levels, cores and boss conditions permit.
+	#true does not grant this rank or create missing upgrades. Disabling it does not erase saved progression.
+	d_enabled = true
+	#End level for one D stat, not the sum of all six stats; allowed: 0 to 1000.
+	#Example: E cap 15 means each E stat can reach 15. This also anchors stat-effect and XP-cost curves.
+	#Keep rank caps strictly increasing for a usable curve; the individual range validator does not enforce this.
+	# Default: 35
+	# Range: 0 ~ 1000
+	d_cap = 35
+	#Allow unlocking the C rank when access, levels, cores and boss conditions permit.
+	#true does not grant this rank or create missing upgrades. Disabling it does not erase saved progression.
+	c_enabled = true
+	#End level for one C stat, not the sum of all six stats; allowed: 0 to 1000.
+	#Example: E cap 15 means each E stat can reach 15. This also anchors stat-effect and XP-cost curves.
+	#Keep rank caps strictly increasing for a usable curve; the individual range validator does not enforce this.
+	# Default: 60
+	# Range: 0 ~ 1000
+	c_cap = 60
+	#Allow unlocking the B rank when access, levels, cores and boss conditions permit.
+	#true does not grant this rank or create missing upgrades. Disabling it does not erase saved progression.
+	b_enabled = true
+	#End level for one B stat, not the sum of all six stats; allowed: 0 to 1000.
+	#Example: E cap 15 means each E stat can reach 15. This also anchors stat-effect and XP-cost curves.
+	#Keep rank caps strictly increasing for a usable curve; the individual range validator does not enforce this.
+	# Default: 90
+	# Range: 0 ~ 1000
+	b_cap = 90
+	#Allow unlocking the A rank when access, levels, cores and boss conditions permit.
+	#true does not grant this rank or create missing upgrades. Disabling it does not erase saved progression.
+	a_enabled = true
+	#End level for one A stat, not the sum of all six stats; allowed: 0 to 1000.
+	#Example: E cap 15 means each E stat can reach 15. This also anchors stat-effect and XP-cost curves.
+	#Keep rank caps strictly increasing for a usable curve; the individual range validator does not enforce this.
+	# Default: 125
+	# Range: 0 ~ 1000
+	a_cap = 125
+	#Allow unlocking the S rank when access, levels, cores and boss conditions permit.
+	#true does not grant this rank or create missing upgrades. Disabling it does not erase saved progression.
+	s_enabled = true
+	#End level for one S stat, not the sum of all six stats; allowed: 0 to 1000.
+	#Example: E cap 15 means each E stat can reach 15. This also anchors stat-effect and XP-cost curves.
+	#Keep rank caps strictly increasing for a usable curve; the individual range validator does not enforce this.
+	# Default: 165
+	# Range: 0 ~ 1000
+	s_cap = 165
+	#Allow unlocking the CELESTIAL rank when access, levels, cores and boss conditions permit.
+	#true does not grant this rank or create missing upgrades. Disabling it does not erase saved progression.
+	celestial_enabled = true
+	#End level for one CELESTIAL stat, not the sum of all six stats; allowed: 0 to 1000.
+	#Example: E cap 15 means each E stat can reach 15. This also anchors stat-effect and XP-cost curves.
+	#Keep rank caps strictly increasing for a usable curve; the individual range validator does not enforce this.
+	# Default: 210
+	# Range: 0 ~ 1000
+	celestial_cap = 210
+	#Allow unlocking the DIVINE rank when access, levels, cores and boss conditions permit.
+	#true does not grant this rank or create missing upgrades. Disabling it does not erase saved progression.
+	divine_enabled = false
+	#End level for one DIVINE stat, not the sum of all six stats; allowed: 0 to 1000.
+	#Example: E cap 15 means each E stat can reach 15. This also anchors stat-effect and XP-cost curves.
+	#Keep rank caps strictly increasing for a usable curve; the individual range validator does not enforce this.
+	# Default: 300
+	# Range: 0 ~ 1000
+	divine_cap = 300
+
+#STAT EFFECTS - Eight targets in E, D, C, B, A, S, Celestial, Divine order.
+#Targets are reached at each rank's configured cap, not added at every level.
+#Intermediate values use the existing curve; both positive endpoints interpolate geometrically, otherwise linearly.
+#Keep eight values. Short lists reuse their last target; extra values are not used for these eight ranks.
+#Each stat has its own unit below. Access and Divine Fracture can limit the active effect level.
+[stat_effect_targets]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Non-spell, non-projectile player damage multiplier: 1.0 = normal, 1.5 = +50%, 2.0 = double.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	strength = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 9.0, 20.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Sprint-speed curve factor, not a flat speed bonus. Rescaled from vanilla sprint 1.30 toward the Divine target; walking is unchanged. Example: Divine target 3.0 gives 3x walking speed at Divine.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	agility = [1.05, 1.1, 1.15, 1.25, 1.5, 2.0, 2.5, 3.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Attack-speed attribute multiplier: 1.0 = normal, 1.5 = +50%, 2.0 = double. This does not directly set every mod's animation duration.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	technique = [1.05, 1.1, 1.15, 1.25, 1.5, 2.0, 2.5, 3.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Non-spell player projectile damage multiplier: 1.0 = normal, 1.5 = +50%, 2.0 = double.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	projectile_damage = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 9.0, 20.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Bow/crossbow use-speed multiplier: 1.0 = normal, 2.0 = about half the draw/load time. Not melee attack speed.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	draw_speed = [1.05, 1.1, 1.15, 1.25, 1.5, 2.0, 2.5, 3.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Non-Iron's-spell damage reduction fraction: 0.03 = 3%, 0.50 = 50%. Invulnerability-bypassing damage is excluded; 1.0 or more leaves zero damage in this handler. Knockback resistance uses its separate existing rank curve.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	endurance = [0.03, 0.06, 0.1, 0.15, 0.25, 0.35, 0.5, 0.95]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#BONUS HEARTS, added to max health: 1 = +1 heart (+2 HP), 190 = +380 HP. Not total health or a multiplier.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	health = [1.0, 2.0, 5.0, 10.0, 20.0, 30.0, 90.0, 190.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Healing in HP per second, checked once every 20 game ticks: 2.0 = 2 HP (1 heart) per second. See regeneration.health_damage_delay_seconds.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	health_regen = [0.02, 0.05, 0.1, 0.2, 0.4, 0.8, 2.0, 8.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Epic Fight max-stamina multiplier; requires Epic Fight. 1.0 = normal, 2.0 = double. No stamina attribute is added without that mod.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	stamina = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 9.0, 20.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Epic Fight stamina-regeneration multiplier; requires Epic Fight. 1.0 = normal, 2.0 = double. Not HP healing or seconds.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	stamina_regen = [1.05, 1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 10.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Luck curve factor applied as an ADDITIVE attribute bonus of (factor - 1), floored at zero: 1.0 = +0 luck, 2.0 = +1 luck, 20.0 = +19 luck. Not a loot-drop multiplier.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	luck = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 9.0, 20.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Block-break-speed attribute multiplier: 1.0 = normal, 1.5 = +50%, 2.0 = double. Existing rank-based empty-hand/tool rules are separate.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	mining_speed = [1.1, 1.2, 1.35, 1.55, 2.0, 3.0, 4.0, 5.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Iron's Spellbooks SPELL_POWER base-attribute bonus fraction: 0.15 adds 15% of base, 1.0 adds 100%, 20.0 adds 2000%. Not a 20x final-damage setting.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	spell_power = [0.15, 0.3, 0.6, 1.0, 2.0, 4.0, 9.0, 20.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Iron's CAST_TIME_REDUCTION base-attribute bonus fraction: 0.40 adds 40% of its base attribute. Iron's converts the attribute into cast timing; this is not seconds or a direct 40% duration cut.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	cast_speed = [0.05, 0.1, 0.15, 0.25, 0.4, 0.6, 0.8, 1.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Requested effective Iron's cooldown-reduction fraction: 0.50 = 50%, 0.80 = 80%. The existing soft-cap conversion clamps requests to 0..1; 1.0 maps to about 99.75%, not zero cooldown.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	cooldown = [0.05, 0.1, 0.15, 0.25, 0.4, 0.6, 0.8, 1.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#ADDITIONAL Iron's maximum mana points: 75 = +75 mana, not 75% or a multiplier. Requires Iron's Spellbooks.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	mana = [75.0, 175.0, 300.0, 600.0, 950.0, 1350.0, 2250.0, 3950.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Iron's MANA_REGEN base-attribute bonus fraction: 0.25 adds 25% of base, 1.0 adds 100%, 10.0 adds 1000%. Not mana points per second.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	mana_regen = [0.025, 0.075, 0.15, 0.25, 0.5, 0.75, 1.5, 10.0]
+	#Eight rank-end targets: E/D/C/B/A/S/Celestial/Divine; default levels 15/35/60/90/125/165/210/300.
+	#Requested effective Iron's spell-damage reduction fraction: 0.50 = 50%, 0.95 = 95%. Existing soft-cap conversion clamps requests to 0..1; 1.0 maps to about 99.75%. Requires Iron's.
+	#Allowed list entries: finite numbers >= 0; the existing validator does not impose an upper bound. Keep eight entries.
+	spell_resistance = [0.03, 0.06, 0.1, 0.15, 0.25, 0.35, 0.5, 0.95]
+
+#HEALTH REGENERATION - Applies to the Life health_regen stat, not food or other mods' healing.
+[regeneration]
+	#Wait this many seconds after damage before Ascension health regeneration resumes; allowed: 0 to 600.
+	#Example: 5 = 100 game ticks. 0 removes this wait; healing is still checked every 20 ticks.
+	#A Divine active health_regen stat bypasses the wait; access limits or Divine Fracture can remove that bypass.
+	# Default: 5
+	# Range: 0 ~ 600
+	health_damage_delay_seconds = 5
+
+#DEATH PENALTY - Server-player death handling; creative and spectator players are excluded.
+#Only current path XP is removed by the normal penalty. Stored progression is not reset.
+#These options do not set keepInventory or change vanilla item drops.
+[death_penalty]
+	#Master switch for BOTH path-XP loss and Full Divine Fracture; false disables new penalties.
+	#Normal loss removes a fraction of each path's current XP toward its next stat point.
+	#Spent levels, unspent points, unlocked caps, boss progress and saved access ranks are kept.
+	#Turning this off does not clear a fracture that is already saved.
+	enabled = true
+	#With death_penalty.enabled=true, a Full Divine death causes a saved fracture instead of path-XP loss.
+	#Full Divine checks all path caps and all 18 stat levels against the configured Divine cap.
+	#Fracture keeps levels but limits active stat effects to Celestial and blocks Full Divine benefits.
+	#false uses normal XP-loss rules instead; it does not repair an existing fracture.
+	#Repair uses the existing Divine Restoration Sigil or /ascension fracture clear <player>.
+	full_divine_fracture_enabled = true
+
+	#Fraction of current path XP removed, selected separately by each path's ACTIVE cap.
+	[death_penalty.path_xp_loss_by_cap]
+		#Fraction of current path XP lost when that path's ACTIVE cap is E; allowed: 0.0 to 1.0.
+		#0.0 = none, 0.25 = 25%, 1.0 = all current XP. Example: 80 XP with 0.25 loses 20 and keeps 60.
+		#This uses the active cap, not the highest individual stat or unlocked cap above the access ceiling.
+		#Spent levels and available points are kept. Full Divine Fracture can replace normal XP loss.
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		e = 0.25
+		#Fraction of current path XP lost when that path's ACTIVE cap is D; allowed: 0.0 to 1.0.
+		#0.0 = none, 0.25 = 25%, 1.0 = all current XP. Example: 80 XP with 0.25 loses 20 and keeps 60.
+		#This uses the active cap, not the highest individual stat or unlocked cap above the access ceiling.
+		#Spent levels and available points are kept. Full Divine Fracture can replace normal XP loss.
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		d = 0.25
+		#Fraction of current path XP lost when that path's ACTIVE cap is C; allowed: 0.0 to 1.0.
+		#0.0 = none, 0.25 = 25%, 1.0 = all current XP. Example: 80 XP with 0.25 loses 20 and keeps 60.
+		#This uses the active cap, not the highest individual stat or unlocked cap above the access ceiling.
+		#Spent levels and available points are kept. Full Divine Fracture can replace normal XP loss.
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		c = 0.5
+		#Fraction of current path XP lost when that path's ACTIVE cap is B; allowed: 0.0 to 1.0.
+		#0.0 = none, 0.25 = 25%, 1.0 = all current XP. Example: 80 XP with 0.25 loses 20 and keeps 60.
+		#This uses the active cap, not the highest individual stat or unlocked cap above the access ceiling.
+		#Spent levels and available points are kept. Full Divine Fracture can replace normal XP loss.
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		b = 0.5
+		#Fraction of current path XP lost when that path's ACTIVE cap is A; allowed: 0.0 to 1.0.
+		#0.0 = none, 0.25 = 25%, 1.0 = all current XP. Example: 80 XP with 0.25 loses 20 and keeps 60.
+		#This uses the active cap, not the highest individual stat or unlocked cap above the access ceiling.
+		#Spent levels and available points are kept. Full Divine Fracture can replace normal XP loss.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		a = 1.0
+		#Fraction of current path XP lost when that path's ACTIVE cap is S; allowed: 0.0 to 1.0.
+		#0.0 = none, 0.25 = 25%, 1.0 = all current XP. Example: 80 XP with 0.25 loses 20 and keeps 60.
+		#This uses the active cap, not the highest individual stat or unlocked cap above the access ceiling.
+		#Spent levels and available points are kept. Full Divine Fracture can replace normal XP loss.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		s = 1.0
+		#Fraction of current path XP lost when that path's ACTIVE cap is CELESTIAL; allowed: 0.0 to 1.0.
+		#0.0 = none, 0.25 = 25%, 1.0 = all current XP. Example: 80 XP with 0.25 loses 20 and keeps 60.
+		#This uses the active cap, not the highest individual stat or unlocked cap above the access ceiling.
+		#Spent levels and available points are kept. Full Divine Fracture can replace normal XP loss.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		celestial = 1.0
+		#Fraction of current path XP lost when that path's ACTIVE cap is DIVINE; allowed: 0.0 to 1.0.
+		#0.0 = none, 0.25 = 25%, 1.0 = all current XP. Example: 80 XP with 0.25 loses 20 and keeps 60.
+		#This uses the active cap, not the highest individual stat or unlocked cap above the access ceiling.
+		#Spent levels and available points are kept. Full Divine Fracture can replace normal XP loss.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		divine = 1.0
+
+#PATH XP - Ascension XP toward spendable stat points; this is separate from vanilla XP levels.
+#Event rates below create base XP; optional integrations and Physical/Magic specialization can adjust the award.
+#Life has no opposing-path specialization penalty. Disabling a path stops its XP awards.
+[xp]
+	#Starting XP cost for one stat point at zero earned progress; allowed: 1 to 1,000,000.
+	#This is the curve's starting value, not a fixed cost at every level. Rank-end costs are below.
+	# Default: 100
+	# Range: 1 ~ 1000000
+	xp_per_skill_point = 100
+	#XP per stat point at E/D/C/B/A/S/Celestial/Divine caps, in that order; keep eight values.
+	#Default levels: 15/35/60/90/125/165/210/300. Changing rank_caps also moves these endpoints.
+	#Costs interpolate linearly from xp_per_skill_point, using (spent levels + unspent points) / 6 for the path.
+	#Example: [125,175,250,350,500,700,1000,1500] costs 125 XP at average earned level 15.
+	#Entries use the existing integer validator (intValue >= 1); use whole XP counts. Short lists repeat the last target.
+	xp_cost_rank_end_targets = [125, 175, 250, 350, 500, 700, 1000, 1500]
+	#Base Physical/Magic XP per HP of reported damage to a Mob. 0.25 gives 2.5 XP for 10 HP. Recognized spell damage earns Magic; other player damage earns Physical. This is separate from kill XP.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 0.25
+	# Range: 0.0 ~ 1000000.0
+	combat_damage_per_health = 0.25
+	#Base kill XP per HP of the Mob's maximum health, before the min/max clamp. 0.25 gives 5 XP for a 20-HP Mob. This is not XP per damage dealt.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 0.25
+	# Range: 0.0 ~ 1000000.0
+	kill_per_max_health = 0.25
+	#Minimum base kill XP before the non-MONSTER multiplier and later award adjustments. 1.0 = at least 1 base XP; 0 removes this floor.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 1.0
+	# Range: 0.0 ~ 1000000.0
+	minimum_creature_kill = 1.0
+	#Maximum base kill XP before the non-MONSTER multiplier and later adjustments. The effective maximum is max(minimum_creature_kill, this value); 0 is NOT unlimited.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 100.0
+	# Range: 0.0 ~ 1000000.0
+	maximum_creature_kill = 100.0
+	#Multiplier AFTER the kill-XP clamp for any Mob outside the MONSTER category, including neutral creatures. 0.0 = no kill XP, 0.5 = half, 1.0 = normal, 2.0 = double. Does not change damage XP.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 0.5
+	# Range: 0.0 ~ 1000000.0
+	passive_creature_kill_multiplier = 0.5
+	#Life XP per qualifying broken ore block tagged ascensionpaths:valuable_ores. Player-placed tagged ore is tracked and excluded; creative mining is excluded. 10.0 = 10 XP per eligible block.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 10.0
+	# Range: 0.0 ~ 1000000.0
+	life_valuable_ore = 10.0
+	#Life XP per accepted sprinting block; 0.10 gives 1 XP per 10 blocks. Grounded sprinting only, not riding/fall-flying/creative/spectator; tick movement above 1.5 blocks is ignored and awards are batched after 8 blocks.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 0.1
+	# Range: 0.0 ~ 1000000.0
+	life_sprint_per_block = 0.1
+	#Life XP per nutrition point of consumed food: 1 nutrition = half a hunger icon. At 1.0, food with nutrition 4 gives 4 XP. Saturation is not counted.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 1.0
+	# Range: 0.0 ~ 1000000.0
+	life_food_per_nutrition = 1.0
+	#Life XP per HP of incoming damage measured before Ascension's own Endurance reduction. At 0.5, 10 recorded HP gives 5 XP. This is not max health or damage dealt.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 0.5
+	# Range: 0.0 ~ 1000000.0
+	life_damage_taken_per_health = 0.5
+	#Magic XP per mana removed by Iron's mana-change event, excluding Ascension's resource restores; requires Iron's Spellbooks. At 0.05, 20 mana spent gives 1 XP.
+	#Allowed: 0 to 1,000,000. Zero disables this rate or bonus, except the kill-XP limits explained above.
+	# Default: 0.05
+	# Range: 0.0 ~ 1000000.0
+	magic_cast_per_mana_spent = 0.05
+	#Opposing-path earned-point scale, not an XP multiplier; allowed: 1 to 1,000,000.
+	#Physical/Magic XP multiplier = 1 / (1 + opposing earned points / this value). Life always uses 1.
+	#Earned points include all six spent stat levels plus unspent points; saving points does not avoid it.
+	#Example: scale 600 and 600 opposing points gives 0.5 (half XP). A larger scale makes the penalty gentler.
+	# Default: 600.0
+	# Range: 1.0 ~ 1000000.0
+	specialization_level_scale = 600.0

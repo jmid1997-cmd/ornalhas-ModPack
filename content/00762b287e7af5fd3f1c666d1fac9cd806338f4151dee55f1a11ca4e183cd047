@@ -1,0 +1,120 @@
+{
+	autofocus_id: "5B7C49B33FF51961"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_aether"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:feather"
+	}
+	id: "2F75A23E1B196CB6"
+	images: [ ]
+	order_index: 41
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5B7C49B33FF51961"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "aether:the_aether"
+				id: "50D801342CE4826C"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5B7C49B33FF51961"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5C795D64013C76AB"
+			rewards: [{
+				id: "77C180E401AA8237"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "aether:bronze_dungeon"
+				criterion: ""
+				id: "2310178EE960B528"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5B7C49B33FF51961"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "48170FE45C771431"
+			rewards: [{
+				id: "66AA795676A0C92C"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "aether:silver_dungeon"
+				criterion: ""
+				id: "0D4644F1FB927D80"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5B7C49B33FF51961"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4DB03BBA25B00C14"
+			rewards: [{
+				id: "476B290CF6E3FFDD"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "aether:gold_dungeon"
+				criterion: ""
+				id: "0283CB7F25E5D71F"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"5C795D64013C76AB"
+				"48170FE45C771431"
+				"4DB03BBA25B00C14"
+			]
+			id: "64B2EE61831CA13A"
+			rewards: [{
+				id: "22128C1BCDD91BE3"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "31FEEA3CF8F2369F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

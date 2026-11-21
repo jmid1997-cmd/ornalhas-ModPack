@@ -1,0 +1,80 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:advanced_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:assembly_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:charging_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:gate_copier"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:integration_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:plug/facade"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:plug/gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:plug/lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:plug/light_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:plug/pulsar"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:plug/timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:programming_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:redstone_chipset/diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:redstone_chipset/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:redstone_chipset/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:redstone_chipset/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:redstone_chipset/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftsilicon:redstone_crystal"
+		}
+	]
+}

@@ -1,0 +1,278 @@
+{
+	"biomes": [
+		"incendium:inverted_forest"
+	],
+	"rule": {
+		"type": "minecraft:sequence",
+		"sequence": [
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"type": "minecraft:sequence",
+					"sequence": [
+						{
+							"if_true": {
+								"type": "minecraft:noise_threshold",
+								"min_threshold": -0.45,
+								"noise": "incendium:inverted/floor",
+								"max_threshold": 3.0E7
+							},
+							"then_run": {
+								"type": "minecraft:block",
+								"result_state": {
+									"Name": "minecraft:warped_nylium"
+								}
+							},
+							"type": "minecraft:condition"
+						},
+						{
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:netherrack"
+							}
+						}
+					]
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "ceiling",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"type": "minecraft:sequence",
+					"sequence": [
+						{
+							"if_true": {
+								"type": "minecraft:noise_threshold",
+								"min_threshold": -0.0625,
+								"noise": "incendium:inverted/ceiling",
+								"max_threshold": 0.0625
+							},
+							"then_run": {
+								"type": "minecraft:block",
+								"result_state": {
+									"Name": "minecraft:netherrack"
+								}
+							},
+							"type": "minecraft:condition"
+						},
+						{
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:warped_wart_block"
+							}
+						}
+					]
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:y_above",
+					"add_stone_depth": false,
+					"anchor": {
+						"below_top": 5
+					},
+					"surface_depth_multiplier": 0
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "minecraft:netherrack"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:not",
+						"invert": {
+							"type": "minecraft:y_above",
+							"add_stone_depth": false,
+							"anchor": {
+								"absolute": %SL+1%
+							},
+							"surface_depth_multiplier": 0
+						}
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:hole"
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:lava",
+								"Properties": {
+									"level": "0"
+								}
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"type": "minecraft:block",
+				"result_state": {
+					"Name": "minecraft:netherrack"
+				}
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"type": "minecraft:sequence",
+					"sequence": [
+						{
+							"if_true": {
+								"type": "minecraft:noise_threshold",
+								"min_threshold": -0.45,
+								"noise": "incendium:inverted/floor",
+								"max_threshold": 3.0E7
+							},
+							"then_run": {
+								"type": "minecraft:block",
+								"result_state": {
+									"Name": "minecraft:warped_nylium"
+								}
+							},
+							"type": "minecraft:condition"
+						},
+						{
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:netherrack"
+							}
+						}
+					]
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "ceiling",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"type": "minecraft:sequence",
+					"sequence": [
+						{
+							"if_true": {
+								"type": "minecraft:noise_threshold",
+								"min_threshold": -0.0625,
+								"noise": "incendium:inverted/ceiling",
+								"max_threshold": 0.0625
+							},
+							"then_run": {
+								"type": "minecraft:block",
+								"result_state": {
+									"Name": "minecraft:netherrack"
+								}
+							},
+							"type": "minecraft:condition"
+						},
+						{
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:warped_wart_block"
+							}
+						}
+					]
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:y_above",
+					"add_stone_depth": false,
+					"anchor": {
+						"below_top": 5
+					},
+					"surface_depth_multiplier": 0
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "minecraft:netherrack"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:not",
+						"invert": {
+							"type": "minecraft:y_above",
+							"add_stone_depth": false,
+							"anchor": {
+								"absolute": %SL+1%
+							},
+							"surface_depth_multiplier": 0
+						}
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:hole"
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:lava",
+								"Properties": {
+									"level": "0"
+								}
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"type": "minecraft:block",
+				"result_state": {
+					"Name": "minecraft:netherrack"
+				}
+			}
+		]
+	}
+}

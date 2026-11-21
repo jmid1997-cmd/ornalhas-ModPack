@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:a_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:b_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:book_of_echoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:book_of_keys"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:c_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:celestial_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:coin_of_reroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:coin_of_respec"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:d_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:divine_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:divine_restoration_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:dragon_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:hammer_of_annihilation"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:life_b_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:life_c_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:life_d_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:magic_a_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:magic_b_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:magic_c_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:magic_celestial_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:magic_d_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:magic_divine_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:magic_s_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:s_ascension_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:sword_of_mystery"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:sword_of_the_dragon_slayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:sword_of_the_gods"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:sword_of_the_gods_awakened"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascensionpaths:sword_of_the_gods_awakening"
+		}
+	]
+}

@@ -1,0 +1,727 @@
+[progression]
+	# Default: 2
+	# Range: 1 ~ 100
+	abilityPointLevelInterval = 2
+
+[general]
+	enableAbilities = true
+	enableAbilityXpConsumption = true
+	enableUltimateAbilities = true
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	cooldownMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	primaryScalingMultiplier = 1.0
+	# Default: 0.05
+	# Range: 0.0 ~ 2.0
+	abilityPowerEnchantmentLevel1 = 0.05
+	# Default: 0.1
+	# Range: 0.0 ~ 2.0
+	abilityPowerEnchantmentLevel2 = 0.1
+	# Default: 0.15
+	# Range: 0.0 ~ 2.0
+	abilityPowerEnchantmentLevel3 = 0.15
+	enableHud = true
+	hudPosition = "bottom-left"
+	hudTimerText = true
+	# Default: 5
+	# Range: 1 ~ 5
+	maxSlots = 5
+	enableAbilitySwitchCooldowns = true
+	# Default: 1200
+	# Range: 0 ~ 72000
+	survivalSwitchCooldownTicks = 1200
+
+[affinityLocks]
+	enabled = true
+	# Default: 0
+	# Range: 0 ~ 1000000
+	fire = 0
+	# Default: 1
+	# Range: 0 ~ 1000000
+	fire_nova = 1
+	# Default: 1
+	# Range: 0 ~ 1000000
+	fire_burst = 1
+	# Default: 2
+	# Range: 0 ~ 1000000
+	fire_implode = 2
+	# Default: 5
+	# Range: 0 ~ 1000000
+	fire_storm = 5
+	# Default: 4
+	# Range: 0 ~ 1000000
+	ice = 4
+	# Default: 1
+	# Range: 0 ~ 1000000
+	ice_nova = 1
+	# Default: 1
+	# Range: 0 ~ 1000000
+	ice_burst = 1
+	# Default: 2
+	# Range: 0 ~ 1000000
+	ice_implode = 2
+	# Default: 2
+	# Range: 0 ~ 1000000
+	ice_pierce = 2
+	# Default: 1
+	# Range: 0 ~ 1000000
+	ice_glacier = 1
+	# Default: 5
+	# Range: 0 ~ 1000000
+	ice_storm = 5
+	# Default: 4
+	# Range: 0 ~ 1000000
+	lightning = 4
+	# Default: 1
+	# Range: 0 ~ 1000000
+	lightning_nova = 1
+	# Default: 1
+	# Range: 0 ~ 1000000
+	lightning_zap = 1
+	# Default: 2
+	# Range: 0 ~ 1000000
+	lightning_implode = 2
+	# Default: 2
+	# Range: 0 ~ 1000000
+	lightning_strike = 2
+	# Default: 5
+	# Range: 0 ~ 1000000
+	lightning_storm = 5
+	# Default: 0
+	# Range: 0 ~ 1000000
+	poison = 0
+	# Default: 1
+	# Range: 0 ~ 1000000
+	poison_nova = 1
+	# Default: 1
+	# Range: 0 ~ 1000000
+	poison_burst = 1
+	# Default: 2
+	# Range: 0 ~ 1000000
+	poison_implode = 2
+	# Default: 0
+	# Range: 0 ~ 1000000
+	force = 0
+	# Default: 1
+	# Range: 0 ~ 1000000
+	force_aegis = 1
+	# Default: 2
+	# Range: 0 ~ 1000000
+	force_burst = 2
+	# Default: 3
+	# Range: 0 ~ 1000000
+	force_shockwave = 3
+	# Default: 5
+	# Range: 0 ~ 1000000
+	force_rampage = 5
+	# Default: 0
+	# Range: 0 ~ 1000000
+	blood = 0
+	# Default: 1
+	# Range: 0 ~ 1000000
+	blood_heal = 1
+	# Default: 1
+	# Range: 0 ~ 1000000
+	blood_cleanse = 1
+	# Default: 3
+	# Range: 0 ~ 1000000
+	blood_burst = 3
+	# Default: 4
+	# Range: 0 ~ 1000000
+	blood_drain = 4
+	# Default: 0
+	# Range: 0 ~ 1000000
+	wind = 0
+	# Default: 1
+	# Range: 0 ~ 1000000
+	wind_dash = 1
+	# Default: 1
+	# Range: 0 ~ 1000000
+	wind_leap = 1
+	# Default: 1
+	# Range: 0 ~ 1000000
+	wind_lunge = 1
+
+[abilities]
+	fire = true
+	fire_nova = true
+	fire_burst = true
+	fire_implode = true
+	fire_storm = true
+	ice = true
+	ice_nova = true
+	ice_burst = true
+	ice_implode = true
+	ice_pierce = true
+	ice_glacier = true
+	ice_storm = true
+	lightning = true
+	lightning_nova = true
+	lightning_zap = true
+	lightning_implode = true
+	lightning_strike = true
+	lightning_storm = true
+	poison = true
+	poison_nova = true
+	poison_burst = true
+	poison_implode = true
+	force = true
+	force_aegis = true
+	force_burst = true
+	force_shockwave = true
+	force_rampage = true
+	blood = true
+	blood_heal = true
+	blood_cleanse = true
+	blood_burst = true
+	blood_drain = true
+	wind = true
+	wind_dash = true
+	wind_leap = true
+	wind_lunge = true
+
+[maxRanks]
+	# Default: 6
+	# Range: 1 ~ 100
+	fire = 6
+	# Default: 1
+	# Range: 1 ~ 100
+	fire_nova = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	fire_burst = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	fire_implode = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	fire_storm = 1
+	# Default: 6
+	# Range: 1 ~ 100
+	ice = 6
+	# Default: 1
+	# Range: 1 ~ 100
+	ice_nova = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	ice_burst = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	ice_implode = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	ice_pierce = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	ice_glacier = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	ice_storm = 1
+	# Default: 6
+	# Range: 1 ~ 100
+	lightning = 6
+	# Default: 1
+	# Range: 1 ~ 100
+	lightning_nova = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	lightning_zap = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	lightning_implode = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	lightning_strike = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	lightning_storm = 1
+	# Default: 6
+	# Range: 1 ~ 100
+	poison = 6
+	# Default: 1
+	# Range: 1 ~ 100
+	poison_nova = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	poison_burst = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	poison_implode = 1
+	# Default: 6
+	# Range: 1 ~ 100
+	force = 6
+	# Default: 1
+	# Range: 1 ~ 100
+	force_aegis = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	force_burst = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	force_shockwave = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	force_rampage = 1
+	# Default: 5
+	# Range: 1 ~ 100
+	blood = 5
+	# Default: 1
+	# Range: 1 ~ 100
+	blood_heal = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	blood_cleanse = 1
+	# Default: 5
+	# Range: 1 ~ 100
+	blood_burst = 5
+	# Default: 1
+	# Range: 1 ~ 100
+	blood_drain = 1
+	# Default: 4
+	# Range: 1 ~ 100
+	wind = 4
+	# Default: 1
+	# Range: 1 ~ 100
+	wind_dash = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	wind_leap = 1
+	# Default: 1
+	# Range: 1 ~ 100
+	wind_lunge = 1
+
+[values]
+	# Default: 0
+	# Range: 0 ~ 72000
+	fireCooldownTicks = 0
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	fireDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	fireRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	fireDurationTicks = 100
+	# Default: 200
+	# Range: 0 ~ 72000
+	fire_novaCooldownTicks = 200
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	fire_novaDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	fire_novaRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	fire_novaDurationTicks = 100
+	# Default: 120
+	# Range: 0 ~ 72000
+	fire_burstCooldownTicks = 120
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	fire_burstDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	fire_burstRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	fire_burstDurationTicks = 100
+	# Default: 240
+	# Range: 0 ~ 72000
+	fire_implodeCooldownTicks = 240
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	fire_implodeDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	fire_implodeRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	fire_implodeDurationTicks = 100
+	# Default: 600
+	# Range: 0 ~ 72000
+	fire_stormCooldownTicks = 600
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	fire_stormDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	fire_stormRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	fire_stormDurationTicks = 100
+	# Default: 0
+	# Range: 0 ~ 72000
+	iceCooldownTicks = 0
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	iceDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	iceRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	iceDurationTicks = 100
+	# Default: 200
+	# Range: 0 ~ 72000
+	ice_novaCooldownTicks = 200
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	ice_novaDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	ice_novaRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	ice_novaDurationTicks = 100
+	# Default: 120
+	# Range: 0 ~ 72000
+	ice_burstCooldownTicks = 120
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	ice_burstDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	ice_burstRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	ice_burstDurationTicks = 100
+	# Default: 240
+	# Range: 0 ~ 72000
+	ice_implodeCooldownTicks = 240
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	ice_implodeDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	ice_implodeRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	ice_implodeDurationTicks = 100
+	# Default: 180
+	# Range: 0 ~ 72000
+	ice_pierceCooldownTicks = 180
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	ice_pierceDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	ice_pierceRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	ice_pierceDurationTicks = 100
+	# Default: 360
+	# Range: 0 ~ 72000
+	ice_glacierCooldownTicks = 360
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	ice_glacierDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	ice_glacierRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	ice_glacierDurationTicks = 100
+	# Default: 700
+	# Range: 0 ~ 72000
+	ice_stormCooldownTicks = 700
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	ice_stormDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	ice_stormRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	ice_stormDurationTicks = 100
+	# Default: 0
+	# Range: 0 ~ 72000
+	lightningCooldownTicks = 0
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	lightningDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	lightningRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	lightningDurationTicks = 100
+	# Default: 220
+	# Range: 0 ~ 72000
+	lightning_novaCooldownTicks = 220
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	lightning_novaDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	lightning_novaRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	lightning_novaDurationTicks = 100
+	# Default: 180
+	# Range: 0 ~ 72000
+	lightning_zapCooldownTicks = 180
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	lightning_zapDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	lightning_zapRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	lightning_zapDurationTicks = 100
+	# Default: 260
+	# Range: 0 ~ 72000
+	lightning_implodeCooldownTicks = 260
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	lightning_implodeDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	lightning_implodeRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	lightning_implodeDurationTicks = 100
+	# Default: 120
+	# Range: 0 ~ 72000
+	lightning_strikeCooldownTicks = 120
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	lightning_strikeDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	lightning_strikeRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	lightning_strikeDurationTicks = 100
+	# Default: 1200
+	# Range: 0 ~ 72000
+	lightning_stormCooldownTicks = 1200
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	lightning_stormDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	lightning_stormRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	lightning_stormDurationTicks = 100
+	# Default: 0
+	# Range: 0 ~ 72000
+	poisonCooldownTicks = 0
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	poisonDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	poisonRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	poisonDurationTicks = 100
+	# Default: 200
+	# Range: 0 ~ 72000
+	poison_novaCooldownTicks = 200
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	poison_novaDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	poison_novaRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	poison_novaDurationTicks = 100
+	# Default: 120
+	# Range: 0 ~ 72000
+	poison_burstCooldownTicks = 120
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	poison_burstDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	poison_burstRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	poison_burstDurationTicks = 100
+	# Default: 260
+	# Range: 0 ~ 72000
+	poison_implodeCooldownTicks = 260
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	poison_implodeDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	poison_implodeRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	poison_implodeDurationTicks = 100
+	# Default: 0
+	# Range: 0 ~ 72000
+	forceCooldownTicks = 0
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	forceDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	forceRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	forceDurationTicks = 100
+	# Default: 260
+	# Range: 0 ~ 72000
+	force_aegisCooldownTicks = 260
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	force_aegisDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	force_aegisRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	force_aegisDurationTicks = 100
+	# Default: 180
+	# Range: 0 ~ 72000
+	force_burstCooldownTicks = 180
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	force_burstDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	force_burstRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	force_burstDurationTicks = 100
+	# Default: 240
+	# Range: 0 ~ 72000
+	force_shockwaveCooldownTicks = 240
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	force_shockwaveDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	force_shockwaveRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	force_shockwaveDurationTicks = 100
+	# Default: 1800
+	# Range: 0 ~ 72000
+	force_rampageCooldownTicks = 1800
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	force_rampageDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	force_rampageRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	force_rampageDurationTicks = 100
+	# Default: 0
+	# Range: 0 ~ 72000
+	bloodCooldownTicks = 0
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	bloodDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	bloodRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	bloodDurationTicks = 100
+	# Default: 180
+	# Range: 0 ~ 72000
+	blood_healCooldownTicks = 180
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	blood_healDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	blood_healRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	blood_healDurationTicks = 100
+	# Default: 240
+	# Range: 0 ~ 72000
+	blood_cleanseCooldownTicks = 240
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	blood_cleanseDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	blood_cleanseRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	blood_cleanseDurationTicks = 100
+	# Default: 160
+	# Range: 0 ~ 72000
+	blood_burstCooldownTicks = 160
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	blood_burstDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	blood_burstRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	blood_burstDurationTicks = 100
+	# Default: 240
+	# Range: 0 ~ 72000
+	blood_drainCooldownTicks = 240
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	blood_drainDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	blood_drainRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	blood_drainDurationTicks = 100
+	# Default: 0
+	# Range: 0 ~ 72000
+	windCooldownTicks = 0
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	windDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	windRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	windDurationTicks = 100
+	# Default: 120
+	# Range: 0 ~ 72000
+	wind_dashCooldownTicks = 120
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	wind_dashDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	wind_dashRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	wind_dashDurationTicks = 100
+	# Default: 150
+	# Range: 0 ~ 72000
+	wind_leapCooldownTicks = 150
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	wind_leapDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	wind_leapRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	wind_leapDurationTicks = 100
+	# Default: 160
+	# Range: 0 ~ 72000
+	wind_lungeCooldownTicks = 160
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	wind_lungeDamage = 6.0
+	# Default: 3.0
+	# Range: 0.0 ~ 128.0
+	wind_lungeRadius = 3.0
+	# Default: 100
+	# Range: 0 ~ 72000
+	wind_lungeDurationTicks = 100

@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftrobotics:blocks/requester",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftrobotics:blocks/zone_planner",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

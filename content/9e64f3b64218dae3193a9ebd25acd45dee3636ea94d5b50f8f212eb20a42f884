@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "classicpipes:obsidian_fluid_pipe_gurgle"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:obsidian_pipe_destroy_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:pipe_adjust"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:pipe_eject"
+		}
+	]
+}

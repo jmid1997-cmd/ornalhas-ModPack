@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stronger_skill_tree:ores_in_ground/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stronger_skill_tree:ores_in_ground/netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "stronger_skill_tree:ores_in_ground/stone"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+#What the library shows on your screen.
+[visuals]
+	#Shows the effects drawn over the whole screen, such as the red edges of Bleeding.
+	screenOverlays = true
+	#Draws the tornadoes with their 3D model. When turned off, a lighter funnel of particles is drawn instead, which suits modest computers.
+	tornadoModel = true

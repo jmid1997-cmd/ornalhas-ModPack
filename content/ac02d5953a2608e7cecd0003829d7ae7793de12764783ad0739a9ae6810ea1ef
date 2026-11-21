@@ -1,0 +1,172 @@
+{
+	autofocus_id: "094455E329122A76"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fendas_gates_c"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:amethyst_shard"
+	}
+	id: "5D5192AFA8E0344B"
+	images: [ ]
+	order_index: 35
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "094455E329122A76"
+			rewards: [{
+				count: 3
+				id: "427072094EDB9579"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_giant_canyon"
+				criterion: ""
+				id: "78EC97EDD6226E48"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "66F5079A179132ED"
+			rewards: [{
+				count: 3
+				id: "47A8EB1A81C1DBB4"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_orc_citadel"
+				criterion: ""
+				id: "148726C1094EC97D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1E90CE7F8D3CAA40"
+			rewards: [{
+				count: 3
+				id: "2A2E9F5F44FB0496"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_spider_realm"
+				criterion: ""
+				id: "4CC7F6FE54A079C7"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0BD5ADA2B10FBD28"
+			rewards: [{
+				count: 3
+				id: "2D749D3592642F35"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_sunken_palace"
+				criterion: ""
+				id: "45916A0DBEDD4FAE"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"4C8B845162023134"
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+				"5FA980FCF00D1820"
+				"094455E329122A76"
+				"66F5079A179132ED"
+				"1E90CE7F8D3CAA40"
+				"0BD5ADA2B10FBD28"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3DF7960CD6BF5C5C"
+			rewards: [{
+				count: 8
+				id: "688EAB84F128B8BC"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.4d
+			tasks: [{
+				id: "4332564936890139"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apothic_spawners:gameplay/unstable_spawner",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

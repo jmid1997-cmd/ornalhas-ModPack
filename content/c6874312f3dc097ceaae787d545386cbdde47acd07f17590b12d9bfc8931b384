@@ -1,0 +1,230 @@
+{
+	autofocus_id: "2405675D38B533E7"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fendas_gates_national"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:amethyst_shard"
+	}
+	id: "2195EF0EC8BF2D61"
+	images: [ ]
+	order_index: 60
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2405675D38B533E7"
+			rewards: [{
+				count: 3
+				id: "6286B4DFCFADED01"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_kamishs_ember"
+				criterion: ""
+				id: "1F05D4F4E4574316"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1A7CCDEFE1C534D6"
+			rewards: [{
+				count: 3
+				id: "4B83E000892D0ACB"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_the_endless_muster"
+				criterion: ""
+				id: "07CBB9E1D16813C0"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "399CC86005858AC7"
+			rewards: [{
+				count: 3
+				id: "788E7B34BF9C24A1"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_the_hour_of_the_blade"
+				criterion: ""
+				id: "3ED3AD3519664B6B"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "419572E260C9A66A"
+			rewards: [{
+				count: 3
+				id: "486182384377C4CD"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_the_iron_body"
+				criterion: ""
+				id: "3A1668C36CE3545C"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "09358171F09F3A62"
+			rewards: [{
+				count: 3
+				id: "7CCB371D02148CA9"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_the_shifting_sanctum"
+				criterion: ""
+				id: "1F9C2E0ED7859D3C"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"020835BF0626EE5C"
+				"26CB61F4D0FF3093"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "733C70634DF6F672"
+			rewards: [{
+				count: 3
+				id: "5F55EA67B3D41F0F"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:dungeon_clear_the_unending_front"
+				criterion: ""
+				id: "165A25E95407ECC6"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"2405675D38B533E7"
+				"1A7CCDEFE1C534D6"
+				"399CC86005858AC7"
+				"419572E260C9A66A"
+				"09358171F09F3A62"
+				"733C70634DF6F672"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "78DF3027C498B99A"
+			rewards: [{
+				count: 8
+				id: "61FF070D25041644"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.4d
+			tasks: [{
+				id: "6FB553CD12AEA01E"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+	]
+}

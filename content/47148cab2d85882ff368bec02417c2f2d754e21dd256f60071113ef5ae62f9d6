@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:bygonedungeon",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "encapsulate",
+				"spawn_overrides": {
+				},
+				"id": "adventuredungeons:bygonedungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:coldlair",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "encapsulate",
+				"spawn_overrides": {
+				},
+				"id": "adventuredungeons:coldlair"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:murkydungeon",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "encapsulate",
+				"spawn_overrides": {
+				},
+				"id": "adventuredungeons:murkydungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:ruins_desert",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "adventuredungeons:ruins_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:ruins_snow",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "adventuredungeons:ruins_snow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:ruins_standard",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "adventuredungeons:ruins_standard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:trialrooms",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "encapsulate",
+				"spawn_overrides": {
+				},
+				"id": "adventuredungeons:trialrooms"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:underground_camp",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "adventuredungeons:underground_camp"
+			}
+		}
+	]
+}

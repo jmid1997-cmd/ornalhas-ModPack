@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "nota": "Mais difícil, com reforços limitados. Aplica-se apenas a novas masmorras; as antigas mantêm os valores guardados. Níveis de entrada E/D/C/B/A/S: 1/10/25/45/70/100.",
+  "ranks": {
+    "E": {
+      "mob_min_level": 1,
+      "mob_max_level": 9,
+      "boss_level": 9,
+      "mob_base_health": 24,
+      "mob_health_per_level": 2.2,
+      "mob_base_damage": 2.4,
+      "mob_damage_per_level": 0.14,
+      "boss_health": 150,
+      "boss_damage": 5,
+      "max_summoned_mobs": 10
+    },
+    "D": {
+      "mob_min_level": 10,
+      "mob_max_level": 24,
+      "boss_level": 24,
+      "mob_base_health": 26,
+      "mob_health_per_level": 2.2,
+      "mob_base_damage": 2.6,
+      "mob_damage_per_level": 0.145,
+      "boss_health": 250,
+      "boss_damage": 10,
+      "max_summoned_mobs": 12
+    },
+    "C": {
+      "mob_min_level": 25,
+      "mob_max_level": 44,
+      "boss_level": 44,
+      "mob_base_health": 28,
+      "mob_health_per_level": 2.35,
+      "mob_base_damage": 2.8,
+      "mob_damage_per_level": 0.15,
+      "boss_health": 420,
+      "boss_damage": 15,
+      "max_summoned_mobs": 14
+    },
+    "B": {
+      "mob_min_level": 45,
+      "mob_max_level": 69,
+      "boss_level": 69,
+      "mob_base_health": 30,
+      "mob_health_per_level": 2.5,
+      "mob_base_damage": 3,
+      "mob_damage_per_level": 0.155,
+      "boss_health": 640,
+      "boss_damage": 20,
+      "max_summoned_mobs": 16
+    },
+    "A": {
+      "mob_min_level": 70,
+      "mob_max_level": 99,
+      "boss_level": 99,
+      "mob_base_health": 32,
+      "mob_health_per_level": 2.65,
+      "mob_base_damage": 3.2,
+      "mob_damage_per_level": 0.16,
+      "boss_health": 950,
+      "boss_damage": 25,
+      "max_summoned_mobs": 20
+    },
+    "S": {
+      "mob_min_level": 100,
+      "mob_max_level": 150,
+      "boss_level": 150,
+      "mob_base_health": 34,
+      "mob_health_per_level": 2.8,
+      "mob_base_damage": 3.4,
+      "mob_damage_per_level": 0.165,
+      "boss_health": 1500,
+      "boss_damage": 31,
+      "max_summoned_mobs": 24
+    }
+  }
+}

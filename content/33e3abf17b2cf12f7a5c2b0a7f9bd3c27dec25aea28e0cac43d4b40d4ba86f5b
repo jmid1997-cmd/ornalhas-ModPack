@@ -1,0 +1,367 @@
+{
+	autofocus_id: "1D32800CC650E053"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_industria_buildcraft"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "buildcraftbuilders:quarry"
+	}
+	id: "6708826D718BDE9C"
+	images: [ ]
+	order_index: 22
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1D32800CC650E053"
+			rewards: [{
+				count: 8
+				id: "1D0930EEF7969038"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "68E048CF24D380D4"
+				item: { count: 1, id: "buildcraftcore:wrench" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1D32800CC650E053"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2F45F15F4F8994BC"
+			rewards: [{
+				count: 2
+				id: "6A66C0B58C77D41E"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0111127956231BF1"
+				item: { count: 1, id: "buildcraftcore:engine_redstone" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2F45F15F4F8994BC"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "657312328A95C973"
+			rewards: [{
+				count: 8
+				id: "51BDA942F60563FB"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "44D6A797DD0EDD13"
+				item: { count: 1, id: "buildcraftenergy:engine_stone" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["657312328A95C973"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5B6F9214B47AF885"
+			rewards: [{
+				count: 8
+				id: "5AF1BE67BAF63E2E"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0F9CED8BC7E1A004"
+				item: { count: 1, id: "buildcraftenergy:engine_fe" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1D32800CC650E053"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "179E43B9E2EED482"
+			rewards: [{
+				count: 2
+				id: "77CF5D6409F0ED09"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "3EAE4743529F0E94"
+				item: { count: 1, id: "buildcraftcore:marker_volume" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1D32800CC650E053"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "454F8E52AB70CF3C"
+			rewards: [{
+				count: 8
+				id: "0EC3530F23D8D10F"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "6B0DF75E05E21CE8"
+				item: { count: 1, id: "buildcraftfactory:tank" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"657312328A95C973"
+				"454F8E52AB70CF3C"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "51E8EFB3A7095DEA"
+			rewards: [{
+				count: 8
+				id: "7EB33584B9D48DCA"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "182ABC4D86E5C5C8"
+				item: { count: 1, id: "buildcraftfactory:pump" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2F45F15F4F8994BC"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0564D113D4586A49"
+			rewards: [{
+				count: 2
+				id: "20526B9C39B8288E"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "5698A79B7B281153"
+				item: { count: 1, id: "buildcrafttransport:wood_item" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0564D113D4586A49"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "64A4AB050334DF0B"
+			rewards: [{
+				count: 8
+				id: "1BB3563430385D11"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "3BE2362DEA9F9AC4"
+				item: { count: 1, id: "buildcrafttransport:stone_item" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["64A4AB050334DF0B"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7074FF1BA00031D1"
+			rewards: [{
+				count: 8
+				id: "329C1CB708A90E5E"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "7225651329617DF5"
+				item: { count: 1, id: "buildcrafttransport:diamond_item" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"657312328A95C973"
+				"179E43B9E2EED482"
+				"7074FF1BA00031D1"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4D2AFB273DF50A44"
+			rewards: [{
+				count: 2
+				id: "60EF70C389F1FB25"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0DE5759E102ED9BD"
+				item: { count: 1, id: "buildcraftbuilders:quarry" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"64A4AB050334DF0B"
+				"4D2AFB273DF50A44"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2A34E897CBB083C5"
+			rewards: [{
+				count: 4
+				id: "54029D3E6A1E33E4"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: false
+				id: "3A1BCB32C4DF17B5"
+				item: { count: 1, id: "buildcraftfactory:autoworkbench_item" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+	]
+}

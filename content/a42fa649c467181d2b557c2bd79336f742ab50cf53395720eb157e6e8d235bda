@@ -1,0 +1,287 @@
+#How the fight behaves. Must match across a server.
+[fight]
+	#Leave players in creative and spectator alone when the tornado pulls.
+	#The funnel sets velocity rather than adding it, specifically so that
+	#knockback resistance cannot ignore it - which also means a creative
+	#player gets dragged around like anyone else. Off = it grabs them too.
+	tornadoSparesCreative = true
+	#Let him change the world's weather.
+	#Covers the ten-minute storm that arrives with the second phase and
+	#the blizzard attack, and the clear-up afterwards. Off leaves the sky
+	#entirely alone - the arena effects and the snow around him stay,
+	#only the real weather stops being touched.
+	velkharControlsWeather = true
+	#Let the seismic cleave smash the fortress's own blocks.
+	#It breaks whatever stands in its path - trees, ice, snow, stone -
+	#but the fortress is ninety per cent ordinary stone, so
+	#left on, every fight carves new holes through the throne hall
+	#for good. Off by default: the arena survives the boss. The sealed
+	#blocks of the outer shell are unbreakable either way.
+	cleaveBreaksFortress = false
+	#The dodge roll (X by default): a few blocks along the way you move, untouchable
+	#for the moment of it. Off = nobody can roll - the server refuses it and tells
+	#every client, so the key does nothing; unbinding it is not needed.
+	combatRoll = true
+
+#Damage multipliers. 1.0 is as shipped. See the class note:
+#an attack's own multiplier and its phase multiplier both apply.
+[damage]
+
+	#Applied to every blow he lands in that phase.
+	[damage.phases]
+		#Shield and greatsword.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		phase1 = 1.0
+		#Stormblade.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		phase2 = 1.0
+		#Twin blades. Already the sharpest stretch at 1.0.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		phase2_5 = 1.0
+		#Hollow Magus. Also the phase whose blows pierce armour.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		phase3 = 1.0
+
+	#Individual attacks.
+	[damage.attacks]
+		#The gauntlet combo, and everything scaled off it.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		combo = 1.0
+		#Bash, shield wall and riposte.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		shieldBash = 1.0
+		#The punish for greed on his guard.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		shieldPunish = 1.0
+		#The shove.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		shieldPulse = 1.0
+		#The charge across the hall.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		spinCharge = 1.0
+		#Chain drag and the blow on the end of it.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		chainPull = 1.0
+		#The stomp, before distance falloff.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		groundStomp = 1.0
+		#The lane that splits the floor.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		riftStomp = 1.0
+		#Thrust, dash slash and the teleport strike.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		shadowStrike = 1.0
+		#The lift.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		risingSlash = 1.0
+		#The thrown greatsword.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		bladeThrow = 1.0
+		#One crystal of the barrage out of his chest.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		heartBarrage = 1.0
+		#The slam. Enormous by design - it is the thing you do not eat.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		slam = 1.0
+		#The third-phase beam, per damage tick.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		beam = 1.0
+		#One splinter of the two rings. Forty-five go out.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		ringShards = 1.0
+
+	#His projectiles. These carry no guaranteed minimum, so armour
+	#already reduces them fully.
+	[damage.projectiles]
+		#The doom blade.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		doomBlade = 1.0
+		#The blade out of the floor.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		graveBlade = 1.0
+		#The thrown boulder.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		iceBoulder = 1.0
+		#The shadow shard.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		shadowShard = 1.0
+		#One orb of the four-orb barrage.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		iceOrb = 1.0
+
+#Multiplayer. The keepers, the Lamplighter, the Vault Warden, the Ice Monstrosity
+#and Velkhar count the players fighting them (alive, not creative or spectator,
+#within 40 blocks) and grow with them. Counted when they wake and again when
+#someone joins; it only ever goes up during a fight. Alone, nothing changes.
+[party]
+	#Turn the whole thing on or off.
+	enabled = true
+	#Extra max health per player past the first, as a share of its base.
+	#0.5 = two players face 150%, four face 250%. Its damage ceilings grow alike.
+	# Default: 0.5
+	# Range: 0.0 ~ 10.0
+	healthPerPlayer = 0.5
+	#Extra damage per player past the first, on everything of its that hits a player.
+	# Default: 0.1
+	# Range: 0.0 ~ 10.0
+	damagePerPlayer = 0.1
+	#Never counts more players than this.
+	# Default: 8
+	# Range: 1 ~ 64
+	maxCounted = 8
+	#Its attacks come for every player: the Monstrosity's avalanche and Velkhar's
+	#judgment swords for each, the Aurochs chains charges, the Priestess's requiem
+	#and the Shepherd's herd grow with the party.
+	extraAttacks = true
+	#Every eight seconds it turns on whoever has dealt it the most, if its
+	#current target has barely touched it.
+	focusTopDamage = true
+	#Each player who fought it gets their own trophy (only they can pick it up),
+	#and Velkhar leaves a hoard chest for each. Keys stay single.
+	personalTrophies = true
+
+#Against gear from other mods that makes the citadel trivial: the minibosses cannot be
+#burst down past their mechanics, and their blows (and the Vault Warden's) still land through
+#any armour. Velkhar and the Monstrosity are left out: their blows assume such gear already.
+#damageCapsEnabled, capsFollowHealth and capMultiplier reach every boss's ceilings, theirs too.
+[hardness]
+	#The most one blow takes off a miniboss outside its open windows (after its armour),
+	#times its party health factor. Its windows (stunned, spent, its core bare) lift it.
+	# Default: 16.0
+	# Range: 1.0 ~ 10000.0
+	minibossHitCap = 16.0
+	#The most a miniboss loses in one second outside its windows (same rules).
+	# Default: 24.0
+	# Range: 1.0 ~ 10000.0
+	minibossSecondCap = 24.0
+	#The least of a boss's blow that reaches a player whatever protects them - armour,
+	#enchantments, resistance, other mods' damage reduction - as a share of the blow.
+	#Full vanilla netherite with Protection IV leaves about 0.13; 0 turns this off.
+	#A shield that blocks the blow still blocks all of it.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	bossDamageFloor = 0.2
+	#Boss blows grow with a player's maximum health over the vanilla twenty, to this
+	#power: damage x (maxHealth / 20) ^ scaling. 0 turns it off; 1 keeps every blow the
+	#same share of anyone's health.
+	# Default: 0.75
+	# Range: 0.0 ~ 1.0
+	bossHealthScaling = 0.75
+	#...but never more than this many times the blow.
+	# Default: 4.0
+	# Range: 1.0 ~ 100.0
+	bossHealthScalingMax = 4.0
+	#The ceilings on what one blow, and one second, may take off our bosses: the minibosses, the
+	#Vault Warden, the Ice Monstrosity, Velkhar (and the Storm Eye's anchors), and the wild ones out
+	#of spawn eggs. Off removes every one of them; their own mechanics (guards, open windows,
+	#armour, phases) stay.
+	damageCapsEnabled = true
+	#Every ceiling grows with the health other mods give a boss: one with three times the health
+	#this mod gives it (its own, times its party scaling) lets three times as much through a blow
+	#and a second, so a mob-scaling or difficulty mod does not make the fight last longer.
+	#It never lowers a ceiling.
+	capsFollowHealth = true
+	#Multiplies every ceiling (minibossHitCap and minibossSecondCap too): 2 lets twice as much
+	#through a blow and a second, 0.5 half as much.
+	# Default: 1.0
+	# Range: 0.1 ~ 1000.0
+	capMultiplier = 1.0
+	#Draw the Ice Monstrosity's charge lane on the floor - the strip of frost that shows, a second
+	#before it runs, where it will run. Off (the default): it charges as before, its line still
+	#fixed a second before the run, but nothing shows it - read its windup. Server side.
+	#PL: Pas szronu na posadzce pokazujący, gdzie Monstrualność za chwilę zaszarżuje. Wyłączone
+	#(domyślnie): szarża działa jak dotąd, tylko bez podglądu toru - czytaj jej zamach.
+	monstrosityChargeTelegraph = false
+	#What a boss gets back each time a fight with it is given up - its gate goes up because nobody
+	#is left shut in with it alive (dead, or risen at the shrine by the door with a Vigil Shard):
+	#this share of its greatest health. Its phase and its hall stay as the fight left them.
+	#1.0 makes the court's keepers and the Lamplighter whole again outright, asleep at their post.
+	#0 heals nothing. Velkhar is never touched.
+	#PL: Ile zdrowia boss odzyskuje po kazdej przegranej probie (krata idzie w gore, bo w sali nie
+	#zostal nikt zywy): taka czesc maksymalnego zdrowia, domyslnie 20%. 1.0 = pelny reset strazni-
+	#kow (od nowa, uspieni na swoim miejscu). Velkhara nie dotyczy.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	bossHealOnDefeat = 0.2
+	#While a miniboss's window is shut (the Forge Overseer not opened, the Priestess not spent, the
+	#Aurochs and the Bone Lord on their feet, Frosty's teeth not in the floor, the Ice Monstrosity
+	#in its prison not on its knee), the two ceilings above times this: 0.2 lets a fifth through.
+	#The Shade Shepherd's shrink with his herd instead. 1 = as before 03.11.2026.
+	# Default: 0.2
+	# Range: 0.01 ~ 1.0
+	minibossClosedCapFactor = 0.2
+	#Velkhar as the Hollow Magus on the ground: his ceilings (a blow, a second) times this, except
+	#for a few seconds after a star the players sent back strikes him. 0.25 lets a quarter through;
+	#1 = no difference (as before 03.11.2026).
+	# Default: 0.25
+	# Range: 0.01 ~ 1.0
+	magusClosedCapFactor = 0.25
+
+#The players' side: the weapons this mod gives. For packs whose other gear hits far harder.
+#1.0 is as shipped. Must match across a server.
+[weapons]
+	#Multiplies the weapons' own blows: a melee weapon's attack damage, as its
+	#tooltip shows it (tempering and other mods' bonuses are added on top, unscaled),
+	#and the arrows of the bows (Everfrost, Kingsrime, Last Watch).
+	#PL: Mnoży obrażenia samych broni: obrażenia ataku broni do walki wręcz (opis
+	#przedmiotu pokazuje nową wartość; hartowanie i premie innych modów dochodzą
+	#bez mnożenia) i strzały łuków.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	weaponDamage = 1.0
+	#Multiplies their skills' damage and that of what they call up: Throne's Bane,
+	#Sovereign's Lament, the Kingsrime Blade and Bow, the Bow of the Last Watch, the
+	#Staff of the Hollow King (its spells and shades), the Wand of the Dead (its
+	#skeletons), the Femur of the Chase, the Shield King's Bulwark, Winter's Horn,
+	#Sovereign's Signet, Hollow Breath and the Rimebound Focus. Armour set bonuses
+	#are not touched.
+	#PL: Mnoży obrażenia umiejętności tych broni i tego, co przywołują (cienie
+	#Kostura Pustego Króla, szkielety Różdżki Umarłych). Premii z zestawów zbroi
+	#nie zmienia.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	weaponSkillDamage = 1.0
+
+#The citadel's defenders. Must match across a server.
+[court]
+	#How much of a player's Iron's Spells mana the Rimeweaver's circle burns as it closes on
+	#them: 1.0 all of it, 0 none (then everyone caught gets the frozen hands below).
+	#PL: Ile many z Iron's Spells wypala krag Szronotkacza graczowi, ktory nie wyszedl z niego
+	#przed zamknieciem: 1.0 cala, 0 nic (wtedy kazdy zlapany dostaje skute dlonie).
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	rimeweaverManaBurn = 1.0
+	#For whoever the circle catches with little or no mana to lose (no Iron's Spells, or under
+	#20): ticks for which what they hold in either hand cannot be used - no shield, no bow, no
+	#food or potion, no weapon skill - nor changed: the hotbar slot stays, the hands are not
+	#swapped. 0 turns it off.
+	#PL: Kto ma malo many albo wcale (bez Iron's Spells lub ponizej 20): przez tyle tickow
+	#przedmiotow w obu rekach nie da sie uzyc - tarczy, luku, jedzenia, mikstury, zdolnosci
+	#broni - ani zmienic: slot paska stoi, rak nie da sie zamienic. 0 wylacza.
+	# Default: 60
+	# Range: 0 ~ 400
+	rimeweaverFrozenHands = 60

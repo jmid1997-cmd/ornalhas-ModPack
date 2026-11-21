@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:block1"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:block2"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:catmew"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:devilhand"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:explosion_small_planetside1"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:explosion_small_planetside2"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:explosion_small_planetside3"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:heavy_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:lasertagretplanetside"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:maxjumpplanetside"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:maxlandplanetside"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:maxwalkplanetside"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:planetsidelaser1"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:planetsidelaser2"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:pucnh1"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:punch2"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:whoosh"
+		}
+	]
+}

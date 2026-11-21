@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:a_last_first_last"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_laxing_with_the_hom_bees"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_ware_of_the_temple"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:beenna_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:drowning_in_despair"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hive_speed_beepop"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_bee_rat_faced_boy"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:knowing_renren"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:la_bee_da_loca"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:life_renren"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:perzzona_hive"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:radiance_renren"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:rivers_of_honey_moserao"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_like_a_bee"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+  "easyCount": 2,
+  "mediumCount": 2,
+  "hardCount": 1,
+  "resetMinute": 0,
+  "easyMin": 1000,
+  "easyMax": 2500,
+  "mediumMin": 3000,
+  "mediumMax": 6000,
+  "hardMin": 7500,
+  "hardMax": 12000,
+  "dailyCap": 30000,
+  "allBonus": 0,
+  "taxBps": 0,
+  "taxCapBps": 2500,
+  "bonusCapBps": 2000,
+  "reputationLimit": 3,
+  "easyReputation": 0,
+  "mediumReputation": 1,
+  "hardReputation": 2,
+  "emeraldFallback": false,
+  "progressNotices": false,
+  "enabled": [
+    "EXPLORATION",
+    "FARMING",
+    "DELIVERY",
+    "MINING",
+    "COMBAT",
+    "FISHING"
+  ],
+  "bonuses": {
+    "MINING": 0,
+    "COMBAT": 0,
+    "FARMING": 0,
+    "FISHING": 0,
+    "EXPLORATION": 0,
+    "DELIVERY": 0
+  }
+}

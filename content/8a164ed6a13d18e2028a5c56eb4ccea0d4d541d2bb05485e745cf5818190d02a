@@ -1,0 +1,228 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:black_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:blaze_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:class_choose_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:class_remove_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_assassin_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_assassin_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_assassin_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_assassin_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_battle_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_berserk_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_berserk_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_berserk_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_berserk_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_paladin_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_paladin_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_paladin_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:diamond_paladin_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:exoframe_battle_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:exoframe_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:exoframe_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:green_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_assassin_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_assassin_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_assassin_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_assassin_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_battle_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_berserk_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_berserk_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_berserk_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_berserk_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_paladin_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_paladin_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_paladin_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:iron_paladin_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_assassin_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_assassin_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_assassin_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_assassin_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_battle_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_berserk_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_berserk_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_berserk_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_berserk_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_paladin_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_paladin_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_paladin_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:netherite_paladin_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:red_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:team_giver_debug"
+		}
+	]
+}

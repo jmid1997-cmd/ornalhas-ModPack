@@ -1,0 +1,59 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "medievalend:castle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "medievalend:castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medievalend:house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "medievalend:house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medievalend:pyramid",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "medievalend:pyramid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medievalend:ship",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "medievalend:ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medievalend:shrine",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "medievalend:shrine"
+			}
+		}
+	]
+}

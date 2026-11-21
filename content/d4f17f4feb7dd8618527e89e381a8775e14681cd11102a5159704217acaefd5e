@@ -1,0 +1,1250 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:archeology/ceryneian_hind/ceryneian_hind_archeology",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:archeology/desert_hall/desert_hall_archeology",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:archeology/greenwood_pub/greenwood_pub_archeology",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:archeology/kisegi_sanctuary/kisegi_sanctuary_archeology",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:archeology/wishing_well/wishing_well_archeology",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/abandoned_temple/abandoned_temple_entrance",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/abandoned_temple/abandoned_temple_map",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/abandoned_temple/abandoned_temple_top",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/aviary/aviary_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/aviary/aviary_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/aviary/aviary_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_towers/bandit_towers_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_towers/bandit_towers_gardens",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_towers/bandit_towers_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_towers/bandit_towers_rooms",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_towers/bandit_towers_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_towers/bandit_towers_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_village/bandit_village_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_village/bandit_village_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_village/bandit_village_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bandit_village/bandit_village_tents",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bathhouse/bathhouse_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/bathhouse/bathhouse_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/ceryneian_hind/ceryneian_hind_barrel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/ceryneian_hind/ceryneian_hind_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/desert_hall/desert_hall_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/desert_hall/desert_hall_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/desert_hall/desert_hall_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/desert_hall/desert_hall_vault_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/desert_hall/desert_hall_vault_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/desert_hall/desert_hall_vault_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/fishing_hut/fishing_hut_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/foundry/foundry_chains",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/foundry/foundry_lava_pit",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/foundry/foundry_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/foundry/foundry_passage_exterior",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/foundry/foundry_passage_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/foundry/foundry_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/greenwood_pub/greenwood_pub_barrels_hallways",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/greenwood_pub/greenwood_pub_barrels_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/greenwood_pub/greenwood_pub_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_theater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_conqueror/heavenly_conqueror_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_conqueror/heavenly_conqueror_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_conqueror/heavenly_conqueror_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_rider/heavenly_rider_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_rider/heavenly_rider_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/heavenly_rider/heavenly_rider_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_campsite/illager_campsite_map",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_campsite/illager_campsite_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_campsite/illager_campsite_tent",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_campsite/illager_campsite_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_corsair/illager_corsair_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_corsair/illager_corsair_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_corsair/illager_corsair_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_fort/illager_fort_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_fort/illager_fort_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_fort/illager_fort_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_galley/illager_galley_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_galley/illager_galley_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_galley/illager_galley_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_windmill/illager_windmill_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/illager_windmill/illager_windmill_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_room_bookshelf",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_room_forge",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_room_garden",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_room_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_room_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_room_table",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_top_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_vault_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_vault_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/infested_temple/infested_temple_vault_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/jungle_tree_house/jungle_tree_house_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/jungle_tree_house/jungle_tree_house_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/jungle_tree_house/jungle_tree_house_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/keep_kayra/keep_kayra_garden_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/keep_kayra/keep_kayra_garden_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/keep_kayra/keep_kayra_library_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/keep_kayra/keep_kayra_library_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/keep_kayra/keep_kayra_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/keep_kayra/keep_kayra_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/kisegi_sanctuary/kisegi_sanctuary_basement",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/kisegi_sanctuary/kisegi_sanctuary_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/kisegi_sanctuary/kisegi_sanctuary_top",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/kisegi_sanctuary/kisegi_sanctuary_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/kisegi_sanctuary/kisegi_sanctuary_vault_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/kisegi_sanctuary/kisegi_sanctuary_vault_normal_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/kisegi_sanctuary/kisegi_sanctuary_vault_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/kisegi_sanctuary/kisegi_sanctuary_vault_ominous_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/lighthouse/lighthouse_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/lighthouse/lighthouse_top",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mechanical_nest/mechanical_nest_equipment",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mechanical_nest/mechanical_nest_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mechanical_nest/mechanical_nest_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mechanical_nest/mechanical_nest_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/merchant_campsite/merchant_campsite_map",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/merchant_campsite/merchant_campsite_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/merchant_campsite/merchant_campsite_tent",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/merchant_campsite/merchant_campsite_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mines_treasure_big",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mines_treasure_medium",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mines_treasure_small",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mining_complex/mining_complex_barrel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mining_complex/mining_complex_dripstone_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mining_complex/mining_complex_facility_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mining_complex/mining_complex_lush_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mining_complex/mining_complex_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mining_system/mining_system_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mining_system/mining_system_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/monastery/monastery_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/monastery/monastery_bridges",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/monastery/monastery_map",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_house/mushroom_house_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_house/mushroom_house_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_house/mushroom_house_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_mines/mushroom_mines_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_mines/mushroom_mines_ores",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_mines/mushroom_mines_tools",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_mines/mushroom_mines_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_village/mushroom_village_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/mushroom_village/mushroom_village_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/plague_asylum/plague_asylum_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/plague_asylum/plague_asylum_cells",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/plague_asylum/plague_asylum_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/plague_asylum/plague_asylum_potions",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/plague_asylum/plague_asylum_storage",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/plague_asylum/plague_asylum_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/scorched_mines/scorched_mines_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/scorched_mines/scorched_mines_housing",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/scorched_mines/scorched_mines_hub",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/scorched_mines/scorched_mines_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/scorched_mines/scorched_mines_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/shiraz_palace/shiraz_palace_elite",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/shiraz_palace/shiraz_palace_gardens",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/shiraz_palace/shiraz_palace_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/shiraz_palace/shiraz_palace_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/shiraz_palace/shiraz_palace_rooms",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/shiraz_palace/shiraz_palace_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/shiraz_palace/shiraz_palace_towers",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/shiraz_palace/shiraz_palace_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/small_blimp/small_blimp_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/small_blimp/small_blimp_coal_storage",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/small_blimp/small_blimp_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/small_blimp/small_blimp_redstone_chamber",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/small_blimp/small_blimp_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/thornborn_towers/thornborn_towers_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/thornborn_towers/thornborn_towers_rooms",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/thornborn_towers/thornborn_towers_top_rooms",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/thornborn_towers/thornborn_towers_top_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/typhon/typhon_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/undead_pirate_ship/undead_pirate_ship_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/undead_pirate_ship/undead_pirate_ship_enchants",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/undead_pirate_ship/undead_pirate_ship_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:chests/undead_pirate_ship/undead_pirate_ship_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:entities/gladiator_loot",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/desert_hall",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/desert_hall_melee",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/desert_hall_ranged",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/infested_temple",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/infested_temple_melee",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/infested_temple_ranged",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/kisegi_sanctuary",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/kisegi_sanctuary_melee",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:equipment/kisegi_sanctuary_ranged",
+			"data": {
+				"Type": "equipment"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:pots/infested_temple/infested_temple_pots",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:pots/kisegi_sanctuary/kisegi_sanctuary_pots",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:pots/mining_complex/mining_complex_pots",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:spawners/desert_hall/desert_hall_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:spawners/desert_hall/desert_hall_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:spawners/infested_temple/infested_temple_guaranteed_omen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:spawners/infested_temple/infested_temple_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:spawners/infested_temple/infested_temple_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:spawners/kisegi_sanctuary/kisegi_sanctuary_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:spawners/kisegi_sanctuary/kisegi_sanctuary_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

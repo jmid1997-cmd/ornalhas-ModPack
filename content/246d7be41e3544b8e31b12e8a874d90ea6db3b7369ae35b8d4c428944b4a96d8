@@ -1,0 +1,368 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/acacia_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/acacia_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/advanced_copper_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/advanced_copper_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/bamboo_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/bamboo_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/birch_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/birch_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/bone_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/brick_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/brick_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/cherry_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/cherry_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/copper_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/copper_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/crimson_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/crimson_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/dark_oak_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/dark_oak_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/diamond_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/diamond_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/flint_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/golden_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/inverted_advanced_copper_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/inverted_advanced_copper_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/inverted_copper_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/inverted_copper_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/iron_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/iron_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/jungle_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/jungle_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/lapis_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/lapis_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/mangrove_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/mangrove_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/matching_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/nether_brick_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/nether_brick_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/oak_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/oak_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/obsidian_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/obsidian_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/provider_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/recipe_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/request_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/routing_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/spruce_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/spruce_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/stocking_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/storage_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/warped_fluid_pipe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:blocks/warped_pipe",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "royalvariations:entities/royal_creeper",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:entities/royal_enderman",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:entities/royal_skeleton",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:entities/royal_zombie",
+			"data": {
+				"Type": "entity"
+			}
+		}
+	]
+}

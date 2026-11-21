@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "fluidtank:chest_as_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:creative"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:reservoir_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:reservoir_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:reservoir_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_bronze"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_tin"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "fluidtank:tank_wood"
+		}
+	]
+}

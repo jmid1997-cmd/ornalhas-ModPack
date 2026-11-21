@@ -1,0 +1,530 @@
+{
+	autofocus_id: "0FDC0F918CA24626"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_horizonte_estradas"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "53C7ECFB89DEB503"
+	images: [ ]
+	order_index: 9
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0FDC0F918CA24626"
+			rewards: [{
+				count: 4
+				id: "6C34CCB6932C170C"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					id: "225AD86F7CA57599"
+					item: { count: 1, id: "minecraft:compass" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 16L
+					id: "3EAD0C884CF9D034"
+					item: { count: 1, id: "minecraft:bread" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "156DC90D7C27CE35"
+			rewards: [{
+				count: 4
+				id: "147CDCAC4B2DB083"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "dungeonnowloading:story/labyrinth/loot_simple_dungeon"
+				criterion: ""
+				id: "253E8946C23F8175"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["156DC90D7C27CE35"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "73F1052815BA7C58"
+			rewards: [{
+				count: 4
+				id: "233E9B8C3613F145"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "dungeonnowloading:story/labyrinth/find_labyrinth"
+				criterion: ""
+				id: "215DC705E8C26375"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["73F1052815BA7C58"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1C022C007DAC1034"
+			rewards: [{
+				count: 4
+				id: "7A0B479111AEA444"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "dungeonnowloading:story/labyrinth/awaken_chaos_spawner"
+				criterion: ""
+				id: "6EF929CD413785F8"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1C022C007DAC1034"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7D1B3A6DA94254D5"
+			rewards: [{
+				count: 4
+				id: "69150C0E5A20782D"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron"
+				criterion: ""
+				id: "0AC8ABD90DBA15C1"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3530CBF19A8B2466"
+			rewards: [{
+				count: 4
+				id: "2C0188EFBDB36B3B"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "dungeonnowloading:story/temple_of_duality/find_temple_of_duality"
+				criterion: ""
+				id: "4C576BA958A1261D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3530CBF19A8B2466"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4E6C58E9DBE58CE5"
+			rewards: [{
+				count: 4
+				id: "7A910F18B28156FA"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "dungeonnowloading:story/temple_of_duality/awaken_fairkeepers"
+				criterion: ""
+				id: "531D0FAE3DC8E966"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E6C58E9DBE58CE5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3FC3BD8EF58ABFAE"
+			rewards: [{
+				count: 4
+				id: "5F7A88ACD524B2D4"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "dungeonnowloading:story/temple_of_duality/obtain_combustion_cell"
+				criterion: ""
+				id: "4905BB468C275E94"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E6C58E9DBE58CE5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2F36F262D7A4840D"
+			rewards: [{
+				count: 4
+				id: "78E6B3B096F02000"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "dungeonnowloading:story/temple_of_duality/obtain_catalyzed_redstone"
+				criterion: ""
+				id: "774D3A121C226E33"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5016B168AF7BD8DB"
+			rewards: [{
+				count: 4
+				id: "6E0625707C2184DD"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "3581C664AEDB8A06"
+				structure: "dungeoncrawl:dungeon"
+				type: "structure"
+			}]
+			x: 16.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "02C87FFBE55AC2B5"
+			rewards: [{
+				count: 4
+				id: "55F2AD18BD2143B1"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "503A63138849B19E"
+				structure: "adventuredungeons:bygonedungeon"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "51405C4FBDADDCC6"
+			rewards: [{
+				count: 4
+				id: "359E8B5A87DD6198"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "4D63897DC5A82F20"
+				structure: "adventuredungeons:murkydungeon"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6E162A7002200F4A"
+			rewards: [{
+				count: 4
+				id: "03DB4A8B623619D1"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "11EDBBAAF65ED361"
+				structure: "adventuredungeons:coldlair"
+				type: "structure"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7A30328A5C582247"
+			rewards: [{
+				count: 4
+				id: "3B92DD1885FB034E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "2F20C7BEECA2DCC1"
+				structure: "awesomedungeon:abandoned_oak_palace"
+				type: "structure"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6DE1FC7E4F06206B"
+			rewards: [{
+				count: 4
+				id: "3C45826AC81B6276"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0FD6B6FDBF0D6A55"
+				structure: "awesomedungeon:witch_castle"
+				type: "structure"
+			}]
+			x: 16.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "337F1570E6053B46"
+			rewards: [{
+				count: 4
+				id: "6B98A2139673859D"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "10F666788299A32E"
+				structure: "awesomedungeonocean:brigantine"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3509504EAED0C2CA"
+			rewards: [{
+				count: 4
+				id: "3075CC0EE794C3B7"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0921A3370C56AA6E"
+				structure: "awesomedungeonocean:ocean_temple_quad"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7CD4BB6CC4103DB2"
+			rewards: [{
+				count: 4
+				id: "797288DF1A55DAA1"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "10D1EFFD0F416BA2"
+				structure: "awesomedungeonend:end_hardcastle"
+				type: "structure"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDC0F918CA24626"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "00078E0F8BBA96FE"
+			rewards: [{
+				count: 4
+				id: "160191570F08DEA9"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "500EC7C94E3886C2"
+				structure: "awesomedungeonend:end_pyramid"
+				type: "structure"
+			}]
+			x: 12.0d
+			y: 9.0d
+		}
+	]
+}

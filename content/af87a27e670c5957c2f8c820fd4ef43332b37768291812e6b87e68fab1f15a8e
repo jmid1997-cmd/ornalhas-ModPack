@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:blooming_caverns",
+			"data": {
+				"Color": -10645668
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:deeplands",
+			"data": {
+				"Color": -10645668
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echoing_forest",
+			"data": {
+				"Color": -9923757
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:overcast_columns",
+			"data": {
+				"Color": -8545463
+			}
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vbincubationcompat:blue_egg_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "vbincubationcompat:brown_egg_crate"
+		}
+	]
+}

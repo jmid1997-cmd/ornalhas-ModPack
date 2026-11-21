@@ -1,0 +1,58 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aura:ability_power_boost",
+			"data": {
+				"Instant": false,
+				"Color": 9055202,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:cooldown_reset",
+			"data": {
+				"Instant": true,
+				"Color": 12887551,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:permafrost",
+			"data": {
+				"Instant": false,
+				"Color": 9431295,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:rampaging",
+			"data": {
+				"Instant": false,
+				"Color": 11880505,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:singularity_rampage",
+			"data": {
+				"Instant": false,
+				"Color": 11880505,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:toxin",
+			"data": {
+				"Instant": false,
+				"Color": 10178047,
+				"Category": "harmful"
+			}
+		}
+	]
+}

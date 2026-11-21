@@ -1,0 +1,984 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:aluminum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:aluminum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:antimony_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:antimony_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:azure_silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:azure_silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:bismuth_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:bismuth_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:boron_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:boron_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:calorite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:calorite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_antimony"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_apatite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_azure_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_boron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_bort"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_calorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_cinnabar"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_cobalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_crimson_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_desh"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_dilithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_draconium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_electrotine"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_green_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_iridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_lithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_magnesium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_niter"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_ostrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_palladium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_peridot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_sulfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_thorium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_tungsten"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:clump_zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:cobalt_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:cobalt_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crimson_iron_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crimson_iron_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_antimony"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_apatite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_azure_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_boron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_bort"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_calorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_cinnabar"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_cobalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_crimson_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_desh"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_dilithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_draconium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_electrotine"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_green_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_iridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_lithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_magnesium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_niter"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_ostrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_palladium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_peridot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_sulfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_thorium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_tungsten"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:crystal_zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:desh_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:desh_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_antimony"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_apatite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_azure_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_boron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_bort"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_calorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_cinnabar"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_cobalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_crimson_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_desh"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_dilithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_draconium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_electrotine"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_green_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_iridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_lithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_magnesium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_niter"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_ostrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_palladium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_peridot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_sulfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_thorium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_tungsten"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dirty_dust_zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:draconium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:draconium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_antimony"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_apatite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_azure_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_boron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_bort"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_calorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_cinnabar"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_cobalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_crimson_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_desh"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_dilithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_draconium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_electrotine"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_green_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_iridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_magnesium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_niter"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_ostrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_palladium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_peridot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_thorium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_tungsten"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:dust_zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_apatite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_bort"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_cinnabar"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_dilithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_green_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_niter"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_peridot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:gem_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:iridium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:iridium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:lithium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:lithium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:magnesium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:magnesium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:nickel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:nickel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:ostrum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:ostrum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:palladium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:palladium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:platinum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:platinum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_antimony"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_apatite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_azure_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_boron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_bort"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_calorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_cinnabar"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_cobalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_crimson_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_desh"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_dilithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_draconium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_electrotine"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_green_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_iridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_lithium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_magnesium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_nickel"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_niter"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_ostrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_palladium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_peridot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_sulfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_thorium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_tungsten"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:shard_zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:thorium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:thorium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:titanium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:titanium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:tungsten_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:tungsten_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:zinc_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moremekanismprocessing:zinc_nugget"
+		}
+	]
+}

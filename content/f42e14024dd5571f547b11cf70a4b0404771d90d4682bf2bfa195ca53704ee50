@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:blocks/primordium_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:blocks/raw_pirmordium_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:chests/pw_ruinloot_1",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:p_wruinloot_2",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:p_wruinloot_3",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "primordial_weaponry:p_wruinloot_4",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:awakening_altarnator"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:crafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:enchanternator"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:farmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:fertilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:infuser"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticalautomation:infusion_altarnator"
+		}
+	]
+}

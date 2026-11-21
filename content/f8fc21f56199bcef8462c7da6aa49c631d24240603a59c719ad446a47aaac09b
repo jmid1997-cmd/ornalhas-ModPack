@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "royalvariations:achievement_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:bony_king_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:empty_royal_telelocator"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:explosive_king_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:legacy_of_kings_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:rotten_king_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_armor_fragments"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_bone_meal"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_ender_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_gunpowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_knight_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_knight_cuirass"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_knight_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_knight_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_telelocator"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:spectral_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:spiritual_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:spiritual_crown_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:teleporting_king_icon"
+		}
+	]
+}

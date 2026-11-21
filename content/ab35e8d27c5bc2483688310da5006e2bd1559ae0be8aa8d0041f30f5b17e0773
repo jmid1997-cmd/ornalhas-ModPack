@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:blaster_bolt_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:darth_vader_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:darth_vader_living"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:dwarf_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:dwarf_laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:dwarf_speech"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:kenobi_speech"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lightsaber_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lightsaber_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lightsaber_swing_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:lightsaber_swing_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:stardew_valley_dance_of_the_moonlight_jellies"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:stardew_valley_the_wind_can_be_still"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_boss_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_hit_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_meowmere"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_shooting_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_star_wrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_sword_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:terraria_water_bolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:unicorn_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:unicorn_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:vader_speech"
+		}
+	]
+}

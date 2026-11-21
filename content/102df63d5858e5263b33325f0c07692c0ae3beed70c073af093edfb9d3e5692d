@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_armor_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_debug_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_diamond_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_golden_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_ingot_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_iron_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_multi_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_netherite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_slushy"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_soul_ammo"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_stone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:dark_wooden_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:darkstaff"
+		}
+	]
+}

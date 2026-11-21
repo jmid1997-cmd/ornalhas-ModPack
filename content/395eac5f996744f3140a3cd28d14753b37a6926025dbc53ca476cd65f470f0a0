@@ -1,0 +1,176 @@
+{
+	autofocus_id: "28178554777D5176"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_horizonte_contratos"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "contracts:contract_board"
+	}
+	id: "65FB591D3F8299AF"
+	images: [ ]
+	order_index: 14
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "28178554777D5176"
+			rewards: [{
+				count: 4
+				id: "3136EA591CD709AF"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "62E83228D161BCA6"
+				item: { count: 1, id: "contracts:contract_board" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["28178554777D5176"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5DA25047B2C55308"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "2F64A7DD3D9B7114"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "64B688B0AF25328D"
+				item: { count: 1, id: "contracts:tall_contract_board" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["28178554777D5176"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1B4D72075C1670BD"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "7D0F2A7197F4579E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "4040AF788566DCB2"
+				item: { count: 1, id: "contracts:wide_contract_board" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["28178554777D5176"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "74A98CCBA9D0BC84"
+			rewards: [{
+				count: 4
+				id: "108426BADF440C04"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0A9EDA2E11CF4C13"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["74A98CCBA9D0BC84"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "02078E0CD4E57543"
+			rewards: [{
+				count: 4
+				id: "4EB82D4F8281FE88"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "1994542D86CFA786"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2F8B64AC5768FC72"
+			rewards: [{
+				count: 4
+				id: "500EB45BAC007684"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "6B4DCE0DCF7B73C6"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+	]
+}

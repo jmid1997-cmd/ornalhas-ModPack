@@ -1,0 +1,650 @@
+#Show occasional seated face-rub variation when leaving bed.
+reluctantWake = true
+#Animate successful ground-item pickups; movement and inventory rules stay unchanged.
+pickupAnimation = true
+#Animate successful item drops locally and on visible players; item rules are unchanged.
+dropAnimation = true
+#Animate bed entry and exit for your camera and visible players. Does not change sleeping rules.
+bedAnimation = true
+#Enable the wake-up intro. Set false to disable both first-entry playback and previews.
+#Disabling during playback ends it. Skipped first-entry intros remain marked as seen.
+enabled = true
+#Keep normal eye height and use a single fade without camera movement or repeated blinks.
+reducedMotion = false
+#Temporarily suppress First-person Model's body during the wake-up intro to avoid camera clipping.
+#Only applies when First-person Model is installed; its saved settings are never changed.
+firstPersonCompatibility = true
+
+[compatibility]
+	#Optional mod IDs that should own all player poses and first-person presentation when installed. Leave empty for selective per-action control. This does not inspect those mods' internal enabled state.
+	additionalAnimationOwners = []
+	#Enable Punchy choices in per-action priority. Automatic uses a documented overlap profile for first person; it cannot inspect internal settings or resource-pack mappings. Third-person RPG poses remain available.
+	punchyHandoff = true
+	#Enable Better Combat choices in per-action priority. Automatic yields overlapping combat actions during attacks; unrelated RPG actions remain enabled.
+	betterCombatHandoff = true
+	#Yield player presentation while Saros owns that player as an active ragdoll. Does not alter physics or revive behaviour.
+	sarosHandoff = true
+	#Yield player presentation while Ragdollified hides that player. Corpses belonging to an old player entity do not suppress the respawned player.
+	ragdollifiedHandoff = true
+	#Yield RPG player poses while Carry On reports a carried block or entity. Does not change carrying mechanics.
+	carryOnHandoff = true
+	#Keep Corpse's dummy player free of live-player gestures and inventory panels; respawned players remain animated.
+	corpseHandoff = true
+
+[actionPriority]
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	swing = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	chop = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	dig = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	pick = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	till = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	door = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	trapdoor = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	gate = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	chest = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	barrel = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	shulker = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	container = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	horse = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	donkey = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	camel = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	llama = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	pig = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	strider = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	other_mount = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	land_soft = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	land_hard = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	climb = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	swim_push = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	swim_loop = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	swim_exit = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	dismount_horse = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	dismount_camel = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	dismount_small = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	shield = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	shield_hit = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	bow_draw = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	bow_release = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	crossbow_load = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	crossbow_aim = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	crossbow_release = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	button = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	lever = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	page = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	place = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	sleep_settle = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	elytra_takeoff = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	elytra_flight = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	elytra_land = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	backpack_equip = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	catch = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	brush = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	shade = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	balance = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	wall = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	shake = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	pockets = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	protect = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	warm = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	flinch = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	fish_cast = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	fish_wait = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	fish_bite = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	fish_reel = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	stretch_small = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	stretch_medium = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	stretch_large = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	fire_pat = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	freeze_rub = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	nether_sweat = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	end_chill = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	sprint_recovery = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	ledge_look = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	surface_wipe = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	rain_shield = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	careful_crouch = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	injured_rest = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	adjust_helmet = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	adjust_chest = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	adjust_legs = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	adjust_boots = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	craft = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	anvil_work = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	enchant_work = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	brew_work = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	seat_enter = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	seat_exit = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	wave = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	nod = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	bow = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	beckon = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	point = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	thanks = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	campfire_rest = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_sword = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_axe = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_pickaxe = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_shovel = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_hoe = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_special_sword = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_special_tool = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_gear = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_special_gear = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	inspect_treasure = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	wake_up = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	bed_entry = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	bed_exit = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	drop = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	pickup = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	walking = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	running = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	eating = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	fishing_hold = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	activity_typing = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	activity_browsing = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	activity_idle = "AUTO"
+	#AUTO: documented overlap profile and live Better Combat attack state. RPG: prefer ours. PUNCHY: yield first person when installed. BETTER_COMBAT: yield both views when installed. Missing selected mods fall back to RPG; compatibility master switches still apply.
+	#Allowed Values: AUTO, RPG, PUNCHY, BETTER_COMBAT
+	idle = "AUTO"
+
+[basicActions]
+	#Display cosmetic swing motions. Gameplay is unchanged.
+	swing = true
+	#Display cosmetic chop motions. Gameplay is unchanged.
+	chop = true
+	#Display cosmetic dig motions. Gameplay is unchanged.
+	dig = true
+	#Display cosmetic pick motions. Gameplay is unchanged.
+	pick = true
+	#Display cosmetic till motions. Gameplay is unchanged.
+	till = true
+	#Display cosmetic door motions. Gameplay is unchanged.
+	door = true
+	#Display cosmetic trapdoor motions. Gameplay is unchanged.
+	trapdoor = true
+	#Display cosmetic gate motions. Gameplay is unchanged.
+	gate = true
+	#Display cosmetic chest motions. Gameplay is unchanged.
+	chest = true
+	#Display cosmetic barrel motions. Gameplay is unchanged.
+	barrel = true
+	#Display cosmetic shulker motions. Gameplay is unchanged.
+	shulker = true
+	#Display cosmetic container motions. Gameplay is unchanged.
+	container = true
+	#Display cosmetic horse motions. Gameplay is unchanged.
+	horse = true
+	#Display cosmetic donkey motions. Gameplay is unchanged.
+	donkey = true
+	#Display cosmetic camel motions. Gameplay is unchanged.
+	camel = true
+	#Display cosmetic llama motions. Gameplay is unchanged.
+	llama = true
+	#Display cosmetic pig motions. Gameplay is unchanged.
+	pig = true
+	#Display cosmetic strider motions. Gameplay is unchanged.
+	strider = true
+	#Display cosmetic other_mount motions. Gameplay is unchanged.
+	other_mount = true
+	#Display cosmetic elytra_takeoff motions. Gameplay is unchanged.
+	elytra_takeoff = true
+	#Display cosmetic elytra_flight motions. Gameplay is unchanged.
+	elytra_flight = true
+	#Display cosmetic elytra_land motions. Gameplay is unchanged.
+	elytra_land = true
+	#Display cosmetic backpack_equip motions. Gameplay is unchanged.
+	backpack_equip = true
+	#Footfall-driven shoulder motion while walking on the ground.
+	walking = true
+	#Stronger opposing arms and forward lean while sprinting.
+	running = true
+	#Bite rhythm for either hand. Consumption timing remains vanilla.
+	eating = true
+
+	[basicActions.movement]
+		#Display cosmetic land_soft motions. Gameplay is unchanged.
+		land_soft = true
+		#Display cosmetic land_hard motions. Gameplay is unchanged.
+		land_hard = true
+		#Display cosmetic climb motions. Gameplay is unchanged.
+		climb = true
+		#Display cosmetic swim_push motions. Gameplay is unchanged.
+		swim_push = true
+		#Display cosmetic swim_loop motions. Gameplay is unchanged.
+		swim_loop = true
+		#Display cosmetic swim_exit motions. Gameplay is unchanged.
+		swim_exit = true
+		#Display cosmetic dismount_horse motions. Gameplay is unchanged.
+		dismount_horse = true
+		#Display cosmetic dismount_camel motions. Gameplay is unchanged.
+		dismount_camel = true
+		#Display cosmetic dismount_small motions. Gameplay is unchanged.
+		dismount_small = true
+
+	[basicActions.equipment]
+		#Display cosmetic shield motions. Gameplay is unchanged.
+		shield = true
+		#Display cosmetic shield_hit motions. Gameplay is unchanged.
+		shield_hit = true
+		#Display cosmetic bow_draw motions. Gameplay is unchanged.
+		bow_draw = true
+		#Display cosmetic bow_release motions. Gameplay is unchanged.
+		bow_release = true
+		#Display cosmetic crossbow_load motions. Gameplay is unchanged.
+		crossbow_load = true
+		#Display cosmetic crossbow_aim motions. Gameplay is unchanged.
+		crossbow_aim = true
+		#Display cosmetic crossbow_release motions. Gameplay is unchanged.
+		crossbow_release = true
+
+	[basicActions.interactions]
+		#Display cosmetic button motions. Gameplay is unchanged.
+		button = true
+		#Display cosmetic lever motions. Gameplay is unchanged.
+		lever = true
+		#Display cosmetic page motions. Gameplay is unchanged.
+		page = true
+		#Display cosmetic place motions. Gameplay is unchanged.
+		place = true
+
+	[basicActions.rest]
+		#Display cosmetic sleep_settle motions. Gameplay is unchanged.
+		sleep_settle = true
+
+[contextAnimations]
+	#Enable cosmetic catch gestures on this client.
+	catch = true
+	#Enable cosmetic brush gestures on this client.
+	brush = true
+	#Enable cosmetic shade gestures on this client.
+	shade = true
+	#Enable cosmetic balance gestures on this client.
+	balance = true
+	#Enable cosmetic wall gestures on this client.
+	wall = true
+	#Enable cosmetic shake gestures on this client.
+	shake = true
+	#Enable cosmetic pockets gestures on this client.
+	pockets = true
+	#Enable cosmetic protect gestures on this client.
+	protect = true
+	#Enable cosmetic inspect gestures on this client.
+	inspect = true
+	#Enable cosmetic warm gestures on this client.
+	warm = true
+	#Enable cosmetic flinch gestures on this client.
+	flinch = true
+	#Enable cosmetic fish_cast gestures on this client.
+	fish_cast = true
+	#Enable cosmetic fish_wait gestures on this client.
+	fish_wait = true
+	#Enable cosmetic fish_bite gestures on this client.
+	fish_bite = true
+	#Enable cosmetic fish_reel gestures on this client.
+	fish_reel = true
+	#Enable cosmetic stretch_small gestures on this client.
+	stretch_small = true
+	#Enable cosmetic stretch_medium gestures on this client.
+	stretch_medium = true
+	#Enable cosmetic stretch_large gestures on this client.
+	stretch_large = true
+	#Enable cosmetic fire_pat gestures on this client.
+	fire_pat = true
+	#Enable cosmetic freeze_rub gestures on this client.
+	freeze_rub = true
+	#Enable cosmetic nether_sweat gestures on this client.
+	nether_sweat = true
+	#Enable cosmetic end_chill gestures on this client.
+	end_chill = true
+	#Enable cosmetic inspect_sword gestures on this client.
+	inspect_sword = true
+	#Enable cosmetic inspect_axe gestures on this client.
+	inspect_axe = true
+	#Enable cosmetic inspect_pickaxe gestures on this client.
+	inspect_pickaxe = true
+	#Enable cosmetic inspect_shovel gestures on this client.
+	inspect_shovel = true
+	#Enable cosmetic inspect_hoe gestures on this client.
+	inspect_hoe = true
+	#Enable cosmetic inspect_special_sword gestures on this client.
+	inspect_special_sword = true
+	#Enable cosmetic inspect_special_tool gestures on this client.
+	inspect_special_tool = true
+	#Enable cosmetic inspect_gear gestures on this client.
+	inspect_gear = true
+	#Enable cosmetic inspect_special_gear gestures on this client.
+	inspect_special_gear = true
+	#Enable cosmetic inspect_treasure gestures on this client.
+	inspect_treasure = true
+
+	[rpgDetails.environment]
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		sprint_recovery = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		ledge_look = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		surface_wipe = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		rain_shield = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		careful_crouch = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		injured_rest = true
+
+	[rpgDetails.equipment]
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		adjust_helmet = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		adjust_chest = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		adjust_legs = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		adjust_boots = true
+
+	[rpgDetails.workstations]
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		craft = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		anvil_work = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		enchant_work = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		brew_work = true
+
+	[rpgDetails.seats]
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		seat_enter = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		seat_exit = true
+
+	[rpgDetails.social]
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		wave = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		nod = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		bow = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		beckon = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		point = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		thanks = true
+		#Display this cosmetic gesture. Server settings and per-action ownership also apply; gameplay is unchanged.
+		campfire_rest = true
+
+	[activity.sharing]
+		#Allow other players to see your activity status. Inventory images require the separate explicit preview opt-in.
+		enabled = true
+		#Share when ordinary chat is open and your coarse typing speed.
+		typing = true
+		#Also show typing while entering slash commands. Command text is never sent.
+		commands = false
+		#Include the Sophisticated backpack window and upgrade panels when inventory image sharing is enabled.
+		sophisticatedBackpackPreviews = true
+		#Include Traveler backpack windows and visible side widgets when inventory image sharing is enabled.
+		travelersBackpackPreviews = true
+		#Include visible book pages in opt-in preview sharing; may include text you write. Does not share signing screens or chat.
+		bookPreviews = true
+		#Opt in to sharing a low-resolution image of your inventory window, including visible items and resource-pack appearance, with nearby players. Never captures chat or the desktop.
+		inventoryPreview = false
+		#Share inventory/container activity and a coarse click pulse, never contents.
+		browsing = true
+		#Share an idle status after the configured time without input.
+		idle = true
+
+	[activity.display]
+		#Master switch for activity indicators, panels and gestures on this client.
+		enabled = true
+		#Show an animated typing indicator above visible players.
+		typingBubbles = true
+		#Show a browsing indicator above visible players.
+		inventoryIndicator = true
+		#Show Zzz above idle players.
+		idleIndicator = true
+		#Show activity beside player names in the Tab list.
+		tabStatus = true
+		#Show inventory-window previews from players who opt in. Does not enable sharing your own screen.
+		inventoryPreview = true
+		#Show the floating panel for inventory previews shared by other players.
+		floatingPanel = true
+
+	[activity.gestures]
+		#Continuous alternating hand movements while typing, easing out after a pause.
+		typing = true
+		#Look down and reach toward the generic panel when clicking.
+		browsing = true
+		#Relax shoulders and nod the head slowly while idle.
+		idle = true
+
+	[activity.timing]
+		#Seconds without keyboard, mouse or avatar activity before idle. Applies live.
+		# Default: 300
+		# Range: 30 ~ 3600
+		idleSeconds = 300
+		#Maximum distance in blocks for world indicators and panels. Tab status is independent.
+		# Default: 24
+		# Range: 4 ~ 64
+		distance = 24

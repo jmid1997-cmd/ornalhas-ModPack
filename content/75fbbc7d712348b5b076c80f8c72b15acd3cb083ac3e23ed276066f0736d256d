@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/absorption_hopper",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/dark_oak_stone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/delightful_dirt",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/dragon_muffler",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/dreadful_dirt",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/ender_inhibitor_off",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/ender_inhibitor_on",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/entity_conveyor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/entity_spawner",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/fan",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/jumbo_tank",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/saw",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/solid_xp_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/spikes",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/tank",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/tank_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/tinted_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/wither_muffler",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/xp_tap",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:blocks/xpsolidifier",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

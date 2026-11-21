@@ -1,0 +1,301 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:alchemy_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "underground_rooms:alchemy_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:armory",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "underground_rooms:armory"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:blacksmith_room1",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "underground_rooms:blacksmith_room1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:catacombs",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "underground_rooms:catacombs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:desert_crypt",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "underground_rooms:desert_crypt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:dungeon",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "underground_rooms:dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:enchanting_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:witch",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "underground_rooms:enchanting_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:end_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "underground_rooms:end_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:hidden_temple",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:hidden_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:jail",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:jail"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:jungle_main_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:jungle_main_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:library",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:library"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:library1",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:library1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:mainroom1",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:mainroom1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:mining_storage_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:mining_storage_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:throne_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:throne_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:torture_chamber",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:torture_chamber"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:treasure_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:treasure_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:undead_main_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "underground_rooms:undead_main_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_rooms:wine_cellar",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:witch",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "underground_rooms:wine_cellar"
+			}
+		}
+	]
+}

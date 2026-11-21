@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shippy_ships:ship.creak"
+		},
+		{
+			"weight": 1.0,
+			"key": "shippy_ships:ship.sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "shippy_ships:ship.stormed"
+		}
+	]
+}

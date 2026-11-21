@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "solargeneration:lapis_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:photovoltaic_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_core_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_core_hardened"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_core_leadstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_core_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_core_resonant"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_core_signalum"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_core_ultimate"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_helmet_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_helmet_hardened"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_helmet_leadstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_helmet_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_helmet_resonant"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_helmet_signalum"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_helmet_ultimate"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_panel_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_panel_hardened"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_panel_leadstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_panel_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_panel_resonant"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_panel_signalum"
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:solar_panel_ultimate"
+		}
+	]
+}

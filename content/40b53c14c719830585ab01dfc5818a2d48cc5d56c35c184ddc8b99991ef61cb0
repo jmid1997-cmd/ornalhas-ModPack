@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:ancient_sea",
+			"data": {
+				"Color": 4477507
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:barren_abyss",
+			"data": {
+				"Color": 7568503
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blood_mushroom_bog",
+			"data": {
+				"Color": 6180396
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:dead_sea",
+			"data": {
+				"Color": 7568503
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:dense_forest",
+			"data": {
+				"Color": 4224322
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depths",
+			"data": {
+				"Color": 7568503
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_field",
+			"data": {
+				"Color": 5993819
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:frostfields",
+			"data": {
+				"Color": 14609908
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:frosty_smogstem_forest",
+			"data": {
+				"Color": 14609908
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gronglegrowth",
+			"data": {
+				"Color": 4103962
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:icy_sea",
+			"data": {
+				"Color": 14609908
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:indigo_mushroom_bog",
+			"data": {
+				"Color": 4212845
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:infected_depths",
+			"data": {
+				"Color": 7568503
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ink_mushroom_bog",
+			"data": {
+				"Color": 4075847
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:puff_mushroom_forest",
+			"data": {
+				"Color": 6312510
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rogdorium_grove",
+			"data": {
+				"Color": 1784489
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smog_spires",
+			"data": {
+				"Color": 7568503
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_forest",
+			"data": {
+				"Color": 5928296
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:veil_mushroom_bog",
+			"data": {
+				"Color": 7696730
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_forest",
+			"data": {
+				"Color": 7304538
+			}
+		}
+	]
+}

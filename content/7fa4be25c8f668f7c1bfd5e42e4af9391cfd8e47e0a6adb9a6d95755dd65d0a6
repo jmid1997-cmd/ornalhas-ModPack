@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "repurposed_structures:ancient_city_end_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "repurposed_structures:ancient_city_nether_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "repurposed_structures:ancient_city_ocean_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "repurposed_structures:dead_coral_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "repurposed_structures:dead_coral_plants"
+		},
+		{
+			"weight": 1.0,
+			"key": "repurposed_structures:dead_corals"
+		},
+		{
+			"weight": 1.0,
+			"key": "repurposed_structures:dead_wall_corals"
+		},
+		{
+			"weight": 1.0,
+			"key": "repurposed_structures:mineshaft_support_replaceables"
+		}
+	]
+}

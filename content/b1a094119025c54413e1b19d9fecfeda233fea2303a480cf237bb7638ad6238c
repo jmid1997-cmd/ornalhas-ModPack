@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "underground_bunkers:chests/underground_bunker/underground_bunker_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_bunkers:chests/underground_bunker/underground_bunker_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_bunkers:chests/underground_bunker/underground_bunker_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:music.blizzard_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:music.forsaken_drownage"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:music.ice_maze_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:music.title_screen_theme"
+		}
+	]
+}

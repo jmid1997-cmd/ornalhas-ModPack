@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_nl_music_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_nl_music_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_nl_music_3"
+		}
+	]
+}

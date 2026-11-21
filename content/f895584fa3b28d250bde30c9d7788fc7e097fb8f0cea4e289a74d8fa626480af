@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdungeons:biome_dungeon",
+			"data": {
+				"Color": -9726390
+			}
+		}
+	]
+}

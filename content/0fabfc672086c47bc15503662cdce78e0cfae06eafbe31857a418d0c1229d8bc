@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "darkblades:blocks/dark_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "darkblades:blocks/dark_ore",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

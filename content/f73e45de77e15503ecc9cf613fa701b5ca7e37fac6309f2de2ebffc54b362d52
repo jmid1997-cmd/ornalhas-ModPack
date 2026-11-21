@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:aotsugi"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:broken_aotsugi"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:clash_of_duality_boros"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:clash_of_duality_ouros"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:clash_of_duality_pythonic_overdrive"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hellspawn"
+		}
+	]
+}

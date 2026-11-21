@@ -1,0 +1,114 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:brigantine",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:brigantine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:frigate_large",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:frigate_large"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:frigate_medium",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:frigate_medium"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:ocean_cage",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:ocean_cage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:ocean_quad",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:ocean_quad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:ocean_ruin_pillager",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:ocean_ruin_pillager"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:ocean_ruin_vanilla_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:ocean_ruin_vanilla_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:ocean_temple_quad",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:ocean_temple_quad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:ocean_the_column_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:ocean_the_column_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeonocean:ocean_warn_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeonocean:ocean_warn_temple"
+			}
+		}
+	]
+}

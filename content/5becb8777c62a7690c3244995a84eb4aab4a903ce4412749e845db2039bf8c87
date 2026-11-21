@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:demon_eye",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:elf",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:longbeard_dwarf",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:magic_flying_broomstick",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:peeper",
+			"data": {
+				"Category": "water_creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:phoenix",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:the_eye_of_cthulhu",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:unicorn",
+			"data": {
+				"Category": "ambient"
+			}
+		}
+	]
+}

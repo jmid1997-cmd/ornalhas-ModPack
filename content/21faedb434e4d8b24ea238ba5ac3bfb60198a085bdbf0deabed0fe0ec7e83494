@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:comfort",
+			"data": {
+				"Instant": false,
+				"Color": 14545909,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:nourishment",
+			"data": {
+				"Instant": false,
+				"Color": 15971072,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

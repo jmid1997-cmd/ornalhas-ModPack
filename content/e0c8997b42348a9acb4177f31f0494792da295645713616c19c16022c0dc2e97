@@ -1,0 +1,351 @@
+{
+	autofocus_id: "0AAF88CF4FF4F072"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_01"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "6B8DD10F2B3BBCD4"
+	images: [ ]
+	order_index: 0
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0AAF88CF4FF4F072"
+			rewards: [{
+				id: "2B4D9A19BBC9FB8A"
+				team_reward: false
+				type: "xp"
+				xp: 55
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "7B9DC884E20155FD"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0AAF88CF4FF4F072"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "325C88181E0948E4"
+			rewards: [{
+				id: "40D29039606931B3"
+				team_reward: false
+				type: "xp"
+				xp: 55
+			}]
+			tasks: [{
+				consume_items: false
+				count: 32L
+				id: "2BC6812D6FF7852F"
+				item: { count: 1, id: "minecraft:oak_log" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["325C88181E0948E4"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1C4BCA10BF1FA5C7"
+			rewards: [
+				{
+					id: "3AEBE80071AB0863"
+					team_reward: false
+					type: "xp"
+					xp: 55
+				}
+				{
+					count: 4
+					id: "0E5595427520267A"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				id: "5C8DFB423BC4F4F8"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["325C88181E0948E4"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2357AC723DE59202"
+			rewards: [{
+				id: "55AFF28BCEDA36EB"
+				team_reward: false
+				type: "xp"
+				xp: 55
+			}]
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "7648FB77E47B0DB2"
+				item: { count: 1, id: "minecraft:bread" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"1C4BCA10BF1FA5C7"
+				"2357AC723DE59202"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "116B6C5E68D15082"
+			rewards: [{
+				id: "6281C49C6612C112"
+				team_reward: false
+				type: "xp"
+				xp: 55
+			}]
+			tasks: [{
+				consume_items: false
+				id: "0FB16190211C74E1"
+				item: { count: 1, id: "minecraft:iron_chestplate" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["116B6C5E68D15082"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3184843734832084"
+			rewards: [
+				{
+					id: "3F9ADBD394B23F1E"
+					team_reward: false
+					type: "xp"
+					xp: 55
+				}
+				{
+					count: 4
+					id: "3FBB605239CB43FC"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "7C5E0ED17C5B4B6B"
+				item: { count: 1, id: "minecraft:diamond" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["116B6C5E68D15082"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2BFE409A3D484356"
+			rewards: [{
+				id: "0C4F205C61FFCF9B"
+				team_reward: false
+				type: "xp"
+				xp: 55
+			}]
+			tasks: [{
+				consume_items: false
+				id: "4D5EA3221C79D02B"
+				item: { count: 1, id: "minecraft:compass" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"3184843734832084"
+				"2BFE409A3D484356"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4E6159D847513F92"
+			rewards: [{
+				id: "07796939A85D95F0"
+				team_reward: false
+				type: "xp"
+				xp: 55
+			}]
+			tasks: [{
+				consume_items: false
+				id: "698EFBBC63FD5592"
+				item: { count: 1, id: "minecraft:shield" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E6159D847513F92"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "04DA51BD9F7D6EA0"
+			rewards: [
+				{
+					id: "2265287D32EC86ED"
+					team_reward: false
+					type: "xp"
+					xp: 55
+				}
+				{
+					count: 4
+					id: "6F850A54AB17F4E7"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				id: "607496666021778C"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["04DA51BD9F7D6EA0"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4346B147D663F6F7"
+			rewards: [{
+				id: "507C7B83EB4294CF"
+				team_reward: false
+				type: "xp"
+				xp: 82
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "0EF49DF1535A428F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["04DA51BD9F7D6EA0"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "20BEA56B686A2B17"
+			rewards: [{
+				id: "6DC0E50323F21A31"
+				team_reward: false
+				type: "xp"
+				xp: 55
+			}]
+			tasks: [{
+				consume_items: false
+				id: "34E8E46BED578020"
+				item: { count: 1, id: "minecraft:iron_sword" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"04DA51BD9F7D6EA0"
+				"20BEA56B686A2B17"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0CB4389D89065FEC"
+			rewards: [
+				{
+					id: "18AB5ED745EB5111"
+					team_reward: false
+					type: "xp"
+					xp: 110
+				}
+				{
+					count: 2
+					id: "5241E0C1238D82A5"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				consume_items: false
+				id: "0BE615E04CA59136"
+				item: { count: 1, id: "minecraft:writable_book" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

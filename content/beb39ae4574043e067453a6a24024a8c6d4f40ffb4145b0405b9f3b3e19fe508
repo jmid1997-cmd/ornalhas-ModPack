@@ -1,0 +1,304 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ancient_metal_warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:black_steel_warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:cursium_warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:ignitium_warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:witherite_warglaive"
+		}
+	]
+}

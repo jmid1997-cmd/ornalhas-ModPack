@@ -1,0 +1,913 @@
+#The effects that deal damage have five levels, from I to V. Level III uses the values set in each section. The effects that deal no damage have a single level.
+[levels]
+	#Share of the level III damage that each level above it adds and each level below it takes away. With 0.25, level I deals 50% of the damage, level II 75%, level IV 125% and level V 150%.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	damagePerLevel = 0.25
+	#When turned on, the damage of a mob's ability on a player follows the world difficulty, like the hits of vanilla mobs. On Easy, it is halved and one point is added. On Hard, it is one and a half times higher. It applies to the damage types in #zens_effectlib:scales_with_difficulty.
+	scaleWithDifficulty = false
+
+#Some mods make their mobs cast one ability at a time. This section sets the pause between two of those abilities.
+[pacing]
+	#Pause between the end of one ability and the start of the next one, for the mods that do not choose their own. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.0 ~ 60.0
+	defaultGapSeconds = 3.0
+
+#Once in its life, when its health falls below a set share, the bearer flies into a rage.
+[berserker]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#The rage starts when health falls below this share of the maximum health.
+	# Default: 0.8
+	# Range: 0.01 ~ 1.0
+	healthThreshold = 0.8
+	#Movement speed added during the rage. With 0.4, the bearer moves 40% faster.
+	# Default: 0.4
+	# Range: 0.0 ~ 10.0
+	movementSpeedBonus = 0.4
+	#Attack speed added during the rage. With 0.5, the bearer attacks 50% faster.
+	# Default: 0.5
+	# Range: 0.0 ~ 10.0
+	attackSpeedBonus = 0.5
+	#The damage dealt during the rage is multiplied by this value.
+	# Default: 1.35
+	# Range: 1.0 ~ 20.0
+	damageMultiplier = 1.35
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.3
+	#Knockback resistance added during the rage.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	knockbackResistanceBonus = 0.5
+
+#Light damage every second for a short time, which goes through armor.
+[bleeding]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Damage dealt every second. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	damagePerSecond = 0.5
+	#Longest possible bleeding, whatever duration it is given. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.05 ~ 600.0
+	durationSeconds = 10.0
+
+#The bearer teleports behind a target that is far away.
+[blink]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible target within this distance can be reached. This distance is counted in blocks.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 16.0
+	#A target closer than this distance is left alone, because the bearer is already next to it.
+	# Default: 5.0
+	# Range: 0.0 ~ 64.0
+	minDistance = 5.0
+	#The bearer lands this many blocks behind its target.
+	# Default: 2.0
+	# Range: 1.0 ~ 8.0
+	behindDistance = 2.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 8.0
+
+#After a long charge, the bearer releases a blast that throws everything around it back.
+[celestial_repulsion]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible player within this distance starts the charge. This distance is counted in blocks.
+	# Default: 12.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 12.0
+	#How long the charge lasts. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.05 ~ 120.0
+	chargeSeconds = 10.0
+	#How far the blast reaches. This distance is counted in blocks.
+	# Default: 12.0
+	# Range: 1.0 ~ 128.0
+	radius = 12.0
+	#Damage dealt to the living creatures that the blast throws back. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 5.0
+	# Range: 0.0 ~ 1000.0
+	damage = 5.0
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.5
+	#Horizontal speed given to what stands right next to the bearer. With 3.5, it is flung about 90 blocks away.
+	# Default: 3.5
+	# Range: 0.0 ~ 3.9
+	pushNear = 3.5
+	#Horizontal speed given at the edge of the blast. With 2.0, it is flung about 50 blocks away.
+	# Default: 2.0
+	# Range: 0.0 ~ 3.9
+	pushFar = 2.0
+	#Upward speed given right next to the bearer. With 1.3, it is lifted about 9 blocks high.
+	# Default: 1.3
+	# Range: 0.0 ~ 3.9
+	liftNear = 1.3
+	#Upward speed given at the edge of the blast.
+	# Default: 1.0
+	# Range: 0.0 ~ 3.9
+	liftFar = 1.0
+	#How long the blast keeps pushing what it threw. This time is counted in seconds.
+	# Default: 1.0
+	# Range: 0.05 ~ 10.0
+	pushSeconds = 1.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 10.0
+	#Even the heaviest creatures keep this share of the push, whatever their knockback resistance.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	minPushKept = 0.25
+	#Projectiles are sent back at least this fast, in blocks per tick.
+	# Default: 1.5
+	# Range: 0.0 ~ 10.0
+	projectileSpeed = 1.5
+
+#The melee hits of the bearer can knock the item out of the target's hand. No item is ever dropped or lost.
+[disarm]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Chance that a melee hit disarms its target. With 0.2, the chance is 20%.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	chance = 0.2
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 8.0
+	#A disarmed mob gets its item back after this time. It cannot pick up items meanwhile. This time is counted in seconds.
+	# Default: 5.0
+	# Range: 0.05 ~ 600.0
+	mobDisarmSeconds = 5.0
+	#A disarmed player cannot use the item for this time, so a bow, a shield or a trident cannot be used again at once. This time is counted in seconds.
+	# Default: 2.0
+	# Range: 0.0 ~ 60.0
+	itemCooldownSeconds = 2.0
+	#After being disarmed, a creature cannot be disarmed again for this time, whoever hits it. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.0 ~ 600.0
+	protectionSeconds = 10.0
+
+#The bearer can dodge melee hits and projectiles.
+[dodge]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Chance that the bearer dodges a melee hit or a projectile. With 0.25, the chance is 25%. The bearer never dodges two hits in a row.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	chance = 0.25
+
+#Every projectile the bearer fires carries an element.
+[elemental_projectiles]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	blazingEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	freezingEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	shockingEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	venomousEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	seismicEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	gustingEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	levitatingEnabled = true
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.3
+	#How long a target hit by a blazing projectile burns. This time is counted in seconds.
+	# Default: 6.0
+	# Range: 0.05 ~ 600.0
+	fireSeconds = 6.0
+	#How long a target hit by a freezing projectile stays slowed. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.05 ~ 600.0
+	frostSlownessSeconds = 3.0
+	#Damage of the lightning bolt called by a shocking projectile. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	lightningDamage = 6.0
+	#How long a target hit by a venomous projectile stays poisoned. This time is counted in seconds.
+	# Default: 6.0
+	# Range: 0.05 ~ 600.0
+	poisonSeconds = 6.0
+	#How long a target hit by a venomous projectile stays weakened. This time is counted in seconds.
+	# Default: 6.0
+	# Range: 0.05 ~ 600.0
+	weaknessSeconds = 6.0
+	#How long a target hit by a seismic projectile stays stunned. This time is counted in seconds.
+	# Default: 1.0
+	# Range: 0.05 ~ 60.0
+	stunSeconds = 1.0
+	#How hard a gusting projectile blows its target back.
+	# Default: 1.4
+	# Range: 0.0 ~ 3.9
+	gustStrength = 1.4
+	#How long a target hit by a levitating projectile floats in the air. This time is counted in seconds.
+	# Default: 2.0
+	# Range: 0.05 ~ 60.0
+	levitationSeconds = 2.0
+	#Level of the Slowness given by a freezing projectile. Level 1 is I, level 2 is II, and so on.
+	# Default: 2
+	# Range: 1 ~ 10
+	frostSlownessLevel = 2
+	#Share of armor and Protection that the lightning of a shocking projectile ignores.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	lightningArmorPiercing = 0.5
+	#Level of the Poison given by a venomous projectile. Level 1 is I, level 2 is II, and so on.
+	# Default: 2
+	# Range: 1 ~ 10
+	poisonLevel = 2
+	#How high a gusting projectile lifts its target.
+	# Default: 0.5
+	# Range: 0.0 ~ 3.9
+	gustLift = 0.5
+	#The creatures this close to the target of a gusting projectile are pushed away too. This distance is counted in blocks.
+	# Default: 3.0
+	# Range: 0.0 ~ 32.0
+	gustRadius = 3.0
+	#How hard a gusting projectile pushes the creatures around its target.
+	# Default: 0.7
+	# Range: 0.0 ~ 3.9
+	gustSplashStrength = 0.7
+	#Level of the Levitation given by a levitating projectile. Level 1 is I, level 2 is II, and so on.
+	# Default: 2
+	# Range: 1 ~ 10
+	levitationLevel = 2
+
+#After a charge, the bearer releases a wave of fire that goes through every protection.
+[fire_nova]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#How long the charge lasts. This time is counted in seconds.
+	# Default: 4.0
+	# Range: 0.05 ~ 120.0
+	chargeSeconds = 4.0
+	#A player within this distance starts the charge, and the wave reaches this far. This distance is counted in blocks.
+	# Default: 10.0
+	# Range: 1.0 ~ 128.0
+	radius = 10.0
+	#Damage dealt by the wave. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 7.0
+	# Range: 0.0 ~ 1000.0
+	damage = 7.0
+	#How long the creatures hit keep burning. This time is counted in seconds.
+	# Default: 5.0
+	# Range: 0.0 ~ 600.0
+	burnSeconds = 5.0
+	#Share of the free spots in range that catch fire. The mobGriefing game rule must be on.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	fireSpreadChance = 0.2
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 10.0
+
+#After a charge, the bearer releases a wave of cold that goes through every protection.
+[frost_nova]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#How long the charge lasts. This time is counted in seconds.
+	# Default: 4.0
+	# Range: 0.05 ~ 120.0
+	chargeSeconds = 4.0
+	#A player within this distance starts the charge, and the wave reaches this far. This distance is counted in blocks.
+	# Default: 10.0
+	# Range: 1.0 ~ 128.0
+	radius = 10.0
+	#Damage dealt by the wave. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 4.0
+	# Range: 0.0 ~ 1000.0
+	damage = 4.0
+	#How long the creatures hit stay slowed. This time is counted in seconds.
+	# Default: 4.0
+	# Range: 0.0 ~ 600.0
+	slownessSeconds = 4.0
+	#How long the creatures hit stay fully frozen, as in powder snow. This time is counted in seconds.
+	# Default: 4.0
+	# Range: 0.0 ~ 600.0
+	frozenSeconds = 4.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 10.0
+	#Level of the Slowness given by the wave. Level 1 is I, level 2 is II, and so on.
+	# Default: 3
+	# Range: 1 ~ 10
+	slownessLevel = 3
+
+#After a short charge, the bearer releases a flash that blinds the players looking at it.
+[flash_pulse]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible player within this distance starts the charge, and the flash reaches this far. This distance is counted in blocks.
+	# Default: 10.0
+	# Range: 1.0 ~ 128.0
+	radius = 10.0
+	#How long the charge lasts. This time is counted in seconds.
+	# Default: 2.0
+	# Range: 0.05 ~ 120.0
+	chargeSeconds = 2.0
+	#How long the dazzled players stay blind. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.05 ~ 600.0
+	blindnessSeconds = 3.0
+	#A player is dazzled when the bearer is within this angle of where they look. The angle is counted in degrees.
+	# Default: 60.0
+	# Range: 1.0 ~ 180.0
+	viewAngle = 60.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 8.0
+	#Level of the Blindness given by the flash. Level 1 is I, level 2 is II, and so on.
+	# Default: 1
+	# Range: 1 ~ 10
+	blindnessLevel = 1
+
+#The bearer regularly heals the wounded allies around it.
+[healing_aura]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#The allies within this distance are healed.
+	# Default: 8.0
+	# Range: 1.0 ~ 64.0
+	radius = 8.0
+	#Health given back to each ally at every pulse. It is counted in half-hearts, so 2 means one heart.
+	# Default: 2.0
+	# Range: 0.0 ~ 1000.0
+	healAmount = 2.0
+	#Time between two pulses. This time is counted in seconds.
+	# Default: 2.0
+	# Range: 0.05 ~ 600.0
+	intervalSeconds = 2.0
+
+#The bearer marks a circle under the player, then lightning strikes inside it.
+[judgment]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible player within this distance starts the ability. This distance is counted in blocks.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 16.0
+	#Size of the circle, measured from its center. This distance is counted in blocks.
+	# Default: 10.0
+	# Range: 1.0 ~ 128.0
+	radius = 10.0
+	#Warning time before the first strike. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.05 ~ 120.0
+	chargeSeconds = 3.0
+	#How long the strikes keep falling. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.05 ~ 120.0
+	strikeSeconds = 3.0
+	#Damage dealt by each bolt. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 8.0
+	# Range: 0.0 ~ 1000.0
+	boltDamage = 8.0
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.5
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 10.0
+	#Ticks between two bolts. There are 20 ticks in a second.
+	# Default: 2
+	# Range: 1 ~ 100
+	strikeIntervalTicks = 2
+	#One bolt in this many falls near a player still inside the circle. The others fall at random.
+	# Default: 4
+	# Range: 1 ~ 100
+	aimedStrikeEvery = 4
+	#How far from the player an aimed bolt can fall. This distance is counted in blocks.
+	# Default: 1.5
+	# Range: 0.0 ~ 16.0
+	aimSpread = 1.5
+
+#After a summoning, monsters appear and fight for the bearer for a while.
+[legion_call]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible player within this distance starts the summoning. This distance is counted in blocks.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 16.0
+	#How long the summoning lasts. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.05 ~ 120.0
+	chargeSeconds = 3.0
+	#Number of monsters summoned by each call.
+	# Default: 4
+	# Range: 1 ~ 32
+	summonsPerCall = 4
+	#The summons appear within this distance of the bearer.
+	# Default: 4.0
+	# Range: 2.0 ~ 16.0
+	spawnRadius = 4.0
+	#The summons vanish after this time. This time is counted in seconds.
+	# Default: 30.0
+	# Range: 1.0 ~ 3600.0
+	lifetimeSeconds = 30.0
+	#Most summons a bearer can have alive at the same time.
+	# Default: 12
+	# Range: 1 ~ 128
+	maxActive = 12
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 10.0
+
+#The bearer pulls the creatures around it toward itself.
+[magnetic]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#The creatures within this distance are pulled. This distance is counted in blocks.
+	# Default: 12.0
+	# Range: 1.0 ~ 128.0
+	range = 12.0
+	#Pull added every tick.
+	# Default: 0.1
+	# Range: 0.0 ~ 2.0
+	strength = 0.1
+	#The creatures closer than this are left alone, so they are not crushed against the bearer. This distance is counted in blocks.
+	# Default: 1.0
+	# Range: 0.0 ~ 16.0
+	minDistance = 1.0
+	#How long the effect works before it rests. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.05 ~ 3600.0
+	activeSeconds = 10.0
+	#How long the effect rests before it works again, so the bearer is never untouchable. At 0, it never rests. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	inactiveSeconds = 8.0
+
+#The bearer calls a shower of meteors down around the player. Each landing spot is marked on the ground before the meteor hits.
+[meteor_shower]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible player within this distance starts the ability. This distance is counted in blocks.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 16.0
+	#Size of the zone where the meteors fall, measured from its center. This distance is counted in blocks.
+	# Default: 6.0
+	# Range: 1.0 ~ 32.0
+	radius = 6.0
+	#Warning time before the first meteor. This time is counted in seconds.
+	# Default: 1.5
+	# Range: 0.05 ~ 120.0
+	chargeSeconds = 1.5
+	#How long the meteors keep falling. This time is counted in seconds.
+	# Default: 4.0
+	# Range: 0.05 ~ 120.0
+	showerSeconds = 4.0
+	#Ticks between two meteors. There are 20 ticks in a second.
+	# Default: 8
+	# Range: 2 ~ 100
+	meteorIntervalTicks = 8
+	#One meteor in this many falls near a player still inside the zone. The others fall at random.
+	# Default: 3
+	# Range: 1 ~ 100
+	aimedMeteorEvery = 3
+	#Each meteor hurts the creatures this close to where it lands. This distance is counted in blocks.
+	# Default: 2.5
+	# Range: 0.5 ~ 8.0
+	impactRadius = 2.5
+	#Damage dealt by each meteor. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 6.0
+	# Range: 0.0 ~ 1000.0
+	damage = 6.0
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.3
+	#How long the creatures hit keep burning. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.0 ~ 600.0
+	burnSeconds = 3.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 15.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 15.0
+
+#Each ally that dies nearby makes the bearer a little angrier.
+[pack_rage]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#An ally that dies within this distance enrages the bearer.
+	# Default: 16.0
+	# Range: 1.0 ~ 64.0
+	radius = 16.0
+	#Damage added by each stack of rage at level III. With 0.2, each stack adds 20%.
+	# Default: 0.2
+	# Range: 0.0 ~ 10.0
+	damageBonusPerStack = 0.2
+	#Movement speed added by each stack of rage. With 0.1, each stack adds 10%.
+	# Default: 0.1
+	# Range: 0.0 ~ 10.0
+	speedBonusPerStack = 0.1
+	#Most stacks of rage the bearer can have at once.
+	# Default: 3
+	# Range: 1 ~ 20
+	maxStacks = 3
+	#How long the rage lasts after the last ally fell. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.05 ~ 600.0
+	durationSeconds = 10.0
+
+#The bearer slowly gets its health back, even when it is undead. It cannot have Regeneration at the same time.
+[recovery]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Share of its maximum health that the bearer gets back at each pulse. With 0.02, it gets back 2%.
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	healShare = 0.02
+	#Time between two pulses. This time is counted in seconds.
+	# Default: 1.0
+	# Range: 0.05 ~ 600.0
+	intervalSeconds = 1.0
+
+#The hits the bearer takes are sent back to whoever dealt them.
+[reflect]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Share of each hit that the bearer still takes.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	damageTaken = 0.5
+	#Share of each hit sent back at level III. With 0.75, three quarters of the hit are sent back.
+	# Default: 0.75
+	# Range: 0.0 ~ 20.0
+	reflectedShare = 0.75
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.5
+
+#The bearer slams the ground and sends a wave along it toward the player.
+[seismic_strike]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible player within this distance starts the ability. This distance is counted in blocks.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 16.0
+	#Preparation time before the slam. This time is counted in seconds.
+	# Default: 1.0
+	# Range: 0.05 ~ 120.0
+	chargeSeconds = 1.0
+	#How far the wave travels. This distance is counted in blocks.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	range = 16.0
+	#Damage dealt by the wave. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 8.0
+	# Range: 0.0 ~ 1000.0
+	damage = 8.0
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.6
+	#How long the creatures hit stay slowed. This time is counted in seconds.
+	# Default: 2.0
+	# Range: 0.0 ~ 600.0
+	slownessSeconds = 2.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 8.0
+	#Half the width of the lane that the wave follows. This distance is counted in blocks.
+	# Default: 1.5
+	# Range: 0.5 ~ 8.0
+	halfWidth = 1.5
+	#Upward speed given to the creatures hit. With 0.75, they are thrown about 2 blocks high.
+	# Default: 0.75
+	# Range: 0.0 ~ 3.9
+	launchVelocity = 0.75
+	#Level of the Slowness given by the wave. Level 1 is I, level 2 is II, and so on.
+	# Default: 2
+	# Range: 1 ~ 10
+	slownessLevel = 2
+
+#The bearer cancels the damage of melee hits and projectiles.
+[shielding]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Knockback given to the melee attackers whose hit was blocked.
+	# Default: 0.8
+	# Range: 0.0 ~ 5.0
+	repelStrength = 0.8
+	#How long the effect works before it rests. This time is counted in seconds.
+	# Default: 10.0
+	# Range: 0.05 ~ 3600.0
+	activeSeconds = 10.0
+	#How long the effect rests before it works again, so the bearer is never untouchable. At 0, it never rests. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	inactiveSeconds = 8.0
+
+#The bearer drops an anchor that keeps the player within a radius.
+[soul_anchor]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible player within this distance starts the ability. This distance is counted in blocks.
+	# Default: 12.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 12.0
+	#The player moves freely within this distance of the anchor.
+	# Default: 10.0
+	# Range: 1.0 ~ 64.0
+	radius = 10.0
+	#How long the anchor lasts. This time is counted in seconds.
+	# Default: 7.0
+	# Range: 0.05 ~ 600.0
+	durationSeconds = 7.0
+	#Beyond this distance, for example after an ender pearl or a teleport, the link breaks. It always stays above the radius.
+	# Default: 26.0
+	# Range: 2.0 ~ 256.0
+	breakDistance = 26.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 8.0
+	#Pull back felt as soon as the player leaves the radius.
+	# Default: 0.12
+	# Range: 0.0 ~ 3.9
+	basePull = 0.12
+	#Pull back added for each block beyond the radius.
+	# Default: 0.1
+	# Range: 0.0 ~ 3.9
+	pullPerBlock = 0.1
+	#Strongest possible pull back.
+	# Default: 0.7
+	# Range: 0.0 ~ 3.9
+	maxPull = 0.7
+	#Level of the Slowness while the player is outside the radius. Level 1 is I, level 2 is II, and so on.
+	# Default: 2
+	# Range: 1 ~ 10
+	slownessLevel = 2
+
+#When the bearer dies, it leaves a soul that explodes a moment later.
+[soul_burst]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Time between the death and the explosion. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.05 ~ 60.0
+	fuseSeconds = 3.0
+	#How far the explosion reaches. This distance is counted in blocks.
+	# Default: 10.0
+	# Range: 1.0 ~ 128.0
+	radius = 10.0
+	#Damage at the center of the explosion. It falls to nothing at the edge. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 24.0
+	# Range: 0.0 ~ 1000.0
+	maxDamage = 24.0
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.6
+	#Push at the center of the explosion. It falls to nothing at the edge.
+	# Default: 0.9
+	# Range: 0.0 ~ 3.9
+	knockback = 0.9
+	#How long the players hit stay in Darkness. This time is counted in seconds.
+	# Default: 5.0
+	# Range: 0.0 ~ 600.0
+	darknessSeconds = 5.0
+
+#The bearer summons spectral swords and launches them one by one at the player.
+[spectral_arsenal]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#A visible player within this distance starts the ability. This distance is counted in blocks.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 16.0
+	#Number of swords summoned by each cast.
+	# Default: 5
+	# Range: 1 ~ 16
+	swords = 5
+	#Damage dealt by each sword. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 7.0
+	# Range: 0.0 ~ 1000.0
+	damage = 7.0
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.5
+	#Delay between two launches. Below 0.5, a sword can land during the invulnerability left by the previous one and deal nothing. This time is counted in seconds.
+	# Default: 0.7
+	# Range: 0.05 ~ 10.0
+	launchIntervalSeconds = 0.7
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 8.0
+	#Time before the first launch, while the swords appear. This time is counted in seconds.
+	# Default: 2.0
+	# Range: 0.05 ~ 60.0
+	chargeSeconds = 2.0
+	#Speed of a sword, in blocks per tick.
+	# Default: 1.9
+	# Range: 0.1 ~ 3.9
+	speed = 1.9
+	#How far ahead of a running player the swords aim. At 0, they aim at the player. At 1, they aim at the spot where the player will be.
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	leadFactor = 0.6
+	#No sword is launched at a player farther than this. This distance is counted in blocks.
+	# Default: 32.0
+	# Range: 1.0 ~ 128.0
+	maxTargetDistance = 32.0
+
+#The arrows of the bearer split into several arrows in flight.
+[split_shot]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Number of arrows each arrow splits into.
+	# Default: 3
+	# Range: 1 ~ 16
+	fragments = 3
+	#Damage of each fragment, compared with the original arrow.
+	# Default: 0.7
+	# Range: 0.0 ~ 10.0
+	damageMultiplier = 0.7
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.5
+	#Angle between two fragments, in degrees.
+	# Default: 8.0
+	# Range: 0.0 ~ 90.0
+	spreadDegrees = 8.0
+	#The arrow splits after flying this far. This distance is counted in blocks.
+	# Default: 4.0
+	# Range: 0.5 ~ 64.0
+	splitDistance = 4.0
+	#How long a target hit by the fire fragment burns. This time is counted in seconds.
+	# Default: 6.0
+	# Range: 0.0 ~ 600.0
+	fireSeconds = 6.0
+	#How long a target hit by the poison fragment stays poisoned. This time is counted in seconds.
+	# Default: 5.0
+	# Range: 0.0 ~ 600.0
+	poisonSeconds = 5.0
+	#Level of the Poison given by the poison fragment. Level 1 is I, level 2 is II, and so on.
+	# Default: 2
+	# Range: 1 ~ 10
+	poisonLevel = 2
+	#How long a target hit by the slowness fragment stays slowed. This time is counted in seconds.
+	# Default: 5.0
+	# Range: 0.0 ~ 600.0
+	slownessSeconds = 5.0
+	#Level of the Slowness given by the slowness fragment. Level 1 is I, level 2 is II, and so on.
+	# Default: 2
+	# Range: 1 ~ 10
+	slownessLevel = 2
+
+#A stunned creature cannot move, and its hits and projectiles do nothing.
+[stunned]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+
+#Settings shared by the fire, frost, sand and poison tornadoes.
+[tornadoes]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	fireEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	frostEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	sandEnabled = true
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	poisonEnabled = true
+	#A visible player within this distance starts the ability. This distance is counted in blocks.
+	# Default: 16.0
+	# Range: 1.0 ~ 128.0
+	detectionRange = 16.0
+	#How long a tornado lasts once it has formed. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 1.5 ~ 600.0
+	lifetimeSeconds = 8.0
+	#Speed of a tornado, in blocks per tick. A walking player moves at about 0.22.
+	# Default: 0.14
+	# Range: 0.0 ~ 2.0
+	speed = 0.14
+	#The creatures within this distance of the funnel are drawn in.
+	# Default: 5.0
+	# Range: 1.0 ~ 32.0
+	pullRadius = 5.0
+	#Damage dealt every half second to the creatures caught in the core. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 3.0
+	# Range: 0.0 ~ 1000.0
+	damage = 3.0
+	#Damage dealt every half second in the core of the poison tornado. This amount is counted in half-hearts, so 2 means one heart, before armor reduces it.
+	# Default: 2.0
+	# Range: 0.0 ~ 1000.0
+	poisonDamage = 2.0
+	#Share of armor and Protection that the damage ignores. At 0, it ignores nothing. At 1, it ignores everything.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	armorPiercing = 0.5
+	#Horizontal speed of a creature flung out of the funnel.
+	# Default: 2.2
+	# Range: 0.0 ~ 3.9
+	ejectStrength = 2.2
+	#Upward speed of a creature flung out of the funnel.
+	# Default: 0.8
+	# Range: 0.0 ~ 3.9
+	ejectLift = 0.8
+	#How long a creature burns once caught in the core of the fire tornado. This time is counted in seconds.
+	# Default: 5.0
+	# Range: 0.0 ~ 600.0
+	burnSeconds = 5.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 8.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 8.0
+	#A tornado appears at most this far from the bearer. This distance is counted in blocks.
+	# Default: 10.0
+	# Range: 1.0 ~ 64.0
+	spawnRadius = 10.0
+	#A tornado never appears closer than this. It always stays below the spawn distance. This distance is counted in blocks.
+	# Default: 3.0
+	# Range: 0.0 ~ 64.0
+	minSpawnDistance = 3.0
+	#The players farther than this are no longer chased. This distance is counted in blocks.
+	# Default: 24.0
+	# Range: 1.0 ~ 128.0
+	chaseRange = 24.0
+	#How hard the creatures are drawn toward the funnel.
+	# Default: 0.16
+	# Range: 0.0 ~ 2.0
+	pullStrength = 0.16
+	#The creatures this close to the center are lifted, hurt and flung out. It always stays below the pull radius. This distance is counted in blocks.
+	# Default: 1.6
+	# Range: 0.5 ~ 16.0
+	coreRadius = 1.6
+	#How long a creature stays slowed once caught in the core of the frost tornado. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.0 ~ 600.0
+	frostSlownessSeconds = 3.0
+	#How long a creature stays blind once caught in the core of the sand tornado. This time is counted in seconds.
+	# Default: 3.0
+	# Range: 0.0 ~ 600.0
+	blindnessSeconds = 3.0
+	#How long a creature stays poisoned once caught in the core of the poison tornado. This time is counted in seconds.
+	# Default: 5.0
+	# Range: 0.0 ~ 600.0
+	poisonSeconds = 5.0
+	#Chance, each tick, that a fire or frost tornado leaves fire or snow behind it. The mobGriefing game rule must be on.
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	trailChance = 0.08
+
+#The melee hits of the bearer heal it.
+[vampiric]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Share of its maximum health that the bearer gets back at each melee hit. With 0.25, it gets back a quarter of its health.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	maxHealthShare = 0.25
+	#Most health a single hit can give back. It is counted in half-hearts, so 2 means one heart.
+	# Default: 10.0
+	# Range: 0.0 ~ 1000.0
+	maxHealPerHit = 10.0
+
+#The melee hits of the bearer can trap the target in a cobweb.
+[web_snare]
+	#When turned off, the effect can no longer be given by commands, spawn eggs or other mods, and the mobs that already have it lose it.
+	enabled = true
+	#Chance that a melee hit traps its target. With 0.3, the chance is 30%.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	chance = 0.3
+	#How long a web stays before it vanishes. This time is counted in seconds.
+	# Default: 5.0
+	# Range: 0.05 ~ 600.0
+	durationSeconds = 5.0
+	#Time to wait after a use before the next one. At 0, there is no wait. This time is counted in seconds.
+	# Default: 4.0
+	# Range: 0.0 ~ 3600.0
+	cooldownSeconds = 4.0

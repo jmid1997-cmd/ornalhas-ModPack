@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apotheosis:invader_epic"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:invader_mythic"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:invader_rare"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:invader_uncommon"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:malice"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:reforge_item_placed"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:reforge_item_reforged"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:soundtrack_pinnacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:soundtrack_summit"
+		}
+	]
+}

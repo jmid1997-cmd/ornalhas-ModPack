@@ -1,0 +1,645 @@
+{
+	autofocus_id: "69A4ECBCFC331809"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_limiar_portas"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "dimdungeons:block_portal_keyhole"
+	}
+	id: "2D535D523D5A4510"
+	images: [ ]
+	order_index: 31
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "69A4ECBCFC331809"
+			rewards: [{
+				count: 3
+				id: "4B647ED39E2805E7"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					count: 24L
+					id: "4F178039A39B327F"
+					item: { count: 1, id: "minecraft:gold_ingot" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "0BFF2178581B4F12"
+					item: { count: 1, id: "minecraft:chiseled_stone_bricks" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 9L
+					id: "6511DA90C8B77ACE"
+					item: { count: 1, id: "minecraft:stone_bricks" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["69A4ECBCFC331809"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1CC9206A8914EB3E"
+			rewards: [{
+				count: 3
+				id: "44DCEAD5D8C1333D"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 2L
+				id: "2C5436AF96F57D7F"
+				item: { count: 1, id: "dimdungeons:block_gilded_portal" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1CC9206A8914EB3E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "213AF4770D7043E5"
+			rewards: [{
+				count: 3
+				id: "7AF4475159918ECF"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "20F7C42C580837F6"
+				item: { count: 1, id: "dimdungeons:block_portal_keyhole" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["213AF4770D7043E5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6ACED1A6296F7719"
+			rewards: [{
+				count: 3
+				id: "2713B4BB37D5F9B1"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "04BEAF718CEA0D67"
+				item: { count: 1, id: "dimdungeons:item_portal_key" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6ACED1A6296F7719"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "439343268F787960"
+			rewards: [{
+				count: 2
+				id: "2C50D0C8BA1BF3AA"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/activate_basic_key"
+				criterion: ""
+				id: "7F8606898EBA0158"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["439343268F787960"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6A464BC7B8FA2E29"
+			rewards: [{
+				count: 8
+				id: "1C1B6AB7E9AD0FDA"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/enter_basic_dungeon"
+				criterion: ""
+				id: "10AE0A392578C19B"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6A464BC7B8FA2E29"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "56E54E8701536711"
+			rewards: [{
+				count: 3
+				id: "567EB29C83F254EC"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "2B0FA45EFFB13D3E"
+				item: { count: 1, id: "dimdungeons:item_homeward_pearl" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6A464BC7B8FA2E29"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4C2A60BCE77DD941"
+			rewards: [{
+				count: 3
+				id: "1058597248BF49D2"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/find_bell_1"
+				criterion: ""
+				id: "6D5980C9FD2F6890"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6A464BC7B8FA2E29"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1CA84A975A2EF9FA"
+			rewards: [{
+				count: 3
+				id: "21913635DA561B1D"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/find_key_charger"
+				criterion: ""
+				id: "5EA1BF2D30388DE4"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6A464BC7B8FA2E29"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6147FC9D92D1475F"
+			rewards: [{
+				count: 6
+				id: "7C886D917AB18FB7"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/find_crown"
+				criterion: ""
+				id: "1FAA9E0A811813AF"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6A464BC7B8FA2E29"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "29BC227404A344B2"
+			rewards: [{
+				count: 3
+				id: "6B9169D78F1ED58E"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/find_advanced_key"
+				criterion: ""
+				id: "6A4BD6B30F974CAB"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6147FC9D92D1475F"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1FDB6CD53438C087"
+			rewards: [{
+				count: 3
+				id: "35A7168DB4C8179D"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					id: "38E45F6FE4FA656E"
+					item: { count: 1, id: "minecraft:white_banner" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "53F7172FFF24C17F"
+					item: { count: 1, id: "minecraft:purple_banner" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"29BC227404A344B2"
+				"1FDB6CD53438C087"
+				"56E54E8701536711"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4DD11737C9BE0B8D"
+			rewards: [{
+				count: 2
+				id: "63094516128DBA43"
+				item: {
+					count: 1
+					id: "minecraft:golden_apple"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/enter_advanced_dungeon"
+				criterion: ""
+				id: "2F8A7FCF131CDF62"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4DD11737C9BE0B8D"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2535C115EFDC2C4C"
+			rewards: [{
+				count: 3
+				id: "67121D63C022DBAC"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					count: 4L
+					id: "1E1393A7DDD02154"
+					item: { count: 1, id: "dimdungeons:item_portal_key" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "6191AE00E901DCE1"
+					item: { count: 1, id: "dimdungeons:item_homeward_pearl" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["56E54E8701536711"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5524EF7FF9E03F26"
+			rewards: [{
+				count: 3
+				id: "33AD0DCC4F583D5C"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "3D3913032256BBFC"
+				item: { count: 1, id: "dimdungeons:item_blank_build_key" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5524EF7FF9E03F26"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3C90BB90DBA0DA96"
+			rewards: [{
+				count: 4
+				id: "7C1A5CB7A94F8807"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/enter_personal_space"
+				criterion: ""
+				id: "3A62741195935066"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4DD11737C9BE0B8D"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "089F3CF9911821DE"
+			rewards: [{
+				count: 3
+				id: "08B3977105D6457C"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/find_teleporter_key"
+				criterion: ""
+				id: "5B38B15253B48446"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4DD11737C9BE0B8D"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "19E250668D799CE9"
+			rewards: [{
+				count: 8
+				id: "0B099A5A39C894E4"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					id: "14BDF67B1F50110F"
+					item: { count: 1, id: "dimdungeons:item_trophy_1" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1A82325EF300C5A6"
+					item: { count: 1, id: "dimdungeons:item_trophy_2" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "44BF3311704206D2"
+					item: { count: 1, id: "dimdungeons:item_trophy_3" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4DD11737C9BE0B8D"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0E34847217AAFE64"
+			rewards: [{
+				count: 8
+				id: "1F89B6E5EA08321D"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					id: "2C4F4874EDB59181"
+					item: { count: 1, id: "dimdungeons:item_trophy_4" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6FB922A39BA25521"
+					item: { count: 1, id: "dimdungeons:item_trophy_5" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3D5562BEFF64E199"
+					item: { count: 1, id: "dimdungeons:item_trophy_6" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"19E250668D799CE9"
+				"0E34847217AAFE64"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1C78AD15C9A7F1B4"
+			rewards: [{
+				count: 4
+				id: "201A1AD84C74A4AA"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "dimdungeons:dungeons/all_trophies"
+				criterion: ""
+				id: "0624C5AB0A99C7A6"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 12.0d
+		}
+	]
+}

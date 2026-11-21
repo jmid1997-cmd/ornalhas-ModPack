@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:beacon",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:beacon_active",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:block_barrier",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:boss_counter",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:exoframe_beam",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:exoframe_tick",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:kri_strarz",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:runic_spider",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:the_exoframe",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:the_exoframe_spawn",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:the_exoframe_vfx",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:the_exoframe_vfx_2",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

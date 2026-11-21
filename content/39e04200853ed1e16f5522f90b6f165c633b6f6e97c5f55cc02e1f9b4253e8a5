@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "recasting:burst_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "recasting:default_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "recasting:golden_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "recasting:lightning_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "recasting:mortal_dust_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "recasting:mortal_dust_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "recasting:star_blink"
+		},
+		{
+			"weight": 1.0,
+			"key": "recasting:tea_aroma"
+		}
+	]
+}

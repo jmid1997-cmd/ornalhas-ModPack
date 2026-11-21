@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enhancedcelestials2defaultlunarevents:blood_moon"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhancedcelestials2defaultlunarevents:blue_moon"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhancedcelestials2defaultlunarevents:harvest_moon"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spawnermod:spawner_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawnermod:spawner_key"
+		}
+	]
+}

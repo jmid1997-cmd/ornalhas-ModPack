@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endertanks:ender_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "endertanks:ender_tank"
+		}
+	]
+}

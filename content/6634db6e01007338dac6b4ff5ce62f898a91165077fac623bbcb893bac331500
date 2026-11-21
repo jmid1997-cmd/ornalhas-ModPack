@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:marigolds"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:river_mint"
+		}
+	]
+}

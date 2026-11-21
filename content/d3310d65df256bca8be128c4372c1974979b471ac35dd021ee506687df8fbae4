@@ -1,0 +1,224 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "classicpipes:acacia_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:acacia_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:advanced_copper_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:advanced_copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:bamboo_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:bamboo_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:birch_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:birch_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:bone_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:brick_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:brick_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:cherry_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:cherry_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:copper_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:crimson_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:crimson_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:dark_oak_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:dark_oak_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:diamond_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:diamond_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:flint_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:golden_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:inverted_advanced_copper_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:inverted_advanced_copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:inverted_copper_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:inverted_copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:iron_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:iron_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:jungle_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:jungle_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:lapis_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:lapis_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:mangrove_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:mangrove_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:matching_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:mod_label"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:nether_brick_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:nether_brick_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:oak_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:oak_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:obsidian_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:obsidian_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:pipe_slicer"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:provider_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:recipe_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:request_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:routing_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:spruce_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:spruce_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:stocking_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:storage_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:tag_label"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:warped_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "classicpipes:warped_pipe"
+		}
+	]
+}

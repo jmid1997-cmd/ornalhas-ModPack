@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terra_entity:crimson_storm",
+			"data": {
+				"Instant": false,
+				"Color": 9109504,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:demonic_thoughts",
+			"data": {
+				"Instant": false,
+				"Color": 6113163,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:frost_burn",
+			"data": {
+				"Instant": false,
+				"Color": 12320767,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hellfire",
+			"data": {
+				"Instant": false,
+				"Color": 11211042,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:horrified",
+			"data": {
+				"Instant": false,
+				"Color": 11211042,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_mark",
+			"data": {
+				"Instant": false,
+				"Color": 11250449,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:the_tongue",
+			"data": {
+				"Instant": false,
+				"Color": 11211042,
+				"Category": "harmful"
+			}
+		}
+	]
+}

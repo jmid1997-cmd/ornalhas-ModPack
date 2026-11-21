@@ -1,0 +1,85 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:brittle",
+			"data": {
+				"Instant": false,
+				"Color": 10220788,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystal_infection",
+			"data": {
+				"Instant": false,
+				"Color": 8001164,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dream_catcher",
+			"data": {
+				"Instant": false,
+				"Color": 5343172,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:flammable",
+			"data": {
+				"Instant": false,
+				"Color": 14250876,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:numbness",
+			"data": {
+				"Instant": false,
+				"Color": 5716549,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:oblivion",
+			"data": {
+				"Instant": false,
+				"Color": 8010636,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starfire",
+			"data": {
+				"Instant": false,
+				"Color": 16743741,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sticky",
+			"data": {
+				"Instant": false,
+				"Color": 16758447,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:teary",
+			"data": {
+				"Instant": false,
+				"Color": 10470339,
+				"Category": "harmful"
+			}
+		}
+	]
+}

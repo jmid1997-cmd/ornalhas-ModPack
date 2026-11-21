@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:amethyst_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:berserker_slam_shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:echo_curse_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:echo_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:hovering_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:item_palladium_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:monstrometer_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:opal_glint"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_falling_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:spectate_orb"
+		}
+	]
+}

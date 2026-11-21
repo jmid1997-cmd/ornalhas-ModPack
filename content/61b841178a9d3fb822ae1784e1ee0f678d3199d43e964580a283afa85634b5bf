@@ -1,0 +1,277 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:blocks/enderium_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:blocks/enderium_shard_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:blocks/infernal_sponge",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:blocks/soaked_infernal_sponge",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:entities/cerberus",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:entities/creeperling",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:entities/giant",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:entities/tank",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/cursed_armor_dungeon",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/cursed_armor_end",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/cursed_armor_nether",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/cursed_armor_portal",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/cursed_armor_stronghold",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/enderium_upgrade_smithing_template",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/treasure_bag_angler",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/treasure_bag_elder_guardian",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/treasure_bag_ender_dragon",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/treasure_bag_pillager",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/treasure_bag_undead_army",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/treasure_bag_warden",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:gameplay/treasure_bag_wither",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:mob_groups/chaos_empty",
+			"data": {
+				"Type": "empty"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:mob_groups/piglin_leader",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:mob_groups/piglin_sidekick",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:mob_groups/skeleton_leader",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:mob_groups/skeleton_sidekick",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:mob_groups/zombie_leader",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:mob_groups/zombie_sidekick",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_1_mob",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_2_mob",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_3_mob",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_3_skeleton",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_4_mob",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_4_skeleton",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_5_mob",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_5_skeleton",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_6_mob",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_6_skeleton",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army/wave_6_wither_skeleton",
+			"data": {
+				"Type": "gift"
+			}
+		}
+	]
+}

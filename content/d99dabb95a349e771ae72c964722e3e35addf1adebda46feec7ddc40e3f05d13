@@ -1,0 +1,12 @@
+#Visual only. Yours alone - it changes nothing for anyone else.
+[visuals]
+	#Sink the world into glacial dusk once he reaches the third phase.
+	#This is a fog and fog-colour override that fades in as you get
+	#within thirty blocks of him. Off restores the world's own lighting
+	#and view distance; nothing about the fight itself changes.
+	phaseThreeDarkness = true
+	#Stop the camera shaking at the blows of the citadel's creatures - the Bone Lord's
+	#stomps, the Ice Monstrosity's and Velkhar's hits. Meant for recording, mob battles
+	#above all. False (the default) keeps the shake. Your own weapons and the cutscenes'
+	#camera moves are not touched.
+	disableCameraShake = false

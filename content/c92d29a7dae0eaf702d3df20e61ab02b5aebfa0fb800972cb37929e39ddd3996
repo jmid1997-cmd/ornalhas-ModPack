@@ -1,0 +1,35 @@
+[hud]
+	#Show an animated LevelUP progress bar at the top center of the HUD when Level Points increase.
+	showTopCenterLevelOverlay = true
+	#Show temporary LevelUP HUD popups from Level Point updates or custom HUD events.
+	showTemporaryLevelOverlay = true
+	#Where to draw the LevelUP HUD: top or bottom.
+	levelHudPosition = "bottom"
+	#Keep the LevelUP HUD visible even when no recent Level Point gain is animating.
+	levelHudStayOnScreen = false
+	#Hex color used for the LevelUP progress fill and level text.
+	levelHudColor = "#53a4bc"
+	#Show the LevelUP progress bar inside the inventory screen.
+	showInventoryLevelBar = true
+	#Prefix a player's nametag with their LevelUP level.
+	showPlayerLevelBelowNametag = true
+	#Horizontal offset for the HUD LevelUP bar in pixels.
+	# Default: 0
+	# Range: -2000 ~ 2000
+	hudLevelBarOffsetX = 0
+	#Vertical offset for the HUD LevelUP bar in pixels.
+	# Default: 0
+	# Range: -2000 ~ 2000
+	hudLevelBarOffsetY = -50
+	#Horizontal offset for the inventory LevelUP bar in pixels.
+	# Default: 0
+	# Range: -2000 ~ 2000
+	inventoryLevelBarOffsetX = 0
+	#Vertical offset for the inventory LevelUP bar in pixels.
+	# Default: 0
+	# Range: -2000 ~ 2000
+	inventoryLevelBarOffsetY = 0
+	#Set true to open a GUI and reposition the HUD LevelUP bar. Resets to false after opening.
+	openHudLevelBarRepositionGui = false
+	#Set true to open a GUI and reposition the inventory LevelUP bar. Resets to false after opening.
+	openInventoryLevelBarRepositionGui = false

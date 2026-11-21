@@ -1,0 +1,470 @@
+{
+	autofocus_id: "16217209A1649630"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_industria_industrial"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "modern_industrialization:bronze_boiler"
+	}
+	id: "4ADA79CB8301D585"
+	images: [ ]
+	order_index: 23
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "16217209A1649630"
+			rewards: [{
+				count: 8
+				id: "60B586FFABE95E66"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "6179A72CB3D8D2EF"
+				item: { count: 1, id: "modern_industrialization:forge_hammer" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["16217209A1649630"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7D5DA472D7C308BA"
+			rewards: [{
+				count: 2
+				id: "3B76C9DF704C5EF4"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "13787DD2C8515F59"
+				item: { count: 1, id: "modern_industrialization:wrench" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["16217209A1649630"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2D87C41B5FBBF08C"
+			rewards: [{
+				count: 8
+				id: "7F61BD8DF7A718DD"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 2L
+				id: "71C83C7188B16345"
+				item: { count: 1, id: "modern_industrialization:bronze_machine_casing" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2D87C41B5FBBF08C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "23F33A222071F291"
+			rewards: [{
+				count: 8
+				id: "7F06075F5CB2F111"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "3C8A8A83473A9602"
+				item: { count: 1, id: "modern_industrialization:bronze_boiler" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["23F33A222071F291"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "472B12772E56EA9D"
+			rewards: [{
+				count: 2
+				id: "485E5B0551C04BD2"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "2B13066101BECC7B"
+				item: { count: 1, id: "modern_industrialization:bronze_water_pump" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["23F33A222071F291"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0154F861B60F3A1F"
+			rewards: [{
+				count: 8
+				id: "27C59AB7F1CFC69D"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "43F17CB2DD7E1A0E"
+				item: { count: 1, id: "modern_industrialization:bronze_compressor" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["23F33A222071F291"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "07DD41F799A011A0"
+			rewards: [{
+				count: 8
+				id: "0CB00BA558D5954F"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "06BB2938C2DAB6DF"
+				item: { count: 1, id: "modern_industrialization:bronze_macerator" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2D87C41B5FBBF08C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0DB3915EF481C59E"
+			rewards: [{
+				count: 2
+				id: "311EF2B67BDE36ED"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "1E3EBF87F571937E"
+				item: { count: 1, id: "modern_industrialization:coke_oven" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0DB3915EF481C59E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1B6215A47A560DB1"
+			rewards: [{
+				count: 8
+				id: "35A9EDDD8818E4B1"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "5F8D860908982682"
+				item: { count: 1, id: "modern_industrialization:steel_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"472B12772E56EA9D"
+				"1B6215A47A560DB1"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7FBB6153599082E2"
+			rewards: [{
+				count: 8
+				id: "0EC063C934BEAA82"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "6C4571AFD516B4B3"
+				item: { count: 1, id: "modern_industrialization:lv_steam_turbine" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7FBB6153599082E2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2DC4346BF0DBAE13"
+			rewards: [{
+				count: 2
+				id: "19B35AED3963F409"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "404943E72C90B187"
+				item: { count: 1, id: "modern_industrialization:copper_cable" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2DC4346BF0DBAE13"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1043C88312273AD9"
+			rewards: [{
+				count: 8
+				id: "5638044858DE038F"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0820DCDC56AFF7B7"
+				item: { count: 1, id: "modern_industrialization:electric_furnace" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1043C88312273AD9"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2B49ED736174EB42"
+			rewards: [{
+				count: 8
+				id: "7C8DCAB260BABFA7"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "548375D97A61A6D5"
+				item: { count: 1, id: "modern_industrialization:assembler" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0154F861B60F3A1F"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "68CF37814E215883"
+			rewards: [{
+				count: 2
+				id: "3409015F52FD54AF"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "34478B89437D6A42"
+				item: { count: 1, id: "extended_industrialization:bronze_bending_machine" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["472B12772E56EA9D"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0FB2F7B904E0B031"
+			rewards: [{
+				count: 8
+				id: "7CF3E0E0F975E8FC"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "16CF7D229D59CA4D"
+				item: { count: 1, id: "extended_industrialization:bronze_solar_boiler" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2B49ED736174EB42"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "21D4EBE442D41AAC"
+			rewards: [{
+				count: 4
+				id: "7E81006D1C70DBF9"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: false
+				id: "5DE40B0D4FD5BE45"
+				item: { count: 1, id: "extended_industrialization:electric_mining_drill" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+	]
+}

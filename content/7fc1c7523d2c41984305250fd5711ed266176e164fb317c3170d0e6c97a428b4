@@ -1,0 +1,19 @@
+#Remember the base attributes of bosses that are spawned in the world, for bosses that set their real values only on spawn.
+#Values that were already observed stay in use, /bcadditions forget removes them.
+observeBaseValues = true
+#Include the zone and the attribute modifiers of Dungeon Difficulty in the boss stats (needs Dungeon Difficulty).
+enableDungeonDifficulty = true
+#Write additional information about the stat calculation to the log.
+debugLogging = false
+#Save simulated boss drops and reuse them on the next start/reload while mods, datapacks and loot tables stay the same.
+#false: always simulate again. A config file of another mod is not detected, use /bcadditions drops refresh after changing one.
+cacheDrops = true
+#Minimum number of trials simulated for every boss before the result may be considered stable.
+# Default: 100
+# Range: > 1
+minimumDropTrials = 100
+#Maximum number of trials simulated for every boss.
+#If this is lower than minimumDropTrials, minimumDropTrials is used for both values.
+# Default: 300
+# Range: > 1
+maximumDropTrials = 300

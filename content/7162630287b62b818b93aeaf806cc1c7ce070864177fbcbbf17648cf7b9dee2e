@@ -1,0 +1,74 @@
+#If set, the book shows a report button that opens this issues/new URL with chapter and tile ids.
+githubIssuesUrl = ""
+
+[effects]
+	#Book motion: traveling path arrows, completion flares, gate pips, modal shimmer,
+	#breathing CLAIM, sidebar slide, inspect settle, log drawer, claim sparks,
+	#choice arrival, selection halo, task fill. Turn off for a completely static book.
+	animations = true
+	#Type chapter-intro body text in on first open of a chapter.
+	introTypewriter = true
+	#Per-theme ambient board particles (midnight stars, nether embers, ocean caustics).
+	ambientThemeEffects = true
+
+[demo]
+	#Built-in Feature Showcase: auto (hide when a pack has chapters), always, or never.
+	demoChapters = "auto"
+
+[sidebarTitleChrome]
+	#Override the book sidebar title. Empty uses pack book.json (default CHAPTERS).
+	sidebarTitle = ""
+	#Override title color as hex ARGB (e.g. FF8A7A9A). Empty uses pack.
+	sidebarTitleColor = ""
+	#Override title scale (0.5–2.0). -1 uses pack.
+	# Default: -1.0
+	# Range: -1.0 ~ 2.0
+	sidebarTitleScale = -1.0
+	#Override title shadow: -1 pack, 0 off, 1 on.
+	# Default: -1
+	# Range: -1 ~ 1
+	sidebarTitleShadow = -1
+
+[book]
+	#GUI scale the quest book opens at. auto picks one from the window size (the default).
+	#game uses your Video Settings GUI Scale. 1, 2, 3 or 4 sets it yourself.
+	#game and a number are lowered if the book would not fit the window at that scale.
+	#Your own GUI scale is put back when the book closes.
+	scale = "auto"
+
+[keyboard]
+	#Show the keyboard icon in the quest book's top bar; hovering it lists the book's keys.
+	#The keys themselves are rebound in Controls > Key Binds > Quest Queen.
+	showKeyHelpIcon = true
+
+[inventoryButton]
+	#Show a quest book button in the survival inventory (top right, above the crafting output).
+	enabled = true
+	#Move the button sideways from its spot, in GUI pixels (negative is left), e.g. to clear another mod's button.
+	# Default: 0
+	# Range: -400 ~ 400
+	offsetX = 0
+	#Move the button up or down from its spot, in GUI pixels (negative is up).
+	# Default: 0
+	# Range: -400 ~ 400
+	offsetY = 0
+
+[pinnedQuest]
+	#Where the pinned quest shows on screen: top_left, top_center, top_right, middle_left,
+	#middle_right, bottom_left or bottom_right. Hover it with the cursor free (e.g. chat open) for details.
+	position = "top_left"
+	#Nudge the pinned quest sideways, in GUI pixels (positive moves it away from its edge).
+	# Default: 0
+	# Range: -1000 ~ 1000
+	offsetX = 0
+	#Nudge the pinned quest up or down, in GUI pixels (positive moves it away from its edge).
+	# Default: 0
+	# Range: -1000 ~ 1000
+	offsetY = 0
+
+[claimChrome]
+	#Wash over a finished-but-unclaimed quest tile, as hex ARGB (default 33FFD54F, a light warm gold).
+	#Keep the alpha low so the tile's text still reads. Empty uses the chapter theme's.
+	claimTint = ""
+	#Frame of a finished-but-unclaimed quest tile, as hex ARGB (default FFFFD54F). Empty uses the theme's.
+	claimEdge = ""

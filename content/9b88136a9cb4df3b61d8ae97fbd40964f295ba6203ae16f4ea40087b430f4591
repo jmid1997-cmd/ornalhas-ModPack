@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "nova_structures:cant_step_out"
+		},
+		{
+			"weight": 1.0,
+			"key": "nova_structures:explosion_resistand"
+		},
+		{
+			"weight": 1.0,
+			"key": "nova_structures:guarded_by_piglins"
+		},
+		{
+			"weight": 1.0,
+			"key": "nova_structures:support_goes_through"
+		}
+	]
+}

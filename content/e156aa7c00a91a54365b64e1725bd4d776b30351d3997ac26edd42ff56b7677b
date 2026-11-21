@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ether",
+			"data": {
+				"fluidName": "eternal_starlight:ether"
+			}
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "extended_industrialization:nano_saber_sweep.extinguish"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_industrialization:nano_saber_sweep.swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_industrialization:tesla.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_industrialization:tesla.singing"
+		}
+	]
+}

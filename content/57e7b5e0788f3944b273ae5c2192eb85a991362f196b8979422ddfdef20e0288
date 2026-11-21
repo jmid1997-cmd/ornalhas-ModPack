@@ -1,0 +1,238 @@
+{
+	autofocus_id: "1316208D2AF82815"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_13"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:netherite_scrap"
+	}
+	id: "5B76184B55B82061"
+	images: [ ]
+	order_index: 51
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"7A113DF848FC7E81"
+				"137654F807B228F7"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1316208D2AF82815"
+			rewards: [{
+				id: "225A4C5111E79816"
+				team_reward: false
+				type: "xp"
+				xp: 235
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "cataclysm:find_ancient_factory"
+				criterion: ""
+				id: "4FBCE0F20FF276B0"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"2B4B7BBBFAC34C91"
+				"1316208D2AF82815"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "632726D8B4A51617"
+			rewards: [
+				{
+					id: "595579A4FE1A20A1"
+					team_reward: false
+					type: "xp"
+					xp: 235
+				}
+				{
+					count: 4
+					id: "2F3A249DD2DD3857"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				id: "2EE47C663F0AED07"
+				item: { count: 1, id: "cataclysm:witherite_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["632726D8B4A51617"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3C5EB757C4CAF560"
+			rewards: [{
+				id: "2FEDF3F8827B2C0C"
+				team_reward: false
+				type: "xp"
+				xp: 235
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_soul_black_smith"
+				criterion: ""
+				id: "3397BE63DA0A351F"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"72B39DA46A234A79"
+				"3C5EB757C4CAF560"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "21FBACB7E156A6EB"
+			rewards: [
+				{
+					id: "59708697DC8DC954"
+					team_reward: false
+					type: "xp"
+					xp: 235
+				}
+				{
+					count: 4
+					id: "30686BEEB311DE7B"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "2B797E457ECD4155"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["21FBACB7E156A6EB"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "15EEB0CBEEC77DEA"
+			rewards: [{
+				id: "6E896500348F4AD7"
+				team_reward: false
+				type: "xp"
+				xp: 235
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_burning_arena"
+				criterion: ""
+				id: "728E099173EDF20C"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["15EEB0CBEEC77DEA"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0467A14C598531F0"
+			rewards: [{
+				id: "07A3AD2F3F4B463F"
+				team_reward: false
+				type: "xp"
+				xp: 235
+			}]
+			tasks: [{
+				advancement: "cataclysm:kill_revenant"
+				criterion: ""
+				id: "75C84C107EEE2D27"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"1DF7F1D4918D34CC"
+				"0467A14C598531F0"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1C5D8B04F90EE23D"
+			rewards: [{
+				id: "3F6D7BD35E355127"
+				team_reward: false
+				type: "xp"
+				xp: 352
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "56A147B4E2158DA2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"1DF7F1D4918D34CC"
+				"0467A14C598531F0"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7A43A117DED976CB"
+			rewards: [{
+				id: "697AD8C92C491A9B"
+				team_reward: false
+				type: "xp"
+				xp: 235
+			}]
+			tasks: [{
+				consume_items: false
+				id: "184E96D51691DC32"
+				item: { count: 1, id: "cataclysm:ignitium_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+	]
+}

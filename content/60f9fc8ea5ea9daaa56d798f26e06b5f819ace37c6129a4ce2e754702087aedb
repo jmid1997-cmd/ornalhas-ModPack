@@ -1,0 +1,526 @@
+{
+	autofocus_id: "3AC67B95A7801ECC"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_limiar_profundezas"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "galosphere:allurite_shard"
+	}
+	id: "4CE645C7FBD69893"
+	images: [ ]
+	order_index: 29
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3AC67B95A7801ECC"
+			rewards: [{
+				count: 3
+				id: "1CAE62646B685BBE"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				biome: "galosphere:lichen_caves"
+				id: "294C8E143D46396F"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3AC67B95A7801ECC"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2778246DCBA375A1"
+			rewards: [{
+				count: 3
+				id: "50A2FA3AAC02620C"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "galosphere:adventure/light_the_way"
+				criterion: ""
+				id: "3F1EBD7E81AE2FD2"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2778246DCBA375A1"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "42C82E82727143FA"
+			rewards: [{
+				count: 3
+				id: "5602BA38755C0DAA"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "galosphere:adventure/edible_air"
+				criterion: ""
+				id: "2BD48C038B64425A"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3AC67B95A7801ECC"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "42DA9548709F2344"
+			rewards: [{
+				count: 3
+				id: "6AC5C42869880483"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				biome: "galosphere:crystal_canyons"
+				id: "5AC9208418AE2E2B"
+				type: "biome"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42DA9548709F2344"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5EDADC6CE3DC6C37"
+			rewards: [{
+				count: 3
+				id: "6ACAD0F09CAA48CE"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					count: 8L
+					id: "050CE0CBEF140AB3"
+					item: { count: 1, id: "galosphere:allurite_shard" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 8L
+					id: "22E76D51209F6192"
+					item: { count: 1, id: "galosphere:lumiere_shard" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42DA9548709F2344"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "15B84C9CFA6D8C10"
+			rewards: [{
+				count: 3
+				id: "03C8BC1C75B30A09"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "1174DC1109F8C835"
+				item: { count: 1, id: "galosphere:palladium_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["15B84C9CFA6D8C10"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "04FD3A89F4B78997"
+			rewards: [{
+				count: 8
+				id: "55932EE1DE98ED52"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					id: "3FA4C663E7FDBA55"
+					item: { count: 1, id: "galosphere:sterling_helmet" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "090DFC6786F857F4"
+					item: { count: 1, id: "galosphere:sterling_chestplate" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5CE72F8FB4B2857C"
+					item: { count: 1, id: "galosphere:sterling_leggings" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "0B4ACAD735E5CE70"
+					item: { count: 1, id: "galosphere:sterling_boots" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5EDADC6CE3DC6C37"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7BF7BE3838C0E543"
+			rewards: [{
+				count: 3
+				id: "639A17EA7F093404"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "galosphere:adventure/watchfly"
+				criterion: ""
+				id: "79A6790BA960BE37"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"5EDADC6CE3DC6C37"
+				"15B84C9CFA6D8C10"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "203442940E72D742"
+			rewards: [{
+				count: 3
+				id: "7A3F80019C4366BA"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "2BBD206B074D6F3F"
+				item: { count: 1, id: "galosphere:monstrometer" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42DA9548709F2344"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3F5887A8EEEE09E9"
+			rewards: [{
+				count: 3
+				id: "00093627E5F31DD4"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				biome: "galosphere:pink_salt_caves"
+				id: "2A02614CDC58D609"
+				type: "biome"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3F5887A8EEEE09E9"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "309078CF79EB336F"
+			rewards: [{
+				count: 3
+				id: "22E787F8B8F139D7"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "galosphere:adventure/find_pink_salt_shrine"
+				criterion: ""
+				id: "681A3C23441BFF1C"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"309078CF79EB336F"
+				"04FD3A89F4B78997"
+				"203442940E72D742"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "267A0C2747788756"
+			rewards: [{
+				count: 3
+				id: "0A26D98257E789BF"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "galosphere:adventure/summon_berserker"
+				criterion: ""
+				id: "2DB4B642A1DF51F6"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["267A0C2747788756"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "254412B11D7021EE"
+			rewards: [{
+				count: 3
+				id: "1087B85BF9600C6A"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_limiar:hunts/galosphere/berserker"
+				criterion: ""
+				id: "7E63B60E83FE5F44"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3AC67B95A7801ECC"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "19CD1AC60E9871C3"
+			rewards: [{
+				count: 3
+				id: "148D5F7AD40FB1FA"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "galosphere:adventure/find_forgotten_ruins"
+				criterion: ""
+				id: "2DEBDDF3B6C0C465"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["19CD1AC60E9871C3"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1974754E57FF8043"
+			rewards: [{
+				count: 3
+				id: "7199FB02CA3C4F41"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "galosphere:adventure/rebrushing"
+				criterion: ""
+				id: "19A49DA67F5E6F9B"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"1974754E57FF8043"
+				"5EDADC6CE3DC6C37"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "513050441B833F75"
+			rewards: [{
+				count: 3
+				id: "15F756E99B7C7769"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "520D13D400453F30"
+				item: { count: 1, id: "galosphere:echo_bell" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"254412B11D7021EE"
+				"513050441B833F75"
+				"42C82E82727143FA"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "78830586BA92C38A"
+			rewards: [{
+				count: 12
+				id: "3A861FB821892FFC"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "galosphere:adventure/attached_sterling"
+				criterion: ""
+				id: "7105CDAA645261EB"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+	]
+}

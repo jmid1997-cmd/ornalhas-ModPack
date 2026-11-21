@@ -1,0 +1,220 @@
+{
+	autofocus_id: "17E097CEE61F07DD"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fronteiras_provisoes_incubation"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "incubation:chicken_egg_crate"
+	}
+	id: "27F970DAD798E43B"
+	images: [ ]
+	order_index: 5
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "17E097CEE61F07DD"
+			rewards: [{
+				count: 8
+				id: "2A9B955CAF0F8008"
+				item: {
+					count: 1
+					id: "minecraft:oak_fence"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "7C9E6B57D2F1F924"
+				item: { count: 1, id: "incubation:hay_nest" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["17E097CEE61F07DD"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "707A3D224011CFA2"
+			rewards: [{
+				count: 3
+				id: "7F6B1AB4A25394E6"
+				item: {
+					count: 1
+					id: "minecraft:string"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 18L
+				id: "76BCAF791846FF55"
+				item: { count: 1, id: "minecraft:egg" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["707A3D224011CFA2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5B7C87AE2A275ED7"
+			rewards: [{
+				count: 2
+				id: "221DD4B69ED3B052"
+				item: {
+					count: 1
+					id: "minecraft:leather"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 2L
+				id: "30B4B1E873E6D9F0"
+				item: { count: 1, id: "incubation:chicken_egg_crate" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5B7C87AE2A275ED7"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "08379DA019D0DC7E"
+			rewards: [{
+				count: 4
+				id: "03D017664A22017D"
+				item: {
+					count: 1
+					id: "minecraft:coal"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "6AA311653DCD8C79"
+				item: { count: 1, id: "incubation:fried_egg" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["08379DA019D0DC7E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3D418C343163B01E"
+			rewards: [{
+				count: 16
+				id: "6D747DF13852A238"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "1C42BEAEC979437F"
+				item: { count: 1, id: "incubation:scrambled_eggs" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5B7C87AE2A275ED7"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "56E7412AEC5B8001"
+			rewards: [{
+				count: 4
+				id: "4EA62AAD7029B07E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_salmon"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "3E690B9540B6366F"
+				item: { count: 1, id: "vbincubationcompat:blue_egg_crate" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"3D418C343163B01E"
+				"56E7412AEC5B8001"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1987AF911AE949DB"
+			rewards: [{
+				count: 4
+				id: "12237E33AD5EFC2C"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5BF365CA36632373"
+				item: { count: 1, id: "vbincubationcompat:brown_egg_crate" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+	]
+}

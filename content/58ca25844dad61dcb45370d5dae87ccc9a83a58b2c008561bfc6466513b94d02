@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:ambient.blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:ambient.ice_maze.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:ambient.ship_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:block.frozen_chest.unlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.attack_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.attack_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.rage"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.eel.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.generic_deep.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.generic_deep.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.generic_deep.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.generic_deep.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.golden_moth.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.golden_moth.catch"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.maze_mother.moan"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.scuttler.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.scuttler.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.scuttler.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.scuttler.upsided"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:event.air_supply"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:event.earthquake"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:event.glacier_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:item.pirate_pouch.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:item.shell_horn.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:item.treasure_pouch.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:record.cracked_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:record.forsaken_drownage"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:record.horizon"
+		}
+	]
+}

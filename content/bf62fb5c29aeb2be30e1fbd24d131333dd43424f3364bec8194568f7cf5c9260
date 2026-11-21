@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:blizzard_flake"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frost_swirl"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:ice_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:soul_frost"
+		}
+	]
+}

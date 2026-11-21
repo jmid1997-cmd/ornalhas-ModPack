@@ -1,0 +1,291 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/aether/golden_oak",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/aether/skyroot",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/allthemodium/ancient",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/allthemodium/demonic",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/allthemodium/soul",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/deeperdarker/echo",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/eternal_starlight/banyin",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/eternal_starlight/cradlewood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/eternal_starlight/jinglestem",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/eternal_starlight/lunar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/eternal_starlight/northland",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/eternal_starlight/scarlet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/eternal_starlight/torreya",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/galosphere/opal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/minecraft/acacia",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/minecraft/birch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/minecraft/cherry",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/minecraft/dark_oak",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/minecraft/jungle",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/minecraft/mangrove",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/minecraft/oak",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/minecraft/spruce",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/quark/ancient",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/quark/blue_blossom",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/quark/lavender_blossom",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/quark/orange_blossom",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/quark/red_blossom",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/quark/yellow_blossom",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/canopy",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/darkwood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/hollow_oak",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/mangrove",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/mining",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/rainbow_oak",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/sorting",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/time",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/transformation",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/twilightforest/twilight_oak",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/undergarden/grongle",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/undergarden/smogstem",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "botanytrees:tree_drops/undergarden/wigglewood",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

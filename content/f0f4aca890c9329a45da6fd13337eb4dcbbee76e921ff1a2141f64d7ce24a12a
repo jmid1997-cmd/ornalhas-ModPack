@@ -1,0 +1,185 @@
+{
+	autofocus_id: "500FCEA8EB6A96ED"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fendas_vigilia_engenharia"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "fluidtank:tank_iron"
+	}
+	id: "2504DCF965F23248"
+	images: [ ]
+	order_index: 20
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["26CB61F4D0FF3093"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "500FCEA8EB6A96ED"
+			rewards: [{
+				count: 12
+				id: "12E55237CB8448E2"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "524AE725AF436E41"
+				item: { count: 1, id: "fluidtank:tank_wood" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["500FCEA8EB6A96ED"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6C750C268172A05C"
+			rewards: [{
+				count: 5
+				id: "0F74CFB213C9FF58"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0866AA0A4FEF8830"
+				item: { count: 1, id: "fluidtank:tank_iron" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6C750C268172A05C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6E552D593CB2B654"
+			rewards: [{
+				count: 6
+				id: "290CD8665C834EC4"
+				item: {
+					count: 1
+					id: "minecraft:baked_potato"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "1DC4FEA3E9F89186"
+				item: { count: 1, id: "fluidtank:reservoir_iron" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6E552D593CB2B654"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "551676078EF5E332"
+			rewards: [{
+				count: 16
+				id: "1CA2A8031C94F69B"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "25F2CE88DB76EAE4"
+				item: { count: 1, id: "quarryplus:marker" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["551676078EF5E332"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "041224A451FD7C7E"
+			rewards: [{
+				count: 6
+				id: "37B9E085894FF5BC"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5640D9AFD8C8B0F4"
+				item: { count: 1, id: "quarryplus:quarry" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["041224A451FD7C7E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "398ADF14D34CED28"
+			rewards: [{
+				count: 4
+				id: "5B20FB6EDF762593"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0A3B89ACF085709B"
+				item: { count: 1, id: "quarryplus:adv_pump" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+	]
+}

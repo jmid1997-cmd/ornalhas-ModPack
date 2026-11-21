@@ -1,0 +1,244 @@
+{
+	autofocus_id: "08A774F60E113D79"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_07"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:snowball"
+	}
+	id: "672B893BD904184D"
+	images: [ ]
+	order_index: 39
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["40E6D2840B52E7FD"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "08A774F60E113D79"
+			rewards: [{
+				id: "4A4F05F8E6730D20"
+				team_reward: false
+				type: "xp"
+				xp: 145
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "twilightforest:progress_trophy_pedestal"
+				criterion: ""
+				id: "4A353BF73E09DCE8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"4404B6C41F1C5327"
+				"3C4F5822DB6E0A26"
+				"6D153AD9E94AD2E5"
+				"08A774F60E113D79"
+				"14C2D234349B2AA3"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2D302D1E2756E99B"
+			rewards: [
+				{
+					id: "3C32CE60634D36B4"
+					team_reward: false
+					type: "xp"
+					xp: 145
+				}
+				{
+					count: 4
+					id: "1C742B4AB3F6D4CD"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "twilightforest:progress_merge"
+				criterion: ""
+				id: "3D2828FBF2A35716"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2D302D1E2756E99B"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "235733638CDA84D2"
+			rewards: [{
+				id: "295D04421237EBDE"
+				team_reward: false
+				type: "xp"
+				xp: 145
+			}]
+			tasks: [{
+				advancement: "twilightforest:giants"
+				criterion: ""
+				id: "12A9CF16F910DA26"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2D302D1E2756E99B"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "67BFBFC65F1A6EC7"
+			rewards: [{
+				id: "2772A029A2B85B64"
+				team_reward: false
+				type: "xp"
+				xp: 145
+			}]
+			tasks: [{
+				advancement: "twilightforest:beanstalk"
+				criterion: ""
+				id: "379A9492C0934598"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"235733638CDA84D2"
+				"67BFBFC65F1A6EC7"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3E94AB69DC13F725"
+			rewards: [
+				{
+					id: "087497C7DB87A8D5"
+					team_reward: false
+					type: "xp"
+					xp: 145
+				}
+				{
+					count: 4
+					id: "4E1C18449A02F2B6"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "twilightforest:progress_troll"
+				criterion: ""
+				id: "7C7D20C87A3F628D"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3E94AB69DC13F725"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "077E14198F60A57E"
+			rewards: [{
+				id: "3D6CFE3D9A05386F"
+				team_reward: false
+				type: "xp"
+				xp: 217
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "3C66909150012BB6"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3E94AB69DC13F725"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "05FFD1726DA7DF16"
+			rewards: [{
+				id: "31A41C63837F80C7"
+				team_reward: false
+				type: "xp"
+				xp: 217
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "twilightforest:quest_ram"
+				criterion: ""
+				id: "6E0891EF3F144807"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3E94AB69DC13F725"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0CB97C96A024FCE0"
+			rewards: [
+				{
+					id: "021BECCAA19A0DCB"
+					team_reward: false
+					type: "xp"
+					xp: 290
+				}
+				{
+					count: 2
+					id: "449404E8A5829B92"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				advancement: "twilightforest:progression_end"
+				criterion: ""
+				id: "6CD7C9971041E642"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

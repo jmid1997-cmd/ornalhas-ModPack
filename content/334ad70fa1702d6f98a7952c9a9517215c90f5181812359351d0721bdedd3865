@@ -1,0 +1,179 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:blocks/luminescent_bubble",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:blocks/luminescent_lamp",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:blocks/oxyhelium",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:blocks/pirate_pouch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:blocks/treasure_pouch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:blocks/wisteria_niveis",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:chests/camp_barrel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:chests/frozen_chest",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:chests/maze_camp_chest",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:chests/ship_1",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:chests/ship_2",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/abyssal_scyphoid",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/anglerfish",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/captain_cornelia",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/eel",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/golden_moth",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/maw",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/maze_captain",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/maze_mother",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/maze_pillager",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/maze_vindicator",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/scuttler",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entities/spinefish",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:stashes/pirate_pouch",
+			"data": {
+				"Type": "gift"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:stashes/treasure_pouch",
+			"data": {
+				"Type": "gift"
+			}
+		}
+	]
+}

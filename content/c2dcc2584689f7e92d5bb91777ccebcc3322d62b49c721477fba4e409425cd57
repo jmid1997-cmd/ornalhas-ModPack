@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplyswords:blood_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:custom_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:dripping_blood"
+		}
+	]
+}

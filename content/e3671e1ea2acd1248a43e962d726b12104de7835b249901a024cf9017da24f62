@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "extended_industrialization:farmer_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_industrialization:machine_chainer/linkable"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_industrialization:machine_chainer/relay"
+		}
+	]
+}

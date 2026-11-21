@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:opal",
+			"data": {
+				"Type": "tree"
+			}
+		}
+	]
+}

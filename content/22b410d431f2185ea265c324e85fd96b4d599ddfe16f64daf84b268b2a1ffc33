@@ -1,0 +1,59 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "medieval_buildings:fort",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "medieval_buildings:fort"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medieval_buildings:house_1",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "medieval_buildings:house_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medieval_buildings:house_2",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "medieval_buildings:house_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medieval_buildings:ship",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "medieval_buildings:ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "medieval_buildings:tower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "medieval_buildings:tower"
+			}
+		}
+	]
+}

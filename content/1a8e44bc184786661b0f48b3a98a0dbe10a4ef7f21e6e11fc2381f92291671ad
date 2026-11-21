@@ -1,0 +1,346 @@
+{
+	autofocus_id: "02FEF6A8F353BAE7"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_10"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:honeycomb"
+	}
+	id: "6353F3C141BEFAB6"
+	images: [ ]
+	order_index: 45
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"7ABBB75FEE162C53"
+				"137654F807B228F7"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "02FEF6A8F353BAE7"
+			rewards: [{
+				id: "4F6238BAA5627F31"
+				team_reward: false
+				type: "xp"
+				xp: 190
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "the_bumblezone:teleportation/teleport_to_bumblezone_pearl"
+				criterion: ""
+				id: "232AFE5143482B8A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["02FEF6A8F353BAE7"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "445B4193133C353C"
+			rewards: [{
+				id: "53782F5741A403AD"
+				team_reward: false
+				type: "xp"
+				xp: 190
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:tools/craft_honey_compass"
+				criterion: ""
+				id: "69346EF1ADC9FD72"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["445B4193133C353C"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "48C25FBBA29874B9"
+			rewards: [
+				{
+					id: "20DFE51AEB59977E"
+					team_reward: false
+					type: "xp"
+					xp: 190
+				}
+				{
+					count: 4
+					id: "280B2E9F28196478"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield"
+				criterion: ""
+				id: "238FC5180FAA481C"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["445B4193133C353C"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0586CAA829A6BFC7"
+			rewards: [{
+				id: "4855AE398D6A6C69"
+				team_reward: false
+				type: "xp"
+				xp: 190
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:honey_bucket/obtain_honey_bucket"
+				criterion: ""
+				id: "5AA5465BF8948722"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"48C25FBBA29874B9"
+				"0586CAA829A6BFC7"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6AE8919A84D9A906"
+			rewards: [{
+				id: "68180225359CC9CB"
+				team_reward: false
+				type: "xp"
+				xp: 190
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:tools/obtain_throne_honey_compass"
+				criterion: ""
+				id: "292B3D637758406E"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6AE8919A84D9A906"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "284151F031DE58FC"
+			rewards: [
+				{
+					id: "2461077ABF78212E"
+					team_reward: false
+					type: "xp"
+					xp: 190
+				}
+				{
+					count: 4
+					id: "5A6A017A8BDACEB1"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:structures/enter_throne_pillar"
+				criterion: ""
+				id: "558B43D4B6774EC9"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6AE8919A84D9A906"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "427C2645E569237C"
+			rewards: [{
+				id: "3C939D8F37FBEE27"
+				team_reward: false
+				type: "xp"
+				xp: 190
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/the_beginning"
+				criterion: ""
+				id: "6BD540BF92B7DBF9"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"284151F031DE58FC"
+				"427C2645E569237C"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0AD568D39D194A1A"
+			rewards: [{
+				id: "3AFCF8B00FE6B7C2"
+				team_reward: false
+				type: "xp"
+				xp: 190
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:crystalline_flower/grow_crystalline_flower"
+				criterion: ""
+				id: "4F7522FA08B4B3F6"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0AD568D39D194A1A"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "12D96A72DB15A230"
+			rewards: [
+				{
+					id: "096E214B1C9B736B"
+					team_reward: false
+					type: "xp"
+					xp: 190
+				}
+				{
+					count: 4
+					id: "7C3BC5DC35A3861C"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:structures/enter_cell_maze"
+				criterion: ""
+				id: "0F17BF768D3DD3C4"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["12D96A72DB15A230"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "30FD438253D610FE"
+			rewards: [{
+				id: "5AD8EF4F9AA0198A"
+				team_reward: false
+				type: "xp"
+				xp: 285
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "the_bumblezone:biomes/discover_all_biomes"
+				criterion: ""
+				id: "0BF70CB357F97D11"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["12D96A72DB15A230"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5D0865BA4ACA6C15"
+			rewards: [{
+				id: "134EFEAEB9BE8E91"
+				team_reward: false
+				type: "xp"
+				xp: 285
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/journeys_end"
+				criterion: ""
+				id: "5B84158A4B0E12BB"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["12D96A72DB15A230"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "69081C893543DE7A"
+			rewards: [
+				{
+					id: "373B225E3167C34D"
+					team_reward: false
+					type: "xp"
+					xp: 380
+				}
+				{
+					count: 2
+					id: "3B1F3CB7726E9E09"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				advancement: "the_bumblezone:teleportation/teleport_out_of_bumblezone"
+				criterion: ""
+				id: "2DDAB0C398BA033E"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

@@ -1,0 +1,25 @@
+[general]
+	#The minimum height that all quarry frames must be.
+	# Default: 4
+	# Range: 1 ~ 512
+	quarryFrameMinHeight = 4
+	#The maximum number of tasks that the quarry will do per tick.
+	#A task is either breaking a block or moving the frame.
+	# Default: 4
+	# Range: 1 ~ 20
+	quarryMaxTasksPerTick = 4
+	#1 divided by this value is added to the power cost for each additional task done per tick.
+	#A value of 0 disables this behaviour.
+	# Default: 2
+	# Range: 0 ~ 100
+	quarryPowerDivisor = 2
+	#The maximum number of blocks that a quarry is allowed to move per second.
+	#A value of 0 means no limit.
+	# Default: 0.0
+	# Range: 0.0 ~ 5120.0
+	quarryMaxFrameSpeed = 0.0
+	#The maximum number of blocks that a quarry is allowed to mine each second.
+	#A value of 0 means no limit, and a value of 0.5 mines up to half a block per second.
+	# Default: 0.0
+	# Range: 0.0 ~ 1000.0
+	quarryMaxBlockMineRate = 0.0

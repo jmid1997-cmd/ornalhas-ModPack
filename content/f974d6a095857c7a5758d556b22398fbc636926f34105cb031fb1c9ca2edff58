@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:armor_shatter",
+			"data": {
+				"Instant": false,
+				"Color": -6750055,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:crystallization",
+			"data": {
+				"Instant": false,
+				"Color": -6750055,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:devouring_curse",
+			"data": {
+				"Instant": false,
+				"Color": -6750055,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:fury_of_the_depths",
+			"data": {
+				"Instant": false,
+				"Color": 16762624,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:health_shatter",
+			"data": {
+				"Instant": false,
+				"Color": -6750055,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:poison_immunity",
+			"data": {
+				"Instant": false,
+				"Color": -6750055,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:resilience_of_the_depths",
+			"data": {
+				"Instant": false,
+				"Color": 16762624,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

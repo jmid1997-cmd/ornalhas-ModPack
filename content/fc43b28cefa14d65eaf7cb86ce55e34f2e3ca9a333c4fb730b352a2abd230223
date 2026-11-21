@@ -1,0 +1,235 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_golem",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:astral_golem",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aurora_deer",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:boarwarf",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:creteor",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallized_moth",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ent",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:freeze",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:gleech",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:grimstone_golem",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lonestar_skeleton",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminaris",
+			"data": {
+				"Category": "water_ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:luminofish",
+			"data": {
+				"Category": "water_ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_monstrosity",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nightfall_spider",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:permafrost",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ratlin",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:rookfish",
+			"data": {
+				"Category": "water_creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:seeker",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shadow_snail",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shimmer_lacewing",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:solar_creeper",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starfire_bird",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_golem",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stranghoul",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tangled_skull",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:the_gatekeeper",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:thirst_walker",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tiny_creteor",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:twilight_gaze",
+			"data": {
+				"Category": "water_creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:yeti",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:zombified_ratlin",
+			"data": {
+				"Category": "creature"
+			}
+		}
+	]
+}

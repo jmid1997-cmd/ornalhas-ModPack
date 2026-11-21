@@ -1,0 +1,184 @@
+#How often a monster becomes a champion when it spawns, and which ways of spawning count. The chances of the five tiers add up.
+[spawning]
+	#Chance for a monster to become a tier 1 champion when it spawns in one of the allowed ways. 0.01 means 1%.
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	tier1Chance = 0.09
+	#Chance for a monster to become a tier 2 champion when it spawns in one of the allowed ways. 0.01 means 1%.
+	# Default: 0.025
+	# Range: 0.0 ~ 1.0
+	tier2Chance = 0.045
+	#Chance for a monster to become a tier 3 champion when it spawns in one of the allowed ways. 0.01 means 1%.
+	# Default: 0.01
+	# Range: 0.0 ~ 1.0
+	tier3Chance = 0.01
+	#Chance for a monster to become a tier 4 champion when it spawns in one of the allowed ways. 0.01 means 1%.
+	# Default: 0.005
+	# Range: 0.0 ~ 1.0
+	tier4Chance = 0.005
+	#Chance for a monster to become a tier 5 champion when it spawns in one of the allowed ways. 0.01 means 1%.
+	# Default: 0.001
+	# Range: 0.0 ~ 1.0
+	tier5Chance = 0.001
+	#When turned on, the monsters that come out of a spawn egg can become champions too. This is handy for tests.
+	allowSpawnEggSpawning = false
+	#The ways of spawning that can give champions. The names are natural, chunk_generation, spawner, trial_spawner, structure, patrol, reinforcement, event, jockey, breeding, mob_summoned, conversion, triggered, bucket, spawn_egg, command and dispenser. Only the monsters that spawn naturally by default. Adding spawner or trial_spawner makes the mob farms built on spawners give champions too.
+	spawnTypes = ["natural", "chunk_generation"]
+
+#Which mobs can become champions. Each list takes mob ids such as minecraft:zombie, tags that start with # such as #minecraft:skeletons, or every mob of a mod with its name followed by :* such as examplemod:*.
+[mobs]
+	#When turned on, only the mobs of the whitelist can become champions. When turned off, every monster can, and the mobs of the whitelist too.
+	whitelistOnly = false
+	#The mobs that can become champions even when they are not monsters, such as a hostile mob of another mod that the game counts as an animal. With whitelist only, they are the only ones.
+	whitelist = []
+	#The mobs that can never become champions. This list wins over the whitelist.
+	blacklist = []
+	#When turned on (the default), the bosses of the boss list can never become champions, not even with the tier wand. The vanilla bosses never spawn on their own, so this mostly matters for the bosses of other mods that spawn in the world.
+	excludeBosses = true
+	#The mobs counted as bosses when bosses are excluded.
+	bosses = ["#c:bosses", "minecraft:ender_dragon", "minecraft:wither", "minecraft:elder_guardian", "minecraft:warden"]
+
+#Where champions can spawn. They spawn in every dimension by default, those of other mods included. Each list takes dimension ids such as minecraft:the_nether, or every dimension of a mod with its name followed by :* such as examplemod:*.
+[dimensions]
+	#When this list is not empty, champions spawn only in its dimensions.
+	whitelist = []
+	#The dimensions where champions never spawn. This list wins over the whitelist. The champions already there keep their tier.
+	blacklist = []
+
+#How much more health a champion gets, as a share of the health of its kind. 1.0 means twice the health.
+[health]
+	#Extra health of a tier 1 champion, as a share of the health of its kind. 0.5 means half more.
+	# Default: 0.5
+	# Range: 0.0 ~ 100.0
+	tier1HealthBonus = 0.5
+	#Extra health of a tier 2 champion, as a share of the health of its kind. 0.5 means half more.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	tier2HealthBonus = 1.0
+	#Extra health of a tier 3 champion, as a share of the health of its kind. 0.5 means half more.
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	tier3HealthBonus = 2.0
+	#Extra health of a tier 4 champion, as a share of the health of its kind. 0.5 means half more.
+	# Default: 3.5
+	# Range: 0.0 ~ 100.0
+	tier4HealthBonus = 3.5
+	#Extra health of a tier 5 champion, as a share of the health of its kind. 0.5 means half more.
+	# Default: 5.0
+	# Range: 0.0 ~ 100.0
+	tier5HealthBonus = 5.0
+
+#The effects and abilities a champion gets for good.
+[effects]
+	#How many effects and abilities a tier 1 champion gets.
+	# Default: 1
+	# Range: 0 ~ 10
+	tier1EffectCount = 1
+	#How many effects and abilities a tier 2 champion gets.
+	# Default: 2
+	# Range: 0 ~ 10
+	tier2EffectCount = 2
+	#How many effects and abilities a tier 3 champion gets.
+	# Default: 3
+	# Range: 0 ~ 10
+	tier3EffectCount = 3
+	#How many effects and abilities a tier 4 champion gets.
+	# Default: 4
+	# Range: 0 ~ 10
+	tier4EffectCount = 4
+	#How many effects and abilities a tier 5 champion gets.
+	# Default: 5
+	# Range: 0 ~ 10
+	tier5EffectCount = 5
+	#The vanilla effects a champion can get, by id. Harmful effects are always left out, and Invisibility too unless the list of allowed effects gives it to a mob.
+	allowedVanillaEffects = ["minecraft:speed", "minecraft:jump_boost", "minecraft:strength", "minecraft:resistance", "minecraft:regeneration", "minecraft:fire_resistance", "minecraft:water_breathing", "minecraft:slow_falling", "minecraft:absorption"]
+	#Chance for Speed and Jump Boost to be level II instead of level I on the champions of tiers 1 to 3. From tier 4, every vanilla effect is level II.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	speedJumpLevel2Chance = 0.5
+	#The lowest tier whose champions can get the abilities of ZEN's EffectLib.
+	# Default: 3
+	# Range: 1 ~ 5
+	moddedEffectsMinTier = 3
+	#When turned on, a champion casts one ability at a time and waits for the pause set in the config of ZEN's EffectLib before the next one. When turned off, it casts each ability as soon as that ability is ready, so several can hit at the same time. The change applies to the champions already in the world.
+	oneAbilityAtATime = false
+	#The effects a mob can never get, each written as mob = effect, such as minecraft:creeper = zens_effectlib:meteor_shower. Each side takes an id, a tag that starts with #, or everything of a mod with its name followed by :*. A champion that already has a forbidden effect loses its tier and becomes a normal mob. This list wins over the list of allowed effects.
+	effectBlacklist = []
+	#The effects a mob can get even when the usual rules leave them out, each written as mob = effect, such as minecraft:zombie = minecraft:invisibility. It lifts the list of vanilla effects and the rules that keep useless effects away. Harmful effects are still never given, Recovery never comes with Regeneration, and abilities still wait for their tier.
+	effectWhitelist = []
+
+#How champions fight.
+[combat]
+	#Chance for each melee hit of a champion on a player to give them Bleeding III for 10 seconds.
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	bleedingChance = 0.02
+	#When turned on, the melee hits, the projectiles and the explosion of a creeper champion deal more damage, following the bonus of their tier. The abilities of ZEN's EffectLib keep their own damage.
+	damageBonusEnabled = true
+	#Extra damage of a tier 1 champion when the damage bonus is turned on. 0.5 means half more.
+	# Default: 0.1
+	# Range: 0.0 ~ 100.0
+	tier1DamageBonus = 0.1
+	#Extra damage of a tier 2 champion when the damage bonus is turned on. 0.5 means half more.
+	# Default: 0.2
+	# Range: 0.0 ~ 100.0
+	tier2DamageBonus = 0.2
+	#Extra damage of a tier 3 champion when the damage bonus is turned on. 0.5 means half more.
+	# Default: 0.35
+	# Range: 0.0 ~ 100.0
+	tier3DamageBonus = 0.35
+	#Extra damage of a tier 4 champion when the damage bonus is turned on. 0.5 means half more.
+	# Default: 0.5
+	# Range: 0.0 ~ 100.0
+	tier4DamageBonus = 0.5
+	#Extra damage of a tier 5 champion when the damage bonus is turned on. 0.5 means half more.
+	# Default: 0.75
+	# Range: 0.0 ~ 100.0
+	tier5DamageBonus = 0.75
+
+#What a champion drops on top of its usual loot, only when a player kills it. Each item is rolled on its own.
+[loot]
+	#Chance for each of iron, gold, lapis lazuli, redstone and emerald, for every tier.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	commonMineralsChance = 0.25
+	#Chance for a diamond, from tier 2.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	diamondChance = 0.25
+	#Chance for a bottle o' enchanting, from tier 3.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	xpBottleChance = 0.25
+	#Chance for a netherite scrap, from tier 4.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	netheriteScrapChance = 0.1
+	#Chance for a netherite ingot, at tier 5 only.
+	# Default: 0.025
+	# Range: 0.0 ~ 1.0
+	netheriteIngotChance = 0.025
+	#Chance for an enchanted book whose level is the tier of the champion, for every tier. Its enchantment is one the game also puts in random chest loot, never a curse.
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	enchantedBookChance = 0.05
+	#Extra experience of a tier 1 champion, as a share of the experience of its kind. 0.33 means a third more.
+	# Default: 0.33
+	# Range: 0.0 ~ 100.0
+	tier1ExperienceBonus = 0.33
+	#Extra experience of a tier 2 champion, as a share of the experience of its kind. 0.33 means a third more.
+	# Default: 0.66
+	# Range: 0.0 ~ 100.0
+	tier2ExperienceBonus = 0.66
+	#Extra experience of a tier 3 champion, as a share of the experience of its kind. 0.33 means a third more.
+	# Default: 0.99
+	# Range: 0.0 ~ 100.0
+	tier3ExperienceBonus = 0.99
+	#Extra experience of a tier 4 champion, as a share of the experience of its kind. 0.33 means a third more.
+	# Default: 1.32
+	# Range: 0.0 ~ 100.0
+	tier4ExperienceBonus = 1.32
+	#Extra experience of a tier 5 champion, as a share of the experience of its kind. 0.33 means a third more.
+	# Default: 1.65
+	# Range: 0.0 ~ 100.0
+	tier5ExperienceBonus = 1.65

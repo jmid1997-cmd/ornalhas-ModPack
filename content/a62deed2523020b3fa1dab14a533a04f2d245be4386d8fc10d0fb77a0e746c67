@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "underground_bunkers:underground_bunker",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "underground_bunkers:underground_bunker"
+			}
+		}
+	]
+}

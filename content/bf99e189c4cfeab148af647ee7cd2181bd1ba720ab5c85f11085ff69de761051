@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:blocks/engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:blocks/marker_path",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:blocks/marker_volume",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftcore:blocks/spring",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

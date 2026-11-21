@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:accursed_rage",
+			"data": {
+				"Instant": false,
+				"Color": 3789490,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:blazing_brand",
+			"data": {
+				"Instant": false,
+				"Color": 14423100,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:pulse_charge",
+			"data": {
+				"Instant": false,
+				"Color": 11412276,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplycataclysm:pulse_cooldown",
+			"data": {
+				"Instant": false,
+				"Color": 5723991,
+				"Category": "neutral"
+			}
+		}
+	]
+}

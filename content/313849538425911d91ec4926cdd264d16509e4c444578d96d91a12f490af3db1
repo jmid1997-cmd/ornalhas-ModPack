@@ -1,0 +1,94 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "royalvariations:chosen_victim",
+			"data": {
+				"Instant": false,
+				"Color": 4420645,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:dazed",
+			"data": {
+				"Instant": false,
+				"Color": 16769152,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:heaviness_of_the_end",
+			"data": {
+				"Instant": false,
+				"Color": 8989110,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:knightly_fortitude",
+			"data": {
+				"Instant": false,
+				"Color": 5485531,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:marked",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:pressing_gaze",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_blessing",
+			"data": {
+				"Instant": false,
+				"Color": 16764210,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:time_bomb",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:trapped",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:undead_rush",
+			"data": {
+				"Instant": false,
+				"Color": 8103478,
+				"Category": "neutral"
+			}
+		}
+	]
+}

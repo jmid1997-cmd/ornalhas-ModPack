@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "translocators:diamond_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "translocators:fluid_translocator"
+		},
+		{
+			"weight": 1.0,
+			"key": "translocators:item_translocator"
+		}
+	]
+}

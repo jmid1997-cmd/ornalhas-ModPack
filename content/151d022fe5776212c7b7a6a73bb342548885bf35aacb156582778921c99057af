@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:tavern.chatter_busy"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:tavern.chatter_quiet"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:tavern.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:tavern.mug"
+		}
+	]
+}

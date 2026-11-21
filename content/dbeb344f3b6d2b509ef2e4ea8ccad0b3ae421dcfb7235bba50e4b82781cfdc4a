@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "slashblade:bladestand_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:bladestand_1w"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:bladestand_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:bladestand_2w"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:bladestand_s"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:bladestand_v"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:proudsoul"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:proudsoul_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:proudsoul_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:proudsoul_sphere"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:proudsoul_tiny"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:proudsoul_trapezohedron"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:slashblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:slashblade_bamboo"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:slashblade_silverbamboo"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:slashblade_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "slashblade:slashblade_wood"
+		}
+	]
+}

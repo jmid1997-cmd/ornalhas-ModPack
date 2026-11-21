@@ -1,0 +1,649 @@
+{
+	autofocus_id: "38055FB114F8CD4C"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_expedicoes"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:diamond_sword"
+	}
+	id: "686C078E1D75C777"
+	images: [ ]
+	order_index: 55
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "38055FB114F8CD4C"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				advancement: "minecraft:story/iron_tools"
+				criterion: ""
+				id: "408E92C819807EE0"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2B4B7BBBFAC34C91"
+			rewards: [{
+				id: "206CC3BBFFCEBD92"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "cataclysm:kill_harbinger"
+				criterion: ""
+				id: "0F5073DFD0A729AD"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "72B39DA46A234A79"
+			rewards: [{
+				id: "4082711A8EEACF59"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "cataclysm:kill_monstrosity"
+				criterion: ""
+				id: "450201CFB89C1DE4"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1DF7F1D4918D34CC"
+			rewards: [{
+				id: "3D26EFA23B25CF75"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "cataclysm:kill_ignis"
+				criterion: ""
+				id: "69B00BA53F290316"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "04828CF39DB6B4DE"
+			rewards: [{
+				id: "5928826E34A8A412"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "cataclysm:kill_leviathan"
+				criterion: ""
+				id: "7B5F3247108A53F4"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "470CCEA18413B90A"
+			rewards: [{
+				id: "35BE8404ECF73D69"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "cataclysm:kill_remnant"
+				criterion: ""
+				id: "18D3813CF84A4CCB"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1F966399447C31FE"
+			rewards: [{
+				id: "22D3AEE18649DB1F"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "cataclysm:kill_scylla"
+				criterion: ""
+				id: "71880E187C02CF41"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2B4841A9BA798202"
+			rewards: [{
+				id: "07F715F59512B358"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "cataclysm:kill_maledictus"
+				criterion: ""
+				id: "66E4B3D44257A5EB"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "386AA52AE7A4FA18"
+			rewards: [{
+				id: "509C85F242102C21"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "cataclysm:kill_ender_guardian"
+				criterion: ""
+				id: "4552DBA15ADE29D9"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "26B0C25797A14A65"
+			rewards: [{
+				id: "4B37C70E89903F04"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "bosses_of_mass_destruction:adventure/night_lich_defeat"
+				criterion: ""
+				id: "695AF72F37D0AB6F"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3A2E45855CE732F4"
+			rewards: [{
+				id: "66201C2E52D98603"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "bosses_of_mass_destruction:adventure/void_blossom_defeat"
+				criterion: ""
+				id: "1E034B46A17E6EE6"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "666CFBA40E4A9D94"
+			rewards: [{
+				id: "4564B117FAED6630"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "bosses_of_mass_destruction:nether/gauntlet_defeat"
+				criterion: ""
+				id: "054A1D8D53FA05ED"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "65090A76002601AB"
+			rewards: [{
+				id: "0AC655CDE0410FD9"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "bosses_of_mass_destruction:end/obsidilith_defeat"
+				criterion: ""
+				id: "362535C77361AE83"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "02637D3E90E919C1"
+			rewards: [{
+				id: "2C0E5FFF13B49772"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/expedicoes/cornelia"
+				criterion: ""
+				id: "5077B24DF6626123"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 10.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "46B07F53EAF73164"
+			rewards: [{
+				id: "01A781CD13E7167A"
+				team_reward: false
+				type: "xp"
+				xp: 300
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "aquamirae:adventure/survive_the_shipbreaker"
+				criterion: ""
+				id: "7935864C5F89F98B"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 10.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "52F86936DC59CA72"
+			rewards: [{
+				id: "792674BC262B345F"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_dragon"
+				criterion: ""
+				id: "419E062FBC66133B"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 10.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1FD6512F8E56DB16"
+			rewards: [{
+				id: "163D09ACECA5AF40"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_yeti"
+				criterion: ""
+				id: "04185E5970996DFC"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 10.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6DE1A26953E25504"
+			rewards: [{
+				id: "1A3A98FDDC55C740"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_sandworm"
+				criterion: ""
+				id: "70EFB52599281FF1"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 13.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2660B06B7B9E205A"
+			rewards: [{
+				id: "323185A159A83DBB"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_underworld_knight"
+				criterion: ""
+				id: "11B84AA99EBA4BAB"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 13.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "52678A099CE87C21"
+			rewards: [{
+				id: "1ED7AB4D2669B3D2"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_kraken"
+				criterion: ""
+				id: "53F74F32A5EEEEF2"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 13.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "15BD4C5BD2FF319D"
+			rewards: [{
+				id: "6499ECB480FD7785"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "mowziesmobs:kill_ferrous_wroughtnaut"
+				criterion: ""
+				id: "70BFECEBAB4B4D37"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 13.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7F425B3225EE9405"
+			rewards: [{
+				id: "40BF6393A1BB6E4F"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "mowziesmobs:kill_frostmaw"
+				criterion: ""
+				id: "171020B2B4625689"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 15.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3DC718CA814FEB11"
+			rewards: [{
+				id: "4F0CD1D7C11EE9C9"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "mowziesmobs:kill_umvuthi"
+				criterion: ""
+				id: "2C4F42DCA0C292DF"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 15.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7BFDBFEAF2B19746"
+			rewards: [{
+				id: "2509541B3C6A9FEF"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "mowziesmobs:sculptor_challenge"
+				criterion: ""
+				id: "56B6FCCACABC06FA"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 15.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "293DE8CB124E658E"
+			rewards: [{
+				id: "4CF240F27AE3DF2F"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "rpg_style_more_bosses:kill_exoframe"
+				criterion: ""
+				id: "190F058862F7A1B8"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 15.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["38055FB114F8CD4C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "56D256C00FE84E28"
+			rewards: [{
+				id: "3CCAE6155CC1B530"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/expedicoes/nightlord"
+				criterion: ""
+				id: "09EC69CDCBC28D08"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 18.0d
+		}
+		{
+			dependencies: [
+				"2B4B7BBBFAC34C91"
+				"72B39DA46A234A79"
+				"1DF7F1D4918D34CC"
+				"04828CF39DB6B4DE"
+				"470CCEA18413B90A"
+				"1F966399447C31FE"
+				"2B4841A9BA798202"
+				"386AA52AE7A4FA18"
+				"26B0C25797A14A65"
+				"3A2E45855CE732F4"
+				"666CFBA40E4A9D94"
+				"65090A76002601AB"
+				"02637D3E90E919C1"
+				"46B07F53EAF73164"
+				"52F86936DC59CA72"
+				"1FD6512F8E56DB16"
+				"6DE1A26953E25504"
+				"2660B06B7B9E205A"
+				"52678A099CE87C21"
+				"15BD4C5BD2FF319D"
+				"7F425B3225EE9405"
+				"3DC718CA814FEB11"
+				"7BFDBFEAF2B19746"
+				"293DE8CB124E658E"
+				"56D256C00FE84E28"
+			]
+			id: "42F43CBE32218365"
+			rewards: [{
+				id: "44C505490E909DB5"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "3505ABC26A354D4E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+	]
+}

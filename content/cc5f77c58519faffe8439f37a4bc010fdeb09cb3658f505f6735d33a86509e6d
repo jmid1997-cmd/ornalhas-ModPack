@@ -1,0 +1,881 @@
+{
+	autofocus_id: "3EECCDE59E655C9C"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fendas_despertar"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:ender_eye"
+	}
+	id: "55E732821422C6BD"
+	images: [ ]
+	order_index: 3
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["26CB61F4D0FF3093"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3EECCDE59E655C9C"
+			rewards: [{
+				count: 3
+				id: "31198CABBABA341E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_01"
+				criterion: ""
+				id: "4430167D7C8443AC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3EECCDE59E655C9C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "77576B14F113F0A9"
+			rewards: [{
+				count: 3
+				id: "5480EF67F4C22F84"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_02"
+				criterion: ""
+				id: "2F26D9319D901843"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["354275B622FA6CA5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3E9919E3D93D5C39"
+			rewards: [{
+				count: 3
+				id: "1728523E913BF9A4"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_03"
+				criterion: ""
+				id: "3E2311CA2066CCEF"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3EECCDE59E655C9C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7F489462AE4BC5AF"
+			rewards: [{
+				count: 3
+				id: "7ECA6BB8815F5723"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_04"
+				criterion: ""
+				id: "483A52BDF4D91FD4"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3EECCDE59E655C9C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0C781083EED66033"
+			rewards: [{
+				count: 3
+				id: "0B09940CCB1E9613"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_05"
+				criterion: ""
+				id: "6744148656C5CDF6"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3EECCDE59E655C9C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4F25A4EA9C15DAA3"
+			rewards: [{
+				count: 3
+				id: "2DBFFC767EBD63BA"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_06"
+				criterion: ""
+				id: "4207B0CC1C3F702B"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3EECCDE59E655C9C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "621CC0469BE0A848"
+			rewards: [{
+				count: 3
+				id: "75A4584ADEFCAD07"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_07"
+				criterion: ""
+				id: "547A13E3CD0B3CF3"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3EECCDE59E655C9C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4C35903E8F8E3DBF"
+			rewards: [{
+				count: 3
+				id: "2B4BB5982F402FBB"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_08"
+				criterion: ""
+				id: "0DCF33B9E2E80C62"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3EECCDE59E655C9C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "49173332DBA442A7"
+			rewards: [{
+				count: 3
+				id: "10752CE37E8DA67A"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_09"
+				criterion: ""
+				id: "770717B4DA20F88A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3EECCDE59E655C9C"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "354275B622FA6CA5"
+			rewards: [{
+				count: 3
+				id: "7EB34FCE708FE253"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_10"
+				criterion: ""
+				id: "0FB7B33D75FF281B"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["354275B622FA6CA5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2375D44E99BBCF35"
+			rewards: [{
+				count: 3
+				id: "4407845999970971"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_11"
+				criterion: ""
+				id: "38B520AD2FDB9EAD"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2375D44E99BBCF35"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "39A5B32DC1E178D2"
+			rewards: [{
+				count: 3
+				id: "4CA9C4F736CFA6C3"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_12"
+				criterion: ""
+				id: "7DFAD0C36D7875C2"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["39A5B32DC1E178D2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4C8B845162023134"
+			rewards: [{
+				count: 3
+				id: "554E2E322F01794C"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_13"
+				criterion: ""
+				id: "399E18E9C5B5E622"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["39A5B32DC1E178D2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5FA980FCF00D1820"
+			rewards: [{
+				count: 3
+				id: "10785062DCA8AE41"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_14"
+				criterion: ""
+				id: "1E515DED5E0161C6"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["39A5B32DC1E178D2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5EF5716590C864B0"
+			rewards: [{
+				count: 3
+				id: "7C56FE1D2328D262"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_15"
+				criterion: ""
+				id: "0C7ACAF44C335BA9"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["39A5B32DC1E178D2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0F757D7E3000C3F7"
+			rewards: [{
+				count: 3
+				id: "1418EA1442C5ECCC"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_16"
+				criterion: ""
+				id: "1A69715300B708BF"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["09DF81754A976D85"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0B9F63C7A954302B"
+			rewards: [{
+				count: 3
+				id: "44972C85B631B79B"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_17"
+				criterion: ""
+				id: "1D35B6C2633D2997"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0B9F63C7A954302B"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "398EF8608BF882A4"
+			rewards: [{
+				count: 3
+				id: "377D29E8ABC4BF06"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_18"
+				criterion: ""
+				id: "68ED8F82822A1563"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["39A5B32DC1E178D2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "09DF81754A976D85"
+			rewards: [{
+				count: 3
+				id: "32C2B8A5410412A9"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_19"
+				criterion: ""
+				id: "1A15EC47FF56EBA9"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["09DF81754A976D85"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "58679FD147E05478"
+			rewards: [{
+				count: 3
+				id: "6E8F6680DC90F54E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_20"
+				criterion: ""
+				id: "2FCBAABC83F07C09"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["58679FD147E05478"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "19B6989532A50A6E"
+			rewards: [{
+				count: 3
+				id: "13A8B159E2211137"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_21"
+				criterion: ""
+				id: "618734F882699612"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["58679FD147E05478"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3891A1B8643714EF"
+			rewards: [{
+				count: 3
+				id: "4B9B0F74DB85B014"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_22"
+				criterion: ""
+				id: "5D87C45D85395BB0"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["58679FD147E05478"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7311B5E7B87CC579"
+			rewards: [{
+				count: 3
+				id: "32B71D407C089D2E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_23"
+				criterion: ""
+				id: "43D92B8E3D150724"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["58679FD147E05478"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7650A4DFE6EB3657"
+			rewards: [{
+				count: 3
+				id: "669D22045FD08FA3"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_24"
+				criterion: ""
+				id: "5EB81EC2DE25ED73"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["398EF8608BF882A4"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0A6163FB5878817A"
+			rewards: [{
+				count: 3
+				id: "3AE9AA7F67F35164"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_25"
+				criterion: ""
+				id: "7582A27DB7EF7BFE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0A6163FB5878817A"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "793E28785161B273"
+			rewards: [{
+				count: 3
+				id: "430C1576E513500E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_26"
+				criterion: ""
+				id: "173C15B93E01F107"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["793E28785161B273"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1570BCBE3A8DE4CA"
+			rewards: [{
+				count: 3
+				id: "5BD3A71EB211E60D"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_27"
+				criterion: ""
+				id: "6E8D1687EB14A1BC"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1570BCBE3A8DE4CA"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0D4BA4ED9CA93B7E"
+			rewards: [{
+				count: 3
+				id: "12E123AC294D9FDC"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_28"
+				criterion: ""
+				id: "64CAE979AF1F3758"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0D4BA4ED9CA93B7E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2DAFF0FB64EBD098"
+			rewards: [{
+				count: 3
+				id: "41CF15760A32A0B7"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_29"
+				criterion: ""
+				id: "568F6166281B7C65"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 21.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2DAFF0FB64EBD098"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "244D7FFEBB379EC4"
+			rewards: [{
+				count: 3
+				id: "46CEDC548AC0BEF3"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_30"
+				criterion: ""
+				id: "4241C20D00C856A7"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 21.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["244D7FFEBB379EC4"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7BE38767B080D52B"
+			rewards: [{
+				count: 3
+				id: "0CACC8FDEF2AE710"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_31"
+				criterion: ""
+				id: "4F0677EC7C0C25B6"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 21.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7BE38767B080D52B"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6BEA9ED5531816F1"
+			rewards: [{
+				count: 3
+				id: "2111BCC9A8B6B1EE"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_fendas:portal_journey_32"
+				criterion: ""
+				id: "03AE6BEC715A02C2"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 24.0d
+		}
+	]
+}

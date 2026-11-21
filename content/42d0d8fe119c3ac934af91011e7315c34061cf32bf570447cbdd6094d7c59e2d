@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "relics:anti_heal",
+			"data": {
+				"Instant": false,
+				"Color": 6829738,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:bleeding",
+			"data": {
+				"Instant": false,
+				"Color": 6829738,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:confusion",
+			"data": {
+				"Instant": false,
+				"Color": 6829738,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:immortality",
+			"data": {
+				"Instant": false,
+				"Color": 6829738,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:paralysis",
+			"data": {
+				"Instant": false,
+				"Color": 6829738,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:stun",
+			"data": {
+				"Instant": false,
+				"Color": 6829738,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:vanishing",
+			"data": {
+				"Instant": false,
+				"Color": 6829738,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

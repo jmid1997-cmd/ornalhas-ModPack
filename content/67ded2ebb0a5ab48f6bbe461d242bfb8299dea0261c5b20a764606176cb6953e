@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cloud_golem_music"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:obliterator_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:possessed_paladin_mono"
+		}
+	]
+}

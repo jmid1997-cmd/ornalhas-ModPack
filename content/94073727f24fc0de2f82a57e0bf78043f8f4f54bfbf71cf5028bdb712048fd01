@@ -1,0 +1,175 @@
+{
+	autofocus_id: "6E884DBE8C415F2A"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_03"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:golden_sword"
+	}
+	id: "265290A04C780C15"
+	images: [ ]
+	order_index: 12
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"4E4052F7EAD4FDD6"
+				"67030CEFEC1CEF37"
+				"7ABBB75FEE162C53"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6E884DBE8C415F2A"
+			rewards: [
+				{
+					id: "41283552A3574D29"
+					team_reward: false
+					type: "xp"
+					xp: 85
+				}
+				{
+					count: 4
+					id: "63DAC89F040FDB42"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				id: "2C3A2BA8592BBD20"
+				item: { count: 1, id: "minecraft:diamond_chestplate" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"4E4052F7EAD4FDD6"
+				"67030CEFEC1CEF37"
+				"7ABBB75FEE162C53"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0F4E1DF2BD1CF52C"
+			rewards: [{
+				id: "24923296CBD52CD3"
+				team_reward: false
+				type: "xp"
+				xp: 85
+			}]
+			tasks: [{
+				consume_items: false
+				count: 2L
+				id: "78C4300BC0CACCE2"
+				item: { count: 1, id: "minecraft:golden_apple" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"5100CFAD43E7D67A"
+				"6E884DBE8C415F2A"
+				"0F4E1DF2BD1CF52C"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "447400459A47FF26"
+			rewards: [
+				{
+					id: "17F30BBAF1F32B04"
+					team_reward: false
+					type: "xp"
+					xp: 85
+				}
+				{
+					count: 4
+					id: "4DBA3BA6D8F0BF06"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "dungeons_arise:find_mining_complex"
+				criterion: ""
+				id: "4C75F08120DB37AB"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"5100CFAD43E7D67A"
+				"6E884DBE8C415F2A"
+				"0F4E1DF2BD1CF52C"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0650DEE4AED0B07B"
+			rewards: [{
+				id: "4B9ACD4664A5D7F2"
+				team_reward: false
+				type: "xp"
+				xp: 85
+			}]
+			tasks: [{
+				advancement: "dungeons_arise:find_monastery"
+				criterion: ""
+				id: "7AA6CE1A99E6F68E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"3D1C0F80B74B27D5"
+				"2DB4F395EA26DF4B"
+				"447400459A47FF26"
+				"0650DEE4AED0B07B"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3AC1FB084F87CA76"
+			rewards: [{
+				id: "59B48C6142D81088"
+				team_reward: false
+				type: "xp"
+				xp: 127
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "1607F93F4B628E77"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

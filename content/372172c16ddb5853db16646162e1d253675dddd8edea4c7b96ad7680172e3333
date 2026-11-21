@@ -1,0 +1,337 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:berserker",
+			"data": {
+				"Instant": false,
+				"Color": 11538954,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:blazing_projectiles",
+			"data": {
+				"Instant": false,
+				"Color": 16742938,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:bleeding",
+			"data": {
+				"Instant": false,
+				"Color": 9044739,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:blink",
+			"data": {
+				"Instant": false,
+				"Color": 5909905,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:celestial_repulsion",
+			"data": {
+				"Instant": false,
+				"Color": 16769162,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:disarm",
+			"data": {
+				"Instant": false,
+				"Color": 10463413,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:dodge",
+			"data": {
+				"Instant": false,
+				"Color": 12116208,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:fire_nova",
+			"data": {
+				"Instant": false,
+				"Color": 16738816,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:fire_tornado",
+			"data": {
+				"Instant": false,
+				"Color": 15225884,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:flash_pulse",
+			"data": {
+				"Instant": false,
+				"Color": 16775382,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:freezing_projectiles",
+			"data": {
+				"Instant": false,
+				"Color": 9427967,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:frost_nova",
+			"data": {
+				"Instant": false,
+				"Color": 10478591,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:frost_tornado",
+			"data": {
+				"Instant": false,
+				"Color": 11134207,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:gusting_projectiles",
+			"data": {
+				"Instant": false,
+				"Color": 13494770,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:healing_aura",
+			"data": {
+				"Instant": false,
+				"Color": 7070571,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:judgment",
+			"data": {
+				"Instant": false,
+				"Color": 16114298,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:legion_call",
+			"data": {
+				"Instant": false,
+				"Color": 8011729,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:levitating_projectiles",
+			"data": {
+				"Instant": false,
+				"Color": 13546495,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:magnetic",
+			"data": {
+				"Instant": false,
+				"Color": 8081366,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:meteor_shower",
+			"data": {
+				"Instant": false,
+				"Color": 14702107,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:pack_rage",
+			"data": {
+				"Instant": false,
+				"Color": 12597547,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:poison_tornado",
+			"data": {
+				"Instant": false,
+				"Color": 6200362,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:recovery",
+			"data": {
+				"Instant": false,
+				"Color": 12729178,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:reflect",
+			"data": {
+				"Instant": false,
+				"Color": 12165887,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:sand_tornado",
+			"data": {
+				"Instant": false,
+				"Color": 14204032,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:seismic_projectiles",
+			"data": {
+				"Instant": false,
+				"Color": 10254933,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:seismic_strike",
+			"data": {
+				"Instant": false,
+				"Color": 9136970,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:shielding",
+			"data": {
+				"Instant": false,
+				"Color": 6269139,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:shocking_projectiles",
+			"data": {
+				"Instant": false,
+				"Color": 15265898,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:soul_anchor",
+			"data": {
+				"Instant": false,
+				"Color": 7024552,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:soul_burst",
+			"data": {
+				"Instant": false,
+				"Color": 4186320,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:spectral_arsenal",
+			"data": {
+				"Instant": false,
+				"Color": 9329894,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:split_shot",
+			"data": {
+				"Instant": false,
+				"Color": 13215339,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:stunned",
+			"data": {
+				"Instant": false,
+				"Color": 15258186,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:vampiric",
+			"data": {
+				"Instant": false,
+				"Color": 9047850,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:venomous_projectiles",
+			"data": {
+				"Instant": false,
+				"Color": 5151238,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "zens_effectlib:web_snare",
+			"data": {
+				"Instant": false,
+				"Color": 14540253,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

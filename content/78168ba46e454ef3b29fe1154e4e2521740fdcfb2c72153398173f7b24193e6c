@@ -1,0 +1,332 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:block.ether.transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.aethersent_golem.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.aethersent_golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.aethersent_golem.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.aethersent_meteor.whoosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.astral_golem.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.astral_golem.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.astral_golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.astral_golem.repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.aurora_deer.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.aurora_deer.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.aurora_deer.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.boarwarf.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.boarwarf.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.boarwarf.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.boarwarf.no"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.boarwarf.trade"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.boarwarf.yes"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.creteor.charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.creteor.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.creteor.explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.creteor.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.creteor.roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.ent.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.freeze.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.freeze.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.frozen_tube.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.frozen_tube.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.laser_beam.hum"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.luminaris.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.luminaris.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.luminaris.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.luminofish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.luminofish.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.luminofish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.lunar_monstrosity.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.lunar_monstrosity.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.lunar_monstrosity.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.lunar_monstrosity.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.permafrost.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.permafrost.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.permafrost.sneeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.seeker.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.seeker.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.seeking_eye.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.seeking_eye.launch"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.sonar_bomb.explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starfire.whoosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starfire_bird.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starfire_bird.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starfire_bird.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starlight_golem.block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starlight_golem.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starlight_golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starlight_golem.prepare_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.starlight_golem.prepare_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.stranghoul.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.stranghoul.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.stranghoul.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.stranghoul.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.tangled_skull.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.tangled_skull.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.the_gatekeeper.parry"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.thirst_walker.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.thirst_walker.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.thirst_walker.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.twilight_gaze.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:entity.twilight_gaze.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.armor.equip_aethersent"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.armor.equip_alchemist"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.armor.equip_amaramber"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.armor.equip_deepsilver"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.armor.equip_glacite"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.armor.equip_starlit_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.armor.equip_thermal_springstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.armor.equip_unrealium"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.chain_of_souls.absorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.crescent_spear.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.crystal_greatsword.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.seeds_launcher.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.whip.crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:item.whip.swish"
+		}
+	]
+}

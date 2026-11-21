@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_clash_of_duality_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_clash_of_duality_boros"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_clash_of_duality_ouros"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_hellspawn_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_hellspawn_overlay"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_temple_of_duality"
+		}
+	]
+}

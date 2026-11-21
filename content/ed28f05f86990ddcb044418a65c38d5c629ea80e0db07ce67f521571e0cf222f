@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcrafttransport:blocks/filtered_buffer",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

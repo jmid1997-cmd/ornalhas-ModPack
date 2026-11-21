@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:dark_moon_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:mod_logo"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:nightlord_spawn_egg"
+		}
+	]
+}

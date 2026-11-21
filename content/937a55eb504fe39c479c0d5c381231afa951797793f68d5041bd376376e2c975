@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:engine_fe"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:engine_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:engine_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_dense/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_dense/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_dense/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_gaseous/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_gaseous/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_gaseous/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_light/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_light/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_light/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_heavy/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_heavy/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_heavy/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_light/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_light/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:fuel_mixed_light/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:mj_dynamo"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_dense/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_dense/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_dense/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_distilled/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_distilled/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_distilled/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_heavy/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_heavy/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_heavy/searing_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_residue/cool_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_residue/hot_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftenergy:oil_residue/searing_bucket"
+		}
+	]
+}

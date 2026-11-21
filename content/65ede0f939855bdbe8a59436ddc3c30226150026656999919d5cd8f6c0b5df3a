@@ -1,0 +1,180 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_diamond_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_emerald_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_gold_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_iron_sword"
+		}
+	]
+}

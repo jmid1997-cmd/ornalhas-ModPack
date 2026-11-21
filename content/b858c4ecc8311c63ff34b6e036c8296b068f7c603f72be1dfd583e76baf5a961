@@ -1,0 +1,328 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:abyssal_shroud",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:airborne",
+			"data": {
+				"Instant": false,
+				"Color": 16777215,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:angel_wings",
+			"data": {
+				"Instant": false,
+				"Color": 12495141,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:antigravity",
+			"data": {
+				"Instant": false,
+				"Color": 7095029,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ascension",
+			"data": {
+				"Instant": false,
+				"Color": 12495141,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blight",
+			"data": {
+				"Instant": false,
+				"Color": 14679851,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:burning_dash",
+			"data": {
+				"Instant": false,
+				"Color": 13695487,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:charged",
+			"data": {
+				"Instant": false,
+				"Color": 3311322,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chilled",
+			"data": {
+				"Instant": false,
+				"Color": 13695487,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:echoing_strikes",
+			"data": {
+				"Instant": false,
+				"Color": 10423267,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:evasion",
+			"data": {
+				"Instant": false,
+				"Color": 15825908,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:fall_damage_immunity",
+			"data": {
+				"Instant": false,
+				"Color": 14540287,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:fortify",
+			"data": {
+				"Instant": false,
+				"Color": 16239960,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:frostbite",
+			"data": {
+				"Instant": false,
+				"Color": 16777215,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:gluttony",
+			"data": {
+				"Instant": false,
+				"Color": 13695487,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:guided",
+			"data": {
+				"Instant": false,
+				"Color": 16239960,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:hastened",
+			"data": {
+				"Instant": false,
+				"Color": 14270531,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:heartstop",
+			"data": {
+				"Instant": false,
+				"Color": 4393481,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:immolate",
+			"data": {
+				"Instant": false,
+				"Color": 16755200,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:instant_mana",
+			"data": {
+				"Instant": true,
+				"Color": 47084,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:oakskin",
+			"data": {
+				"Instant": false,
+				"Color": 16773013,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:planar_sight",
+			"data": {
+				"Instant": false,
+				"Color": 7095029,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:polar_bear_timer",
+			"data": {
+				"Instant": false,
+				"Color": 12495141,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:raise_dead_timer",
+			"data": {
+				"Instant": false,
+				"Color": 12495141,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:rend",
+			"data": {
+				"Instant": false,
+				"Color": 4800826,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:sacrificial_mark",
+			"data": {
+				"Instant": false,
+				"Color": 9114936,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:slowed",
+			"data": {
+				"Instant": false,
+				"Color": 5926017,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:soul_burn",
+			"data": {
+				"Instant": false,
+				"Color": 6376119,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:spider_aspect",
+			"data": {
+				"Instant": false,
+				"Color": 4800826,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:summon_horse_timer",
+			"data": {
+				"Instant": false,
+				"Color": 12495141,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:summon_swords_timer",
+			"data": {
+				"Instant": false,
+				"Color": 12495141,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:thunderstorm",
+			"data": {
+				"Instant": false,
+				"Color": 10423267,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:true_invisibility",
+			"data": {
+				"Instant": false,
+				"Color": 8356754,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:vex_timer",
+			"data": {
+				"Instant": false,
+				"Color": 12495141,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:vigor",
+			"data": {
+				"Instant": false,
+				"Color": 8719629,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:volt_strike",
+			"data": {
+				"Instant": false,
+				"Color": 30000000,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

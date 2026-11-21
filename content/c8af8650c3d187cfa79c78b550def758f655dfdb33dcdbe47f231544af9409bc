@@ -1,0 +1,153 @@
+["Loot Chances"]
+	#chance to find a case in a chest.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	caseChance = 0.25
+	#chance to find a modifier template in a chest.
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	modChance = 0.15
+	#loot table id substrings that cases and templates can be injected into. An empty list disables injection entirely.
+	lootTableMatches = ["chest"]
+
+["Modifiers Enabled"]
+	#should the Feasting trait be enabled
+	feasting_enabled = true
+	#should the Healing trait be enabled
+	regeneration_enabled = true
+	#should the Unbreaking trait be enabled
+	unbreaking_enabled = true
+	#should the Spelunking trait be enabled
+	torch_place_enabled = true
+	#should the Bulwark trait be enabled
+	bulwark_enabled = true
+	#should the Rainy trait be enabled
+	rainy_enabled = true
+	#should the Naturalist trait be enabled
+	naturalist_enabled = true
+	#should the Soulbound trait be enabled
+	soulbound_enabled = true
+	#should the Explosive trait be enabled
+	explode_enabled = true
+	#should the Crowd Pleaser trait be enabled
+	crowd_pleaser_enabled = true
+	#should the Fierce trait be enabled
+	fierce_enabled = true
+	#should the Nemesis trait be enabled
+	nemesis_enabled = true
+	#should the Lushious's Grace trait be enabled
+	dirt_place_enabled = true
+	#should the Hunter trait be enabled
+	hunter_enabled = true
+	#should the Flaming trait be enabled
+	flaming_enabled = true
+	#should the Void-Touched trait be enabled
+	void_touched_enabled = true
+	#should the Necrotic trait be enabled
+	necrotic_enabled = true
+	#should the Early Bird trait be enabled
+	early_bird_enabled = true
+	#should the Appley trait be enabled
+	absorption_enabled = true
+	#should the Executioner trait be enabled
+	executioner_enabled = true
+	#should the Clunky trait be enabled
+	clunky_enabled = true
+	#should the Dexterous trait be enabled
+	combo_enabled = true
+	#should the Frozen trait be enabled
+	frozen_enabled = true
+	#should the Heat Resistant trait be enabled
+	fire_resistance_enabled = true
+	#should the Resistant trait be enabled
+	resistance_enabled = true
+	#should the Pummeling trait be enabled
+	pummeling_enabled = true
+	#should the Catalyst trait be enabled
+	catalyst_enabled = true
+	#should the Lumbering trait be enabled
+	lumbering_enabled = true
+	#should the Detecting trait be enabled
+	detecting_enabled = true
+	#should the Fragile trait be enabled
+	fragile_enabled = true
+	#should the Charged trait be enabled
+	charged_enabled = true
+	#should the Thorny trait be enabled
+	thorny_enabled = true
+	#should the Munchies trait be enabled
+	munchies_enabled = true
+	#should the Critical trait be enabled
+	critical_enabled = true
+	#should the Learning trait be enabled
+	learning_enabled = true
+	#should the Melting trait be enabled
+	melting_enabled = true
+	#should the Veiny trait be enabled
+	veiny_enabled = true
+	#should the Overgrown trait be enabled
+	overgrown_enabled = true
+	#should the Excavator trait be enabled
+	excavator_enabled = true
+	#should the Blinding trait be enabled
+	blinding_enabled = true
+	#should the Adrenaline trait be enabled
+	adrenaline_enabled = true
+	#should the Magnetic trait be enabled
+	attracting_enabled = true
+	#should the Fire Starter trait be enabled
+	fire_place_enabled = true
+	#should the Chaotic trait be enabled
+	chaotic_enabled = true
+	#should the Magnetized trait be enabled
+	magnetized_enabled = true
+	#should the Stench trait be enabled
+	stench_enabled = true
+	#should the Living trait be enabled
+	living_enabled = true
+	#should the Poisonous trait be enabled
+	poison_enabled = true
+	#should the Bezerk trait be enabled
+	bezerk_enabled = true
+	#should the Prospector trait be enabled
+	prospector_enabled = true
+	#should the Featherweight trait be enabled
+	featherweight_enabled = true
+	#should the Flame Thrower trait be enabled
+	flame_thrower_enabled = true
+	#should the Hailey's Wrath trait be enabled
+	haileys_wrath_enabled = true
+	#should the Filling trait be enabled
+	filling_enabled = true
+	#should the Tomb Raider trait be enabled
+	spawner_enabled = true
+	#should the Busted trait be enabled
+	busted_enabled = true
+	#should the Scorched trait be enabled
+	scorched_enabled = true
+	#should the Hasty trait be enabled
+	hasty_enabled = true
+	#should the Aquatic trait be enabled
+	aquatic_enabled = true
+	#should the Withering trait be enabled
+	wither_enabled = true
+
+[Misc]
+	#rate of tool improvement per player
+	# Default: 1.0
+	# Range: 0.01 ~ 10.0
+	goodness_rate = 1.0
+	#chance that a loot case contains an armor piece instead of a tool.
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	armorChance = 0.15
+	#goodness of dispenser-opened cases, as a fraction of the highest goodness of any online player.
+	# Default: 0.75
+	# Range: 0.0 ~ 1.0
+	dispenserGoodness = 0.75
+
+["Modifier Settings"]
+	#max whispers ("pssst...", "hi...", ...) per minute from the Living trait, shared across every Living item a player holds or wears. 0 disables them.
+	# Default: 1
+	# Range: 0 ~ 1200
+	livingWhispersPerMinute = 1

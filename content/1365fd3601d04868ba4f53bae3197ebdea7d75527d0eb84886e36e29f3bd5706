@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:carver_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:eel_diggable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:maze_mother_breakables"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:oxyhelium_growable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:scuttler_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:shipbreaker_breakables"
+		}
+	]
+}

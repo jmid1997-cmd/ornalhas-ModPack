@@ -1,0 +1,53 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "solargeneration:blocks/solar_panel_advanced",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:blocks/solar_panel_hardened",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:blocks/solar_panel_leadstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:blocks/solar_panel_redstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:blocks/solar_panel_resonant",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:blocks/solar_panel_signalum",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "solargeneration:blocks/solar_panel_ultimate",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

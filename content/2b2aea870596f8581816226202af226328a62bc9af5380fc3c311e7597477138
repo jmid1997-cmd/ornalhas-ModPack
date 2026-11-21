@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aura:fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:fire_ember"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:icicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:lightning_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:plasma_blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:plasma_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:soul_fire_ember"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:soulfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "aura:toxin"
+		}
+	]
+}

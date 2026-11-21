@@ -1,0 +1,534 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:abandoned_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:pillager",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "dungeons_arise:abandoned_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:aviary",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:aviary"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:bandit_towers",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:bandit_towers"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:bandit_village",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:pillager",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							},
+							{
+								"type": "minecraft:vindicator",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "dungeons_arise:bandit_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:bathhouse",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:bathhouse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:ceryneian_hind",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:ceryneian_hind"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:coliseum",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:coliseum"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:desert_hall",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:desert_hall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:fishing_hut",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:fishing_hut"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:foundry",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:foundry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:giant_mushroom",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:giant_mushroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:greenwood_pub",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:greenwood_pub"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:heavenly_challenger",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:heavenly_challenger"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:heavenly_conqueror",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:heavenly_conqueror"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:heavenly_rider",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:heavenly_rider"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:illager_campsite",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:pillager",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							},
+							{
+								"type": "minecraft:vindicator",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "dungeons_arise:illager_campsite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:illager_corsair",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:illager_corsair"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:illager_fort",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:illager_fort"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:illager_galley",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:illager_galley"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:illager_windmill",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:illager_windmill"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:infested_temple",
+			"data": {
+				"step": "fluid_springs",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:infested_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:jungle_tree_house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:jungle_tree_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:keep_kayra",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:keep_kayra"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:kisegi_sanctuary",
+			"data": {
+				"step": "fluid_springs",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:kisegi_sanctuary"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:lighthouse",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:lighthouse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:mechanical_nest",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:mechanical_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:merchant_campsite",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:merchant_campsite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:mining_complex",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:mining_complex"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:mining_system",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:mining_system"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:monastery",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:monastery"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:mushroom_house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:mushroom_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:mushroom_mines",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:mushroom_mines"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:mushroom_village",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:mushroom_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:plague_asylum",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:plague_asylum"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:scorched_mines",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:wither_skeleton",
+								"weight": 1,
+								"minCount": 2,
+								"maxCount": 5
+							},
+							{
+								"type": "minecraft:magma_cube",
+								"weight": 1,
+								"minCount": 2,
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"id": "dungeons_arise:scorched_mines"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:shiraz_palace",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:shiraz_palace"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:small_blimp",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:small_blimp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:thornborn_towers",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:zombie",
+								"weight": 10,
+								"minCount": 2,
+								"maxCount": 5
+							},
+							{
+								"type": "minecraft:skeleton",
+								"weight": 5,
+								"minCount": 2,
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"id": "dungeons_arise:thornborn_towers"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:typhon",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:typhon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:undead_pirate_ship",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:undead_pirate_ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise:wishing_well",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "dungeons_arise:wishing_well"
+			}
+		}
+	]
+}

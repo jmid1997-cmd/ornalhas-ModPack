@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tfms_best_of_all_worlds:oil",
+			"data": {
+				"fluidName": "tfms_best_of_all_worlds:oil"
+			}
+		}
+	]
+}

@@ -1,0 +1,391 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mes:astral_hideaway",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:astral_hideaway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:astral_meteorite",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:astral_meteorite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:ender_spire",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:ender_spire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:enderbloom_grove",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:enderbloom_grove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:enderkeep_courtyard",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:enderkeep_courtyard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:enderpin_spikes",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "mes:enderpin_spikes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:enderskog",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:enderskog"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:enderwatch_tower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:enderwatch_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:endscraps",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:endscraps"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:manuscript_shrine",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:manuscript_shrine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mega_ship",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:shulker",
+								"weight": 10,
+								"minCount": 2,
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"id": "mes:mega_ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mega_ship_basic",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:shulker",
+								"weight": 10,
+								"minCount": 2,
+								"maxCount": 3
+							},
+							{
+								"type": "minecraft:enderman",
+								"weight": 2,
+								"minCount": 3,
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"id": "mes:mega_ship_basic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mega_ship_crashed",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:shulker",
+								"weight": 10,
+								"minCount": 2,
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"id": "mes:mega_ship_crashed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mega_ship_crashed_2",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:shulker",
+								"weight": 10,
+								"minCount": 2,
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"id": "mes:mega_ship_crashed_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mega_ship_crashed_deepslate",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:shulker",
+								"weight": 10,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "mes:mega_ship_crashed_deepslate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mega_ship_deepslate",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:shulker",
+								"weight": 10,
+								"minCount": 2,
+								"maxCount": 3
+							},
+							{
+								"type": "minecraft:enderman",
+								"weight": 2,
+								"minCount": 3,
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"id": "mes:mega_ship_deepslate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mega_ship_deepslate_2",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:shulker",
+								"weight": 10,
+								"minCount": 2,
+								"maxCount": 3
+							},
+							{
+								"type": "minecraft:enderman",
+								"weight": 2,
+								"minCount": 3,
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"id": "mes:mega_ship_deepslate_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mega_ship_deepslate_3",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:shulker",
+								"weight": 10,
+								"minCount": 2,
+								"maxCount": 3
+							},
+							{
+								"type": "minecraft:enderman",
+								"weight": 2,
+								"minCount": 3,
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"id": "mes:mega_ship_deepslate_3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:monolith",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:monolith"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mystical_archway",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:mystical_archway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:mythic_garden",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:mythic_garden"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:phantom_citadel",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "mes:phantom_citadel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:placid_prairie",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "mes:placid_prairie"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:ruined_pillar",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "mes:ruined_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mes:starlight_voyager",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "mes:starlight_voyager"
+			}
+		}
+	]
+}

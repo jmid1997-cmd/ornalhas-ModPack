@@ -1,0 +1,317 @@
+{
+	autofocus_id: "086F880F101159E5"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_09"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:iron_pickaxe"
+	}
+	id: "1DABACC1C5C5A8CE"
+	images: [ ]
+	order_index: 43
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["7A113DF848FC7E81"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "086F880F101159E5"
+			rewards: [{
+				id: "6D4D48DD1F2F1D18"
+				team_reward: false
+				type: "xp"
+				xp: 175
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "undergarden:undergarden/catalyst"
+				criterion: ""
+				id: "34CB4B673B856DEE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["086F880F101159E5"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7EBD0998FF0ECB5F"
+			rewards: [{
+				id: "7D0CB4EE64468EED"
+				team_reward: false
+				type: "xp"
+				xp: 175
+			}]
+			tasks: [{
+				advancement: "undergarden:undergarden/enter_undergarden"
+				criterion: ""
+				id: "6074DD27483757CC"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7EBD0998FF0ECB5F"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7E89030A0FA4DE46"
+			rewards: [
+				{
+					id: "48F513A328FD77EA"
+					team_reward: false
+					type: "xp"
+					xp: 175
+				}
+				{
+					count: 4
+					id: "3270FE640096935F"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "undergarden:undergarden/mine_ore"
+				criterion: ""
+				id: "1CDF456ACB9A3E75"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7EBD0998FF0ECB5F"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "577F6E69B8B14909"
+			rewards: [{
+				id: "4650311AD1DE917C"
+				team_reward: false
+				type: "xp"
+				xp: 175
+			}]
+			tasks: [{
+				advancement: "undergarden:undergarden/slingshot"
+				criterion: ""
+				id: "0FA746B5D5761EDE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"7E89030A0FA4DE46"
+				"577F6E69B8B14909"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4EFB67EB6BF232F6"
+			rewards: [{
+				id: "2BDCD3D7BDEE7BA9"
+				team_reward: false
+				type: "xp"
+				xp: 175
+			}]
+			tasks: [{
+				advancement: "undergarden:undergarden/cloggrum_armor"
+				criterion: ""
+				id: "5389FA72B763526B"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4EFB67EB6BF232F6"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6E90C5DA930B3167"
+			rewards: [
+				{
+					id: "7BD501027D02E495"
+					team_reward: false
+					type: "xp"
+					xp: 175
+				}
+				{
+					count: 4
+					id: "1AC90EE5CC92EC50"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "undergarden:undergarden/enter_denizen_camp"
+				criterion: ""
+				id: "539161753DD7097F"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4EFB67EB6BF232F6"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "31A77BE4574001BC"
+			rewards: [{
+				id: "0B1D62AA2A2CE1F0"
+				team_reward: false
+				type: "xp"
+				xp: 175
+			}]
+			tasks: [{
+				advancement: "undergarden:undergarden/stoneborn_trade"
+				criterion: ""
+				id: "603DF07F0F993751"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"6E90C5DA930B3167"
+				"31A77BE4574001BC"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "37856BA5EBF40092"
+			rewards: [{
+				id: "4604FA36FB97B617"
+				team_reward: false
+				type: "xp"
+				xp: 175
+			}]
+			tasks: [{
+				advancement: "undergarden:undergarden/catacombs"
+				criterion: ""
+				id: "1098F1150040AE33"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"42F4D2AE4CAA6AAF"
+				"37856BA5EBF40092"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7127CF8F565D6FB7"
+			rewards: [{
+				id: "2D1A50D214348A30"
+				team_reward: false
+				type: "xp"
+				xp: 262
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "undergarden:undergarden/forgotten_tools"
+				criterion: ""
+				id: "71FEB6690053738F"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"42F4D2AE4CAA6AAF"
+				"37856BA5EBF40092"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1749F7C9F3F51067"
+			rewards: [{
+				id: "1583481CE99D451A"
+				team_reward: false
+				type: "xp"
+				xp: 175
+			}]
+			tasks: [{
+				advancement: "undergarden:undergarden/forgotten_ingot"
+				criterion: ""
+				id: "2CC625E2EA82F030"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"42F4D2AE4CAA6AAF"
+				"37856BA5EBF40092"
+				"1749F7C9F3F51067"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "62C5D07C965D3F1D"
+			rewards: [
+				{
+					id: "567BCC6C6EF52D02"
+					team_reward: false
+					type: "xp"
+					xp: 350
+				}
+				{
+					count: 2
+					id: "31A524A68375DD6C"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				advancement: "undergarden:undergarden/enter_depths"
+				criterion: ""
+				id: "219B0823615AC5D3"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

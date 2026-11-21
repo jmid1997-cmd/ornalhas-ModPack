@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:blocks/emerald_backpack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:blocks/emerald_barrel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:blocks/emerald_chest",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:blocks/emerald_limited_barrel_1",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:blocks/emerald_limited_barrel_2",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:blocks/emerald_limited_barrel_3",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:blocks/emerald_limited_barrel_4",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:blocks/emerald_shulker_box",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

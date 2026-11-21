@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_limited_barrel_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_limited_barrel_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_limited_barrel_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_limited_barrel_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_shulker_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:emerald_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:stack_upgrade_tier_sb_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:stack_upgrade_tier_sbs_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "sophisticated_emerald_upgrade:stack_upgrade_tier_ss_6"
+		}
+	]
+}

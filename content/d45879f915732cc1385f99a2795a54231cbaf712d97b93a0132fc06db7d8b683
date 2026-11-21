@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:beenergized",
+			"data": {
+				"Instant": false,
+				"Color": 16768000,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hidden",
+			"data": {
+				"Instant": false,
+				"Color": 5308540,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:paralyzed",
+			"data": {
+				"Instant": false,
+				"Color": 15662848,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:protection_of_the_hive",
+			"data": {
+				"Instant": false,
+				"Color": 15049988,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:wrath_of_the_hive",
+			"data": {
+				"Instant": true,
+				"Color": 16737285,
+				"Category": "harmful"
+			}
+		}
+	]
+}

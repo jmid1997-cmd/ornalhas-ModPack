@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:freeze",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:polarized",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		}
+	]
+}

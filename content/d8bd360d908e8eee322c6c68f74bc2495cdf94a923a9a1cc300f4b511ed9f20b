@@ -1,0 +1,104 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:amethystsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:carbon_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:dark_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:flame_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:heal_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:heal_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:ice_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:lightning_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:lunar_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:magma_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:metalblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:mossy_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:platinum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:platinum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:platinum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:poison_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:ruby_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:ruby_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:solar_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:solar_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:storm_sword"
+		}
+	]
+}

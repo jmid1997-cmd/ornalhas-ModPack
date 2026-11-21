@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trashcans:blocks/energy_trash_can",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trashcans:blocks/item_trash_can",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trashcans:blocks/liquid_trash_can",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trashcans:blocks/ultimate_trash_can",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

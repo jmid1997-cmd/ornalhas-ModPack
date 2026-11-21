@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:adventurer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:expedition_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:expedition_supply_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:guild_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:guild_ledger"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:guild_ledger_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:spoils_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:tavern_charter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:tavern_deed"
+		}
+	]
+}

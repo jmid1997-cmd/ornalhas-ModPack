@@ -1,0 +1,19 @@
+# Folios client settings.
+
+
+# The panel showing a build's progress while it is shown in the world.
+[buildPanel]
+# Which corner of the screen the panel sits in.
+# Allowed values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+# Default: TOP_LEFT
+corner = "TOP_LEFT"
+
+# How far the panel's frame is from that corner's side, in GUI pixels.
+# Range: 0 ~ 2000
+# Default: 8
+x = 8
+
+# How far the panel's frame is from that corner's top or bottom, in GUI pixels.
+# Range: 0 ~ 2000
+# Default: 8
+y = 8

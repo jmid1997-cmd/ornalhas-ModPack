@@ -1,0 +1,208 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:advancement_bleeding"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:advancement_expert"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:advancement_master"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:advancement_normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:angler_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:bandage"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:cerberus_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:cerberus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:creeperling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:cursed_armor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:elder_guardian_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:ender_dragon_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:ender_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_shard_locator"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:enderium_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:evoker_fang_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:fragile_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:giant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:golden_bandage"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:illusioner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:infernal_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:infested_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:pillager_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:recall_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:soaked_infernal_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:sonic_boom_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:soul_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:tank_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:tattered_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:tattered_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:tattered_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:tattered_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_army_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:undead_battle_standard"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:warden_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:wither_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsdifficulty:wither_treasure_bag"
+		}
+	]
+}

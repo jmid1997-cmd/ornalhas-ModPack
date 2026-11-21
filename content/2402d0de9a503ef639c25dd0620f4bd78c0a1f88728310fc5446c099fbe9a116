@@ -1,0 +1,488 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "amendments:antarchy/wall_dream_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:cauldron_hack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_black",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_blue",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_brown",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_cyan",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_gray",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_green",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_light_blue",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_light_gray",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_lime",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_magenta",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_orange",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_pink",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_purple",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_red",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_white",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_yellow",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:directional_cake",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:double_cake",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:dye_cauldron",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:eternal_starlight/wall_amaramber_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:eternal_starlight/wall_eternal_ice_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:eternal_starlight/wall_haze_ice_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:hanging_flower_pot",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:liquid_cauldron",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_candle",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_candle_soul",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_candle_soul_wall",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_candle_wall",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_pile",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:tool_hook",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_copper_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_exposed_copper_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_oxidized_copper_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_soul_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_waxed_copper_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_waxed_exposed_copper_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_waxed_oxidized_copper_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_waxed_weathered_copper_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:wall_weathered_copper_lantern",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:water_lily_pad",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		}
+	]
+}

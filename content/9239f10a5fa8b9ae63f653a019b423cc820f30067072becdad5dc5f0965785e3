@@ -1,0 +1,140 @@
+#亡灵杀手附魔伤害加成（每级）
+# Default: 0.05
+# Range: 0.0 ~ 10.0
+smiteAttackBonus = 0.05
+#节肢杀手附魔伤害加成（每级）
+# Default: 0.05
+# Range: 0.0 ~ 10.0
+baneOfArthropodsAttackBonus = 0.05
+#火焰附加附魔的火焰伤害（每级，仅剑刃/斩击攻击）
+# Default: 0.03
+# Range: 0.0 ~ 10.0
+fireAspectDamage = 0.03
+#火矢附魔的火焰伤害（每级，仅幻影剑攻击）
+# Default: 0.03
+# Range: 0.0 ~ 10.0
+flameArrowsDamage = 0.03
+#力量附魔对幻影剑攻击的伤害加成（每级）
+# Default: 0.05
+# Range: 0.0 ~ 10.0
+powerAttackBonus = 0.05
+#评分等级最大伤害加成（满级时）
+# Default: 0.1
+# Range: 0.0 ~ 10.0
+rankMaxBonus = 0.1
+#精炼伤害加成上限（x→∞ 时趋近该值）
+# Default: 3.0
+# Range: 0.0 ~ 100.0
+refineAttackBonusMax = 3.0
+#精炼伤害加成半饱和点（达到上限一半时的精炼等级
+# Default: 1000.0
+# Range: 1.0 ~ 1.7976931348623157E308
+refineAttackBonusHalf = 1000.0
+#召唤剑基础伤害倍率
+# Default: 0.1
+# Range: 0.0 ~ 100.0
+summonedSwordBaseDamage = 0.1
+#次元斩生成的斩击效果伤害倍率
+# Default: 0.1
+# Range: 0.0 ~ 100.0
+judgementCutSlashDamage = 0.1
+#击杀数超过1000的伤害加成
+# Default: 0.1
+# Range: 0.0 ~ 10.0
+thousandKillAttackBonus = 0.1
+#击杀数超过10000的伤害加成
+# Default: 0.1
+# Range: 0.0 ~ 10.0
+tenThousandKillAttackBonus = 0.1
+#击杀数超过100000的伤害加成
+# Default: 0.05
+# Range: 0.0 ~ 10.0
+hundredThousandKillAttackBonus = 0.05
+#击杀数超过1000000的伤害加成
+# Default: 0.05
+# Range: 0.0 ~ 10.0
+millionKillAttackBonus = 0.05
+#精炼等级超过1000的伤害加成
+# Default: 0.1
+# Range: 0.0 ~ 10.0
+thousandRefineAttackBonus = 0.1
+#精炼等级超过10000的伤害加成
+# Default: 0.1
+# Range: 0.0 ~ 10.0
+tenThousandRefineAttackBonus = 0.1
+#手持拔刀剑击败生物时，掉落破碎的耀魂（proudsoul_tiny）的概率
+# Default: 0.08
+# Range: 0.0 ~ 1.0
+proudSoulTinyDropChance = 0.08
+#手持拔刀剑击败生物时，掉落耀魂碎片（proudsoul）的概率
+# Default: 0.04
+# Range: 0.0 ~ 1.0
+proudSoulDropChance = 0.04
+#手持拔刀剑击败生物时，掉落带1级随机附魔的破碎的耀魂的概率
+# Default: 0.02
+# Range: 0.0 ~ 1.0
+proudSoulEnchantedTinyDropChance = 0.02
+#手持拔刀剑击败生物时，掉落任意基础火的概率
+# Default: 0.01
+# Range: 0.0 ~ 1.0
+basicFlameDropChance = 0.01
+#基础火掉落冷却（tick，20 tick = 1 秒；默认 3 分钟 = 3600）
+# Default: 3600
+# Range: > 0
+basicFlameDropCooldownTicks = 3600
+#手持拔刀剑击败生物时，掉落任意庸魂立方体的概率
+# Default: 0.001
+# Range: 0.0 ~ 1.0
+soulCubeDropChance = 0.001
+#庸魂立方体掉落冷却（tick；默认 9 分钟 = 10800）
+# Default: 10800
+# Range: > 0
+soulCubeDropCooldownTicks = 10800
+#手持拔刀剑击败生物时，掉落配置白名单内 1 级 SE 结晶的概率
+# Default: 5.0E-4
+# Range: 0.0 ~ 1.0
+seCrystalLevel1DropChance = 5.0E-4
+#SE 结晶掉落冷却（tick；默认 2 小时 = 144000）
+# Default: 144000
+# Range: > 0
+seCrystalDropCooldownTicks = 144000
+#SE 结晶掉落白名单（ResourceLocation；默认指令映射/宝具连发及其 λ）
+seCrystalDropWhitelist = ["recasting:command_mapping", "recasting:command_mapping_lambda", "recasting:treasure_barrage", "recasting:treasure_barrage_lambda"]
+#手持拔刀剑击败生物时，掉落配置白名单内 SA（耀魂宝珠）的概率
+# Default: 5.0E-4
+# Range: 0.0 ~ 1.0
+slashArtsDropChance = 5.0E-4
+#SA 掉落冷却（tick；默认 2 小时 = 144000）
+# Default: 144000
+# Range: > 0
+slashArtsDropCooldownTicks = 144000
+#SA 掉落白名单（ResourceLocation；默认 [回到未来计划]）
+slashArtsDropWhitelist = ["recasting:time_beyond", "recasting:imprisonment", "recasting:phase_fracture", "recasting:eternal_guard", "recasting:azure_haze", "recasting:mortal_dust", "recasting:tidal_surge", "recasting:celestial_drive", "recasting:starfall", "recasting:sky_seize", "recasting:divine_slash", "recasting:verdict", "recasting:infinite_bloom", "recasting:blistering_qi", "recasting:heavy_payload"]
+#掉落的随机附魔破碎耀魂的附魔等级
+# Default: 1
+# Range: > 1
+proudSoulEnchantedTinyLevel = 1
+#掉落的随机附魔破碎耀魂是否无视附魔自身的最大等级限制
+proudSoulEnchantmentIgnoreMaxLevel = false
+#是否解除铁砧 SE 铭刻数量限制。开启后，普通 SE 与特殊 SE 都不再受数量上限约束
+unlimitedSeEngraving = false
+#是否在物品栏为拔刀剑绘制耐久进度条（SlashBlade 默认隐藏原版耐久条）
+showSlashBladeDurabilityBar = true
+#[EXPERIMENTAL] 时之彼端满蓄加速时，是否对玩家与周围实体每游戏刻额外 tick 31 次（合计约 32 倍）。
+#默认关闭。开启可能导致 AI/物理/其它模组副作用，仅建议调试或明确了解风险后使用。
+timeBeyondEntityTickAccel = false
+
+[vanillaArtReplace]
+	#物品 Class 全名正则，任意一条整串匹配则不接管挥砍/召唤剑/次元斩。
+	#匹配方式为 Java Matcher.matches（整段必须匹配，不是子串 find）。
+	#默认排除 ItemSlashBlade 以外的类型，即仅 Class 严格等于 mods.flammpfeil.slashblade.item.ItemSlashBlade 才接管。
+	itemClassPatterns = ["^(?!mods\\.flammpfeil\\.slashblade\\.item\\.ItemSlashBlade$).+"]
+	#刀上 SA id 正则，任意一条整串匹配则不接管。
+	#匹配方式为 Java Matcher.matches。例 srelic:.*
+	saPatterns = []
+	#刀上 SE id 正则，任意一条整串匹配则不接管。
+	#匹配方式为 Java Matcher.matches。例 srelic:.*
+	sePatterns = []
+	#刀上附魔 id 正则，任意一条整串匹配则不接管。
+	#匹配方式为 Java Matcher.matches。
+	enchantmentPatterns = []

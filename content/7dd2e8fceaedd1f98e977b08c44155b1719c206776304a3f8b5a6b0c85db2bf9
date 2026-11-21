@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chests"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_chest_ignore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mending_auras"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:near_full_height_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ovecharged_redstone_block_neighbour_explosive"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:preserver_ignore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:preserver_instant_repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:torch_blocks"
+		}
+	]
+}

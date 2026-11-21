@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lunar_swords:wrapped_in_moss",
+			"data": {
+				"Instant": false,
+				"Color": -15335649,
+				"Category": "harmful"
+			}
+		}
+	]
+}

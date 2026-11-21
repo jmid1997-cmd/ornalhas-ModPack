@@ -1,0 +1,115 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:pirate_outpost",
+			"data": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:pillager",
+								"weight": 10,
+								"minCount": 1,
+								"maxCount": 2
+							},
+							{
+								"type": "minecraft:vindicator",
+								"weight": 5,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "aquamirae:pirate_outpost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:pirate_shelter",
+			"data": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "aquamirae:pirate_shelter"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:pirate_ship",
+			"data": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:pillager",
+								"weight": 10,
+								"minCount": 1,
+								"maxCount": 2
+							},
+							{
+								"type": "minecraft:vindicator",
+								"weight": 5,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "aquamirae:pirate_ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:shipwreck",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "aquamirae:shipwreck"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:surface/arch",
+			"data": {
+				"step": "fluid_springs",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "aquamirae:golden_moth",
+								"weight": 10,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "aquamirae:surface/arch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:surface/spiral",
+			"data": {
+				"step": "fluid_springs",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "aquamirae:surface/spiral"
+			}
+		}
+	]
+}

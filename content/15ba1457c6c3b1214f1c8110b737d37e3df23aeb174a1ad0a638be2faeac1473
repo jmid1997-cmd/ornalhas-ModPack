@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "itemcollectors:blocks/advanced_collector",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "itemcollectors:blocks/basic_collector",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

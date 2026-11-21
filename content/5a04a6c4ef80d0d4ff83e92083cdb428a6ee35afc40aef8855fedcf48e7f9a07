@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeon_difficulty:no_mining",
+			"data": {
+				"Instant": false,
+				"Color": 4866583,
+				"Category": "harmful"
+			}
+		}
+	]
+}

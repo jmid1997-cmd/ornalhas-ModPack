@@ -1,0 +1,148 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_cave_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abyssal_fire_survives_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:abysslates"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_meteor_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_fire_survives_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:banyin_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:base_stone_starlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:converts_nocturnal_millet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:coral_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:coral_plants"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:corals"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystalborn_catalyst_moss_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystalborn_catalyst_preferences"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystalborn_catalyst_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:doomeden_keyhole_destroyables"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_light_always_passable"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_light_always_unpassable"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_light_destroyables"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:jinglestem_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:northland_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:portal_frame_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:prevents_melting"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:prevents_monster_spawning"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:speleothem_base_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:speleothems"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starfire_bird_nests"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight_carver_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tooth_of_hunger_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:torreya_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:unaffected_by_oblivion"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wall_corals"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:yeti_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:yeti_fur_carpets"
+		}
+	]
+}

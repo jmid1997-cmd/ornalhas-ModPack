@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:dungeon_void",
+			"data": {
+				"Color": 10387789
+			}
+		}
+	]
+}

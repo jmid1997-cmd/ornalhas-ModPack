@@ -1,0 +1,263 @@
+{
+	autofocus_id: "4D1886F20917DD76"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_14"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:heart_of_the_sea"
+	}
+	id: "6B107CA47685EB0B"
+	images: [ ]
+	order_index: 54
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"68F736B51314DA53"
+				"21FBACB7E156A6EB"
+				"7A43A117DED976CB"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4D1886F20917DD76"
+			rewards: [{
+				id: "55FED042F668FC72"
+				team_reward: false
+				type: "xp"
+				xp: 250
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "cataclysm:find_sunken_city"
+				criterion: ""
+				id: "1E18594AC5D7F7DB"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"04828CF39DB6B4DE"
+				"4D1886F20917DD76"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "18FB89DF81489303"
+			rewards: [
+				{
+					id: "0AE07C72E8E0A2FA"
+					team_reward: false
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 4
+					id: "154B9B79D7BCAAF5"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				id: "37CA7CCD76A90A54"
+				item: { count: 1, id: "cataclysm:abyssal_egg" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["18FB89DF81489303"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4BAFE680B1B0C95C"
+			rewards: [{
+				id: "5012B6118F34CEE7"
+				team_reward: false
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_cursed_pyramid"
+				criterion: ""
+				id: "630C33FC4174A5A6"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"470CCEA18413B90A"
+				"4BAFE680B1B0C95C"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4B86710713C9CF7E"
+			rewards: [
+				{
+					id: "24D172F110E1E589"
+					team_reward: false
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 4
+					id: "7259DF1A2F789124"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:find_acropolis"
+				criterion: ""
+				id: "4B000717E12E5331"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"1F966399447C31FE"
+				"4B86710713C9CF7E"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "51DFF6B7FB712C7E"
+			rewards: [{
+				id: "4FCEF847DE8E92E8"
+				team_reward: false
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "cataclysm:find_frosted_prison"
+				criterion: ""
+				id: "60BEDD9AB0E9E113"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"2B4841A9BA798202"
+				"51DFF6B7FB712C7E"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "255847703F0FCEDF"
+			rewards: [{
+				id: "3F796AC4F4E00115"
+				team_reward: false
+				type: "xp"
+				xp: 375
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "77F9D1CD07766F69"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"2B4841A9BA798202"
+				"51DFF6B7FB712C7E"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0D4A5DAFF6DB16F3"
+			rewards: [{
+				id: "5344D18B3B2F5F16"
+				team_reward: false
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				consume_items: false
+				id: "0CD518012197BB89"
+				item: { count: 1, id: "cataclysm:cursium_ingot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"18FB89DF81489303"
+				"470CCEA18413B90A"
+				"4BAFE680B1B0C95C"
+				"1F966399447C31FE"
+				"4B86710713C9CF7E"
+				"0D4A5DAFF6DB16F3"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7973AF876B5DA9BB"
+			rewards: [
+				{
+					id: "776C076BBDE39026"
+					team_reward: false
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 2
+					id: "29065340F2410AB1"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				consume_items: false
+				count: 2L
+				id: "4DECAC81FC2FE1D8"
+				item: { count: 1, id: "minecraft:totem_of_undying" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

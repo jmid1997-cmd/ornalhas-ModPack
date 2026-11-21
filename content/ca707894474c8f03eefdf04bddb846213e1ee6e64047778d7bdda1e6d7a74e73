@@ -1,0 +1,257 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "structures:castle_war",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:castle_war"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:dungeon",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:end_ship",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:end_ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:house2",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:house2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:log_of_pile",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:log_of_pile"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:mangrove_house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:mangrove_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:medium_house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:medium_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:mini_tower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:mini_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:nether_arena",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:nether_arena"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:pillager_castle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:pillager_castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:ruin2",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:ruin2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:ruin3",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:ruin3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:ruined_council",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:ruined_council"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:swing",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:swing"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:swing2",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:swing2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:swing_acacia",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:swing_acacia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:swing_birch",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:swing_birch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:swing_cherry",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:swing_cherry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:swing_dark",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:swing_dark"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:swing_jungle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:swing_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:swing_taiga",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:swing_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structures:tent",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structures:tent"
+			}
+		}
+	]
+}

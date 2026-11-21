@@ -1,0 +1,561 @@
+{
+	autofocus_id: "0ACCB008D96E4495"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_limiar_magia"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "irons_spellbooks:inscription_table"
+	}
+	id: "28F008A71E1CFAAF"
+	images: [ ]
+	order_index: 27
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0ACCB008D96E4495"
+			rewards: [{
+				count: 3
+				id: "61301E6F37FBD539"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "3EFB28A823638B3B"
+				item: { count: 1, id: "irons_spellbooks:arcane_essence" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0ACCB008D96E4495"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4CC5E3C91D7C7731"
+			rewards: [{
+				count: 3
+				id: "4814EB696D5DECCE"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "1AA6E3C65021CC12"
+				item: { count: 1, id: "irons_spellbooks:scroll" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0ACCB008D96E4495"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "478FB8160D9910E8"
+			rewards: [{
+				count: 3
+				id: "144282069DED3DA5"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "73EC94D788F43131"
+				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 5, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:copper_spell_book" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"478FB8160D9910E8"
+				"4CC5E3C91D7C7731"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "35226638D09BF005"
+			rewards: [{
+				count: 3
+				id: "514BF0095D3EE657"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/make_inscription_table"
+				criterion: ""
+				id: "29EDD67DB4238227"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["35226638D09BF005"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0A7310EBE68FCF9A"
+			rewards: [{
+				count: 6
+				id: "6E011B92130A3BB1"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/spell_book_equip"
+				criterion: ""
+				id: "6368074EA26195DC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4CC5E3C91D7C7731"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0D32E14EFEF829AA"
+			rewards: [{
+				count: 3
+				id: "24EC4F5B36E57480"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "5585B72967E1A504"
+				item: { count: 1, id: "irons_spellbooks:common_ink" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0A7310EBE68FCF9A"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "419F5AF767CC3EA2"
+			rewards: [{
+				count: 3
+				id: "3E44E06BBC89E71B"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5690F9CE6D679897"
+				item: { count: 1, id: "irons_spellbooks:graybeard_staff" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"0ACCB008D96E4495"
+				"0A7310EBE68FCF9A"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2A0ACAFB0001FF07"
+			rewards: [{
+				count: 3
+				id: "07670ACC88CD33EE"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					id: "522B4D68C013F5D3"
+					item: { count: 1, id: "irons_spellbooks:wandering_magician_helmet" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "35E9021FCA6EED01"
+					item: { count: 1, id: "irons_spellbooks:wandering_magician_chestplate" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "51D8EC41381B8E5D"
+					item: { count: 1, id: "irons_spellbooks:wandering_magician_leggings" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "56CED47251A36CC6"
+					item: { count: 1, id: "irons_spellbooks:wandering_magician_boots" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0D32E14EFEF829AA"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "073DDA38FB60F9C7"
+			rewards: [{
+				count: 3
+				id: "70EB5A4725CBE33D"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "6447D8CB71AB11DB"
+				item: { count: 1, id: "irons_spellbooks:alchemist_cauldron" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["073DDA38FB60F9C7"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "46CB0062E33A1D09"
+			rewards: [{
+				count: 4
+				id: "5D55A577A2AD44AD"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "3DABF81171F07A9B"
+				item: { count: 1, id: "irons_spellbooks:rare_ink" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"35226638D09BF005"
+				"0D32E14EFEF829AA"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "22A877DAB96E1658"
+			rewards: [{
+				count: 3
+				id: "5569B6F653D20991"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/make_scroll_forge"
+				criterion: ""
+				id: "7C52239C0865EB2A"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["22A877DAB96E1658"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1920947446FDF8E5"
+			rewards: [{
+				count: 3
+				id: "31A77B61E9AFEB84"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/spell_book_gold"
+				criterion: ""
+				id: "5C7B0383D4EC7F1B"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"1920947446FDF8E5"
+				"2A0ACAFB0001FF07"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4DE5B38F0EDBA61A"
+			rewards: [{
+				count: 3
+				id: "2A624A3CDF39B118"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "048020239E750161"
+				item: { count: 1, id: "irons_spellbooks:magic_cloth" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["22A877DAB96E1658"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1E05D047F4A9E713"
+			rewards: [{
+				count: 3
+				id: "643A072B6EF7D32A"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "447E33C5F5639964"
+				item: { count: 1, id: "irons_spellbooks:blank_rune" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"4DE5B38F0EDBA61A"
+				"1E05D047F4A9E713"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0C0C5544F0110982"
+			rewards: [{
+				count: 3
+				id: "1C82E1968C0DFC7A"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/make_arcane_anvil"
+				criterion: ""
+				id: "14AAFC15A53E7E35"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0C0C5544F0110982"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "332BA8A854B1AA8E"
+			rewards: [{
+				count: 2
+				id: "711F8B1BA26E6E05"
+				item: {
+					count: 1
+					id: "minecraft:golden_apple"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/spell_book_netherite"
+				criterion: ""
+				id: "6D635A13C8369912"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"46CB0062E33A1D09"
+				"0C0C5544F0110982"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "65F18AA2E8754E85"
+			rewards: [{
+				count: 8
+				id: "4360A2600261E8C2"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/ink_legendary"
+				criterion: ""
+				id: "6AFF5E174582CB5D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"332BA8A854B1AA8E"
+				"65F18AA2E8754E85"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1B1AE11F8187172B"
+			rewards: [{
+				count: 3
+				id: "39A6E36E593E3C47"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/spell_book_dragon"
+				criterion: ""
+				id: "66423CF6CF07562F"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+	]
+}

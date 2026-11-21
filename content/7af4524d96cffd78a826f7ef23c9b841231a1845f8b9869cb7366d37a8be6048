@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_bosses:blocks/dungeon_bricks_cubes",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

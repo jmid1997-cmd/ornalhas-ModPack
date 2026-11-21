@@ -1,0 +1,14 @@
+# Hammers OG settings. Restart the game or server to apply changes.
+
+# Sneaking while you mine with a hammer or excavator breaks a single block, for careful work.
+sneakToMineOne=true
+# Stop before the tool breaks: the last use is always left for you.
+protectTools=true
+# Drops and experience from the whole square land in one pile where you mined.
+gatherDrops=true
+# Blocks much harder than the one you mine stay (obsidian next to stone, for example).
+skipHarderBlocks=true
+# Also break blocks with contents or data around the one you mine (furnaces, hoppers, spawners, shulker boxes).
+breakBlockEntities=false
+# Client: while you mine, the blocks that will break with it show the cracks too.
+areaCracks=true

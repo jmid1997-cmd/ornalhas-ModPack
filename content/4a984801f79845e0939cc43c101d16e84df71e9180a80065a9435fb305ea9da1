@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom:pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:plasma"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom:unmaykr"
+		}
+	]
+}

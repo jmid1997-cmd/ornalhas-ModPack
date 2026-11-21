@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:incorrect_for_netherite_diamond_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:incorrect_for_netherite_emerald_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:incorrect_for_netherite_gold_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:incorrect_for_netherite_iron_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancednetherite:netherite_blocks"
+		}
+	]
+}

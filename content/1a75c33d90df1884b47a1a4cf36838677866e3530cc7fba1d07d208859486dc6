@@ -1,0 +1,137 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/corsair_corvette/corsair_corvette_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/corsair_corvette/corsair_corvette_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/corsair_corvette/corsair_corvette_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/pirate_junk/pirate_junk_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/pirate_junk/pirate_junk_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/pirate_junk/pirate_junk_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/pirate_junk/pirate_junk_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/small_yacht/small_yacht_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/small_yacht/small_yacht_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/small_yacht/small_yacht_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/unicorn_galleon/unicorn_galleon_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/unicorn_galleon/unicorn_galleon_normal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/unicorn_galleon/unicorn_galleon_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/unicorn_galleon/unicorn_galleon_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/victory_frigate/victory_frigate_barrels",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/victory_frigate/victory_frigate_normal_lower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/victory_frigate/victory_frigate_normal_upper",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/victory_frigate/victory_frigate_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeons_arise_seven_seas:chests/victory_frigate/victory_frigate_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

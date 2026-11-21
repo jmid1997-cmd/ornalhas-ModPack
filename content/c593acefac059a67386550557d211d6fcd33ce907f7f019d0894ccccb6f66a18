@@ -1,0 +1,172 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/bygone_chest_default1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/bygone_chest_default2",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/bygone_pot_food1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/bygone_pot_generic1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/camp/underground_camp_chest1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_barrel_filler1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_chest_default1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_chest_helpful1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_chest_library_default1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_chest_map1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_chest_miner1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_chest_rare1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_gravel",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/coldlair/coldlair_pot",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/murkydungeon/murky_chest_bricks",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/murkydungeon/murky_chest_loot",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/murkydungeon/murky_chest_reward",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/murkydungeon/murky_chest_tomb",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/murkydungeon/murky_gravel_common",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/murkydungeon/murky_gravel_rare",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:chests/murkydungeon/murky_pot",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:ruins/ruins_default_chest",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:ruins/ruins_desert_chest",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventuredungeons:spawners/trial_rooms/trialrooms_omnious_trial_spawner",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

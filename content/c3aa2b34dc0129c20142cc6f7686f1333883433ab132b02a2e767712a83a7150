@@ -1,0 +1,81 @@
+#Expeditions, dungeons and raids
+[trips]
+	#How long trips take, as a multiple of each destination's own time (0.5 = half as long).
+	# Default: 1.0
+	# Range: 0.05 ~ 20.0
+	tripTime = 1.0
+	#Added to every trip's chance of success (-0.5 to 0.5; 0.1 = 10 points easier).
+	# Default: 0.0
+	# Range: -0.5 ~ 0.5
+	oddsBonus = 0.0
+	#How much loot trips bring home, as a multiple.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	loot = 1.0
+	#How often adventurers come home hurt, as a multiple (0 = never).
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	injuries = 1.0
+	#How much food parties need packed, as a multiple (0 = none).
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	food = 1.0
+	#The tavern tier that unlocks dungeons.
+	# Default: 4
+	# Range: 1 ~ 8
+	dungeonTier = 4
+	#The tavern tier that unlocks raids.
+	# Default: 5
+	# Range: 1 ~ 8
+	raidTier = 5
+	#Which failed trips can cost adventurers their lives. NEVER: they come home badly hurt instead.
+	#Someone always makes it home to tell the tale.
+	#Allowed Values: NEVER, RAIDS, DUNGEONS_AND_RAIDS
+	deaths = "RAIDS"
+
+#The tavern
+[tavern]
+	#Seconds between travelers at a Tier 1 tavern (each tier after is a tenth quicker, down to half).
+	# Default: 120
+	# Range: 10 ~ 3600
+	visitorSeconds = 120
+	#Ticks per block while the crate builds (20 ticks = 1 second).
+	# Default: 2
+	# Range: 1 ~ 100
+	buildTicksPerBlock = 2
+	#Whether players can hurt guild members, and members' swings and arrows can hurt players and each other.
+	friendlyFire = false
+
+#Rumors
+[rumors]
+	#Emeralds an adventurer asks for a rumor when they haven't heard one to share for free.
+	# Default: 6
+	# Range: 0 ~ 64
+	price = 6
+	#How far rumors look for places, in chunks. Lower is faster on big modpacks, but finds fewer places.
+	# Default: 100
+	# Range: 8 ~ 200
+	searchChunks = 100
+
+#Contracts from nearby villages, posted on the Expedition Board
+[contracts]
+	#Minutes between new contracts (while there's room for one).
+	# Default: 6
+	# Range: 1 ~ 600
+	minutesBetween = 6
+	#How many contracts can be open at once (0 turns contracts off).
+	# Default: 3
+	# Range: 0 ~ 8
+	maxOpen = 3
+	#Minecraft days before a contract runs out.
+	# Default: 3
+	# Range: 1 ~ 30
+	daysToComplete = 3
+	#How many emeralds contracts pay, as a multiple.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	pay = 1.0
+	#How fast the guild earns renown (from contracts and successful trips), as a multiple.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	renownGain = 1.0

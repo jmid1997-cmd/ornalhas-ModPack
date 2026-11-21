@@ -1,0 +1,447 @@
+{
+	autofocus_id: "6B218C39F7A356AF"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_industria_agricultura"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "mysticalagriculture:infusion_altar"
+	}
+	id: "40B6A65476D98009"
+	images: [ ]
+	order_index: 6
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6B218C39F7A356AF"
+			rewards: [{
+				count: 8
+				id: "62CFDEB190044A39"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "2421F9E32FF13C4F"
+				item: { count: 1, id: "mysticalagriculture:prosperity_seed_base" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6B218C39F7A356AF"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "08DB71AC0589EDF4"
+			rewards: [{
+				count: 2
+				id: "0AE73F80B0098363"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "2EB342188A93CAB5"
+				item: { count: 1, id: "mysticalagriculture:infusion_altar" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["08DB71AC0589EDF4"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "51B4159C70D28C1C"
+			rewards: [{
+				count: 8
+				id: "126322BF486AA7B7"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "5ED77F3EC711A82B"
+				item: { count: 1, id: "mysticalagriculture:infusion_pedestal" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"6B218C39F7A356AF"
+				"51B4159C70D28C1C"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4E8D2EEDDA3C703E"
+			rewards: [{
+				count: 8
+				id: "183D436F71628601"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "476772428D924248"
+				item: { count: 1, id: "mysticalagriculture:inferium_seeds" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E8D2EEDDA3C703E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "358B387D5576E17A"
+			rewards: [{
+				count: 2
+				id: "5BF8DE265FB55BAC"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 64L
+				id: "20B4C24401C56737"
+				item: { count: 1, id: "mysticalagriculture:inferium_essence" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["358B387D5576E17A"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5FE3BD1D545F0778"
+			rewards: [{
+				count: 8
+				id: "45DC562726711619"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "3AEB49F87245E3AF"
+				item: { count: 1, id: "mysticalagriculture:prudentium_essence" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"51B4159C70D28C1C"
+				"5FE3BD1D545F0778"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "61E94EDCF1AE5248"
+			rewards: [{
+				count: 8
+				id: "6D50BDBCE9BE950E"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "42E26726ADB1F79B"
+				item: { count: 1, id: "mysticalagriculture:iron_seeds" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["61E94EDCF1AE5248"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0DAE8BD7C1F528A5"
+			rewards: [{
+				count: 2
+				id: "7BC8E343A612ECE7"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "263778171D1F4642"
+				item: { count: 1, id: "mysticalagriculture:diamond_seeds" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5FE3BD1D545F0778"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "78C5402550A4F112"
+			rewards: [{
+				count: 8
+				id: "0963DB737F615862"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "2626F7802AE8218C"
+				item: { count: 1, id: "mysticalagriculture:supremium_essence" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["78C5402550A4F112"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4915C8FB9BCAF88E"
+			rewards: [{
+				count: 8
+				id: "00B2F9A706C2C611"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "07CFEB77272E94FC"
+				item: { count: 1, id: "mysticalagradditions:insanium_essence" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6B218C39F7A356AF"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4B6CF3CBE5980FA0"
+			rewards: [{
+				count: 2
+				id: "00D61395DDA79699"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "4B836DAA6521BCED"
+				item: { count: 1, id: "botanypots:terracotta_botany_pot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B6CF3CBE5980FA0"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "54CF60C94F6E5B39"
+			rewards: [{
+				count: 8
+				id: "47654969F5A121DA"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "455777C29D0A9702"
+				item: { count: 1, id: "botanypots:terracotta_hopper_botany_pot" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["61E94EDCF1AE5248"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "325E872159B274BE"
+			rewards: [{
+				count: 2
+				id: "47D82BB70F452894"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0C6A5A08C7E55CB5"
+				item: { count: 1, id: "mysticalautomation:farmer" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["325E872159B274BE"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "341683BB0B85BD80"
+			rewards: [{
+				count: 8
+				id: "320A3C9DD058E0B0"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "3C78C9515AF6CB76"
+				item: { count: 1, id: "mysticalautomation:infuser" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["341683BB0B85BD80"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "04F34D6AC449042F"
+			rewards: [{
+				count: 4
+				id: "7ED5F295EA2E265B"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: false
+				id: "399C263E9B88E64F"
+				item: { count: 1, id: "mysticalautomation:crafter" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+	]
+}

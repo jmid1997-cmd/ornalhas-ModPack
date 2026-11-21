@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "big_swords:glaive_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "big_swords:glaive_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "big_swords:reaper_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "big_swords:scythe_slash"
+		}
+	]
+}

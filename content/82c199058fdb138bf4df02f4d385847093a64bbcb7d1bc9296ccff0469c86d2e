@@ -1,0 +1,1056 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "idas:abandoned_lighthouse",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:abandoned_lighthouse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:abandoned_vineyard",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:abandoned_vineyard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:abandonedhouse",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:abandonedhouse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ancient_mines",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:silverfish",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							},
+							{
+								"type": "quark:wraith",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "idas:ancient_mines"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ancient_portal/ancient_portal",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:silverfish",
+								"weight": 3,
+								"minCount": 1,
+								"maxCount": 4
+							},
+							{
+								"type": "quark:wraith",
+								"weight": 3,
+								"minCount": 1,
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"id": "idas:ancient_portal/ancient_portal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ancient_portal/nether_ancient_portal",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "quark:wraith",
+								"weight": 10,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "idas:ancient_portal/nether_ancient_portal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ancient_statue/ancient_statue_desert",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:ancient_statue/ancient_statue_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ancient_statue/ancient_statue_jungle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:ancient_statue/ancient_statue_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ancient_statue/ancient_statue_plains",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:ancient_statue/ancient_statue_plains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:animal_den/forest_den",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:animal_den/forest_den"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:animal_den/foxhound_den",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "idas:animal_den/foxhound_den"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:animal_den/polar_bear_den",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:animal_den/polar_bear_den"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:apothecary_abode",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:apothecary_abode"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ars_nouveau/archmages_tower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:ars_nouveau/archmages_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:bazaar",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:bazaar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:bearclaw_inn",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:bearclaw_inn"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:beekeepers_house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:beekeepers_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:botanist",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:botanist"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:brickhouse",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:brickhouse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:castle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:collectors_museum",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:collectors_museum"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:cottage",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:cottage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_camp/desert_camp",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_camp/desert_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_camp/desert_camp_bygwindswept",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_camp/desert_camp_bygwindswept"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_camp/desert_camp_orange",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_camp/desert_camp_orange"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_camp/desert_camp_red",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_camp/desert_camp_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_market/desert_market",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_market/desert_market"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_market/desert_market_orange",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_market/desert_market_orange"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_market/desert_market_red",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_market/desert_market_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_pyramid",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_pyramid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:desert_ruins",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:desert_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:dig_site/dig_site",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:dig_site/dig_site"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:dig_site/dig_site_desert",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:dig_site/dig_site_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:enchantingtower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:enchantingtower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:farmhouse",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:farmhouse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:fishermans_lodge",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:fishermans_lodge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:frozen_crypt",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:frozen_crypt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:haunted_manor",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "quark:wraith",
+								"weight": 3,
+								"minCount": 3,
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"id": "idas:haunted_manor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:hermits_hollow",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:hermits_hollow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:hunters_cabin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:hunters_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:iceandfire/dread_citadel",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:iceandfire/dread_citadel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:iceandfire/sirens_cove",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:iceandfire/sirens_cove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:labyrinth",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:labyrinth"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_acacia",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_acacia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_birch",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_birch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_bopmahogany",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_bopmahogany"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_bopredwood",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_bopredwood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_bygmahogany",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_bygmahogany"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_bygredwood",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_bygredwood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_dark_oak",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_dark_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_jungle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_oak",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:lumber_camp/lumber_camp_spruce",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:lumber_camp/lumber_camp_spruce"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:mason_house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:mason_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:necromancers_spire",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "quark:wraith",
+								"weight": 10,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "idas:necromancers_spire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:nether_pump_camp",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "idas:nether_pump_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:nexus",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:silverfish",
+								"weight": 3,
+								"minCount": 1,
+								"maxCount": 4
+							},
+							{
+								"type": "quark:wraith",
+								"weight": 3,
+								"minCount": 1,
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"id": "idas:nexus"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:pillager_camp",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:pillager_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:pillager_fortress",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:pillager_fortress"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:pumpkin_cafe",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:pumpkin_cafe"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:redhorn_guild",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:redhorn_guild"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ruined_church",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:ruined_church"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ruined_fort",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:ruined_fort"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ruined_well",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:ruined_well"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:ruins_of_the_deep",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:ruins_of_the_deep"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:snifferhenge",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:snifferhenge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:sunken_ship/sunken_ship",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "quark:wraith",
+								"weight": 5,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "idas:sunken_ship/sunken_ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:sunken_ship/sunken_ship_coral",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "quark:wraith",
+								"weight": 5,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "idas:sunken_ship/sunken_ship_coral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:sunken_ship/sunken_ship_ruins",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "idas:sunken_ship/sunken_ship_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:the_log",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:the_log"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:tinkers_citadel",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:tinkers_citadel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:tinkers_workshop",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:tinkers_workshop"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:train_ruins",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:train_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:tree_of_wisdom",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:tree_of_wisdom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:treetop_tavern",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:treetop_tavern"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:tudor_pub",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:tudor_pub"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:underground_camp/underground_camp",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "idas:underground_camp/underground_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:underground_camp/underground_camp_deep",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "idas:underground_camp/underground_camp_deep"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:wacky_wares",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:wacky_wares"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:washing_camp",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:washing_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:windswept_shrine",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "idas:windswept_shrine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:winter_wagon",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:winter_wagon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:witches_treestump",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:cat",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:witch",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "idas:witches_treestump"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:wizard_tower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "idas:wizard_tower"
+			}
+		}
+	]
+}

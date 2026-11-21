@@ -1,0 +1,550 @@
+{
+	autofocus_id: "12A64F54E5DD257F"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_horizonte_terra_testemunho"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "terra_entity:slime_crown"
+	}
+	id: "56F2C29655A51A4B"
+	images: [ ]
+	order_index: 30
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "12A64F54E5DD257F"
+			rewards: [{
+				count: 3
+				id: "1C976778DF52799E"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "2D45C358A6171DCB"
+				item: { count: 1, id: "terra_entity:house_detector" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["12A64F54E5DD257F"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7334BB57BBE38BD6"
+			rewards: [{
+				count: 3
+				id: "32FACD7E3798A83C"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "6AA1BDFBB40D4ABC"
+				item: { count: 1, id: "terra_entity:leather_whip" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["12A64F54E5DD257F"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4B3DE77038688246"
+			rewards: [{
+				count: 4
+				id: "17FAFF7CCFC68FE9"
+				item: {
+					count: 1
+					id: "minecraft:coal"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "398B85C87E3FBD67"
+				item: { count: 1, id: "terra_entity:wood_boomerang" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["12A64F54E5DD257F"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "09A707BCCAA1A1EA"
+			rewards: [{
+				count: 16
+				id: "0B1CCD15DA8208DB"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "75D20C1ED3DACE17"
+				item: { count: 1, id: "terra_entity:wooden_yoyo" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B3DE77038688246"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "32C6CAE4F9155154"
+			rewards: [{
+				count: 4
+				id: "7A8694E554765322"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "17582BAA775536EC"
+				item: { count: 1, id: "terra_entity:enchanted_boomerang" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"32C6CAE4F9155154"
+				"7334BB57BBE38BD6"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6590D5EAF6B634F3"
+			rewards: [{
+				count: 3
+				id: "75104AD4FE79B486"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					count: 8L
+					id: "1E7457DBCD876EB9"
+					item: { count: 1, id: "minecraft:diamond" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "407364F3A8E40AEE"
+					item: { count: 1, id: "minecraft:egg" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6590D5EAF6B634F3"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2CE8BB70004B16A1"
+			rewards: [{
+				count: 16
+				id: "1DCE857FC84EE933"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "5EE92A4099367DDE"
+				item: { count: 1, id: "terra_entity:slime_crown" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2CE8BB70004B16A1"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "15E05E9DBA9FE026"
+			rewards: [{
+				count: 4
+				id: "79DC3BCB51383599"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_horizonte:hunts/terra_entity/king_slime"
+				criterion: ""
+				id: "43C052F500BA96DB"
+				type: "advancement"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["15E05E9DBA9FE026"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1B8A50543714DF19"
+			rewards: [{
+				count: 2
+				id: "77ACDD4C7C469611"
+				item: {
+					count: 1
+					id: "minecraft:experience_bottle"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "467AEB8DA3763547"
+				item: { count: 1, id: "terra_entity:code_1" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 18.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["15E05E9DBA9FE026"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1E464F8048DAD798"
+			rewards: [{
+				count: 4
+				id: "7DB25CF2DCF7B84D"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: false
+					count: 8L
+					id: "4BED4E888285CAB7"
+					item: { count: 1, id: "minecraft:ender_eye" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 20L
+					id: "600C69F4299FED91"
+					item: { count: 1, id: "minecraft:redstone" }
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "7290B2BE9810C74D"
+					item: { count: 1, id: "minecraft:egg" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1E464F8048DAD798"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1EB770FDE1A9FF43"
+			rewards: [{
+				count: 16
+				id: "6C3115571A903866"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "259B610762442EB2"
+				item: { count: 1, id: "terra_entity:suspicious_looking_eye" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 21.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1EB770FDE1A9FF43"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1C5FBFD806FABFA8"
+			rewards: [{
+				count: 4
+				id: "33B513808204172A"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_horizonte:hunts/terra_entity/eye_of_cthulhu"
+				criterion: ""
+				id: "6918C1070FA59C49"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1C5FBFD806FABFA8"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5E6F8470A13C8117"
+			rewards: [{
+				count: 2
+				id: "75C4781D64FC73E7"
+				item: {
+					count: 1
+					id: "minecraft:experience_bottle"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0375F0EB1974A4E7"
+				item: { count: 1, id: "terra_entity:slime_staff" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 27.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1C5FBFD806FABFA8"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1D6736B587D345E6"
+			rewards: [{
+				count: 4
+				id: "583A8DE01BAB7110"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "2006389C66B49A0B"
+				item: { count: 1, id: "terra_entity:worm_food" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 27.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1D6736B587D345E6"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "09B87F4C6E520A3F"
+			rewards: [{
+				count: 4
+				id: "521F5D728A77D25B"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_horizonte:hunts/terra_entity/eater_of_worlds"
+				criterion: ""
+				id: "038269D09337E988"
+				type: "advancement"
+			}]
+			x: 30.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["09B87F4C6E520A3F"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "773E0D7CDB06F86E"
+			rewards: [{
+				count: 4
+				id: "3BA9F8A601D46FF1"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "7FA6A134B71B39FE"
+				item: { count: 1, id: "terra_entity:bloody_spine" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 33.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["773E0D7CDB06F86E"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6A640E0F76774177"
+			rewards: [{
+				count: 4
+				id: "34A7275F75BF51CC"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_horizonte:hunts/terra_entity/brain_of_cthulhu"
+				criterion: ""
+				id: "754773961353CC21"
+				type: "advancement"
+			}]
+			x: 36.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"6A640E0F76774177"
+				"09B87F4C6E520A3F"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3BF55EE7C21581AE"
+			rewards: [{
+				count: 4
+				id: "488CF4A76FDA0C2A"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "013221751191D90B"
+				item: { count: 1, id: "terra_entity:iron_golem_staff" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 39.0d
+			y: 0.0d
+		}
+	]
+}

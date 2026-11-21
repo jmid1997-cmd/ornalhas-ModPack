@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:curse_of_the_pharaoh"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:murmurs_of_ashes_and_fetishes"
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:root_pain"
+		}
+	]
+}

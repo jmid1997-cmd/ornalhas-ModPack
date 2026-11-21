@@ -1,0 +1,120 @@
+{
+	autofocus_id: "767FCE38A4E4215D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_expedicoes_extra"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "6CE112C872795E9D"
+	images: [ ]
+	order_index: 67
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			icon: {
+				id: "arphex:time_prism"
+			}
+			id: "767FCE38A4E4215D"
+			rewards: [{
+				id: "7B170788601BFD14"
+				team_reward: false
+				type: "xp"
+				xp: 450
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: false
+				id: "3C067CB9BDF8359A"
+				item: { count: 1, id: "arphex:time_prism" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			icon: {
+				id: "mcb:white_king_chess_piece"
+			}
+			id: "3123118B040C2ECD"
+			rewards: [{
+				id: "1D601D57F3BE2E42"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "mcb:and_stay_down"
+				criterion: "and_stay_down_0"
+				id: "14687973BB15C426"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			icon: {
+				id: "oddities:orchid_heart"
+			}
+			id: "47720AF99F0F9AF5"
+			rewards: [{
+				id: "201479CEA496D937"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "33BE752DDE8D31C4"
+					structure: "oddities:orchid_shrine"
+					type: "structure"
+				}
+				{
+					consume_items: false
+					id: "0D13F8DD59D0AACD"
+					item: { count: 1, id: "oddities:orchid_queen_carapace" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			can_repeat: false
+			icon: {
+				id: "pretension:spectral_dimension"
+			}
+			id: "446EB8D8466A99CA"
+			rewards: [{
+				id: "712CAEE3C5DEB137"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					dimension: "pretension:spectral_dimension"
+					id: "62556F88B093C60E"
+					type: "dimension"
+				}
+				{
+					id: "371C98BBEE4A3774"
+					structure: "pretension:spectral_garrison"
+					type: "structure"
+				}
+			]
+			x: 2.5d
+			y: 3.5d
+		}
+	]
+}

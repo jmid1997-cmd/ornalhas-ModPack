@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "chickenchunks:chunk_loader"
+		},
+		{
+			"weight": 1.0,
+			"key": "chickenchunks:spot_loader"
+		}
+	]
+}

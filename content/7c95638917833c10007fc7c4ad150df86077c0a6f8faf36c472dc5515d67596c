@@ -1,0 +1,9 @@
+[visible]
+\=net.minecraft.world.item.ItemStack
+\=mekanism.api.chemical.ChemicalStack
+\=mods.flammpfeil.slashblade.registry.specialeffects.SpecialEffect
+\=mods.flammpfeil.slashblade.slasharts.SlashArts
+\=net.neoforged.neoforge.fluids.FluidStack
+\=twilightforest.compat.jei.FakeEntityType
+\=twilightforest.compat.jei.FakeItemEntity
+[hidden]

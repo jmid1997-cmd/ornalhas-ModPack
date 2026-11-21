@@ -1,0 +1,5 @@
+[infinite_tanks]
+	#Infinite EnderTank frequency-to-fluid assignments.
+	#Format: left/middle/right=namespace:fluid_id
+	#Example: red/red/red=minecraft:lava
+	mappings = ["red/red/red=minecraft:lava", "blue/blue/blue=minecraft:water"]

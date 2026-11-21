@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:architect"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:builder"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:filler"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:filler_planner"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:library"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:marker_construction"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:quarry"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:replacer"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:schematic_single"
+		},
+		{
+			"weight": 1.0,
+			"key": "buildcraftbuilders:template"
+		}
+	]
+}

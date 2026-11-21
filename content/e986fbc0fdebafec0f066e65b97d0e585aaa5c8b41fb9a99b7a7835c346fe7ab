@@ -1,0 +1,236 @@
+{
+	autofocus_id: "5A006CE76EFB4E37"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_fronteiras_estradas_perdidas"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "20FDC8ECF57057EE"
+	images: [ ]
+	order_index: 8
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5A006CE76EFB4E37"
+			rewards: [{
+				count: 2
+				id: "0C0405B334B5495B"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "136210A1016DD9A4"
+				item: { count: 1, id: "minecraft:straw_bed" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5A006CE76EFB4E37"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2633AC570B8C9EF2"
+			rewards: [{
+				count: 8
+				id: "58B7A842ED922803"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_acampamentos:descobrir_acampamento"
+				criterion: ""
+				id: "40661F9E616782AF"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2633AC570B8C9EF2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "73A642012948B7FD"
+			rewards: [{
+				count: 4
+				id: "0407F8822C935EF3"
+				item: {
+					count: 1
+					id: "minecraft:bone_meal"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				biome: "minecraft:dappled_forest"
+				id: "1A1E4B07DAACA3C6"
+				type: "biome"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["73A642012948B7FD"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "559049C6FD179E08"
+			rewards: [{
+				count: 8
+				id: "2E5412A96733D6CC"
+				item: {
+					count: 1
+					id: "minecraft:paper"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				count: 6L
+				id: "300D567C34DC49C1"
+				item: { count: 1, id: "minecraft:poplar_shelf" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2633AC570B8C9EF2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0F87A8A22B266E95"
+			rewards: [{
+				count: 2
+				id: "13B0D2D24C61D1EA"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "3F97A847CC65D974"
+				item: { count: 1, id: "minecraft:copper_chest" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0F87A8A22B266E95"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3B96797B3366529B"
+			rewards: [{
+				count: 2
+				id: "67990B54740E0B4C"
+				item: {
+					count: 1
+					id: "minecraft:golden_carrot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "0C904E9D94B8AC07"
+				item: { count: 1, id: "minecraft:waxed_copper_chest" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5A006CE76EFB4E37"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "2FBAD972FD4F17DB"
+			rewards: [{
+				count: 2
+				id: "05897A916974570D"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "7770C2D326A75769"
+				item: { count: 1, id: "minecraft:iron_spear" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2FBAD972FD4F17DB"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "6BA14EFA1BF0B261"
+			rewards: [{
+				id: "4AE6F04A8EF2589A"
+				item: {
+					count: 1
+					id: "minecraft:golden_apple"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "minecraft:adventure/spear_many_mobs"
+				criterion: ""
+				id: "23F376C2A6EE10AB"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+	]
+}

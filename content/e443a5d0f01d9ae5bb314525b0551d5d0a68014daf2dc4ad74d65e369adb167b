@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vbincubationcompat:blocks/blue_egg_crate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "vbincubationcompat:blocks/brown_egg_crate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "vbincubationcompat:blocks/hay_blue_nest",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "vbincubationcompat:blocks/hay_brown_nest",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "vbincubationcompat:blocks/twig_blue_nest",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "vbincubationcompat:blocks/twig_brown_nest",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

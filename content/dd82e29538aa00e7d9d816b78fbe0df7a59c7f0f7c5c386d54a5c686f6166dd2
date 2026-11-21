@@ -1,0 +1,120 @@
+{
+	autofocus_id: "78F0DF542122D8E2"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_provacoes"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:trial_key"
+	}
+	id: "1B329DE7D8E2892E"
+	images: [ ]
+	order_index: 56
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1D3B48DAD85F8D75"]
+			id: "78F0DF542122D8E2"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				id: "18ED2373680648F4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["78F0DF542122D8E2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "63B47F37AC9A79B1"
+			rewards: [{
+				id: "38C14E9DD9764989"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/provacoes/minotaur"
+				criterion: ""
+				id: "0AC14FDA695F9495"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["78F0DF542122D8E2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "5A19CD295D96F405"
+			rewards: [{
+				id: "12EFC9141D1E4686"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/provacoes/hydra"
+				criterion: ""
+				id: "64D5712FEBBE154E"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["78F0DF542122D8E2"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "7AD398ED21619F65"
+			rewards: [{
+				id: "0F8106A7B2D74652"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/provacoes/phoenix"
+				criterion: ""
+				id: "3C4B17F2B6CA3BC1"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"63B47F37AC9A79B1"
+				"5A19CD295D96F405"
+				"7AD398ED21619F65"
+			]
+			id: "536520B78AA9DB0B"
+			rewards: [{
+				id: "73ED6FA3BD40B714"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "084FA31AD88017E8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

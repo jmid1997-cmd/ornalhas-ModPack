@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "royalvariations:aura_of_protection"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:dazed_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:end_poof"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:golden_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:holy"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_arrow_trace"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_spirit"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:scraps_net"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:shine"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:sparkle"
+		}
+	]
+}

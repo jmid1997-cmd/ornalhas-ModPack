@@ -1,0 +1,1704 @@
+{
+  "_comment": "Ascension Paths GUI development layout. Coordinates use scaled GUI pixels; scale 1.0 is normal size.",
+  "layoutVersion": 5,
+  "debug": false,
+  "selected": "overall.rank_icon",
+  "elements": {
+    "home.panel": {
+      "x": 0.0,
+      "y": 0.0,
+      "scaleX": 1.05,
+      "scaleY": 1.1,
+      "pivotX": 0.5,
+      "pivotY": 0.0
+    },
+    "home.title": {
+      "x": 136.0,
+      "y": 32.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.fracture_warning": {
+      "x": 136.0,
+      "y": 46.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.loading": {
+      "x": 136.0,
+      "y": 106.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.node.overall": {
+      "x": 92.0,
+      "y": 57.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.node.life": {
+      "x": 92.0,
+      "y": 122.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.node.physical": {
+      "x": 33.0,
+      "y": 185.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.node.magic": {
+      "x": 151.0,
+      "y": 185.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.divider_start": {
+      "x": 66.0,
+      "y": 43.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.divider_end": {
+      "x": 206.0,
+      "y": 43.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.connector.overall_start": {
+      "x": 136.0,
+      "y": 92.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.connector.overall_end": {
+      "x": 136.0,
+      "y": 125.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.connector.physical_start": {
+      "x": 119.0,
+      "y": 153.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.connector.physical_end": {
+      "x": 77.0,
+      "y": 188.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.connector.magic_start": {
+      "x": 153.0,
+      "y": 153.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.connector.magic_end": {
+      "x": 195.0,
+      "y": 188.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.connector.footer_start": {
+      "x": 118.0,
+      "y": 207.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.connector.footer_end": {
+      "x": 154.0,
+      "y": 207.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.button.inventory": {
+      "x": 63.0,
+      "y": 255.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "home.button.refresh": {
+      "x": 143.0,
+      "y": 255.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.panel": {
+      "x": 0.0,
+      "y": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.title": {
+      "x": 210.0,
+      "y": 38.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.fracture_warning": {
+      "x": 210.0,
+      "y": 50.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.summary.level": {
+      "x": 35.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.summary.points": {
+      "x": 150.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.summary.xp": {
+      "x": 274.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.summary.cap": {
+      "x": 35.0,
+      "y": 77.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.summary.balance": {
+      "x": 35.0,
+      "y": 87.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.summary.requirement": {
+      "x": 282.0,
+      "y": 79.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.loading": {
+      "x": 35.0,
+      "y": 62.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.divider_start": {
+      "x": 35.0,
+      "y": 94.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.divider_end": {
+      "x": 391.0,
+      "y": 94.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.status": {
+      "x": 35.0,
+      "y": 240.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.button.upgrade": {
+      "x": 158.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.button.back": {
+      "x": 28.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.button.refresh": {
+      "x": 326.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.strength.plus": {
+      "x": 34.0,
+      "y": 104.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.strength.name": {
+      "x": 59.0,
+      "y": 103.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.strength.detail": {
+      "x": 59.0,
+      "y": 113.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.strength.effect": {
+      "x": 227.0,
+      "y": 106.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.agility.plus": {
+      "x": 34.0,
+      "y": 126.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.agility.name": {
+      "x": 59.0,
+      "y": 125.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.agility.detail": {
+      "x": 59.0,
+      "y": 135.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.agility.effect": {
+      "x": 227.0,
+      "y": 128.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.technique.plus": {
+      "x": 34.0,
+      "y": 148.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.technique.name": {
+      "x": 59.0,
+      "y": 147.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.technique.detail": {
+      "x": 59.0,
+      "y": 157.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.technique.effect": {
+      "x": 227.0,
+      "y": 150.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.projectile_damage.plus": {
+      "x": 34.0,
+      "y": 170.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.projectile_damage.name": {
+      "x": 59.0,
+      "y": 169.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.projectile_damage.detail": {
+      "x": 59.0,
+      "y": 179.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.projectile_damage.effect": {
+      "x": 227.0,
+      "y": 172.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.draw_speed.plus": {
+      "x": 34.0,
+      "y": 192.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.draw_speed.name": {
+      "x": 59.0,
+      "y": 191.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.draw_speed.detail": {
+      "x": 59.0,
+      "y": 201.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.draw_speed.effect": {
+      "x": 227.0,
+      "y": 194.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.endurance.plus": {
+      "x": 34.0,
+      "y": 214.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.endurance.name": {
+      "x": 59.0,
+      "y": 213.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.endurance.detail": {
+      "x": 59.0,
+      "y": 223.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.physical.stat.endurance.effect": {
+      "x": 227.0,
+      "y": 216.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.panel": {
+      "x": 0.0,
+      "y": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.title": {
+      "x": 210.0,
+      "y": 38.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.fracture_warning": {
+      "x": 210.0,
+      "y": 50.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.summary.level": {
+      "x": 35.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.summary.points": {
+      "x": 150.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.summary.xp": {
+      "x": 274.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.summary.cap": {
+      "x": 35.0,
+      "y": 77.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.summary.balance": {
+      "x": 35.0,
+      "y": 87.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.summary.requirement": {
+      "x": 282.0,
+      "y": 79.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.loading": {
+      "x": 35.0,
+      "y": 62.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.divider_start": {
+      "x": 35.0,
+      "y": 94.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.divider_end": {
+      "x": 391.0,
+      "y": 94.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.status": {
+      "x": 35.0,
+      "y": 240.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.button.upgrade": {
+      "x": 158.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.button.back": {
+      "x": 28.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.button.refresh": {
+      "x": 326.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.health.plus": {
+      "x": 34.0,
+      "y": 104.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.health.name": {
+      "x": 59.0,
+      "y": 103.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.health.detail": {
+      "x": 59.0,
+      "y": 113.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.health.effect": {
+      "x": 227.0,
+      "y": 106.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.health_regen.plus": {
+      "x": 34.0,
+      "y": 126.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.health_regen.name": {
+      "x": 59.0,
+      "y": 125.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.health_regen.detail": {
+      "x": 59.0,
+      "y": 135.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.health_regen.effect": {
+      "x": 227.0,
+      "y": 128.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.stamina.plus": {
+      "x": 34.0,
+      "y": 148.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.stamina.name": {
+      "x": 59.0,
+      "y": 147.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.stamina.detail": {
+      "x": 59.0,
+      "y": 157.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.stamina.effect": {
+      "x": 227.0,
+      "y": 150.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.stamina_regen.plus": {
+      "x": 34.0,
+      "y": 170.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.stamina_regen.name": {
+      "x": 59.0,
+      "y": 169.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.stamina_regen.detail": {
+      "x": 59.0,
+      "y": 179.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.stamina_regen.effect": {
+      "x": 227.0,
+      "y": 172.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.luck.plus": {
+      "x": 34.0,
+      "y": 192.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.luck.name": {
+      "x": 59.0,
+      "y": 191.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.luck.detail": {
+      "x": 59.0,
+      "y": 201.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.luck.effect": {
+      "x": 227.0,
+      "y": 194.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.mining_speed.plus": {
+      "x": 34.0,
+      "y": 214.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.mining_speed.name": {
+      "x": 59.0,
+      "y": 213.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.mining_speed.detail": {
+      "x": 59.0,
+      "y": 223.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.life.stat.mining_speed.effect": {
+      "x": 227.0,
+      "y": 216.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.panel": {
+      "x": 0.0,
+      "y": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.title": {
+      "x": 210.0,
+      "y": 38.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.fracture_warning": {
+      "x": 210.0,
+      "y": 50.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.summary.level": {
+      "x": 35.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.summary.points": {
+      "x": 150.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.summary.xp": {
+      "x": 274.0,
+      "y": 60.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.summary.cap": {
+      "x": 35.0,
+      "y": 77.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.summary.balance": {
+      "x": 35.0,
+      "y": 87.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.summary.requirement": {
+      "x": 282.0,
+      "y": 79.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.loading": {
+      "x": 35.0,
+      "y": 62.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.divider_start": {
+      "x": 35.0,
+      "y": 94.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.divider_end": {
+      "x": 391.0,
+      "y": 94.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.status": {
+      "x": 35.0,
+      "y": 240.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.button.upgrade": {
+      "x": 158.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.button.back": {
+      "x": 28.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.button.refresh": {
+      "x": 326.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.spell_power.plus": {
+      "x": 34.0,
+      "y": 104.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.spell_power.name": {
+      "x": 59.0,
+      "y": 103.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.spell_power.detail": {
+      "x": 59.0,
+      "y": 113.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.spell_power.effect": {
+      "x": 227.0,
+      "y": 106.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.cast_speed.plus": {
+      "x": 34.0,
+      "y": 126.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.cast_speed.name": {
+      "x": 59.0,
+      "y": 125.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.cast_speed.detail": {
+      "x": 59.0,
+      "y": 135.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.cast_speed.effect": {
+      "x": 227.0,
+      "y": 128.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.cooldown.plus": {
+      "x": 34.0,
+      "y": 148.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.cooldown.name": {
+      "x": 59.0,
+      "y": 147.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.cooldown.detail": {
+      "x": 59.0,
+      "y": 157.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.cooldown.effect": {
+      "x": 227.0,
+      "y": 150.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.mana.plus": {
+      "x": 34.0,
+      "y": 170.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.mana.name": {
+      "x": 59.0,
+      "y": 169.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.mana.detail": {
+      "x": 59.0,
+      "y": 179.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.mana.effect": {
+      "x": 227.0,
+      "y": 172.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.mana_regen.plus": {
+      "x": 34.0,
+      "y": 192.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.mana_regen.name": {
+      "x": 59.0,
+      "y": 191.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.mana_regen.detail": {
+      "x": 59.0,
+      "y": 201.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.mana_regen.effect": {
+      "x": 227.0,
+      "y": 194.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.spell_resistance.plus": {
+      "x": 34.0,
+      "y": 214.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.spell_resistance.name": {
+      "x": 59.0,
+      "y": 213.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.spell_resistance.detail": {
+      "x": 59.0,
+      "y": 223.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "path.magic.stat.spell_resistance.effect": {
+      "x": 227.0,
+      "y": 216.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.panel": {
+      "x": 0.0,
+      "y": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.title": {
+      "x": 232.0,
+      "y": 38.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.fracture_warning": {
+      "x": 232.0,
+      "y": 47.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.level": {
+      "x": 32.0,
+      "y": 59.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.average": {
+      "x": 32.0,
+      "y": 72.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.loading": {
+      "x": 232.0,
+      "y": 59.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.rank_icon": {
+      "x": 400.16,
+      "y": 81.43,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.button.back": {
+      "x": 31.0,
+      "y": 288.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.button.refresh": {
+      "x": 367.0,
+      "y": 288.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.title": {
+      "x": 32.0,
+      "y": 112.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.divider_start": {
+      "x": 32.0,
+      "y": 124.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.divider_end": {
+      "x": 152.0,
+      "y": 124.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.strength.name": {
+      "x": 32.0,
+      "y": 132.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.strength.detail": {
+      "x": 32.0,
+      "y": 141.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.strength.effect": {
+      "x": 32.0,
+      "y": 148.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.agility.name": {
+      "x": 32.0,
+      "y": 156.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.agility.detail": {
+      "x": 32.0,
+      "y": 165.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.agility.effect": {
+      "x": 32.0,
+      "y": 172.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.technique.name": {
+      "x": 32.0,
+      "y": 180.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.technique.detail": {
+      "x": 32.0,
+      "y": 189.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.technique.effect": {
+      "x": 32.0,
+      "y": 196.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.projectile_damage.name": {
+      "x": 32.0,
+      "y": 204.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.projectile_damage.detail": {
+      "x": 32.0,
+      "y": 213.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.projectile_damage.effect": {
+      "x": 32.0,
+      "y": 220.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.draw_speed.name": {
+      "x": 32.0,
+      "y": 228.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.draw_speed.detail": {
+      "x": 32.0,
+      "y": 237.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.draw_speed.effect": {
+      "x": 32.0,
+      "y": 244.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.endurance.name": {
+      "x": 32.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.endurance.detail": {
+      "x": 32.0,
+      "y": 261.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.physical.stat.endurance.effect": {
+      "x": 32.0,
+      "y": 268.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.title": {
+      "x": 166.0,
+      "y": 112.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.divider_start": {
+      "x": 166.0,
+      "y": 124.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.divider_end": {
+      "x": 286.0,
+      "y": 124.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.health.name": {
+      "x": 166.0,
+      "y": 132.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.health.detail": {
+      "x": 166.0,
+      "y": 141.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.health.effect": {
+      "x": 166.0,
+      "y": 148.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.health_regen.name": {
+      "x": 166.0,
+      "y": 156.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.health_regen.detail": {
+      "x": 166.0,
+      "y": 165.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.health_regen.effect": {
+      "x": 166.0,
+      "y": 172.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.stamina.name": {
+      "x": 166.0,
+      "y": 180.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.stamina.detail": {
+      "x": 166.0,
+      "y": 189.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.stamina.effect": {
+      "x": 166.0,
+      "y": 196.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.stamina_regen.name": {
+      "x": 166.0,
+      "y": 204.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.stamina_regen.detail": {
+      "x": 166.0,
+      "y": 213.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.stamina_regen.effect": {
+      "x": 166.0,
+      "y": 220.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.luck.name": {
+      "x": 166.0,
+      "y": 228.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.luck.detail": {
+      "x": 166.0,
+      "y": 237.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.luck.effect": {
+      "x": 166.0,
+      "y": 244.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.mining_speed.name": {
+      "x": 166.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.mining_speed.detail": {
+      "x": 166.0,
+      "y": 261.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.life.stat.mining_speed.effect": {
+      "x": 166.0,
+      "y": 268.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.title": {
+      "x": 300.0,
+      "y": 112.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.divider_start": {
+      "x": 300.0,
+      "y": 124.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.divider_end": {
+      "x": 420.0,
+      "y": 124.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.spell_power.name": {
+      "x": 300.0,
+      "y": 132.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.spell_power.detail": {
+      "x": 300.0,
+      "y": 141.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.spell_power.effect": {
+      "x": 300.0,
+      "y": 148.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.cast_speed.name": {
+      "x": 300.0,
+      "y": 156.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.cast_speed.detail": {
+      "x": 300.0,
+      "y": 165.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.cast_speed.effect": {
+      "x": 300.0,
+      "y": 172.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.cooldown.name": {
+      "x": 300.0,
+      "y": 180.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.cooldown.detail": {
+      "x": 300.0,
+      "y": 189.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.cooldown.effect": {
+      "x": 300.0,
+      "y": 196.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.mana.name": {
+      "x": 300.0,
+      "y": 204.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.mana.detail": {
+      "x": 300.0,
+      "y": 213.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.mana.effect": {
+      "x": 300.0,
+      "y": 220.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.mana_regen.name": {
+      "x": 300.0,
+      "y": 228.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.mana_regen.detail": {
+      "x": 300.0,
+      "y": 237.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.mana_regen.effect": {
+      "x": 300.0,
+      "y": 244.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.spell_resistance.name": {
+      "x": 300.0,
+      "y": 252.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.spell_resistance.detail": {
+      "x": 300.0,
+      "y": 261.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    },
+    "overall.magic.stat.spell_resistance.effect": {
+      "x": 300.0,
+      "y": 268.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "pivotX": 0.5,
+      "pivotY": 0.5
+    }
+  }
+}

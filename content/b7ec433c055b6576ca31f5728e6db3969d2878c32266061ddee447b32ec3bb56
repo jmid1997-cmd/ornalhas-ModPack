@@ -1,0 +1,359 @@
+	["Mob Settings"."Nightlord Settings"]
+		#Multiplies the health of the Nightlord.
+		#At 1.0 that is 225 per phase; 450 total.
+		#Minecraft caps max health at 1024 (more with mods like AttributeFix); above that he gets the cap.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Nightlord Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Nightlord, attacks and effects alike.
+		# Default: 1.14
+		# Range: 0.0 ~ 1000.0
+		"Nightlord Damage Multiplier" = 1.0
+		#Multiplies the armor of the Nightlord. At 1.0 that is 20.
+		# Default: 0.5
+		# Range: 0.0 ~ 1000.0
+		"Nightlord Armor Multiplier" = 1.0
+		#How many attacks the Nightlord chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 3
+		# Range: 1 ~ 20
+		"Nightlord Attacks Per Combo" = 3
+		#Multiplies the magic damage the Nightlord takes (vanilla magic, and every damage type
+		#in the tag souls_like_bosses:magic_damage, e.g. Iron's Spells 'n Spellbooks). 1.0 changes nothing, 0.5 halves it.
+		# Default: 1.0
+		# Range: 0.0 ~ 10.0
+		"Nightlord Magic Damage Taken Multiplier" = 1.0
+		#The most damage a single hit can deal to the Nightlord, before armor. 0 means no limit.
+		#Also the size of his damage budget (see DPS Cap). Keeps single huge hits from skipping the fight.
+		# Default: 20.0
+		# Range: 0.0 ~ 1000000.0
+		"Nightlord Max Damage Per Hit" = 20.0
+		#Every hit fills a budget of Max Damage Per Hit; it empties by this much per second.
+		#Hits beyond a full budget deal almost nothing, so bursts and multi-hit spells cannot shred him. 0 means no limit.
+		# Default: 14.0
+		# Range: 0.0 ~ 1000000.0
+		"Nightlord DPS Cap" = 14.0
+		#An attacker farther away than this many blocks deals less damage, none at 1.5 times the distance.
+		#Stops sniping him from outside the arena. 0 means no limit.
+		# Default: 15.0
+		# Range: 0.0 ~ 1000000.0
+		"Nightlord Range Cap" = 15.0
+		#Each hit of the Nightlord also deals this share of the target's max health (0.05 = 5 %),
+		#at most as much again as the hit itself. Keeps him dangerous for targets with a lot of health. 0 turns it off.
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		"Nightlord Max Health Damage" = 0.05
+
+	["Mob Settings"."Melkor Settings"]
+		#Multiplies the health of the Melkor.
+		#At 1.0 that is 450 for the whole fight.
+		#Minecraft caps max health at 1024 (more with mods like AttributeFix); above that he gets the cap.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Melkor Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Melkor, attacks and effects alike.
+		# Default: 1.12
+		# Range: 0.0 ~ 1000.0
+		"Melkor Damage Multiplier" = 1.0
+		#Multiplies the armor of the Melkor. At 1.0 that is 20.
+		# Default: 0.5
+		# Range: 0.0 ~ 1000.0
+		"Melkor Armor Multiplier" = 1.0
+		#How many attacks the Melkor chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 3
+		# Range: 1 ~ 20
+		"Melkor Attacks Per Combo" = 3
+		#Multiplies the magic damage the Melkor takes (vanilla magic, and every damage type
+		#in the tag souls_like_bosses:magic_damage, e.g. Iron's Spells 'n Spellbooks). 1.0 changes nothing, 0.5 halves it.
+		# Default: 1.0
+		# Range: 0.0 ~ 10.0
+		"Melkor Magic Damage Taken Multiplier" = 1.0
+		#The most damage a single hit can deal to the Melkor, before armor. 0 means no limit.
+		#Also the size of his damage budget (see DPS Cap). Keeps single huge hits from skipping the fight.
+		# Default: 20.0
+		# Range: 0.0 ~ 1000000.0
+		"Melkor Max Damage Per Hit" = 20.0
+		#Every hit fills a budget of Max Damage Per Hit; it empties by this much per second.
+		#Hits beyond a full budget deal almost nothing, so bursts and multi-hit spells cannot shred him. 0 means no limit.
+		# Default: 14.0
+		# Range: 0.0 ~ 1000000.0
+		"Melkor DPS Cap" = 14.0
+		#An attacker farther away than this many blocks deals less damage, none at 1.5 times the distance.
+		#Stops sniping him from outside the arena. 0 means no limit.
+		# Default: 15.0
+		# Range: 0.0 ~ 1000000.0
+		"Melkor Range Cap" = 15.0
+		#Each hit of the Melkor also deals this share of the target's max health (0.05 = 5 %),
+		#at most as much again as the hit itself. Keeps him dangerous for targets with a lot of health. 0 turns it off.
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		"Melkor Max Health Damage" = 0.05
+
+	["Mob Settings"."Soul of Cinder Settings"]
+		#Multiplies the health of the Soul of Cinder.
+		#At 1.0 that is 210 per phase; 420 total.
+		#Minecraft caps max health at 1024 (more with mods like AttributeFix); above that he gets the cap.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Soul of Cinder Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Soul of Cinder, attacks and effects alike.
+		# Default: 1.06
+		# Range: 0.0 ~ 1000.0
+		"Soul of Cinder Damage Multiplier" = 1.0
+		#Multiplies the armor of the Soul of Cinder. At 1.0 that is 20.
+		# Default: 0.5
+		# Range: 0.0 ~ 1000.0
+		"Soul of Cinder Armor Multiplier" = 1.0
+		#How many attacks the Soul of Cinder chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 2
+		# Range: 1 ~ 20
+		"Soul of Cinder Attacks Per Combo" = 3
+		#Multiplies the magic damage the Soul of Cinder takes (vanilla magic, and every damage type
+		#in the tag souls_like_bosses:magic_damage, e.g. Iron's Spells 'n Spellbooks). 1.0 changes nothing, 0.5 halves it.
+		# Default: 1.0
+		# Range: 0.0 ~ 10.0
+		"Soul of Cinder Magic Damage Taken Multiplier" = 1.0
+		#The most damage a single hit can deal to the Soul of Cinder, before armor. 0 means no limit.
+		#Also the size of his damage budget (see DPS Cap). Keeps single huge hits from skipping the fight.
+		# Default: 20.0
+		# Range: 0.0 ~ 1000000.0
+		"Soul of Cinder Max Damage Per Hit" = 20.0
+		#Every hit fills a budget of Max Damage Per Hit; it empties by this much per second.
+		#Hits beyond a full budget deal almost nothing, so bursts and multi-hit spells cannot shred him. 0 means no limit.
+		# Default: 13.0
+		# Range: 0.0 ~ 1000000.0
+		"Soul of Cinder DPS Cap" = 13.0
+		#An attacker farther away than this many blocks deals less damage, none at 1.5 times the distance.
+		#Stops sniping him from outside the arena. 0 means no limit.
+		# Default: 14.0
+		# Range: 0.0 ~ 1000000.0
+		"Soul of Cinder Range Cap" = 14.0
+		#Each hit of the Soul of Cinder also deals this share of the target's max health (0.05 = 5 %),
+		#at most as much again as the hit itself. Keeps him dangerous for targets with a lot of health. 0 turns it off.
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		"Soul of Cinder Max Health Damage" = 0.05
+
+	["Mob Settings"."Abyss Watchers Settings"]
+		#Multiplies the health of the Abyss Watchers.
+		#At 1.0 that is 200 shared per encounter phase.
+		#Minecraft caps max health at 1024 (more with mods like AttributeFix); above that he gets the cap.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Abyss Watchers Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Abyss Watchers, attacks and effects alike.
+		# Default: 0.64
+		# Range: 0.0 ~ 1000.0
+		"Abyss Watchers Damage Multiplier" = 1.0
+		#Multiplies the armor of the Abyss Watchers. At 1.0 that is 20.
+		# Default: 0.6
+		# Range: 0.0 ~ 1000.0
+		"Abyss Watchers Armor Multiplier" = 1.0
+		#How many attacks the Abyss Watchers chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 2
+		# Range: 1 ~ 20
+		"Abyss Watchers Attacks Per Combo" = 3
+		#Multiplies the magic damage the Abyss Watchers takes (vanilla magic, and every damage type
+		#in the tag souls_like_bosses:magic_damage, e.g. Iron's Spells 'n Spellbooks). 1.0 changes nothing, 0.5 halves it.
+		# Default: 1.0
+		# Range: 0.0 ~ 10.0
+		"Abyss Watchers Magic Damage Taken Multiplier" = 1.0
+		#The most damage a single hit can deal to the Abyss Watchers, before armor. 0 means no limit.
+		#Also the size of his damage budget (see DPS Cap). Keeps single huge hits from skipping the fight.
+		# Default: 25.0
+		# Range: 0.0 ~ 1000000.0
+		"Abyss Watchers Max Damage Per Hit" = 25.0
+		#Every hit fills a budget of Max Damage Per Hit; it empties by this much per second.
+		#Hits beyond a full budget deal almost nothing, so bursts and multi-hit spells cannot shred him. 0 means no limit.
+		# Default: 20.0
+		# Range: 0.0 ~ 1000000.0
+		"Abyss Watchers DPS Cap" = 20.0
+		#An attacker farther away than this many blocks deals less damage, none at 1.5 times the distance.
+		#Stops sniping him from outside the arena. 0 means no limit.
+		# Default: 18.0
+		# Range: 0.0 ~ 1000000.0
+		"Abyss Watchers Range Cap" = 18.0
+		#Each hit of the Abyss Watchers also deals this share of the target's max health (0.05 = 5 %),
+		#at most as much again as the hit itself. Keeps him dangerous for targets with a lot of health. 0 turns it off.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		"Abyss Watchers Max Health Damage" = 0.0
+
+	["Mob Settings"."Lothric Settings"]
+		#Multiplies the health of the Lothric.
+		#At 1.0 that is 390 for the whole fight.
+		#Minecraft caps max health at 1024 (more with mods like AttributeFix); above that he gets the cap.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Lothric Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Lothric, attacks and effects alike.
+		# Default: 1.38
+		# Range: 0.0 ~ 1000.0
+		"Lothric Damage Multiplier" = 1.38
+		#Multiplies the armor of the Lothric. At 1.0 that is 20.
+		# Default: 0.6
+		# Range: 0.0 ~ 1000.0
+		"Lothric Armor Multiplier" = 0.6
+		#Multiplies the magic damage the Lothric takes (vanilla magic, and every damage type
+		#in the tag souls_like_bosses:magic_damage, e.g. Iron's Spells 'n Spellbooks). 1.0 changes nothing, 0.5 halves it.
+		# Default: 1.0
+		# Range: 0.0 ~ 10.0
+		"Lothric Magic Damage Taken Multiplier" = 1.0
+		#The most damage a single hit can deal to the Lothric, before armor. 0 means no limit.
+		#Also the size of his damage budget (see DPS Cap). Keeps single huge hits from skipping the fight.
+		# Default: 21.0
+		# Range: 0.0 ~ 1000000.0
+		"Lothric Max Damage Per Hit" = 21.0
+		#Every hit fills a budget of Max Damage Per Hit; it empties by this much per second.
+		#Hits beyond a full budget deal almost nothing, so bursts and multi-hit spells cannot shred him. 0 means no limit.
+		# Default: 13.0
+		# Range: 0.0 ~ 1000000.0
+		"Lothric DPS Cap" = 13.0
+		#An attacker farther away than this many blocks deals less damage, none at 1.5 times the distance.
+		#Stops sniping him from outside the arena. 0 means no limit.
+		# Default: 12.0
+		# Range: 0.0 ~ 1000000.0
+		"Lothric Range Cap" = 12.0
+		#Each hit of the Lothric also deals this share of the target's max health (0.05 = 5 %),
+		#at most as much again as the hit itself. Keeps him dangerous for targets with a lot of health. 0 turns it off.
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		"Lothric Max Health Damage" = 0.05
+		#How many attacks the Lothric chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 3
+		# Range: 1 ~ 20
+		"Lothric Attacks Per Combo" = 3
+
+	["Item Settings"."Dark Moon Greatsword Settings"]
+		#Melee attack damage of the Dark Moon Greatsword, in half-hearts.
+		# Default: 12.0
+		# Range: 0.0 ~ 2048.0
+		"Dark Moon Greatsword Damage" = 12.0
+		#How many uses the sword has before it breaks.
+		# Default: 2031
+		# Range: 1 ~ 100000
+		"Dark Moon Greatsword Durability" = 2031
+		#How many light waves can be fired, three seconds apart, before the long cooldown starts.
+		# Default: 6
+		# Range: 1 ~ 64
+		"Dark Moon Greatsword Charges" = 3
+		#Damage of a holy light wave hit, in half-hearts (the other elements burn, poison, slow or weaken).
+		# Default: 16.0
+		# Range: 0.0 ~ 2048.0
+		"Dark Moon Greatsword Wave Damage" = 7.0
+		#Damage of one of the seven night orbs, in half-hearts.
+		# Default: 12.0
+		# Range: 0.0 ~ 2048.0
+		"Dark Moon Greatsword Orb Damage" = 12.0
+		#Cooldown after the last light wave charge has been fired, in seconds.
+		# Default: 120
+		# Range: 0 ~ 3600
+		"Dark Moon Greatsword Light Wave Cooldown" = 120
+		#Cooldown of the seven night orbs, in seconds.
+		# Default: 90
+		# Range: 0 ~ 3600
+		"Dark Moon Greatsword Orb Cooldown" = 90
+
+	["Item Settings"."Firelink Greatsword Settings"]
+		#Melee attack damage of the Firelink Greatsword, in half-hearts.
+		# Default: 8.0
+		# Range: 0.0 ~ 2048.0
+		"Firelink Greatsword Damage" = 8.0
+		#How many uses the sword has before it breaks.
+		# Default: 2031
+		# Range: 1 ~ 100000
+		"Firelink Greatsword Durability" = 2031
+		#Damage of one of the five Firelink orbs, in half-hearts.
+		# Default: 8.0
+		# Range: 0.0 ~ 2048.0
+		"Firelink Greatsword Orb Damage" = 8.0
+		#Damage per hit of the Firelink beam, in half-hearts.
+		# Default: 6.0
+		# Range: 0.0 ~ 2048.0
+		"Firelink Greatsword Beam Damage" = 6.0
+		#Cooldown of the Firelink beam (sneak + right-click with the staff in the off hand), in seconds.
+		# Default: 120
+		# Range: 0 ~ 3600
+		"Firelink Greatsword Beam Cooldown" = 120
+		#Cooldown of the five Firelink orbs (right-click with the staff in the off hand), in seconds.
+		# Default: 90
+		# Range: 0 ~ 3600
+		"Firelink Greatsword Orb Cooldown" = 90
+
+	["Item Settings"."Sunlight Spear Settings"]
+		#How many Sunlight Spears can be thrown, two seconds apart, before the long cooldown starts.
+		# Default: 3
+		# Range: 1 ~ 64
+		"Sunlight Spear Charges" = 3
+		#Damage of a Sunlight Spear hit, in half-hearts.
+		# Default: 20.0
+		# Range: 0.0 ~ 2048.0
+		"Sunlight Spear Damage" = 20.0
+		#Cooldown after the last Sunlight Spear charge has been thrown, in seconds.
+		# Default: 120
+		# Range: 0 ~ 3600
+		"Sunlight Spear Cooldown" = 120
+
+	["Item Settings"."Farron Greatsword Settings"]
+		#Melee attack damage of the Farron Greatsword, in half-hearts.
+		# Default: 8.0
+		# Range: 0.0 ~ 2048.0
+		"Farron Greatsword Damage" = 8.0
+		#How many uses the sword has before it breaks.
+		# Default: 2031
+		# Range: 1 ~ 100000
+		"Farron Greatsword Durability" = 2031
+		#Extra damage against the Warden, in half-hearts.
+		# Default: 20.0
+		# Range: 0.0 ~ 2048.0
+		"Farron Greatsword Warden Damage" = 20.0
+
+	["Item Settings"."Spear of Melkor Settings"]
+		#Melee attack damage of the Spear of Melkor, in half-hearts.
+		# Default: 12.0
+		# Range: 0.0 ~ 2048.0
+		"Spear of Melkor Damage" = 12.0
+		#How many uses the spear has before it breaks.
+		#The spear Melkor drops is unbreakable; this applies to any other copy.
+		# Default: 2031
+		# Range: 1 ~ 100000
+		"Spear of Melkor Durability" = 2031
+		#How many flame waves can be fired, three seconds apart, before the long cooldown starts.
+		# Default: 5
+		# Range: 1 ~ 64
+		"Spear of Melkor Wave Charges" = 5
+		#Damage of a single flame wave hit, in half-hearts.
+		#Flame waves and fire pillars cast with the spear never hurt players.
+		# Default: 8.0
+		# Range: 0.0 ~ 2048.0
+		"Spear of Melkor Wave Damage" = 8.0
+		#Damage per hit of the fire pillar, in half-hearts. It keeps hitting for several seconds.
+		# Default: 50.0
+		# Range: 0.0 ~ 2048.0
+		"Spear of Melkor Pillar Damage" = 50.0
+		#Cooldown after the last flame wave charge has been spent, in seconds.
+		# Default: 60
+		# Range: 0 ~ 3600
+		"Spear of Melkor Wave Cooldown" = 60
+		#Cooldown of the fire pillar ability, in seconds.
+		# Default: 60
+		# Range: 0 ~ 3600
+		"Spear of Melkor Pillar Cooldown" = 60
+
+	["Item Settings"."Lothric Miracle Settings"]
+		#Cooldown of the Spinning Strike Miracle, in seconds.
+		# Default: 120
+		# Range: 0 ~ 3600
+		"Spinning Strike Miracle Cooldown" = 120
+		#Cooldown of the Light Wave Miracle, in seconds.
+		# Default: 60
+		# Range: 0 ~ 3600
+		"Light Wave Miracle Cooldown" = 60
+		#Cooldown of the Teleport Miracle, in seconds.
+		# Default: 60
+		# Range: 0 ~ 3600
+		"Teleport Miracle Cooldown" = 60

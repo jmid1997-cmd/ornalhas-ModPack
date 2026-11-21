@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:brisk"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:deep_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dusk_o_ereyesterday"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ether_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:fake_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:les_iles_du_ciel"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:mechanical_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:moonlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:nest_ii"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:optimized_option"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:posterity"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:profundity"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:sacred_desert"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:solaris"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:spirit"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stars_shining_upon_the_sea"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:the_dark_side"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:the_thorny_reign"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tranquility"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:tranquility_ii"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:viridescent"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:wailing_well"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:whisper_of_the_stars"
+		}
+	]
+}

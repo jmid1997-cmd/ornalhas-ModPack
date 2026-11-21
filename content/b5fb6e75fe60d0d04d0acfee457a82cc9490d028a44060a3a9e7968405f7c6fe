@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "quark:resilience",
+			"data": {
+				"Instant": false,
+				"Color": 5970436,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

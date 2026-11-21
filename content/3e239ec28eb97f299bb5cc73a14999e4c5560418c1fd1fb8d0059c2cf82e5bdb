@@ -1,0 +1,580 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ballista_golem_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ballista_golem_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ballista_golem_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ballista_golem_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ballista_golem_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ballista_golem_waking"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_barrier_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_barrier_regenerate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_build_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_chain_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_diamond_notch_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_diamond_notch_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_diamond_notch_regenerate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_laughter"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep_prime"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep_sit_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep_stand_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_creep_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_detonator_beep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_detonator_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:disc_aotsugi"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:disc_broken_aotsugi"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:disc_clash_of_duality_boros"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:disc_clash_of_duality_ouros"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:disc_clash_of_duality_pythonic_overdrive"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:disc_hellspawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:durite_queller_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:durite_queller_crystal_grow"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:durite_queller_replace_preserver"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_armor_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_armor_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_arrow_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_arrow_warning"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_fire_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_boros_slither"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_mouth_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_mouth_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_cannon_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_cannon_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_door_cannon_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_door_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_door_pillar_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_door_scuttle_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_pillar_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_shoot_vertex_domain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_ouros_slither"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_serpent_caller_activated"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeepers_intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_charge_dive"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_closing"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_land_dive"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_side_bar_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_side_bar_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:garhold_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hike"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hollow_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hollow_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hollow_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mending_aura_pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mending_table_mend"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mendstone_chalk_draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mendstone_chalk_mark_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mendstone_chalk_mark_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:overcharged_redstone_block_component_detonation"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:overcharged_redstone_block_dust_combustion"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:overcharged_redstone_block_tnt_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:repulsor_alert"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:repulsor_barrier_build"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:repulsor_blink"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:repulsor_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:repulsor_fizzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:repulsor_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:repulsor_recharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scorcher_overheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scorcher_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scorcher_stall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scorcher_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scorcher_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scorcher_unstable"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_deflect"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_shooting_burst"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_shooting_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_shooting_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_shooting_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_shooting_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_shooting_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_waking"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:sealed_chaos_bullet_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:sealed_chaos_bullet_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:sealed_chaos_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:sealed_chaos_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:sealed_chaos_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:sealed_chaos_take"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:seeping_soul_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:seeping_soul_dissipate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:seeping_soul_expand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:seeping_soul_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:seeping_soul_recall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:seeping_soul_replace"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:signal_gate_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_scorcher_overheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_scorcher_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_scorcher_stall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_scorcher_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_scorcher_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_scorcher_unstable"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier_smash"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier_spawn_mob"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier_spawner_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_carrier_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vertex_arrow_bootup"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vertex_arrow_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vertex_bow_arrow_convert"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vertex_bow_pull"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vertex_node_connect"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:whimper_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:whimper_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:whimper_hurt"
+		}
+	]
+}

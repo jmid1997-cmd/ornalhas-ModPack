@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:chill",
+			"data": {
+				"Instant": false,
+				"Color": 7317736,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:crown_hold",
+			"data": {
+				"Instant": false,
+				"Color": 6981304,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:frostbite",
+			"data": {
+				"Instant": false,
+				"Color": 10479871,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:heart_frost",
+			"data": {
+				"Instant": false,
+				"Color": 8376575,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "frozen_dominion:warmth",
+			"data": {
+				"Instant": false,
+				"Color": 16751164,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

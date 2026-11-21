@@ -1,0 +1,115 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ascendant:cinder_bastion",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "ascendant:cinder_hound",
+								"weight": 3,
+								"minCount": 2,
+								"maxCount": 3
+							},
+							{
+								"type": "minecraft:wither_skeleton",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "ascendant:cinder_bastion"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:ruined_watchtower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "ascendant:ashen_knight",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "ascendant:ruined_watchtower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:shattered_spire",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "ascendant:void_stalker",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "ascendant:shattered_spire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:sunken_crypt",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "ascendant:rift_sentinel",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							},
+							{
+								"type": "ascendant:hollow_wisp",
+								"weight": 2,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "ascendant:sunken_crypt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascendant:wayshrine",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ascendant:wayshrine"
+			}
+		}
+	]
+}

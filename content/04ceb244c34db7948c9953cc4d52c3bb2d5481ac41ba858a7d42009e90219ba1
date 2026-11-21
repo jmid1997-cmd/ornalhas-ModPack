@@ -1,0 +1,151 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:brute",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:denizen",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:dweller",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_guardian",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomper",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:greater_dweller",
+			"data": {
+				"Category": "undergarden:stupid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gwib",
+			"data": {
+				"Category": "water_creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gwibling",
+			"data": {
+				"Category": "water_ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:mog",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:muncher",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:mysterious_pot",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:nargoyle",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rotbeast",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rotbelcher",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rotling",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rotwalker",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:scintling",
+			"data": {
+				"Category": "ambient"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smog_mog",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:sploogie",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:stoneborn",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

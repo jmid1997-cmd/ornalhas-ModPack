@@ -1,0 +1,276 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_abyss"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_breathing"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_fighting"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_gael_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_gael_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_jump_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_jump_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_roll_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_roll_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_running"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_thrust_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_thrust_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_voice"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_aw_walking"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_boss_slain"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_killing_blow"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_lothran_followup_light_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_lothran_player_light_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_lothran_player_light_wave2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_lothran_teleport_in"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_lothran_teleport_out"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_abyss_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_abyss_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_breathing"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_death_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_death_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_death_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_death_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_gael_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_gael_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_heavy_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_heavy_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_jump_back"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_kamehameha_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_kamehameha_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_light_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_light_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_charge_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_jump_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_jump_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_jump_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_jump_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_jump_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_throw_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_lightning_throw_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_orb_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_orb_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_orb_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_phase_change_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_phase_change_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_phase_change_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_phase_change_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_phase_change_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_phase_change_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_running"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_switch_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_thrust_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_thrust_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "souls_like_bosses:slb_soc_walking"
+		}
+	]
+}

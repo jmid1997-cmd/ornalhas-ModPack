@@ -1,0 +1,513 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_hoops",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:ancient_hoops"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_shrine",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:ancient_shrine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:battle_cubes",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "the_bumblezone:battle_cubes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_house",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:bee",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "the_bumblezone:bee_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bumbling_beepartments",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:bee",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 3
+							},
+							{
+								"type": "the_bumblezone:variant_bee",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							},
+							{
+								"type": "the_bumblezone:beehemoth",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "the_bumblezone:bumbling_beepartments"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:candle_parkour",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:candle_parkour"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:cannon_range",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:cannon_range"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:cell_maze",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:cell_maze"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:cherry_veteran_tree",
+			"data": {
+				"step": "local_modifications",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:cherry_veteran_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:dance_floor",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:bee",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "the_bumblezone:dance_floor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:gazebuzz_cluster",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:gazebuzz_cluster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:goliath_honey_fountain",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:goliath_honey_fountain"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:hanging_garden"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hive_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "the_bumblezone:honey_slime",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "the_bumblezone:hive_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_cave_room",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "the_bumblezone:beehemoth",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "the_bumblezone:honey_cave_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_fountain",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:honey_fountain"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_slime_ranch",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "the_bumblezone:honey_slime",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "the_bumblezone:honey_slime_ranch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honitel",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:bee",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "the_bumblezone:honitel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ice_monolith",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:ice_monolith"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:mite_fortress",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:enderman",
+								"weight": 100,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "the_bumblezone:mite_fortress"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:overgrown_flower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:overgrown_flower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:phantasm_aviary",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:phantom",
+								"weight": 100,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "the_bumblezone:phantasm_aviary"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pirate_ship",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:pirate_ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pollinated_stream",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:pollinated_stream"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum_blue",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:sempiternal_sanctum_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum_green",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:sempiternal_sanctum_green"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum_purple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:sempiternal_sanctum_purple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum_red",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:sempiternal_sanctum_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum_white",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:sempiternal_sanctum_white"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum_yellow",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:sempiternal_sanctum_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:stinger_spear_shrine",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:stinger_spear_shrine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:subway",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:subway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:throne_pillar",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "the_bumblezone:throne_pillar"
+			}
+		}
+	]
+}

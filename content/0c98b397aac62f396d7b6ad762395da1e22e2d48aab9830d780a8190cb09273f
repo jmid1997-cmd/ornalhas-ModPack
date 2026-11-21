@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elementalmaces:ender_mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "elementalmaces:resonating_mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "elementalmaces:resonating_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "elementalmaces:smouldering_mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "elementalmaces:withering_mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "elementalmaces:withering_rod"
+		}
+	]
+}

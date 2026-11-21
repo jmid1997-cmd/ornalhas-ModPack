@@ -1,0 +1,5180 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "chisel:array/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:array/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bevel_creeper/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bevel_skeleton/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bismuth/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bismuth/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bismuth/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:brick/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:brick/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bricks/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bricks2/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bricks3/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:bubble/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cart/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cells/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cells/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chinese/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chinese2/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chisel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chrono/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chunky/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chunky/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chunky/lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cobble/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:coin_heads/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:coin_heads/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:coin_tails/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:coin_tails/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crate_dark/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crate_dark/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crate_light/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crate_light/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_horizontal/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_horizontal/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_horizontal/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_horizontal/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_horizontal/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_horizontal/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_horizontal/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_paneling/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_paneling/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_paneling/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_paneling/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_paneling/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_paneling/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_paneling/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_vertical/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_vertical/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_vertical/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_vertical/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_vertical/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_vertical/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crude_vertical/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:crushed/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dungeon/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:embossed/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_large/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_large/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_large/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_large/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_large/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_large/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_large/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_smooth/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_smooth/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_smooth/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_smooth/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_smooth/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_smooth/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_smooth/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:four/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:four/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:fourornate/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:fourornate/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:gears/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:gem/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:glyphs/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:glyphs/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:goldborder/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:happy/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:horizontal/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ironfencemodern/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:japanese/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:japanese2/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_bricks/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile_bismuth/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:largeingot/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:largeingot/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:largeornate/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:largeornate/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/black_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/blue_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/brown_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/cyan_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/gray_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/green_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/light_blue_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/light_gray_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/lime_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/magenta_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/orange_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/pink_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/purple_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/red_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/white_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/yellow_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:light/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/black_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/blue_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/brown_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/cyan_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/gray_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/green_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/light_blue_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/light_gray_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/lime_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/magenta_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/orange_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/pink_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/purple_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/red_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/white_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/yellow_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:log_bordered/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:log_bordered/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:log_bordered/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:log_bordered/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:log_bordered/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:log_bordered/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:log_bordered/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:masonry/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:masonry/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:masonry/lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:moon/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:neon/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:neon_panel/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:noborder/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornatelayer/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornatelayer/lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornatesteel/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornatesteel_old/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panelclassic/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panelclassic/lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:paneling/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:paneling/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:paneling/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:paneling/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:paneling/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:paneling/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:paneling/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:plates/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:plates/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:poison/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:poison/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:reinforced/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:reinforcedcobble/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:rivets/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:rivets/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:screen/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:shale/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:shipping_crate/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:shipping_crate/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:shipping_crate/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:shipping_crate/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:shipping_crate/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:shipping_crate/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:shipping_crate/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:simple/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:simple/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:simple/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smallingot/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smallingot/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:smooth/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:space/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:space/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:space/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:spaceblack/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:spaceblack/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:spaceblack/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:stacked/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:stacked/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:stacked/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:stacked/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:stacked/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:stacked/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:stacked/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:star/gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:steelframe/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:stone/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:streak/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:sunken/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:sunken/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:thick/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:thin/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium_bismuth/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vents/iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vertical/acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vertical/birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vertical/crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vertical/dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vertical/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vertical/jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vertical/oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:vertical/spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zelda/diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zelda/emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zelda/lapis_block"
+		}
+	]
+}

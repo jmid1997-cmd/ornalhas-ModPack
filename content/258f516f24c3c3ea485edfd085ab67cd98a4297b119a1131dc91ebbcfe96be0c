@@ -1,0 +1,78 @@
+[progression]
+	#Multiplies all XP from kills.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	xpMultiplier = 1.0
+	#Maximum player level.
+	# Default: 300
+	# Range: 1 ~ 1000
+	maxLevel = 300
+	#What a player loses on death. NONE keeps everything.
+	#Allowed Values: NONE, LOSE_10_PERCENT
+	deathPenalty = "NONE"
+	#XP multiplier for mobs that came from a spawner.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	spawnerXpMultiplier = 0.25
+	#Share of the XP for players who helped (damaged the mob in the last 10 s, within 32 blocks).
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	assistShare = 0.5
+	#Distance in blocks at which mob levels appear, before Perception.
+	# Default: 12
+	# Range: 4 ~ 64
+	nameplateRange = 12
+
+[world]
+	#Rifts open near players every few in-game days.
+	riftsEnabled = true
+	#Minimum in-game days between rifts for a player.
+	# Default: 2
+	# Range: 1 ~ 100
+	riftDaysMin = 2
+	#Maximum in-game days between rifts for a player.
+	# Default: 4
+	# Range: 1 ~ 100
+	riftDaysMax = 4
+
+	[world.spawnWeights]
+		#Spawn weight of hollow_wisp (0 = never in the wild).
+		# Default: 40
+		# Range: 0 ~ 500
+		hollow_wisp = 40
+		#Spawn weight of bramble_imp (0 = never in the wild).
+		# Default: 40
+		# Range: 0 ~ 500
+		bramble_imp = 40
+		#Spawn weight of stonehide_boar (0 = never in the wild).
+		# Default: 25
+		# Range: 0 ~ 500
+		stonehide_boar = 25
+		#Spawn weight of cave_stalker (0 = never in the wild).
+		# Default: 25
+		# Range: 0 ~ 500
+		cave_stalker = 25
+		#Spawn weight of frost_revenant (0 = never in the wild).
+		# Default: 30
+		# Range: 0 ~ 500
+		frost_revenant = 30
+		#Spawn weight of mire_lurker (0 = never in the wild).
+		# Default: 30
+		# Range: 0 ~ 500
+		mire_lurker = 30
+		#Spawn weight of dune_wraith (0 = never in the wild).
+		# Default: 25
+		# Range: 0 ~ 500
+		dune_wraith = 25
+		#Spawn weight of cinder_hound (0 = never in the wild).
+		# Default: 20
+		# Range: 0 ~ 500
+		cinder_hound = 20
+		#Spawn weight of abyssal_watcher (0 = never in the wild).
+		# Default: 12
+		# Range: 0 ~ 500
+		abyssal_watcher = 12
+		#Spawn weight of void_stalker (0 = never in the wild).
+		# Default: 20
+		# Range: 0 ~ 500
+		void_stalker = 20

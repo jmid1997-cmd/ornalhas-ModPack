@@ -1,0 +1,346 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplyswords:astral_shift",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:battle_fatigue",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:bleed",
+			"data": {
+				"Instant": false,
+				"Color": 9379615,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:blood_plague",
+			"data": {
+				"Instant": false,
+				"Color": 7406869,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:bloodwake_frenzy",
+			"data": {
+				"Instant": false,
+				"Color": 11735596,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:corrupted_wound",
+			"data": {
+				"Instant": false,
+				"Color": 7283112,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:echo",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:elemental_vortex",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:fatal_flicker",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:ferocity",
+			"data": {
+				"Instant": false,
+				"Color": 10314692,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:fire_vortex",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:flameseed",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:freeze",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:frenzy",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:frost_vortex",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:gloam_exposure",
+			"data": {
+				"Instant": false,
+				"Color": 7285649,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:gloam_grasp",
+			"data": {
+				"Instant": false,
+				"Color": 2625593,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:immolation",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:implicit_haste",
+			"data": {
+				"Instant": false,
+				"Color": 6740441,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:ion_paralysis",
+			"data": {
+				"Instant": false,
+				"Color": 3116287,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:magislam",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:magistorm",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:onslaught",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:pain",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:resilience",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:ribboncleave",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:ribbonwrath",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:shadow_dance",
+			"data": {
+				"Instant": false,
+				"Color": 1315860,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:smouldering",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:soul_tether",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:spore_swarm",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:storm",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:sundered_armor",
+			"data": {
+				"Instant": false,
+				"Color": 8352614,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:void_assault",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:voidcloak",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:ward",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:wax_encased",
+			"data": {
+				"Instant": false,
+				"Color": 15185995,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyswords:wildfire",
+			"data": {
+				"Instant": false,
+				"Color": 1124687,
+				"Category": "harmful"
+			}
+		}
+	]
+}

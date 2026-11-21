@@ -1,0 +1,8 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeon_difficulty:no_mining_exempt"
+		}
+	]
+}

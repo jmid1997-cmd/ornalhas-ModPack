@@ -1,0 +1,236 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:advanced_fuel_efficiency_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:advanced_ore_processing_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:amethyst_diamond_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:amethyst_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:amethyst_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:amethyst_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:autoinput_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:autooutput_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:blasting_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:cobblestone_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:color_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:copper_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:copper_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:copper_iron_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:copper_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:diamond_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:diamond_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:diamond_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:energy_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:extreme_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:extreme_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:extreme_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:factory_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:fuel_efficiency_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:fuel_verifier"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:generator_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:gold_conductor_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:gold_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:gold_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:gold_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:iron_conductor_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:iron_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:iron_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:iron_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:liquid_fuel_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:netherhot_conductor_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:netherhot_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:netherhot_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:netherhot_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:ore_processing_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:piping_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:platinum_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:platinum_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:platinum_netherhot_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:platinum_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:raw_ore_processing_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:redstone_signal_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:smoking_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:steel_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:steel_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:steel_gold_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:steel_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:storage_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:ultimate_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:ultimate_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:ultimate_ore_processing_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:ultimate_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "betterfurnacesreforged:xp_tank_upgrade"
+		}
+	]
+}

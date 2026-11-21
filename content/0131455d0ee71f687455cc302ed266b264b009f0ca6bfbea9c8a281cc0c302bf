@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:chicken_rise"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:entity_dragon_death_local"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:entity_wither_death_local"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:entity_wither_spawn_local"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:solid_xp_block_boing"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:spoopy_change"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:tap_squeak"
+		}
+	]
+}

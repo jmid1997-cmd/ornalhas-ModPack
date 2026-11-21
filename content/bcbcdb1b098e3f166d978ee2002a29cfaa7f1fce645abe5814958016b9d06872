@@ -1,0 +1,20 @@
+{
+  "chunkBatching": {
+    "maxChunksPerTick": 6,
+    "maxChunksPerTickAll": 36,
+    "maxUnacknowledgedChunkBatches": 4,
+    "desiredChunksPerTickModifier": 0.7,
+    "prioritizeDirection": true,
+    "cacheChunkPackets": true,
+    "enableSinglePlayer": true
+  },
+  "ItemFrameMaps": {
+    "enabled": true,
+    "itemFrameMapUpdateInterval": 100,
+    "itemFrameMapUpdateNearbyInterval": 20
+  },
+  "debugLogging": {
+    "debugLogging": false
+  },
+  "version": 1
+}

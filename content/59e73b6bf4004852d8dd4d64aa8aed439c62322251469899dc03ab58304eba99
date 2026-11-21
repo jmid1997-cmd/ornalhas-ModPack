@@ -1,0 +1,81 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:assassin_armor_ability_vfx",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:berserk_armor_ability_vfx",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:first_axe_attack_vfx",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:first_gtreatsword_ability",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:first_knife_ability_vfx",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:paladin_armor_ability_vfx",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:pp",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:second_berserk_ability_vfx",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:second_greatsword_ability",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:second_knife_ability",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rpg_style_more_weapons_r:war_axe_vfx",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

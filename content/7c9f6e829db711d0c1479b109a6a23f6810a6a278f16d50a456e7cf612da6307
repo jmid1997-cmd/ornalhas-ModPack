@@ -1,0 +1,145 @@
+{
+	autofocus_id: "1D3B48DAD85F8D75"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_atlas_arkane"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:enchanted_book"
+	}
+	id: "6836D73E7A64F1F7"
+	images: [ ]
+	order_index: 57
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1D3B48DAD85F8D75"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				advancement: "minecraft:adventure/root"
+				criterion: ""
+				id: "2594B738585BB1CF"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1D3B48DAD85F8D75"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "524B969A9DF574DC"
+			rewards: [{
+				id: "15A8E5B70D02B9EC"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/arkane/dark_shaman"
+				criterion: ""
+				id: "3D38CF7F25DAC17D"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1D3B48DAD85F8D75"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0F507B78890CD767"
+			rewards: [{
+				id: "2B62B8F98B110D43"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/arkane/savage_druid"
+				criterion: ""
+				id: "14949F524839EE38"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1D3B48DAD85F8D75"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "18664A127FE636E8"
+			rewards: [{
+				id: "3DA11055D0C94E2B"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/arkane/cursed_pharaoh"
+				criterion: ""
+				id: "5EC3BE41AA935447"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1D3B48DAD85F8D75"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "26DE4381750999C6"
+			rewards: [{
+				id: "3FB83021082ABDAC"
+				team_reward: false
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "fornanhas_atlas:hunts/arkane/warlock"
+				criterion: ""
+				id: "5F51AC4C2C3759D1"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"524B969A9DF574DC"
+				"0F507B78890CD767"
+				"18664A127FE636E8"
+				"26DE4381750999C6"
+			]
+			id: "2C1778F94A878DC3"
+			rewards: [{
+				id: "1FDECD8300520FB2"
+				team_reward: false
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "074F2A447CFD8105"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

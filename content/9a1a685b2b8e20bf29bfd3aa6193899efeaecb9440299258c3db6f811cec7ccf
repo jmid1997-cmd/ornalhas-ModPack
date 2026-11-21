@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:blocks/construction_crate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:blocks/expedition_board",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:blocks/expedition_supply_crate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:blocks/guild_bell",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:blocks/guild_ledger_stand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "adventurersguild:blocks/spoils_barrel",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

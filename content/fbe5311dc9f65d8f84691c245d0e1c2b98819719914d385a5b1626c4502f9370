@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:druid_hut",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "arkane_domains:druid_hut"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:shaman_hut",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "arkane_domains:shaman_hut"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "arkane_domains:temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:warlock_toer",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "arkane_domains:warlock_toer"
+			}
+		}
+	]
+}

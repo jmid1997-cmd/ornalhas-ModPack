@@ -1,0 +1,246 @@
+{
+	autofocus_id: "5C05266C36E3B13B"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_12"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:amethyst_shard"
+	}
+	id: "257B52B445609291"
+	images: [ ]
+	order_index: 48
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"4DB03BBA25B00C14"
+				"48170FE45C771431"
+				"5C795D64013C76AB"
+				"1D2CB3643FDB2790"
+				"4395917EE69E04D5"
+				"3A495FA18F01416B"
+				"69081C893543DE7A"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5C05266C36E3B13B"
+			rewards: [{
+				id: "4ED779482FA5A833"
+				team_reward: false
+				type: "xp"
+				xp: 220
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "eternal_starlight:obtain_orb_of_prophecy"
+				criterion: ""
+				id: "1C614092BFA5AB95"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5C05266C36E3B13B"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6FC0D50D377A2058"
+			rewards: [{
+				id: "2BD5113DA762AC6A"
+				team_reward: false
+				type: "xp"
+				xp: 220
+			}]
+			tasks: [{
+				advancement: "eternal_starlight:enter_starlight"
+				criterion: ""
+				id: "0975AF68BF9B8CE6"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6FC0D50D377A2058"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "793F886D692AD25B"
+			rewards: [
+				{
+					id: "479223C7916BCECF"
+					team_reward: false
+					type: "xp"
+					xp: 220
+				}
+				{
+					count: 4
+					id: "7AAF2151BA86CA5E"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "eternal_starlight:obtain_deepsilver_ingot"
+				criterion: ""
+				id: "4810391602577D0F"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6FC0D50D377A2058"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "06803B16F7EE8AF6"
+			rewards: [{
+				id: "4AFE9A58F391894C"
+				team_reward: false
+				type: "xp"
+				xp: 220
+			}]
+			tasks: [{
+				advancement: "eternal_starlight:enter_crystallized_desert"
+				criterion: ""
+				id: "5700670235A576EC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"793F886D692AD25B"
+				"06803B16F7EE8AF6"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "29D3B84F9A69EE96"
+			rewards: [{
+				id: "5DF903546AE10CE3"
+				team_reward: false
+				type: "xp"
+				xp: 220
+			}]
+			tasks: [{
+				advancement: "eternal_starlight:enter_golem_forge"
+				criterion: ""
+				id: "1E62BE394C557FAD"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["29D3B84F9A69EE96"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "74526546B8275460"
+			rewards: [{
+				id: "2B4226EA2CF3B447"
+				team_reward: false
+				type: "xp"
+				xp: 220
+			}]
+			tasks: [{
+				advancement: "eternal_starlight:under_permafrost_forest"
+				criterion: ""
+				id: "3FAC66278B2A4830"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"306E27FE7FE53E4B"
+				"5660D7ABFDD1966B"
+				"39CA6981713F47C9"
+				"29D3B84F9A69EE96"
+				"74526546B8275460"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6262753163270CD5"
+			rewards: [{
+				id: "678133A95FC11B25"
+				team_reward: false
+				type: "xp"
+				xp: 330
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "eternal_starlight:all_starlight_biomes"
+				criterion: ""
+				id: "6394FC308BCDF424"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"306E27FE7FE53E4B"
+				"5660D7ABFDD1966B"
+				"39CA6981713F47C9"
+				"29D3B84F9A69EE96"
+				"74526546B8275460"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "53C333994D99CE13"
+			rewards: [
+				{
+					id: "041F8770DF440A89"
+					team_reward: false
+					type: "xp"
+					xp: 440
+				}
+				{
+					count: 2
+					id: "3BB03C13D5C72132"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				advancement: "eternal_starlight:obtain_crescent_spear"
+				criterion: ""
+				id: "6E90B7AD0A2E0A80"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

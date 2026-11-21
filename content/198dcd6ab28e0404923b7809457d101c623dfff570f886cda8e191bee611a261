@@ -1,0 +1,249 @@
+{
+	autofocus_id: "41A5F7FE74406F19"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_16"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:netherite_ingot"
+	}
+	id: "2D95CDDE91447626"
+	images: [ ]
+	order_index: 61
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"137654F807B228F7"
+				"1FE3B4666AB306D5"
+				"53C333994D99CE13"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "41A5F7FE74406F19"
+			rewards: [{
+				id: "06EE9D6EBDE63163"
+				team_reward: false
+				type: "xp"
+				xp: 280
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "antarchy:visit_elythia"
+				criterion: ""
+				id: "2723C4D0C12311A8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["41A5F7FE74406F19"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "78157A6AD5C87595"
+			rewards: [{
+				id: "2C4AE60F58499EC3"
+				team_reward: false
+				type: "xp"
+				xp: 280
+			}]
+			tasks: [{
+				advancement: "antarchy:ant_arch_of_elythia"
+				criterion: ""
+				id: "2ECC91D3E4F4513F"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["78157A6AD5C87595"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1E8C450D05C982B6"
+			rewards: [
+				{
+					id: "5A8DF2937E55DD9A"
+					team_reward: false
+					type: "xp"
+					xp: 280
+				}
+				{
+					count: 4
+					id: "33C11DC11D50B701"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "antarchy:visit_thoraxis"
+				criterion: ""
+				id: "21F4C31369B9BAFB"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"4191F6F99BFE7B78"
+				"1E8C450D05C982B6"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "33CB0572CAB3B95E"
+			rewards: [{
+				id: "524577DBB6D16FF8"
+				team_reward: false
+				type: "xp"
+				xp: 280
+			}]
+			tasks: [{
+				advancement: "antarchy:lucid_dreams"
+				criterion: ""
+				id: "37BC18851DD03510"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"7342B824C0131FD4"
+				"33CB0572CAB3B95E"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "35E9E76F5440BB89"
+			rewards: [{
+				id: "1F07310C4B5C105B"
+				team_reward: false
+				type: "xp"
+				xp: 280
+			}]
+			tasks: [{
+				advancement: "antarchy:visit_cavaryn"
+				criterion: ""
+				id: "5EF15E86E102F3EB"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["35E9E76F5440BB89"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "68F8E0062AA60512"
+			rewards: [{
+				id: "128CA0DDD69C8692"
+				team_reward: false
+				type: "xp"
+				xp: 280
+			}]
+			tasks: [{
+				advancement: "antarchy:survived_the_horde"
+				criterion: ""
+				id: "0005A44FC18F94DB"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["68F8E0062AA60512"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5CE1B6A559EB4FA4"
+			rewards: [
+				{
+					id: "35301998271DECE5"
+					team_reward: false
+					type: "xp"
+					xp: 280
+				}
+				{
+					count: 4
+					id: "6BEC350C6AC4CDFB"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "antarchy:ultimate_armor"
+				criterion: ""
+				id: "131504A3E27E5B68"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"78157A6AD5C87595"
+				"7342B824C0131FD4"
+				"33CB0572CAB3B95E"
+				"68F8E0062AA60512"
+				"5CE1B6A559EB4FA4"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6A4AF05D71B60CEB"
+			rewards: [
+				{
+					id: "6D6EA957B901FC6C"
+					team_reward: false
+					type: "xp"
+					xp: 560
+				}
+				{
+					count: 2
+					id: "204F53C141C45EB0"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				advancement: "antarchy:i_am_the_nightmare"
+				criterion: ""
+				id: "1860E452754ACD41"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

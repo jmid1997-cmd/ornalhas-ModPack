@@ -1,0 +1,100 @@
+[serverFeatures]
+	#Use generic RPG mounting/dismounting on unrecognised creatures. Disabled protects custom riding behaviour, including Alex's Mobs Continued. Vanilla mount profiles remain enabled; generic poses are not fitted to every creature.
+	unknownMountAnimations = false
+	#Clear cosmetic gestures and motion history after successful position-changing teleports, including Waystones. Does not change travel mechanics.
+	resetAnimationsOnTeleport = true
+	#Enable cosmetic basic actions and successful interaction notifications; does not change gameplay.
+	basicActions = true
+	#Observe Sophisticated worn backpacks, including slots registered by its integrations, for cosmetic equip gestures.
+	sophisticatedBackpackAnimations = true
+	#Observe Traveler worn backpacks through its attachment/accessory integration for cosmetic equip gestures.
+	travelersBackpackAnimations = true
+	#Enable automatic contextual gestures and their environmental checks.
+	contextAnimations = true
+	#Enable player activity sharing. Disabling clears remote status.
+	activity = true
+	#Permit opt-in inventory image sharing. Client consent is still required.
+	inventoryPreviews = true
+	#Maximum range for detailed activity poses, in blocks. Tab status remains global for subscribers.
+	# Default: 24
+	# Range: 4 ~ 64
+	activityRange = 24
+
+[previewLimits]
+	#Maximum preview width; height remains bounded to96. Lower values reduce traffic.
+	# Default: 96
+	# Range: 32 ~ 128
+	maxWidth = 96
+	#Minimum ticks between captures/uploads.20 ticks is one second at20 TPS.
+	# Default: 40
+	# Range: 20 ~ 100
+	intervalTicks = 40
+	#Maximum nearby subscribers per shared image.
+	# Default: 8
+	# Range: 1 ~ 16
+	maxRecipients = 8
+	#Aggregate image payload bytes forwarded per20 server ticks, before compression. Excess updates are deferred.
+	# Default: 262144
+	# Range: 32768 ~ 4194304
+	bytesPerSecond = 262144
+
+[gestures]
+	catch = true
+	brush = true
+	shade = true
+	balance = true
+	wall = true
+	shake = true
+	pockets = true
+	protect = true
+	inspect = true
+	warm = true
+	flinch = true
+	fish_cast = true
+	fish_wait = true
+	fish_bite = true
+	fish_reel = true
+	stretch_small = true
+	stretch_medium = true
+	stretch_large = true
+	fire_pat = true
+	freeze_rub = true
+	nether_sweat = true
+	end_chill = true
+	sprint_recovery = true
+	ledge_look = true
+	surface_wipe = true
+	rain_shield = true
+	careful_crouch = true
+	injured_rest = true
+	adjust_helmet = true
+	adjust_chest = true
+	adjust_legs = true
+	adjust_boots = true
+	craft = true
+	anvil_work = true
+	enchant_work = true
+	brew_work = true
+	seat_enter = true
+	seat_exit = true
+	wave = true
+	nod = true
+	bow = true
+	beckon = true
+	point = true
+	thanks = true
+	campfire_rest = true
+	inspect_sword = true
+	inspect_axe = true
+	inspect_pickaxe = true
+	inspect_shovel = true
+	inspect_hoe = true
+	inspect_special_sword = true
+	inspect_special_tool = true
+	inspect_gear = true
+	inspect_special_gear = true
+	inspect_treasure = true
+
+[seatCompatibility]
+	#Seat entity registry IDs. Only explicitly listed mounts receive seat transitions; never ordinary animals or boats.
+	entityTypes = ["sit:entity_sit"]

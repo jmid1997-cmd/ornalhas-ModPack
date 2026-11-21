@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "contracts:blocks/contract_board",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "contracts:blocks/tall_contract_board",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "contracts:blocks/wide_contract_board",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

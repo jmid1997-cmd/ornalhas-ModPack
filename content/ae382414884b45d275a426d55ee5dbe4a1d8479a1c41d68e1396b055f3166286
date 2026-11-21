@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "incubation:bird_nests"
+		},
+		{
+			"weight": 1.0,
+			"key": "incubation:hay_nests"
+		},
+		{
+			"weight": 1.0,
+			"key": "incubation:twig_nests"
+		}
+	]
+}

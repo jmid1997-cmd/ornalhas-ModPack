@@ -1,0 +1,841 @@
+{
+	autofocus_id: "68F736B51314DA53"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_frozen_dominion"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:snowball"
+	}
+	id: "7DD378E9B721CC59"
+	images: [ ]
+	order_index: 66
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "68F736B51314DA53"
+			rewards: [{
+				id: "35F5ABC79E383EB3"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+				id: "15320C8C2EF91BC4"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["68F736B51314DA53"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "71688D3129E4D09D"
+			rewards: [{
+				id: "5585EF9B58384B8D"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				id: "6EBD462F4B51D0CF"
+				structure: "frozen_dominion:expedition_camp"
+				type: "structure"
+			}]
+			x: 3.2d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["71688D3129E4D09D"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "39F56C97C860307E"
+			rewards: [{
+				id: "26A39076FD04801C"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "4220495D647E55E3"
+				item: { count: 1, id: "frozen_dominion:hearth_amulet" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.4d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["39F56C97C860307E"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1638D193F2C6CD6D"
+			rewards: [{
+				id: "3914ECD19E418CD6"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				id: "227A2A99DB7C5214"
+				structure: "frozen_dominion:frozen_watchtower"
+				type: "structure"
+			}]
+			x: 9.600000000000001d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1638D193F2C6CD6D"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "07EFFCFD9E3C8F48"
+			rewards: [{
+				id: "467F7136253653AA"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "14C4B9717344827E"
+				item: { count: 1, id: "frozen_dominion:lamplighter_candle" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.3d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1638D193F2C6CD6D"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3C30BB1209FA9FDD"
+			rewards: [{
+				id: "7757D475EA2E6F03"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6DDFD8325B39AEE2"
+				item: { count: 1, id: "frozen_dominion:crownbreaker" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.2d
+			y: 2.3d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"07EFFCFD9E3C8F48"
+				"3C30BB1209FA9FDD"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4B5F0CB2EB3F91D3"
+			rewards: [
+				{
+					id: "00A9C93179A2AD1F"
+					team_reward: false
+					type: "xp"
+					xp: 350
+				}
+				{
+					count: 4
+					id: "77ECEB183ACC4D46"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4FB5621E0C443296"
+				structure: "frozen_dominion:frozen_citadel"
+				type: "structure"
+			}]
+			x: 6.4d
+			y: 2.3d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5140B231AF21ACF0"
+			rewards: [{
+				id: "0912F8044E6EAFD4"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				advancement: "frozen_dominion:shard"
+				criterion: ""
+				id: "7BA2FF940E112806"
+				type: "advancement"
+			}]
+			x: 9.600000000000001d
+			y: 2.3d
+		}
+		{
+			can_repeat: false
+			dependencies: ["5140B231AF21ACF0"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4EDBF12E4A11E356"
+			rewards: [{
+				id: "2AACD8AADA5741C7"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				advancement: "frozen_dominion:ingot"
+				criterion: ""
+				id: "084C2D9D218076BD"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.6d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2AEFAF4FC955DEA6"
+			rewards: [{
+				id: "4EF35CA68E2FECF4"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				advancement: "frozen_dominion:beacon"
+				criterion: ""
+				id: "7C369B851F9817C3"
+				type: "advancement"
+			}]
+			x: 3.2d
+			y: 4.6d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2AEFAF4FC955DEA6"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4CD9E2F64C770B78"
+			rewards: [{
+				id: "05AB96CA593B48F2"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				advancement: "frozen_dominion:overseer"
+				criterion: ""
+				id: "001CBB85B2CFE5E8"
+				type: "advancement"
+			}]
+			x: 6.4d
+			y: 4.6d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "068DB04835060180"
+			rewards: [{
+				id: "6A7C498E3BF2FB9B"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "763216EE10D4FFC1"
+				item: { count: 1, id: "frozen_dominion:rune_court" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.600000000000001d
+			y: 4.6d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2AEFAF4FC955DEA6"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1B0AE722969869CE"
+			rewards: [{
+				id: "79C5069F55AC74D6"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				advancement: "frozen_dominion:turnkey"
+				criterion: ""
+				id: "1F1B5B2A8D47CB70"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.8999999999999995d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "68C510A652DB7D4F"
+			rewards: [
+				{
+					id: "1297175C082C7DCF"
+					team_reward: false
+					type: "xp"
+					xp: 350
+				}
+				{
+					count: 4
+					id: "5E2DEEB63C71C366"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: false
+				id: "6C4F47EE08BF0F02"
+				item: { count: 1, id: "frozen_dominion:rune_prisons" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.2d
+			y: 6.8999999999999995d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2AEFAF4FC955DEA6"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5D2B6B79733A27DB"
+			rewards: [{
+				id: "75392C2D740A165C"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				advancement: "frozen_dominion:drowned"
+				criterion: ""
+				id: "5FB00F2A3D7550C0"
+				type: "advancement"
+			}]
+			x: 6.4d
+			y: 6.8999999999999995d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "192F8EB546659E22"
+			rewards: [{
+				id: "03E02FE26E49F6FE"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6388CFA7F4312CE9"
+				item: { count: 1, id: "frozen_dominion:rune_crypts" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.600000000000001d
+			y: 6.8999999999999995d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2AEFAF4FC955DEA6"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "03654ADC3EBA6260"
+			rewards: [{
+				id: "67A7B58858F3D38B"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				advancement: "frozen_dominion:priestess"
+				criterion: ""
+				id: "0D9D8BC440016784"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.2d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4CAFADA0E0AB097F"
+			rewards: [{
+				id: "5A2D5556AA84F027"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "134FA11FB35899A2"
+				item: { count: 1, id: "frozen_dominion:rune_storm" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.2d
+			y: 9.2d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2AEFAF4FC955DEA6"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "63B2D0C9FEC10C92"
+			rewards: [{
+				id: "20F9C51CCDC873A6"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				advancement: "frozen_dominion:frosty"
+				criterion: ""
+				id: "11C14E7887773B15"
+				type: "advancement"
+			}]
+			x: 6.4d
+			y: 9.2d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "449BAC15FB4F692A"
+			rewards: [{
+				id: "3FD82CD00C1500C8"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6D04180D009A61B9"
+				item: { count: 1, id: "frozen_dominion:rune_depths" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.600000000000001d
+			y: 9.2d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6405AC446AB00979"
+			rewards: [{
+				id: "19125C30A026F3E4"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "75BE8267ADAF91F6"
+				item: { count: 1, id: "frozen_dominion:warden_shard" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4E9BCDFCDF110E73"
+			rewards: [{
+				id: "6D9723C23A516457"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "70AE136BD46A0FE7"
+				item: { count: 1, id: "frozen_dominion:seal_core" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.2d
+			y: 11.5d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"4EDBF12E4A11E356"
+				"4CD9E2F64C770B78"
+				"068DB04835060180"
+				"1B0AE722969869CE"
+				"68C510A652DB7D4F"
+				"5D2B6B79733A27DB"
+				"192F8EB546659E22"
+				"03654ADC3EBA6260"
+				"4CAFADA0E0AB097F"
+				"63B2D0C9FEC10C92"
+				"449BAC15FB4F692A"
+				"6405AC446AB00979"
+				"4E9BCDFCDF110E73"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2A3F840BEA5CF7B9"
+			rewards: [
+				{
+					id: "114D005B2177E54C"
+					team_reward: false
+					type: "xp"
+					xp: 350
+				}
+				{
+					count: 4
+					id: "660ECF8CC23FCA6C"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				advancement: "frozen_dominion:sigil"
+				criterion: ""
+				id: "157379D12585EE84"
+				type: "advancement"
+			}]
+			x: 6.4d
+			y: 11.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2A3F840BEA5CF7B9"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "271DD99C6DE250FA"
+			rewards: [{
+				id: "35C6B30242509938"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "769F336515D91568"
+				item: { count: 1, id: "frozen_dominion:kingsrime_seal" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 9.600000000000001d
+			y: 11.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2A3F840BEA5CF7B9"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6C10CA6C28C9B15D"
+			rewards: [{
+				id: "196FD3DBFA06628F"
+				team_reward: false
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				consume_items: false
+				id: "31A02A1976337FBB"
+				item: { count: 1, id: "frozen_dominion:throne_key" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.799999999999999d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2A3F840BEA5CF7B9"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6545E10491623F80"
+			rewards: [
+				{
+					id: "7BEA89007A1E5821"
+					team_reward: false
+					type: "xp"
+					xp: 350
+				}
+				{
+					count: 4
+					id: "74FD389A58480988"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				consume_items: false
+				id: "21EBFA859E3F6093"
+				item: { count: 1, id: "frozen_dominion:crown_shard" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.2d
+			y: 13.799999999999999d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B5F0CB2EB3F91D3"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "22024749BF48586A"
+			rewards: [{
+				id: "405B5402F39C1857"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				advancement: "frozen_dominion:chronicle"
+				criterion: ""
+				id: "39CF3A6119A8919F"
+				type: "advancement"
+			}]
+			x: 6.4d
+			y: 13.799999999999999d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4EDBF12E4A11E356"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "29F77161F3C835A2"
+			rewards: [{
+				id: "7F647815F5384BC6"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				advancement: "frozen_dominion:armor"
+				criterion: ""
+				id: "6DCF805CBD76BA13"
+				type: "advancement"
+			}]
+			x: 9.600000000000001d
+			y: 13.799999999999999d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"4CD9E2F64C770B78"
+				"4EDBF12E4A11E356"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "109F7AA50291359F"
+			rewards: [{
+				id: "76847455327A9394"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [
+				{
+					advancement: "frozen_dominion:smith"
+					criterion: ""
+					id: "330162F46474A9A0"
+					type: "advancement"
+				}
+				{
+					consume_items: false
+					id: "09DFF2A8D60DD94A"
+					item: { count: 1, id: "frozen_dominion:everfrost_sword" }
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 16.099999999999998d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2AEFAF4FC955DEA6"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "283F7191C69E817B"
+			rewards: [{
+				id: "0F270DD34B4F2D51"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [
+				{
+					advancement: "frozen_dominion:aurochs"
+					criterion: ""
+					id: "042BFC45F30040BA"
+					type: "advancement"
+				}
+				{
+					advancement: "frozen_dominion:shepherd"
+					criterion: ""
+					id: "0FF6831BC3289787"
+					type: "advancement"
+				}
+			]
+			x: 3.2d
+			y: 16.099999999999998d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"6545E10491623F80"
+				"109F7AA50291359F"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "10167EE061CC9332"
+			rewards: [{
+				id: "23DB384CDBEC38BC"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				consume_items: false
+				id: "2B96C63382957223"
+				item: { count: 1, id: "frozen_dominion:monstrosity_saddle" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.4d
+			y: 16.099999999999998d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"7DF886DEF3D35F98"
+				"271DD99C6DE250FA"
+				"6C10CA6C28C9B15D"
+				"6545E10491623F80"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "62485CC3BF2FFDD1"
+			rewards: [{
+				id: "112A80FB1E2742FC"
+				team_reward: false
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				id: "5CF63CA2E80B926A"
+				type: "checkmark"
+			}]
+			x: 9.600000000000001d
+			y: 16.099999999999998d
+		}
+	]
+}

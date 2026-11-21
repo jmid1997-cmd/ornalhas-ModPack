@@ -1,0 +1,22 @@
+{
+  "chunkSaveDelay": {
+    "chunkSaveDelay": 300
+  },
+  "chunkUnloadLimit": {
+    "chunkUnloadLimit": 20
+  },
+  "disableProtoSave": {
+    "disableProtoSave": true
+  },
+  "debugLogging": {
+    "debugLogging": false
+  },
+  "detectBrokenPOIs": {
+    "desc:": "New native SmoothChunk 4.4 default; repair invalid points of interest.",
+    "detectBrokenPOIs": true
+  },
+  "logPOIRepair": {
+    "desc:": "New native SmoothChunk 4.4 default; repair invalid points of interest.",
+    "logPOIRepair": true
+  }
+}

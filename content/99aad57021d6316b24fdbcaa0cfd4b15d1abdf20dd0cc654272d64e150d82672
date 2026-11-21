@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:bonded",
+			"data": {
+				"Instant": false,
+				"Color": -3407872,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "arkane_domains:medidor",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "neutral"
+			}
+		}
+	]
+}

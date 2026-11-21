@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "contracts:contract_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "contracts:tall_contract_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "contracts:wide_contract_board"
+		}
+	]
+}

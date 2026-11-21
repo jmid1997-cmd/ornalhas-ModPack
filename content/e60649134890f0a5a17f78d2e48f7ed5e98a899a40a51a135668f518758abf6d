@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "chisel:array/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:braid/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_bricks/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_medium/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:chaotic_small/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:circular/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cracked_bricks/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:cut/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:dent/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:encased_bricks/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:french/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:jellybean/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:large_tile/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:layer/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:legacy/$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:llama/$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:mosaic/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:ornate/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:panel/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:pillar/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:prism/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:raw/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:road/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:slant/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:small_bricks/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:soft_bricks/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:solid_bricks/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_medium/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:tiles_small/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:triple_bricks/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:twist/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:weaver/$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chisel:zag/$_concrete"
+		}
+	]
+}

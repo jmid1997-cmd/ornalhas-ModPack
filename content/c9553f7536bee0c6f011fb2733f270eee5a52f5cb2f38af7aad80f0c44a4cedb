@@ -1,0 +1,188 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:absorption_hopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:absorption_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:dark_oak_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:delightful_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:dragon_muffler"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:dreadful_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:ender_inhibitor_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:ender_inhibitor_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:entity_conveyor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:entity_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:fan_upgrade_height"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:fan_upgrade_speed"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:fan_upgrade_width"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:fluid_xp_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:gm_chicken_feed"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:gm_chicken_feed_cursed"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:golden_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:jumbo_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:mob_swab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:mob_swab_used"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:monocle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:null_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:nutritious_chicken_feed"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:rotten_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:saw"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:saw_upgrade_arthropod"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:saw_upgrade_beheading"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:saw_upgrade_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:saw_upgrade_looting"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:saw_upgrade_sharpness"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:saw_upgrade_smite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:solid_xp_baby"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:solid_xp_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:solid_xp_mould_baby"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:solid_xp_mould_blank"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:spawner_upgrade_height"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:spawner_upgrade_width"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:tank_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:tinted_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:wither_muffler"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:xp_solidifier_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:xp_tap"
+		},
+		{
+			"weight": 1.0,
+			"key": "mob_grinding_utils:xpsolidifier"
+		}
+	]
+}

@@ -1,0 +1,146 @@
+#SERVER SETTINGS: the server chooses one saved level and bonus profile for each eligible mob.
+#true: allow mobs without a Scaling profile to receive one. false: stop assigning new profiles.
+#Existing saved profiles are kept even when this is false; this switch does not remove their bonuses.
+#After editing, restart the server or reopen the world. Most settings affect first-time profiles; the gear-drop switch is read at death.
+enabled = true
+#Only works with Ascension Paths (API v1); when Paths is installed, version 1.37.0 or newer is required.
+#false (default): DISTANCE mode, using horizontal distance from the configured center.
+#true: PLAYER_LEVEL mode, using the nearest eligible player's effective Paths level in the same dimension.
+#No supported Paths API or no nearby eligible player: use DISTANCE instead. Applies when a mob first receives a profile, including eligible saved mobs without one.
+level_scale = false
+#Highest level for first-time profiles in either mode; whole levels from 1 to 300.
+#Example: 100 limits newly assigned levels to 100. It does not lower levels already saved on mobs.
+# Default: 300
+# Range: 1 ~ 300
+maximum_level = 300
+#true (default): saved natural mobs without a Scaling profile receive one when they load, including village priests and natural iron golems.
+#false: leave those saved, unmarked mobs alone. New spawns can still receive profiles. Already-scaled mobs keep their saved profile either way.
+#Player-built iron golems, tamed/owned mobs and Iron's spell summons are always excluded; wild tameable animals are included until tamed.
+#This is the current setting since 1.3.0. The older scale_existing_unmarked_mobs key is obsolete; do not use it.
+scale_saved_unmarked_mobs = true
+#Exact entity IDs that must not receive a first Scaling profile. Example: ["minecraft:creeper", "irons_spellbooks:priest"]. Empty list = no extra type exclusions.
+#Bosses, passive mobs, natural iron golems and untamed animals are included by default; owned/tamed mobs, player-built iron golems and Iron's summons stay excluded.
+#The ascensionscaling:excluded entity tag can also exclude types. Adding an ID does not remove a profile already saved on a mob.
+excluded_entity_types = []
+
+#DISTANCE MODE: horizontal X/Z distance in local dimension blocks; height is ignored and Nether distances are not multiplied by 8.
+#Used directly in DISTANCE mode and as the fallback for PLAYER_LEVEL mode. These settings apply to first-time profiles.
+[distance]
+	#X coordinate of the distance center, in blocks. Allowed: -30000000.0 to 30000000.0; default: 0.0.
+	# Default: 0.0
+	# Range: -3.0E7 ~ 3.0E7
+	center_x = 0.0
+	#Z coordinate of the distance center, in blocks. Allowed: -30000000.0 to 30000000.0; default: 0.0.
+	# Default: 0.0
+	# Range: -3.0E7 ~ 3.0E7
+	center_z = 0.0
+	#Radius around the center where newly assigned distance levels stay at 1, in blocks.
+	#Allowed: 0.0 to 29999999.0; default: 512.0. This changes levels, not mob spawning or attack behavior.
+	# Default: 512.0
+	# Range: 0.0 ~ 2.9999999E7
+	safe_radius = 512.0
+	#Distance from the center where the distance curve reaches level 300, in blocks; maximum_level can lower the assigned result.
+	#Allowed: 1.0 to 30000000.0; default: 1000000.0. Must be greater than safe_radius; otherwise the server warns and uses a one-block span.
+	# Default: 1000000.0
+	# Range: 1.0 ~ 3.0E7
+	level_300_distance = 1000000.0
+	#Shape of level growth between safe_radius and level_300_distance. Allowed: 0.1 to 4.0; default: 0.5.
+	#0.5: square-root growth, with higher levels sooner. 1.0: linear growth. 2.0: slower early growth.
+	# Default: 0.5
+	# Range: 0.1 ~ 4.0
+	curve_exponent = 0.5
+	#Optional overrides, one string per dimension: dimension_id|centerX|centerZ|safeRadius|level300Distance. Coordinates and distances are in blocks.
+	#Example: ["minecraft:the_nether|0|0|256|1000000"]. An empty list uses the settings above in every dimension.
+	#Use finite numbers, safeRadius >= 0, and level300Distance > safeRadius. Invalid entries are ignored with a warning; the first valid matching entry is used.
+	dimension_profiles = []
+
+#PLAYER_LEVEL MODE: requires level_scale = true and a supported Ascension Paths API. Existing profiles are not recalculated.
+[player]
+	#Search radius in blocks for the nearest living survival/adventure player in the same dimension; creative and spectator players do not count.
+	#Allowed: 1.0 to 512.0; default: 128.0. No eligible player in range: use DISTANCE. Uses one player, not a team average.
+	# Default: 128.0
+	# Range: 1.0 ~ 512.0
+	search_radius = 128.0
+
+#BONUS TARGETS: values are saved when a mob first receives a profile. Editing these lists does not rebalance existing profiles.
+#For multipliers, 1.0 = normal, 1.5 = 50% more, and 2.0 = twice the baseline; these are not flat HP/damage additions.
+[bonuses]
+	#Maximum-health multipliers. Allowed per target: 1.0 to 100.0. Example: 20 HP x 1.5 = 30 HP.
+	#The mob's actual max-health attribute limit still applies; this setting does not raise that limit. Positive targets blend geometrically.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	health_multipliers = [1.1, 1.3, 1.75, 3.0, 5.0, 9.0, 20.0, 50.0]
+	#Outgoing damage multipliers for non-creeper mobs. Allowed per target: 1.0 to 1000.0. Example: 4 damage x 1.5 = 6 before target defenses.
+	#Includes supported projectiles and Iron's caster spell power; supported spell hits are not multiplied twice. Creepers use their separate curve below. Positive targets blend geometrically.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	damage_multipliers = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 12.0, 80.0]
+	#Extra armor points for armor-capable mobs or mobs already wearing native armor items. Allowed per target: 0.0 to 12.0; values blend linearly.
+	#Native plus equipment armor counts toward a total target of 12. This never lowers armor already above 12. Example: 10 existing armor leaves room for at most +2.
+	#Armor-capable mobs keep this curve even when their equipment roll fails or automatic gear is disabled. These are armor points, not a damage-reduction percentage.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	armor_points = [0.0, 1.0, 2.0, 3.0, 4.0, 6.0, 9.0, 12.0]
+	#Extra armor points for mobs that cannot receive a Scaling armor set and wear no native armor item. Allowed per target: 0.0 to 40.0; values blend linearly.
+	#Native plus equipment armor counts toward a total target of 40. This never lowers armor already above 40. Example: 4 native armor leaves room for at most +36.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	unarmored_armor_points = [0.0, 2.0, 4.0, 7.0, 11.0, 17.0, 26.0, 40.0]
+	#Movement-speed and supported flying-speed multipliers for first-time profiles. Allowed per target: 1.0 to 2.0; positive targets blend geometrically.
+	#Example: 1.5 = 50% faster. Attack/animation speed is unchanged, and fixed-speed custom AI may ignore these attributes.
+	#The exact old default speed list still upgrades to the current list. Custom lists and saved profiles, including old flight behavior, are preserved.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	speed_multipliers = [1.02, 1.05, 1.1, 1.18, 1.3, 1.45, 1.65, 2.0]
+	#Ascension Paths kill-XP multipliers only; requires Paths. Does not change vanilla XP or loot. Allowed per target: 0.0 to 100.0.
+	#Example: a 10 base Paths kill-XP reward x 1.5 = 15 before other eligible reward rules. Health-attribute clamping can reduce the saved reward factor.
+	#Positive endpoints blend geometrically; a segment with a zero endpoint blends linearly. Existing saved reward factors are kept.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	paths_kill_reward_multipliers = [1.1, 1.3, 1.75, 3.0, 5.0, 9.0, 20.0, 50.0]
+
+#AUTOMATIC GEAR: one saved roll when a profile is first assigned. Late hand replacements reuse that result and the saved level; armor and missing slots are not regenerated. Native boss loot rules are kept.
+[equipment]
+	#Master switch for Scaling armor generation AND weapon upgrades, including later hand replacements. false stops new changes; existing gear stays.
+	#Armor sets require the ascensionscaling:armored entity tag and usable slots. Tameable/ownable animals and Iron's summons are never auto-equipped, even while wild.
+	enabled = true
+	#Requires equipment.enabled = true and a successful saved gear roll. Upgrade supported material weapons while keeping their weapon family, including late Epic Fight/WOM hand replacements.
+	#Supported melee weapons gain Sharpness I/II/III/IV/V at levels 60/90/125/165/210. Existing stronger or incompatible enchantments are preserved.
+	#Can arm eligible unarmed humanoids on first assignment only. Bows/crossbows keep their family and existing enchantment rules. Unsupported or named native items are preserved; higher material tiers are never downgraded.
+	upgrade_weapons = true
+	#Read at death for profiled wild mobs. false (default): Scaling-marked generated/upgraded hand and armor gear cannot drop, even with Looting or guaranteed-drop flags.
+	#true: allow normal equipment-drop rules for marked gear; this does not guarantee a drop. Unmarked native equipment and boss loot tables remain eligible either way.
+	#A native item upgraded or enchanted by Scaling is marked too; its original version is not restored as loot.
+	allow_equipment_drops = false
+	#Chance of one successful armor/weapon gear roll per eligible first-time profile. Allowed per target: 0.0 to 1.0; values blend linearly.
+	#0.0 = 0%, 0.5 = 50%, 1.0 = 100%; do not write 50 for 50%. The roll still respects type, slot, native-item and master-switch rules.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	full_set_chance = [0.1, 0.2, 0.35, 0.5, 0.65, 0.8, 0.9, 1.0]
+	#Base drop chance assigned to newly generated/replaced gear, including weapons. Only useful when allow_equipment_drops = true.
+	#Allowed: 0.0 to 1.0; default: 0.02 = 2%. Vanilla Looting/drop rules still apply. Preserved items and items only enchanted in place keep their native drop chance.
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	armor_drop_chance = 0.02
+
+#CREEPERS: separate explosion damage and radius targets; the generic bonuses.damage_multipliers list is not applied a second time.
+[creeper]
+	#Creeper explosion-damage multipliers. Allowed per target: 1.0 to 1000.0; positive targets blend geometrically.
+	#1.0 = normal damage for the resulting blast radius; 2.0 doubles that damage. A larger radius can also change native explosion damage.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	damage_multipliers = [1.1, 1.2, 1.35, 1.5, 1.8, 2.25, 3.0, 6.0]
+	#Extra explosion-radius blocks, added once when a creeper first receives a profile. Allowed per target: 0.0 to 29.0; values blend linearly and round to whole blocks.
+	#Example: native radius 3 + target 5 = radius 8; a charged creeper then uses its native radius doubling. The base result is capped at 32 without reducing a higher native radius.
+	#Enter exactly eight decimal targets for mob levels 15, 35, 60, 90, 125, 165, 210, 300, in that order.
+	#Level 1 uses the normal baseline (or zero extra points/chance); values between target levels are blended, not added each level.
+	#Scaling adds no Resistance, direct toughness or regeneration; actual equipped armor/enchantments still have their native effects.
+	extra_radius_blocks = [0.0, 0.0, 0.0, 1.0, 1.0, 2.0, 3.0, 5.0]

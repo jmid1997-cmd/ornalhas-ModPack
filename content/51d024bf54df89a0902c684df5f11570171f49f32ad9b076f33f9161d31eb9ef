@@ -1,0 +1,1084 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:born_in_chaos/dark_metal/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_fire/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_ice/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonbone_lightning/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_fire/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_ice/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:iceandfire/dragonsteel_lightning/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/deeperdarker/warden/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/fiery/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/ironwood/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/knightmetal/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/twilight_forest/steeleaf/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/cloggrum/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/forgotten/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/froststeel/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:knavesneeds/undergarden/utherium/warglaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/chakram"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/greathammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/twinblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_simply_swords:silver/warglaive"
+		}
+	]
+}

@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:advanced_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:aethersent_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:allied"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:amaramber_wax_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ashen_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:candlash_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:cradlewood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:crystallized_moth_sonar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:dripping_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:electric_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:ether_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:falling_blue_crystal_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:falling_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:falling_red_crystal_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:firefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:landing_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:lunar_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:meteor"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:orbital_ashen_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:parry"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:pungency_fruit_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:scarlet_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:shadegrieve_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:smoke_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:soul_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:spiral_kelp_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:stardust"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starfire_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starfire_explosion_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "eternal_starlight:starlight"
+		}
+	]
+}

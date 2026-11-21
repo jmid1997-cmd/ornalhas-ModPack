@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enchantmentmachine:blocks/disenchanter_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "enchantmentmachine:blocks/enchanter_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "enchantmentmachine:blocks/enchantment_block",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

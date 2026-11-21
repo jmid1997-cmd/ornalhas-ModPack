@@ -1,0 +1,16 @@
+	[general.pipes]
+		# Default: 1000
+		# Range: > 100
+		mjPerMillibucket = 1000
+		# Default: 1000000
+		# Range: > 50000
+		mjPerItem = 1000000
+		# Default: 10
+		# Range: 1 ~ 40
+		baseFluidRate = 10
+		# Default: 40
+		# Range: 10 ~ 4000
+		baseFeRate = 40
+
+	[display.pipes]
+		fluidColourIsBorder = true

@@ -1,0 +1,572 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:amethyst_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:ballista_golem_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:book_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:bordered_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:catalyzed_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_barrier_center"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_barrier_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_barrier_vertex"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_broken_diamond_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_broken_diamond_vertex"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_broken_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_diamond_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_diamond_vertex"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaotic_hexahedron"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chiseled_coiling_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chorus_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:coal_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:cobblestone_pebble"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:coiling_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:coiling_stone_pillar_capital"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:coiling_stone_pillar_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:coiling_stone_pillar_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:coiling_stone_pillar_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:combustion_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_detonator"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:copper_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:cracked_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:diamond_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dnl_logo"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dueling_stone_emblem"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_chaos_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_experience_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_garhold_upsidedown"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_hollow"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_skull_of_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_spawner_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_spawner_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_spawner_carrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_spawner_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_spawner_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_spawner_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_banner_whimper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_director"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_wall_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:durite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:durite_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:durite_queller"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:echo_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:emerald_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:explosive_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:eye_of_the_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_serpent_caller"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fairkeeper_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:fierce_fairkeeper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:glowstone_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:gold_ingot_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:gold_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:great_experience_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:iron_ingot_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:iron_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:item_scraps"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:labyrinth_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:lapis_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:large_durite_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:life_stealer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:medium_durite_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mending_aura"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mending_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mendstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mendstone_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mendstone_chalk_mark"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mendstone_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mossy_cobblestone_pebble"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_disc_aotsugi"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_disc_broken_aotsugi"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_disc_clash_of_duality_boros"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_disc_clash_of_duality_ouros"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_disc_clash_of_duality_pythonic_overdrive"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:music_disc_hellspawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:netherite_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:overcharged_redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:player_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:polished_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:prismarine_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:puzzling_stone_emblem"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:quartz_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_chip"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_lane_i"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_lane_l"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_lane_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:redstone_suppressor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:repulsor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:rotator_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scepter_of_sealed_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scorcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scuttle_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:signal_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:signaling_stone_emblem"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:skull_of_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:small_durite_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_scorcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_silk"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_ballista_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_chaos_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_garhold"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_hollow"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_scuttle"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_sealed_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_spawner_carrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_whimper"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_node"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:stone_notch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:stone_preserver"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:stone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:temple_of_duality_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vertex_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:vertex_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:wind_jade"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:wise_fairkeeper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:wooden_wall_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:wooden_wall_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:zone_wand"
+		}
+	]
+}

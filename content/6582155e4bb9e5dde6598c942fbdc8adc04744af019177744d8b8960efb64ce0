@@ -1,0 +1,168 @@
+{
+	autofocus_id: "7AC601FC75041C41"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fornanhas_rotas_15"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:totem_of_undying"
+	}
+	id: "3CD83E483FB184BE"
+	images: [ ]
+	order_index: 59
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"5C12F4CC1F6F6C32"
+				"3D1C0F80B74B27D5"
+				"2DB4F395EA26DF4B"
+				"447400459A47FF26"
+				"0650DEE4AED0B07B"
+				"0CE50A7F4F1A0E4D"
+				"0CB97C96A024FCE0"
+				"4DB03BBA25B00C14"
+				"48170FE45C771431"
+				"5C795D64013C76AB"
+				"1D2CB3643FDB2790"
+				"4395917EE69E04D5"
+				"3A495FA18F01416B"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7AC601FC75041C41"
+			rewards: [{
+				id: "1FABE0A70B09F12F"
+				team_reward: false
+				type: "xp"
+				xp: 265
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				advancement: "mowziesmobs:kill_foliaath"
+				criterion: ""
+				id: "1D5B5DA1FAD5E79D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"15BD4C5BD2FF319D"
+				"7AC601FC75041C41"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6177C6509A8AB2A1"
+			rewards: [
+				{
+					id: "756A8E5777346A4D"
+					team_reward: false
+					type: "xp"
+					xp: 265
+				}
+				{
+					count: 4
+					id: "71456D7BE15A840E"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "mowziesmobs:kill_naga"
+				criterion: ""
+				id: "37A7B7A6B60F98B4"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"666CFBA40E4A9D94"
+				"3A2E45855CE732F4"
+				"26B0C25797A14A65"
+				"7BFDBFEAF2B19746"
+				"3DC718CA814FEB11"
+				"7F425B3225EE9405"
+				"6177C6509A8AB2A1"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "005A258D130DEFD4"
+			rewards: [{
+				id: "67A6BA5C58473D83"
+				team_reward: false
+				type: "xp"
+				xp: 265
+			}]
+			tasks: [{
+				consume_items: false
+				id: "5564BE35996E246A"
+				item: { count: 1, id: "bosses_of_mass_destruction:ancient_anima" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"3A2E45855CE732F4"
+				"26B0C25797A14A65"
+				"7BFDBFEAF2B19746"
+				"3DC718CA814FEB11"
+				"7F425B3225EE9405"
+				"6177C6509A8AB2A1"
+				"005A258D130DEFD4"
+			]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3BAB39D5134C6DA9"
+			rewards: [
+				{
+					id: "15865AD1985632A1"
+					team_reward: false
+					type: "xp"
+					xp: 530
+				}
+				{
+					count: 2
+					id: "0951A545C69AF5EC"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.35d
+			tasks: [{
+				consume_items: false
+				id: "4892BAE32C09462E"
+				item: { count: 1, id: "bosses_of_mass_destruction:void_lily" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

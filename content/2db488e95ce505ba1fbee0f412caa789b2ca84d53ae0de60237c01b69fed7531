@@ -1,0 +1,103 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:abandoned_oak_palace",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:abandoned_oak_palace"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:better_default_jungle_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:better_default_jungle_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:desert_temple_husk",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:desert_temple_husk"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:jungle_giant_tree",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:jungle_giant_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:mushroom_abandonned",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:mushroom_abandonned"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:swamp_big_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:swamp_big_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:the_usine",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:the_usine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:the_ztower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:the_ztower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "awesomedungeon:witch_castle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "awesomedungeon:witch_castle"
+			}
+		}
+	]
+}

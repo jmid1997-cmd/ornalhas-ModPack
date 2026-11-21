@@ -1,0 +1,53 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trial_guardians:chests/hydra_lair_rare",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trial_guardians:chests/hydra_lair_supply",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trial_guardians:chests/minotaur_maze_common",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trial_guardians:chests/minotaur_maze_rare",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trial_guardians:entities/hydra",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trial_guardians:entities/minotaur",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trial_guardians:entities/phoenix",
+			"data": {
+				"Type": "entity"
+			}
+		}
+	]
+}

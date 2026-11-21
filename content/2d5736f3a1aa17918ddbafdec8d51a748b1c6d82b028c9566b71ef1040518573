@@ -1,0 +1,6 @@
+#Play fireplace, chatter, and mug-clink ambience inside finished taverns.
+tavernAmbience = true
+#Tavern ambience volume multiplier. 0 is silent; 1 is the default mix.
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+tavernAmbienceVolume = 1.0

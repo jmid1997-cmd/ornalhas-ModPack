@@ -1,0 +1,322 @@
+{
+	autofocus_id: "574327BEC7761245"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_horizonte_encantamentos"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:enchanting_table"
+	}
+	id: "54477A6DF318BD52"
+	images: [ ]
+	order_index: 28
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "574327BEC7761245"
+			rewards: [{
+				count: 4
+				id: "7F6B5AC2A47B8BEC"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:enchanter"
+				criterion: ""
+				id: "7A0EB22D23B1C84A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["574327BEC7761245"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "23AD3198590C088A"
+			rewards: [{
+				count: 4
+				id: "22E0C5A165D2E2E0"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:enchanting_stats"
+				criterion: ""
+				id: "40E2A4CD37A7739A"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["574327BEC7761245"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "11C78D01200C7942"
+			rewards: [{
+				count: 4
+				id: "04F42370418C2584"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:30ench"
+				criterion: ""
+				id: "72589CA725BA4637"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["11C78D01200C7942"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0A5E23271ECBD213"
+			rewards: [{
+				count: 4
+				id: "0EE613360F2454E7"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:hellshelf"
+				criterion: ""
+				id: "553D6752C067386B"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["11C78D01200C7942"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "28D3BE6F42D21339"
+			rewards: [{
+				count: 4
+				id: "289FB17B2FD46F75"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:seashelf"
+				criterion: ""
+				id: "5E05E1112CC3DFA1"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"0A5E23271ECBD213"
+				"28D3BE6F42D21339"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "73343338A49580AD"
+			rewards: [{
+				count: 4
+				id: "337935478A7B737B"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:60ench"
+				criterion: ""
+				id: "09A607A7714CE122"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["73343338A49580AD"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "4E92300F61535DF8"
+			rewards: [{
+				count: 4
+				id: "106146D118710CC9"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:endshelf"
+				criterion: ""
+				id: "19E0391775F934C7"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["73343338A49580AD"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "11B96390DC6B8CA7"
+			rewards: [{
+				count: 4
+				id: "461EE7703D984663"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:sculkshelf"
+				criterion: ""
+				id: "68B33DAAD22C9446"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4E92300F61535DF8"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "266CE720D9D5EF4F"
+			rewards: [{
+				count: 4
+				id: "5B33C3FF3489E0CD"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:80ench"
+				criterion: ""
+				id: "27B7194A99981C9D"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: [
+				"266CE720D9D5EF4F"
+				"11B96390DC6B8CA7"
+				"23AD3198590C088A"
+			]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1FC026EFAD8B89CD"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "1088CACC05602D9E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "apothic_enchanting:100ench"
+				criterion: ""
+				id: "41E51699583A9D11"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["73343338A49580AD"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1C7E09F320055D69"
+			rewards: [{
+				count: 4
+				id: "03DFCFE65DB844A2"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: false
+				id: "3FEE2AEDF8976963"
+				item: { count: 1, id: "apothic_enchanting:library" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}
