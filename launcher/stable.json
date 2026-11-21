@@ -1,14 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "notes": [
-    "Corrige o download de configurações pequenas comprimidas pelo GitHub.",
-    "Mantém a verificação do tamanho real e SHA-256 dos ficheiros descarregados.",
-    "Canal Fornanhas 1.9.15 com atualizações por ficheiros e proteção das preferências pessoais."
+    "Novo visual gaming escuro, com portal roxo e azul criado para o Fornanhas Launcher.",
+    "Início reorganizado, botão JOGAR em destaque e atualizações do modpack e do launcher em separado.",
+    "Novos ícones e estilo consistente na biblioteca, skins, atualizações e definições.",
+    "O modpack1.9.15, os mundos, as teclas e a progressão mantêm-se."
   ],
   "installer": {
-    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.5/Fornanhas-Launcher-Setup-1.0.5.exe",
-    "sha256": "87e9494e72e7a253d92c70aa8e150a22f263303cc98d4c8b0d0a934994bcc5c3",
-    "size": 125910355
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.6/Fornanhas-Launcher-Setup-1.0.6.exe",
+    "sha256": "d9393422f52d425d43b9c00c67854aa6d9cf38f3e6a342dfcd782023364a1b4d",
+    "size": 127835588
   }
 }
