@@ -1,12 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "notes": [
-    "Atualizações do modpack e do launcher com controlos separados."
+    "Corrige o download de configurações pequenas comprimidas pelo GitHub.",
+    "Mantém a verificação do tamanho real e SHA-256 dos ficheiros descarregados.",
+    "Canal Fornanhas 1.9.15 com atualizações por ficheiros e proteção das preferências pessoais."
   ],
   "installer": {
-    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.4/Fornanhas-Launcher-Setup-1.0.4.exe",
-    "sha256": "c98e48565e10ce790d1c548fd8fb824167fd344c6ae2ea43352c78df347282d3",
-    "size": 125910247
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.5/Fornanhas-Launcher-Setup-1.0.5.exe",
+    "sha256": "87e9494e72e7a253d92c70aa8e150a22f263303cc98d4c8b0d0a934994bcc5c3",
+    "size": 125910355
   }
 }
