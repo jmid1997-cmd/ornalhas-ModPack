@@ -1,0 +1,183 @@
+	["Mob Settings"."Nightlord Settings"]
+		#Multiplies the health of the Nightlord.
+		#At 1.0 that is 600 per phase; the original datapack has 600.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Nightlord Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Nightlord, attacks and effects alike.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		"Nightlord Damage Multiplier" = 1.0
+		#Multiplies the armor of the Nightlord. At 1.0 that is 20.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		"Nightlord Armor Multiplier" = 1.0
+		#How many attacks the Nightlord chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 3
+		# Range: 1 ~ 20
+		"Nightlord Attacks Per Combo" = 3
+
+	["Mob Settings"."Melkor Settings"]
+		#Multiplies the health of the Melkor.
+		#At 1.0 that is 600 for the whole fight, the giant bolt comes at half; the original datapack has 400.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Melkor Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Melkor, attacks and effects alike.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		"Melkor Damage Multiplier" = 1.0
+		#Multiplies the armor of the Melkor. At 1.0 that is 20.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		"Melkor Armor Multiplier" = 1.0
+		#How many attacks the Melkor chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 3
+		# Range: 1 ~ 20
+		"Melkor Attacks Per Combo" = 3
+
+	["Mob Settings"."Soul of Cinder Settings"]
+		#Multiplies the health of the Soul of Cinder.
+		#At 1.0 that is 300 per phase; the original complete pack has 300.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Soul of Cinder Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Soul of Cinder, attacks and effects alike.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		"Soul of Cinder Damage Multiplier" = 1.0
+		#Multiplies the armor of the Soul of Cinder. At 1.0 that is 20.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		"Soul of Cinder Armor Multiplier" = 1.0
+		#How many attacks the Soul of Cinder chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 3
+		# Range: 1 ~ 20
+		"Soul of Cinder Attacks Per Combo" = 3
+
+	["Mob Settings"."Abyss Watchers Settings"]
+		#Multiplies the health of the Abyss Watchers.
+		#At 1.0 that is 200 shared per encounter phase, a phase-1 Watcher has half; the original complete pack has 200.
+		# Default: 1.0
+		# Range: 0.01 ~ 1000.0
+		"Abyss Watchers Health Multiplier" = 1.0
+		#Multiplies the damage dealt by the Abyss Watchers, attacks and effects alike.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		"Abyss Watchers Damage Multiplier" = 1.0
+		#Multiplies the armor of the Abyss Watchers. At 1.0 that is 20.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		"Abyss Watchers Armor Multiplier" = 1.0
+		#How many attacks the Abyss Watchers chains before he takes a breather.
+		#There is also a chance per attack to cut the chain short, so the average is below this number.
+		# Default: 3
+		# Range: 1 ~ 20
+		"Abyss Watchers Attacks Per Combo" = 3
+
+	["Item Settings"."Dark Moon Greatsword Settings"]
+		#Melee attack damage of the Dark Moon Greatsword, in half-hearts.
+		# Default: 12.0
+		# Range: 0.0 ~ 2048.0
+		"Dark Moon Greatsword Damage" = 12.0
+		#How many uses the sword has before it breaks.
+		# Default: 2031
+		# Range: 1 ~ 100000
+		"Dark Moon Greatsword Durability" = 2031
+		#The long cooldown after the last light wave charge, in seconds; the orbs cost a third of it.
+		# Default: 80
+		# Range: 0 ~ 3600
+		"Dark Moon Greatsword Cooldown" = 120
+		#How many light waves can be fired, three seconds apart, before the long cooldown starts.
+		# Default: 6
+		# Range: 1 ~ 64
+		"Dark Moon Greatsword Charges" = 3
+		#Damage of a holy light wave hit, in half-hearts (the other elements burn, poison, slow or weaken).
+		# Default: 16.0
+		# Range: 0.0 ~ 2048.0
+		"Dark Moon Greatsword Wave Damage" = 7.0
+		#Damage of one of the seven night orbs, in half-hearts.
+		# Default: 12.0
+		# Range: 0.0 ~ 2048.0
+		"Dark Moon Greatsword Orb Damage" = 12.0
+
+	["Item Settings"."Firelink Greatsword Settings"]
+		#Melee attack damage of the Firelink Greatsword, in half-hearts.
+		# Default: 8.0
+		# Range: 0.0 ~ 2048.0
+		"Firelink Greatsword Damage" = 8.0
+		#How many uses the sword has before it breaks.
+		# Default: 2031
+		# Range: 1 ~ 100000
+		"Firelink Greatsword Durability" = 2031
+		#The long cooldown of the Firelink staff and the Sunlight Spear, in seconds; the orbs cost a third of it.
+		# Default: 80
+		# Range: 0 ~ 3600
+		"Firelink Greatsword Cooldown" = 80
+		#Damage of one of the five Firelink orbs, in half-hearts.
+		# Default: 8.0
+		# Range: 0.0 ~ 2048.0
+		"Firelink Greatsword Orb Damage" = 8.0
+		#Damage per hit of the Firelink beam, in half-hearts.
+		# Default: 6.0
+		# Range: 0.0 ~ 2048.0
+		"Firelink Greatsword Beam Damage" = 6.0
+
+	["Item Settings"."Sunlight Spear Settings"]
+		#How many Sunlight Spears can be thrown, two seconds apart, before the long cooldown starts.
+		# Default: 3
+		# Range: 1 ~ 64
+		"Sunlight Spear Charges" = 3
+		#Damage of a Sunlight Spear hit, in half-hearts.
+		# Default: 20.0
+		# Range: 0.0 ~ 2048.0
+		"Sunlight Spear Damage" = 20.0
+
+	["Item Settings"."Farron Greatsword Settings"]
+		#Melee attack damage of the Farron Greatsword, in half-hearts.
+		# Default: 8.0
+		# Range: 0.0 ~ 2048.0
+		"Farron Greatsword Damage" = 8.0
+		#How many uses the sword has before it breaks.
+		# Default: 2031
+		# Range: 1 ~ 100000
+		"Farron Greatsword Durability" = 2031
+		#Extra damage against the Warden, in half-hearts.
+		# Default: 20.0
+		# Range: 0.0 ~ 2048.0
+		"Farron Greatsword Warden Damage" = 20.0
+
+	["Item Settings"."Spear of Melkor Settings"]
+		#Melee attack damage of the Spear of Melkor, in half-hearts.
+		# Default: 12.0
+		# Range: 0.0 ~ 2048.0
+		"Spear of Melkor Damage" = 12.0
+		#How many uses the spear has before it breaks.
+		#The spear Melkor drops is unbreakable; this applies to any other copy.
+		# Default: 2031
+		# Range: 1 ~ 100000
+		"Spear of Melkor Durability" = 2031
+		#How many flame waves can be fired, three seconds apart, before the long cooldown starts.
+		# Default: 5
+		# Range: 1 ~ 64
+		"Spear of Melkor Wave Charges" = 5
+		#Damage of a single flame wave hit, in half-hearts.
+		#Flame waves and fire pillars cast with the spear never hurt players.
+		# Default: 8.0
+		# Range: 0.0 ~ 2048.0
+		"Spear of Melkor Wave Damage" = 8.0
+		#Damage per hit of the fire pillar, in half-hearts. It keeps hitting for several seconds.
+		# Default: 50.0
+		# Range: 0.0 ~ 2048.0
+		"Spear of Melkor Pillar Damage" = 50.0
+		#Cooldown after the last flame wave charge has been spent, in seconds.
+		# Default: 60
+		# Range: 0 ~ 3600
+		"Spear of Melkor Wave Cooldown" = 60
+		#Cooldown of the fire pillar ability, in seconds.
+		# Default: 60
+		# Range: 0 ~ 3600
+		"Spear of Melkor Pillar Cooldown" = 60

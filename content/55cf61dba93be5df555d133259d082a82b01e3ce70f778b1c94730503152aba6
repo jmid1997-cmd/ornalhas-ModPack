@@ -1,0 +1,115 @@
+#How completed advancements turn into points.
+[points]
+	#Completed advancements needed for 1 point.
+	#1 = a point for every advancement, 3 = a point for every 3rd advancement, and so on.
+	#Advancements completed toward the next point carry over.
+	# Default: 1
+	# Range: 1 ~ 1000
+	advancements_per_point = 1
+	#Completed advancements that give no points before counting starts.
+	#0 = every advancement counts, 5 = the first 5 advancements give nothing.
+	#Advancements completed before the mod was installed count toward this too.
+	# Default: 0
+	# Range: 0 ~ 10000
+	skipped_advancements = 0
+
+#Maximum level of each buff.
+#-1 = no limit, 0 = disabled (never offered; existing levels are refunded as points on join).
+#Lowering a cap refunds the levels above it the next time each player joins.
+[max_levels]
+	#Vitality: +1 max heart per level (default: no limit)
+	# Default: -1
+	# Range: -1 ~ 1000000
+	max_health = 3
+	#Strength: +0.5 attack damage per level (default: no limit)
+	# Default: -1
+	# Range: -1 ~ 1000000
+	attack_damage = 4
+	#Long Arms: +1 block/entity reach per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	reach = 2
+	#Haste: +10% mining speed per level
+	# Default: 10
+	# Range: -1 ~ 1000000
+	mining_speed = 3
+	#Swiftness: +10% movement speed per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	movement_speed = 2
+	#Feather Fall: +1 safe fall block per level (default: no limit)
+	# Default: -1
+	# Range: -1 ~ 1000000
+	safe_fall = 3
+	#Toughness: +1 armor per level
+	# Default: 10
+	# Range: -1 ~ 1000000
+	armor = 3
+	#Quick Hands: +5% attack speed per level
+	# Default: 10
+	# Range: -1 ~ 1000000
+	attack_speed = 2
+	#Steadfast: +10% knockback resistance per level
+	# Default: 10
+	# Range: -1 ~ 1000000
+	knockback_resistance = 3
+	#Step Assist: walk up full blocks (1 = unique)
+	# Default: 1
+	# Range: -1 ~ 1000000
+	step_assist = 1
+	#Leaping: +10% jump strength per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	jump_boost = 5
+	#Deep Breath: +100% breath time per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	deep_breath = 5
+	#Dolphin Kick: +15% swim speed per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	swim_speed = 5
+	#Magnetism: +1 block item/experience pickup range per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	magnetism = 5
+	#Iron Stomach: -10% hunger drain per level (10 levels = no hunger drain)
+	# Default: 5
+	# Range: -1 ~ 1000000
+	iron_stomach = 5
+	#Hearty Meals: +20% food saturation per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	hearty_meals = 5
+	#Alchemist: +20% positive potion duration per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	alchemist = 5
+	#Wisdom: +10% experience per level
+	# Default: 10
+	# Range: -1 ~ 1000000
+	wisdom = 2
+	#Venom: hits poison for +3 s per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	venom = 5
+	#Withering Strike: hits wither for +2 s per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	withering = 5
+	#Lifesteal: heal 5% of damage dealt per level
+	# Default: 5
+	# Range: -1 ~ 1000000
+	lifesteal = 5
+	#Aegis: +0.5 absorption heart every 2 s out of combat per level
+	# Default: 4
+	# Range: -1 ~ 1000000
+	aegis = 4
+	#Second Wind: heal +0.5 heart every 5 s out of combat per level
+	# Default: 4
+	# Range: -1 ~ 1000000
+	second_wind = 4
+	#Battle Calm: combat ends 1 s sooner per level (5 levels = instant)
+	# Default: 5
+	# Range: -1 ~ 1000000
+	battle_calm = 5

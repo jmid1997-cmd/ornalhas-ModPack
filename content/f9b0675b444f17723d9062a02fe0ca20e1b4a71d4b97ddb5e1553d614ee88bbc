@@ -1,0 +1,72 @@
+{
+  "enabled": true,
+  "hostile_chance": 0.025,
+  "passive_chance": 0.0,
+  "global_multiplier": 1.0,
+  "kills": {
+    "require_player": true,
+    "credit_pet_kills": false,
+    "allow_fake_players": false
+  },
+  "health_scaling": {
+    "enabled": true,
+    "reference_health": 20.0,
+    "min_multiplier": 0.5,
+    "max_multiplier": 1.4
+  },
+  "spawner_multiplier": 0.0,
+  "trial_spawner_multiplier": 0.15,
+  "tier_weights": {
+    "common": 7600,
+    "uncommon": 1850,
+    "rare": 460,
+    "epic": 80,
+    "legendary": 9,
+    "mythic": 1
+  },
+  "luck": {
+    "per_point": 0.05,
+    "per_looting_level": 0.15,
+    "luck_attribute": 0.0,
+    "max_health_luck": 1.0,
+    "nether": 0.25,
+    "end": 0.5,
+    "hard_difficulty": 0.1,
+    "fortune_talisman": 0.25
+  },
+  "talisman_chance_multiplier": 1.05,
+  "specials": {
+    "cursed": 0.0,
+    "hourglass": 0.006,
+    "locked": 0.003,
+    "summoning": 0.0
+  },
+  "themes": false,
+  "pity": {
+    "enabled": false,
+    "kills_without_bag": 0,
+    "bags_until_rare": 0,
+    "bags_until_legendary": 0
+  },
+  "bosses": {
+    "bags": 1,
+    "min_tier": "rare",
+    "mythic_chance": 0.0
+  },
+  "carriers": {
+    "chance": 0.0,
+    "luck": 1.0
+  },
+  "announce_min_tier": "none",
+  "drop_sound_min_tier": "rare",
+  "mob_multipliers": {
+    "minecraft:slime": 0.25,
+    "minecraft:magma_cube": 0.25,
+    "minecraft:silverfish": 0.25,
+    "minecraft:endermite": 0.25
+  },
+  "filter": {
+    "mode": "off",
+    "mobs": []
+  }
+}

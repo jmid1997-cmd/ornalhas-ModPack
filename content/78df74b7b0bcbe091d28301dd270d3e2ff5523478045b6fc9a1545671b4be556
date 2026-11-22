@@ -1,0 +1,75 @@
+enabled = true
+#Yalnız Ascension Paths ile çalışır / Only works with Ascension Paths (API v1).
+#false: radial DISTANCE scaling (default). true: PLAYER_LEVEL scaling. Without Paths, falls back to DISTANCE. Changes affect new mobs only.
+level_scale = false
+# Default: 300
+# Range: 1 ~ 300
+maximum_level = 300
+#Scale saved natural mobs with no Scaling record when they next load, including village priests and iron golems. Already-scaled mobs keep their saved level.
+#Replaces the old scale_existing_unmarked_mobs opt-in setting. Set this new setting to false to leave unmarked saved mobs unchanged.
+#Player-built iron golems, tamed/owned mobs and spell summons are always excluded.
+scale_saved_unmarked_mobs = true
+#Optional exact entity IDs to exclude. Bosses and untamed animals are included by default. Datapack tag: ascensionscaling:excluded.
+excluded_entity_types = []
+
+[distance]
+	# Default: 0.0
+	# Range: -3.0E7 ~ 3.0E7
+	center_x = 0.0
+	# Default: 0.0
+	# Range: -3.0E7 ~ 3.0E7
+	center_z = 0.0
+	# Default: 512.0
+	# Range: 0.0 ~ 2.9999999E7
+	safe_radius = 512.0
+	# Default: 1000000.0
+	# Range: 1.0 ~ 3.0E7
+	level_300_distance = 1000000.0
+	#0.5 gives a square-root radial curve; 1 is linear. Uses horizontal X/Z distance in local dimension blocks.
+	# Default: 0.5
+	# Range: 0.1 ~ 4.0
+	curve_exponent = 0.5
+	#Optional per-dimension profiles: dimension|centerX|centerZ|safeRadius|level300Distance, e.g. minecraft:the_nether|0|0|256|1000000
+	dimension_profiles = []
+
+[player]
+	#Nearest living survival/adventure player in the same dimension. No nearby player: use DISTANCE. No automatic team averaging.
+	# Default: 128.0
+	# Range: 1.0 ~ 512.0
+	search_radius = 128.0
+
+[bonuses]
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	health_multipliers = [1.1, 1.3, 1.75, 3.0, 5.0, 9.0, 20.0, 50.0]
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	damage_multipliers = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 12.0, 80.0]
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	armor_points = [0.0, 1.0, 2.0, 3.0, 4.0, 6.0, 9.0, 12.0]
+	#Armor bonus for mobs that cannot receive a Scaling armor set and wear no native armor. Native plus equipment armor is counted toward a total target of 40; native armor above that is preserved. Armor-capable types keep armor_points even when their equipment roll fails or auto-equipment is disabled.
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	unarmored_armor_points = [0.0, 2.0, 4.0, 7.0, 11.0, 17.0, 26.0, 40.0]
+	#Applies to movement speed and, when present, flying speed on new profiles. Exact old default curve upgrades to 2x at level 300; custom curves and saved profiles remain unchanged. Scripted fixed-speed movement may ignore these attributes.
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	speed_multipliers = [1.02, 1.05, 1.1, 1.18, 1.3, 1.45, 1.65, 2.0]
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	paths_kill_reward_multipliers = [1.1, 1.3, 1.75, 3.0, 5.0, 9.0, 20.0, 50.0]
+
+[equipment]
+	#Give level-based armor to entity types in ascensionscaling:armored. Tameable/ownable creatures are never auto-equipped.
+	enabled = true
+	#Upgrade existing material-based weapons without changing their weapon family (including Epic Fight). Give weapons to eligible unarmed humanoids; keep bows/crossbows and upgrade their enchantments.
+	upgrade_weapons = true
+	#false: only Scaling-generated/upgraded gear never drops, even with Looting or guaranteed-drop flags. Native equipment and boss loot remain eligible. true: opt in to normal equipment drop rules for generated gear.
+	allow_equipment_drops = false
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	full_set_chance = [0.1, 0.2, 0.35, 0.5, 0.65, 0.8, 0.9, 1.0]
+	#Base drop chance per generated armor piece; vanilla Looting rules still apply. Existing preserved items keep their own drop chance.
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	armor_drop_chance = 0.02
+
+[creeper]
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	damage_multipliers = [1.1, 1.2, 1.35, 1.5, 1.8, 2.25, 3.0, 6.0]
+	#Eight rank-end values at mob levels 15, 35, 60, 90, 125, 165, 210, 300. No Resistance, toughness or regeneration is added.
+	extra_radius_blocks = [0.0, 0.0, 0.0, 1.0, 1.0, 2.0, 3.0, 5.0]

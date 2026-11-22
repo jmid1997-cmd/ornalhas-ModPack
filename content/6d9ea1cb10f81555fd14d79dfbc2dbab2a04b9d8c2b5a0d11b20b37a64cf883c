@@ -1,0 +1,88 @@
+{
+  "opening": {
+    "hold_ticks": 16,
+    "sneak_opens_stack": false,
+    "max_stack_open": 2,
+    "loot_to_inventory": true,
+    "reveal_toast": true,
+    "chat_summary": false,
+    "title_min_tier": "legendary"
+  },
+  "loot_tables": {
+    "common": [
+      "fornalhas_balanco:sacos/common"
+    ],
+    "uncommon": [
+      "fornalhas_balanco:sacos/uncommon"
+    ],
+    "rare": [
+      "fornalhas_balanco:sacos/rare"
+    ],
+    "epic": [
+      "fornalhas_balanco:sacos/epic"
+    ],
+    "legendary": [
+      "fornalhas_balanco:sacos/legendary"
+    ],
+    "mythic": [
+      "fornalhas_balanco:sacos/mythic"
+    ],
+    "hourglass": [
+      "fornalhas_balanco:sacos/hourglass"
+    ],
+    "locked": [
+      "fornalhas_balanco:sacos/locked"
+    ],
+    "summoning": [
+      "fornalhas_balanco:sacos/summoning"
+    ],
+    "cursed": [
+      "fornalhas_balanco:sacos/cursed"
+    ]
+  },
+  "cursed": {
+    "outcomes": {
+      "ambush": 0,
+      "jackpot": 30,
+      "hex": 70,
+      "chaos": 0
+    },
+    "ambush_mobs": [
+      "minecraft:zombie",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:husk",
+      "minecraft:stray",
+      "minecraft:witch"
+    ],
+    "ambush_min": 3,
+    "ambush_max": 5,
+    "ambush_reward_min_tier": "uncommon",
+    "jackpot_tier": "uncommon",
+    "hex_effects": [
+      "minecraft:darkness",
+      "minecraft:slowness",
+      "minecraft:weakness",
+      "minecraft:hunger",
+      "minecraft:nausea",
+      "minecraft:mining_fatigue",
+      "minecraft:levitation"
+    ],
+    "hex_seconds": 12,
+    "chaos_commands": [],
+    "sound": true
+  },
+  "hourglass": {
+    "min_minutes": 12,
+    "max_minutes": 20
+  },
+  "locked": {
+    "key": "mob_loot_bags:diamond_key",
+    "key_anywhere": true
+  },
+  "preview": {
+    "enabled": true,
+    "samples": 100,
+    "lines": 8
+  }
+}

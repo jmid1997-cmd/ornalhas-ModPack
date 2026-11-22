@@ -1,0 +1,227 @@
+[paths]
+	physical_enabled = true
+	life_enabled = true
+	magic_enabled = true
+
+[rank_access]
+	#OPEN: every player may reach open_maximum_rank.
+	#CLOSED: E is the final rank for every player.
+	#ADMIN: each player needs a maximum rank assigned with /ascension access set.
+	#RANDOM: each player receives one persistent weighted maximum rank.
+	#Allowed Values: OPEN, CLOSED, ADMIN, RANDOM
+	mode = "OPEN"
+	#Highest rank available to everyone while mode is OPEN.
+	#Allowed Values: UNRANKED, E, D, C, B, A, S, CELESTIAL, DIVINE
+	open_maximum_rank = "DIVINE"
+	#Highest result that may be rolled while mode is RANDOM.
+	#Allowed Values: UNRANKED, E, D, C, B, A, S, CELESTIAL, DIVINE
+	random_maximum_rank = "DIVINE"
+	#Total number of tickets in a random maximum-rank draw.
+	#Each rank's chance is its ticket weight divided by this number.
+	#Unassigned tickets become E. Tickets above random_maximum_rank also become E.
+	#If all rank weights exceed this pool, their relative proportions are preserved automatically.
+	# Default: 10000
+	# Range: 1 ~ 1000000000000
+	maximum_ticket_count = 10000
+
+	[rank_access.random_ticket_weights]
+		#Tickets for the E personal maximum inside maximum_ticket_count.
+		# Default: 3389
+		# Range: 0 ~ 1000000000000
+		e = 3389
+		#Tickets for the D personal maximum inside maximum_ticket_count.
+		# Default: 2500
+		# Range: 0 ~ 1000000000000
+		d = 2500
+		#Tickets for the C personal maximum inside maximum_ticket_count.
+		# Default: 1800
+		# Range: 0 ~ 1000000000000
+		c = 1800
+		#Tickets for the B personal maximum inside maximum_ticket_count.
+		# Default: 1200
+		# Range: 0 ~ 1000000000000
+		b = 1200
+		#Tickets for the A personal maximum inside maximum_ticket_count.
+		# Default: 1000
+		# Range: 0 ~ 1000000000000
+		a = 1000
+		#Tickets for the S personal maximum inside maximum_ticket_count.
+		# Default: 100
+		# Range: 0 ~ 1000000000000
+		s = 100
+		#Tickets for the CELESTIAL personal maximum inside maximum_ticket_count.
+		# Default: 10
+		# Range: 0 ~ 1000000000000
+		celestial = 10
+		#Tickets for the DIVINE personal maximum inside maximum_ticket_count.
+		# Default: 1
+		# Range: 0 ~ 1000000000000
+		divine = 1
+
+[rank_caps]
+	e_enabled = true
+	# Default: 15
+	# Range: 0 ~ 1000
+	e_cap = 15
+	d_enabled = true
+	# Default: 35
+	# Range: 0 ~ 1000
+	d_cap = 35
+	c_enabled = true
+	# Default: 60
+	# Range: 0 ~ 1000
+	c_cap = 60
+	b_enabled = true
+	# Default: 90
+	# Range: 0 ~ 1000
+	b_cap = 90
+	a_enabled = true
+	# Default: 125
+	# Range: 0 ~ 1000
+	a_cap = 125
+	s_enabled = true
+	# Default: 165
+	# Range: 0 ~ 1000
+	s_cap = 165
+	celestial_enabled = true
+	# Default: 210
+	# Range: 0 ~ 1000
+	celestial_cap = 210
+	divine_enabled = false
+	# Default: 300
+	# Range: 0 ~ 1000
+	divine_cap = 300
+
+[stat_effect_targets]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	strength = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 9.0, 20.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	agility = [1.05, 1.1, 1.15, 1.25, 1.5, 2.0, 2.5, 3.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	technique = [1.05, 1.1, 1.15, 1.25, 1.5, 2.0, 2.5, 3.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	projectile_damage = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 9.0, 20.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	draw_speed = [1.05, 1.1, 1.15, 1.25, 1.5, 2.0, 2.5, 3.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	endurance = [0.03, 0.06, 0.1, 0.15, 0.25, 0.35, 0.5, 0.95]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	health = [1.0, 2.0, 5.0, 10.0, 20.0, 30.0, 90.0, 190.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	health_regen = [0.02, 0.05, 0.1, 0.2, 0.4, 0.8, 2.0, 8.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	stamina = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 9.0, 20.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	stamina_regen = [1.05, 1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 10.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	luck = [1.1, 1.25, 1.5, 2.0, 3.0, 5.0, 9.0, 20.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	mining_speed = [1.1, 1.2, 1.35, 1.55, 2.0, 3.0, 4.0, 5.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	spell_power = [0.15, 0.3, 0.6, 1.0, 2.0, 4.0, 9.0, 20.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	cast_speed = [0.05, 0.1, 0.15, 0.25, 0.4, 0.6, 0.8, 1.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	cooldown = [0.05, 0.1, 0.15, 0.25, 0.4, 0.6, 0.8, 1.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	mana = [75.0, 175.0, 300.0, 600.0, 950.0, 1350.0, 2250.0, 3950.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	mana_regen = [0.025, 0.075, 0.15, 0.25, 0.5, 0.75, 1.5, 10.0]
+	#Rank-end targets in this order: E, D, C, B, A, S, Celestial, Divine.
+	spell_resistance = [0.03, 0.06, 0.1, 0.15, 0.25, 0.35, 0.5, 0.95]
+
+[regeneration]
+	#Seconds without taking damage before Ascension health regeneration resumes.
+	# Default: 5
+	# Range: 0 ~ 600
+	health_damage_delay_seconds = 5
+
+[death_penalty]
+	#Whether normal deaths remove progress toward each path's next stat point.
+	#Spent levels, unspent points, path caps and boss progress are never removed.
+	enabled = true
+	#Whether a Full Divine death causes persistent Divine Fracture instead of XP loss.
+	full_divine_fracture_enabled = true
+
+	[death_penalty.path_xp_loss_by_cap]
+		#Fraction of current path XP lost when that path's cap is E.
+		#For example, 0.25 means 25% and 1.0 means all current XP.
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		e = 0.25
+		#Fraction of current path XP lost when that path's cap is D.
+		#For example, 0.25 means 25% and 1.0 means all current XP.
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		d = 0.25
+		#Fraction of current path XP lost when that path's cap is C.
+		#For example, 0.25 means 25% and 1.0 means all current XP.
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		c = 0.5
+		#Fraction of current path XP lost when that path's cap is B.
+		#For example, 0.25 means 25% and 1.0 means all current XP.
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		b = 0.5
+		#Fraction of current path XP lost when that path's cap is A.
+		#For example, 0.25 means 25% and 1.0 means all current XP.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		a = 1.0
+		#Fraction of current path XP lost when that path's cap is S.
+		#For example, 0.25 means 25% and 1.0 means all current XP.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		s = 1.0
+		#Fraction of current path XP lost when that path's cap is CELESTIAL.
+		#For example, 0.25 means 25% and 1.0 means all current XP.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		celestial = 1.0
+		#Fraction of current path XP lost when that path's cap is DIVINE.
+		#For example, 0.25 means 25% and 1.0 means all current XP.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		divine = 1.0
+
+[xp]
+	# Default: 100
+	# Range: 1 ~ 1000000
+	xp_per_skill_point = 100
+	#XP cost at the end of E, D, C, B, A, S, Celestial and Divine. Intermediate costs are interpolated.
+	xp_cost_rank_end_targets = [125, 175, 250, 350, 500, 700, 1000, 1500]
+	# Default: 0.25
+	# Range: 0.0 ~ 1000000.0
+	combat_damage_per_health = 0.25
+	# Default: 0.25
+	# Range: 0.0 ~ 1000000.0
+	kill_per_max_health = 0.25
+	# Default: 1.0
+	# Range: 0.0 ~ 1000000.0
+	minimum_creature_kill = 1.0
+	# Default: 100.0
+	# Range: 0.0 ~ 1000000.0
+	maximum_creature_kill = 100.0
+	# Default: 0.5
+	# Range: 0.0 ~ 1000000.0
+	passive_creature_kill_multiplier = 0.5
+	# Default: 10.0
+	# Range: 0.0 ~ 1000000.0
+	life_valuable_ore = 10.0
+	# Default: 0.1
+	# Range: 0.0 ~ 1000000.0
+	life_sprint_per_block = 0.1
+	# Default: 1.0
+	# Range: 0.0 ~ 1000000.0
+	life_food_per_nutrition = 1.0
+	# Default: 0.5
+	# Range: 0.0 ~ 1000000.0
+	life_damage_taken_per_health = 0.5
+	# Default: 0.05
+	# Range: 0.0 ~ 1000000.0
+	magic_cast_per_mana_spent = 0.05
+	#Physical and Magic levels lower each other's XP gains. Life is independent. Higher values make the penalty gentler.
+	# Default: 600.0
+	# Range: 1.0 ~ 1000000.0
+	specialization_level_scale = 600.0
