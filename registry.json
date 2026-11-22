@@ -5,16 +5,16 @@
       "manifest": "packs/fornanhas/1.9.17.json",
       "sha256": "36d3b92b60ce440d6402738f2ace1a188565c841de2f97c4c26a08fec236363f",
       "guided": {
-        "manifest": "packs/fornanhas/1.9.19.json",
-        "sha256": "089c3c27b8828764b06d43041f75e766fc495c7488093d2a04205b2dbba8bf1e"
+        "manifest": "packs/fornanhas/1.9.20.json",
+        "sha256": "09546092ce862c328c772931b7cedb1b9378defd2b78eaeba9f607dd4e627ecd"
       }
     },
     "FORNALHAS": {
       "manifest": "packs/fornanhas/1.9.17.json",
       "sha256": "36d3b92b60ce440d6402738f2ace1a188565c841de2f97c4c26a08fec236363f",
       "guided": {
-        "manifest": "packs/fornanhas/1.9.19.json",
-        "sha256": "089c3c27b8828764b06d43041f75e766fc495c7488093d2a04205b2dbba8bf1e"
+        "manifest": "packs/fornanhas/1.9.20.json",
+        "sha256": "09546092ce862c328c772931b7cedb1b9378defd2b78eaeba9f607dd4e627ecd"
       }
     }
   }
