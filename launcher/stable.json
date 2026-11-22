@@ -1,15 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.8",
+  "version": "1.0.9",
   "notes": [
-    "Nome corrigido para Fornalhas em toda a interface e atalhos.",
-    "Importação do Cliente Completo 1.9.16 e da base original 1.9.14.",
-    "Código FORNALHAS com compatibilidade para os códigos antigos.",
-    "Mantidos os perfis, as contas, as teclas e a proteção de publicação reservada ao responsável."
+    "Importa o Cliente Completo 1.9.17, com as novas regras de progressão.",
+    "Continua a reconhecer os pacotes 1.9.14 e 1.9.16."
   ],
   "installer": {
-    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.8/Fornanhas-Launcher-Setup-1.0.8.exe",
-    "sha256": "9a79023e9d64207f91acb3c9eb15a22ce5b8393c7a73e7d98dd4e9cd8c09ce32",
-    "size": 126341921
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.9/Fornanhas-Launcher-Setup-1.0.9.exe",
+    "sha256": "270d885ed764a3929cc901ae0e29ea66afe018ebd205b148e902fdfaa006149b",
+    "size": 126464650
   }
 }
