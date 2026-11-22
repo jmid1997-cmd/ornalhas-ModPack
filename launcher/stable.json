@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.7",
+  "version": "1.0.8",
   "notes": [
-    "Secção Skins retirada do launcher.",
-    "Publicação de modpacks reservada à conta GitHub do responsável, com nova verificação em cada ação.",
-    "Amigos recebem as atualizações sem opções de administração.",
-    "Perfis, mods e preferências pessoais preservados."
+    "Nome corrigido para Fornalhas em toda a interface e atalhos.",
+    "Importação do Cliente Completo 1.9.16 e da base original 1.9.14.",
+    "Código FORNALHAS com compatibilidade para os códigos antigos.",
+    "Mantidos os perfis, as contas, as teclas e a proteção de publicação reservada ao responsável."
   ],
   "installer": {
-    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.7/Fornanhas-Launcher-Setup-1.0.7.exe",
-    "sha256": "e815300714826f361e583407b5d9e380f4a6b90aa3a2c537b9aa062263ffeeed",
-    "size": 126218129
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.8/Fornanhas-Launcher-Setup-1.0.8.exe",
+    "sha256": "9a79023e9d64207f91acb3c9eb15a22ce5b8393c7a73e7d98dd4e9cd8c09ce32",
+    "size": 126341921
   }
 }
