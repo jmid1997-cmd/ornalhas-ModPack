@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.1.2",
+  "version": "1.1.3",
   "notes": [
-    "O código FORNALHAS disponibiliza o modpack 1.9.19 com os 412 mods e o menu animado.",
-    "Em Atualizar, o launcher mostra as páginas oficiais dos ficheiros a importar. Seleciona os ficheiros descarregados de uma vez e o launcher verifica as versões antes de atualizar.",
-    "A atualização protege mundos, teclas, mapas e capturas. Para começar sem perfil, importa uma vez uma instalação do modpack."
+    "Publicar reaproveita as fontes oficiais dos mods cuja versão ficou igual.",
+    "As preferências pessoais de teclas, minimapas e vídeo ficam fora das novas publicações.",
+    "A lista de importação guiada indica que só precisa de agir quem ainda não tem os ficheiros exatos."
   ],
   "installer": {
-    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.1.2/Fornanhas-Launcher-Setup-1.1.2.exe",
-    "sha256": "2e643cb54ea47ce8a1bce96e468471b5ecbe5fbd48926e615793ee57a31e93c4",
-    "size": 126777559
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.1.3/Fornanhas-Launcher-Setup-1.1.3.exe",
+    "sha256": "f1d172a5971a861c80c52a9e35cfa50829c6d3c300d8a49ca945ba05d0f0d0bf",
+    "size": 126778195
   }
 }
