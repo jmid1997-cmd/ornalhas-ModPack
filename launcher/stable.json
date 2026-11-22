@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.9",
+  "version": "1.1.1",
   "notes": [
-    "Importa o Cliente Completo 1.9.17, com as novas regras de progressão.",
-    "Continua a reconhecer os pacotes 1.9.14 e 1.9.16."
+    "Instalação automática do modpack e do launcher, com opções separadas nas Definições.",
+    "As instalações aguardam que o Minecraft feche. A aplicação reinicia depois da própria atualização.",
+    "A atualização de um modpack mantém mundos, mapas, teclas e preferências pessoais."
   ],
   "installer": {
-    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.0.9/Fornanhas-Launcher-Setup-1.0.9.exe",
-    "sha256": "270d885ed764a3929cc901ae0e29ea66afe018ebd205b148e902fdfaa006149b",
-    "size": 126464650
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.1.1/Fornanhas-Launcher-Setup-1.1.1.exe",
+    "sha256": "dbe71064c6f327283b76a7dd06435d764fb5f7c7cde47c2fd573c99c9ed47600",
+    "size": 126649745
   }
 }
