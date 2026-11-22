@@ -2,8 +2,12 @@
   "schemaVersion": 1,
   "packs": {
     "FORNANHAS": {
-      "manifest": "packs/fornanhas/1.9.15.json",
-      "sha256": "988f06fb0bfe6ba9048b0e53a9ce77ad04c781313c4157b04eb70235d9f148a9"
+      "manifest": "packs/fornanhas/1.9.16.json",
+      "sha256": "a4f86a388865d3269179ac2e5c55a7582b74e1c566b9071fa108aa4267b30524"
+    },
+    "FORNALHAS": {
+      "manifest": "packs/fornanhas/1.9.16.json",
+      "sha256": "a4f86a388865d3269179ac2e5c55a7582b74e1c566b9071fa108aa4267b30524"
     }
   }
 }
