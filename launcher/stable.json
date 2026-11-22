@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.1.1",
+  "version": "1.1.2",
   "notes": [
-    "Instalação automática do modpack e do launcher, com opções separadas nas Definições.",
-    "As instalações aguardam que o Minecraft feche. A aplicação reinicia depois da própria atualização.",
-    "A atualização de um modpack mantém mundos, mapas, teclas e preferências pessoais."
+    "O código FORNALHAS disponibiliza o modpack 1.9.19 com os 412 mods e o menu animado.",
+    "Em Atualizar, o launcher mostra as páginas oficiais dos ficheiros a importar. Seleciona os ficheiros descarregados de uma vez e o launcher verifica as versões antes de atualizar.",
+    "A atualização protege mundos, teclas, mapas e capturas. Para começar sem perfil, importa uma vez uma instalação do modpack."
   ],
   "installer": {
-    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.1.1/Fornanhas-Launcher-Setup-1.1.1.exe",
-    "sha256": "dbe71064c6f327283b76a7dd06435d764fb5f7c7cde47c2fd573c99c9ed47600",
-    "size": 126649745
+    "url": "https://github.com/jmid1997-cmd/ornalhas-ModPack/releases/download/launcher-v1.1.2/Fornanhas-Launcher-Setup-1.1.2.exe",
+    "sha256": "2e643cb54ea47ce8a1bce96e468471b5ecbe5fbd48926e615793ee57a31e93c4",
+    "size": 126777559
   }
 }
