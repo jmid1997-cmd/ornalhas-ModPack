@@ -1,0 +1,47 @@
+[progression]
+	#Base Level Points needed at level 1. The key keeps its legacy XP name for compatibility.
+	# Default: 100
+	# Range: > 1
+	baseXpPerLevel = 100
+	#Linear Level Point scaling term applied each level. The key keeps its legacy XP name for compatibility.
+	# Default: 20
+	# Range: > 0
+	linearXpPerLevel = 20
+	#Exponent applied to level growth (>= 1.0 recommended).
+	# Default: 1.35
+	# Range: 1.0 ~ 5.0
+	exponent = 1.35
+	#Global multiplier applied to Level Point costs. Default 0.75 lowers scaling by 25%.
+	# Default: 0.75
+	# Range: 0.01 ~ 100.0
+	levelMultiplier = 0.75
+	#Hard level cap for this framework.
+	# Default: 100
+	# Range: > 1
+	maxLevel = 100
+
+[sources]
+	#Convert positive vanilla experience gains into Level Points at a one-to-one rate.
+	#Converted experience is not added to the vanilla experience bar.
+	#When enabled, LevelUP's automatic custom mob point-orb drops are disabled.
+	accept_experience_as_levels = false
+	#When true, hostile enemy mobs can drop LevelUP point orbs on player kills.
+	#When false, generic mob level drops are disabled.
+	mobs_drop_levels = false
+	#Base LevelUP orb value used for eligible mob drops.
+	#Actual drop amount is `base_value * max_health / 20`, rounded down with a minimum of 1.
+	# Default: 8
+	# Range: > 0
+	mob_level_drop_base_value = 8
+	#When true, only entity types in the `levelup:drops_levels` entity type tag (legacy `levelup:drop_levels` also accepted) drop LevelUP level orbs.
+	#This overrides the generic hostile mob mode.
+	#If both `mobs_drop_levels` and `only_tagged_mobs_drop_levels` are false, mobs never drop levels.
+	only_tagged_mobs_drop_levels = false
+	#Entity type IDs explicitly allowed to drop Level Point Orbs, for example `minecraft:zombie`.
+	#When non-empty, matching mobs can drop regardless of hostile/tag settings. The blacklist always takes priority.
+	mob_level_drop_whitelist = []
+	#Entity type IDs that must never drop Level Point Orbs, for example `minecraft:creeper`.
+	#This list takes priority over the whitelist and other mob drop settings.
+	mob_level_drop_blacklist = []
+	#Show each player's LevelUP level in the multiplayer tab player list.
+	show_level_in_tab_list = false

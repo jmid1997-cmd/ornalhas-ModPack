@@ -1,0 +1,368 @@
+{
+	autofocus_id: "13A2CF2E564CFF8B"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "fornanhas_horizonte_disciplinas"
+	group: "484A0BF4740F7543"
+	icon: {
+		id: "minecraft:iron_sword"
+	}
+	id: "5EF8E607FAF53753"
+	images: [ ]
+	order_index: 1
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "13A2CF2E564CFF8B"
+			rewards: [{
+				count: 4
+				id: "39758CBB086A450F"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "5055B0CEEA644973"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["13A2CF2E564CFF8B"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0EAB868CB0422BBE"
+			rewards: [{
+				count: 4
+				id: "093AD89368D4B8C6"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/combat_5"
+				criterion: ""
+				id: "4C81741356E9FB21"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0EAB868CB0422BBE"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "274C9E4EC29DFC6B"
+			rewards: [{
+				count: 4
+				id: "4A4CD97DC97886B2"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/combat_15"
+				criterion: ""
+				id: "383F5E06D810725A"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["274C9E4EC29DFC6B"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "1952FC110FFE6D80"
+			rewards: [{
+				count: 4
+				id: "359547D5F0EE12EE"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/combat_30"
+				criterion: ""
+				id: "3BC4C9324F702A09"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1952FC110FFE6D80"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "69E801551AC3F5B7"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "665824EF97E3A6D9"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/combat_60"
+				criterion: ""
+				id: "39EDDE4487B96189"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["13A2CF2E564CFF8B"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "727C6D42A3C058E5"
+			rewards: [{
+				count: 4
+				id: "313ADDEF6BB2C7E4"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/mining_5"
+				criterion: ""
+				id: "03A977C6C367198C"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["727C6D42A3C058E5"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0D56AB067EB36358"
+			rewards: [{
+				count: 4
+				id: "004644B35A97C519"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/mining_15"
+				criterion: ""
+				id: "5702635094405888"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0D56AB067EB36358"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "59F5BF12E801968A"
+			rewards: [{
+				count: 4
+				id: "5B0A4E078E06F8BB"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/mining_30"
+				criterion: ""
+				id: "4DE45D53D4FB9A30"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["59F5BF12E801968A"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0BDB48F45EFAADED"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "618F4BBC15E0550C"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/mining_50"
+				criterion: ""
+				id: "164D5B5FA3210E4B"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["13A2CF2E564CFF8B"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3C0408EAF8FE4717"
+			rewards: [{
+				count: 4
+				id: "6FAED16C868AAE87"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/chopping_wood_5"
+				criterion: ""
+				id: "10E2C5284BB481E2"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3C0408EAF8FE4717"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0E99DC58EA7AD5ED"
+			rewards: [{
+				count: 4
+				id: "2423E5DF66B98D3F"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/chopping_wood_15"
+				criterion: ""
+				id: "74408EBF905AD234"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0E99DC58EA7AD5ED"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "0581C6F53A0DEDAD"
+			rewards: [{
+				count: 4
+				id: "59F235EDF55A6750"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/chopping_wood_30"
+				criterion: ""
+				id: "206358E65B703581"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0581C6F53A0DEDAD"]
+			hide_details_until_startable: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "15BA2CA3D5A52F28"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "071EC73E36C8C925"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "fornanhas_horizonte:skills/chopping_wood_45"
+				criterion: ""
+				id: "1FB85449A1F4ABA2"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+	]
+}
